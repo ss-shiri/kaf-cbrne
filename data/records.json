@@ -1,0 +1,191 @@
+{
+ "compiled": "2026-07-12",
+ "source": "seed",
+ "records": [
+  {
+   "id": "nuc-01",
+   "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
+   "source_name": "IAEA",
+   "published_date": "2026-06-04",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "nonproliferation",
+    "safeguards",
+    "verification-gap"
+   ],
+   "summary": "The 4 June 2026 quarterly report to the Board of Governors (GOV/2026/33) again assessed Iran as not meeting its NPT safeguards obligations, describing a near-total loss of monitoring after cooperation was suspended, with a large high-enriched uranium stockpile left unverified.",
+   "why_it_matters": "Defines the current verification baseline and the gaps inspectors treat as highest priority.",
+   "source_url": "https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports"
+  },
+  {
+   "id": "nuc-02",
+   "title": "IAEA chief says interim understanding reopens a path for inspections",
+   "source_name": "IAEA DG",
+   "published_date": "2026-06-27",
+   "doc_type": "verification",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "reliability": "B2",
+   "needs_review": false,
+   "topic_tags": [
+    "verification",
+    "access",
+    "material-accounting"
+   ],
+   "summary": "Following a memorandum of understanding, the Director General said inspector access should resume, naming the first priority as checking whether seals on previously inspected material remain intact and whether any material is missing.",
+   "why_it_matters": "Access terms decide whether the unaccounted stockpile can be re-verified or stays a standing gap.",
+   "source_url": "https://www.timesofisrael.com/us-iran-deal-grants-un-inspectors-access-to-nuclear-sites-iaea-chief-says/"
+  },
+  {
+   "id": "chem-01",
+   "title": "OPCW team finds undeclared chemical weapons in Syria",
+   "source_name": "OPCW",
+   "published_date": "2026-05-27",
+   "doc_type": "field deployment",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "declaration-accuracy",
+    "verification",
+    "destruction"
+   ],
+   "summary": "An OPCW expert team reported discovering a significant quantity of previously undeclared chemical munitions, related materials and documentation, supporting the Secretariat's long-standing assessment that the former government understated the programme's scope.",
+   "why_it_matters": "Reopens the declaration-accuracy question and resets the inventory verification is measured against.",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"
+  },
+  {
+   "id": "chem-02",
+   "title": "UN briefs Security Council on the Syria chemical-weapons discovery",
+   "source_name": "UN News",
+   "published_date": "2026-06-04",
+   "doc_type": "council briefing",
+   "domain_tags": [
+    "Chemical",
+    "Multi"
+   ],
+   "reliability": "A2",
+   "needs_review": false,
+   "topic_tags": [
+    "accountability",
+    "destruction",
+    "site-assessment"
+   ],
+   "summary": "The UN's senior disarmament official told the Security Council the find included munitions of a type linked to the 2013 Ghouta attack, and stressed the recovered materials must be declared and destroyed under OPCW verification. More than 100 sites remain to be assessed.",
+   "why_it_matters": "Signals the scale of remaining verification work and the friction likely to shape it.",
+   "source_url": "https://news.un.org/en/story/2026/06/1167652"
+  },
+  {
+   "id": "bio-01",
+   "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
+   "source_name": "WHO",
+   "published_date": "2026-06-19",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "filovirus",
+    "PHEIC",
+    "biosurveillance"
+   ],
+   "summary": "WHO reporting for the DRC and Uganda records rapidly rising Bundibugyo virus cases and deaths after the event was declared a public health emergency of international concern on 17 May 2026. Countermeasures developed for other Ebola species are of uncertain effect against this virus.",
+   "why_it_matters": "A filovirus with limited proven countermeasures is a leading stress test for biosurveillance.",
+   "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608"
+  },
+  {
+   "id": "bio-02",
+   "title": "Single Nipah virus case confirmed in Kerala, India",
+   "source_name": "WHO",
+   "published_date": "2026-06-19",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "zoonosis",
+    "priority-pathogen",
+    "high-lethality"
+   ],
+   "summary": "Kerala authorities confirmed one laboratory-confirmed Nipah case in Kozhikode district, with over 100 contacts monitored and no secondary cases reported at the time. Nipah remains a WHO priority pathogen with high case fatality and no licensed vaccine.",
+   "why_it_matters": "Recurrent spillovers keep a high-lethality zoonosis on the priority-pathogen watchlist.",
+   "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609"
+  },
+  {
+   "id": "rad-01",
+   "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
+   "source_name": "IAEA",
+   "published_date": "2026-03-01",
+   "doc_type": "database",
+   "domain_tags": [
+    "Radiological"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "orphan-source",
+    "trafficking",
+    "lifecycle-security"
+   ],
+   "summary": "The database continues to catalogue reported cases of lost, stolen or abandoned radioactive material, with theft during transport a recurring pattern. Guidance stresses lifecycle tracking of sealed sources and detection at scrap-metal choke points.",
+   "why_it_matters": "Orphan-source and scrap-stream gaps are where realistic dispersal risk concentrates.",
+   "source_url": "https://www.iaea.org/topics/radiation-sources/orphan-sources"
+  },
+  {
+   "id": "exp-01",
+   "title": "EU explosives-precursor rules reach their mandated evaluation point",
+   "source_name": "EUR-Lex",
+   "published_date": "2026-02-02",
+   "doc_type": "policy evaluation",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "precursor-control",
+    "supply-chain",
+    "control-list"
+   ],
+   "summary": "Regulation (EU) 2019/1148 restricts public access to precursors such as concentrated nitric acid, hydrogen peroxide and ammonium nitrate, and requires suspicious-transaction reporting. The Commission was due to report on its application by 2 February 2026.",
+   "why_it_matters": "Precursor availability is the main policy lever between retail chemicals and device risk.",
+   "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:4407259"
+  },
+  {
+   "id": "multi-01",
+   "title": "AI protein design pressure-tests DNA synthesis screening",
+   "source_name": "Science",
+   "published_date": "2025-10-02",
+   "doc_type": "academic paper",
+   "domain_tags": [
+    "Multi",
+    "Biological"
+   ],
+   "reliability": "A2",
+   "needs_review": false,
+   "topic_tags": [
+    "dual-use",
+    "synthesis-screening",
+    "AI-biosecurity"
+   ],
+   "summary": "A peer-reviewed study showed AI-designed variants of proteins of concern could evade some sequence-based synthesis-screening tools, prompting patches developed with synthesis providers. Work continues toward function-aware, harmonised screening as a dual-use choke point.",
+   "why_it_matters": "A case where AI capability, biosecurity screening and supply-chain control converge on one enforceable node.",
+   "source_url": "https://www.science.org/doi/10.1126/science.adu8578"
+  }
+ ],
+ "schema_version": "2.0",
+ "updated_at": "2026-07-12T00:00:00+00:00",
+ "sources_ok": "seed"
+}
