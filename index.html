@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CBRNE OSINT Reading Room</title>
+<meta name="description" content="Open-source CBRNE intelligence reading room. Chemical, Biological, Radiological, Nuclear, Explosives. Primary sources, reliability grading, updated every 3 hours. Maintained by Sajad Shiri.">
+<meta name="author" content="Sajad Shiri">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff;
+    --ink:#16191c;
+    --ink-2:#55606a;
+    --ink-3:#8b959d;
+    --rule:#e8eae9;
+    --rule-2:#d3d7d5;
+    --link:#1a5fb4;
+    --flag:#8a6d1f;
+
+    --c-chem:#2e7d55;
+    --c-bio:#6b4aa8;
+    --c-rad:#b8641c;
+    --c-nuc:#b23a30;
+    --c-exp:#977611;
+    --c-multi:#5b666f;
+
+    --sans:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:var(--sans);font-size:15px;line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--link);text-decoration:none}
+  a:hover{text-decoration:underline;text-underline-offset:2px}
+  :focus-visible{outline:2px solid var(--link);outline-offset:2px;border-radius:2px}
+
+  .wrap{max-width:760px;margin:0 auto;padding:56px 24px 80px}
+
+  /* Header */
+  h1{
+    font-size:20px;font-weight:600;letter-spacing:-.01em;margin:0;
+  }
+  .sub{
+    font-family:var(--mono);font-size:11px;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--ink-3);margin:6px 0 0;
+  }
+  .by{
+    font-family:var(--mono);font-size:11px;color:var(--ink-3);
+    margin:14px 0 0;letter-spacing:.03em;
+  }
+  .by a{color:var(--ink-2)}
+  .by .nm{color:var(--ink);font-weight:500;letter-spacing:.06em}
+  .by .dot{color:var(--rule-2);margin:0 7px}
+
+  .stat{
+    font-family:var(--mono);font-size:11px;color:var(--ink-3);
+    letter-spacing:.03em;margin:22px 0 0;
+    padding-top:16px;border-top:1px solid var(--rule);
+  }
+  .stat b{color:var(--ink);font-weight:500}
+
+  /* Controls */
+  .ctl{margin:28px 0 0}
+  input[type=text]{
+    width:100%;padding:11px 0;font-family:var(--sans);font-size:15px;
+    color:var(--ink);background:transparent;
+    border:none;border-bottom:1px solid var(--rule-2);
+  }
+  input[type=text]::placeholder{color:var(--ink-3)}
+  input[type=text]:focus{outline:none;border-bottom-color:var(--ink)}
+
+  .filters{
+    display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 0;
+  }
+  .f{
+    font-family:var(--mono);font-size:11px;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--ink-2);
+    background:none;border:1px solid var(--rule-2);
+    padding:4px 10px;border-radius:2px;cursor:pointer;
+  }
+  .f:hover{border-color:var(--ink-3)}
+  .f[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}
+  .f .n{color:var(--ink-3);margin-left:5px}
+  .f[aria-pressed=true] .n{color:#a9b0b6}
+
+  .count{
+    font-family:var(--mono);font-size:11px;color:var(--ink-3);
+    letter-spacing:.06em;text-transform:uppercase;
+    margin:30px 0 0;padding-bottom:10px;border-bottom:1px solid var(--rule);
+  }
+
+  /* Records */
+  article{padding:26px 0;border-bottom:1px solid var(--rule)}
+  .line{
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--ink-3);
+    display:flex;flex-wrap:wrap;gap:9px;align-items:center;margin-bottom:9px;
+  }
+  .dm{font-weight:500}
+  .line .s{color:var(--rule-2)}
+  .rel{color:var(--ink-2)}
+  .prov{color:var(--flag)}
+  h2{font-size:16.5px;font-weight:600;line-height:1.4;margin:0 0 8px;letter-spacing:-.005em}
+  h2 a{color:var(--ink)}
+  h2 a:hover{color:var(--link)}
+  .sum{margin:0 0 10px;color:var(--ink-2);font-size:14px;line-height:1.65}
+  .why{
+    margin:0 0 10px;font-size:13.5px;color:var(--ink);
+    padding-left:12px;border-left:2px solid var(--rule-2);
+  }
+  .why span{
+    font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--ink-3);display:block;
+  }
+  .src{font-family:var(--mono);font-size:11.5px}
+
+  .none{
+    font-family:var(--mono);font-size:12px;color:var(--ink-3);
+    padding:40px 0;text-align:center;
+  }
+
+  footer{margin-top:44px;font-family:var(--mono);font-size:11px;color:var(--ink-3);line-height:1.9;letter-spacing:.02em}
+  footer a{color:var(--ink-2)}
+  footer .r{margin-top:14px;color:var(--ink-3)}
+
+  @media(max-width:600px){
+    .wrap{padding:36px 18px 60px}
+    .line{gap:7px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>CBRNE OSINT Reading Room</h1>
+    <p class="sub">Chemical · Biological · Radiological · Nuclear · Explosives</p>
+    <p class="by">
+      <span class="nm">SAJAD SHIRI</span><span class="dot">·</span><a href="https://www.linkedin.com/in/sajad-shiri" target="_blank" rel="noopener">LinkedIn</a><span class="dot">·</span><a href="https://ss-shiri.github.io/ALEF-OSINT/" target="_blank" rel="noopener">ALEF OSINT · 1,290 Tools</a>
+    </p>
+    <p class="stat" id="stat"></p>
+  </header>
+
+  <div class="ctl">
+    <input id="q" type="text" aria-label="Search records" placeholder="Search records">
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <p class="count" id="count"></p>
+  <div id="feed" aria-live="polite"></div>
+
+  <footer>
+    Primary sources only. Summaries are paraphrases or source extracts, never verbatim reproduction.
+    Items marked <span style="color:var(--flag)">PROVISIONAL</span> are machine-ingested and awaiting analyst review.
+    Reliability: A1 corroborated primary · A2 authoritative single-source · B2 reliable secondary · C3 unreviewed.
+    <div class="r">
+      Auto-refreshed every 3 hours · Open-source material only · Not operational guidance · Verify against the linked original.<br>
+      Maintained by <a href="https://www.linkedin.com/in/sajad-shiri" target="_blank" rel="noopener">Sajad Shiri</a>.
+    </div>
+  </footer>
+
+</div>
+
+<script>
+const DM = {
+  Chemical:{c:"var(--c-chem)",k:"CHEM"}, Biological:{c:"var(--c-bio)",k:"BIO"},
+  Radiological:{c:"var(--c-rad)",k:"RAD"}, Nuclear:{c:"var(--c-nuc)",k:"NUC"},
+  Explosives:{c:"var(--c-exp)",k:"EXP"}, Multi:{c:"var(--c-multi)",k:"MULTI"}
+};
+
+/* Inline seed. The page renders from this IMMEDIATELY, then silently upgrades
+   to data/records.json if it is reachable. It can therefore never hang on a
+   loading state, which was the previous failure. */
+const SEED = {compiled:"2026-07-12", source:"seed", records:[
+{id:"nuc-01",title:"IAEA maintains finding of Iranian non-compliance with NPT safeguards",source_name:"IAEA",published_date:"2026-06-04",doc_type:"safeguards report",domain_tags:["Nuclear"],reliability:"A1",needs_review:false,topic_tags:["nonproliferation","safeguards","verification-gap"],summary:"The 4 June 2026 quarterly report to the Board of Governors (GOV/2026/33) again assessed Iran as not meeting its NPT safeguards obligations, describing a near-total loss of monitoring after cooperation was suspended, with a large high-enriched uranium stockpile left unverified.",why_it_matters:"Defines the current verification baseline and the gaps inspectors treat as highest priority.",source_url:"https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports"},
+{id:"nuc-02",title:"IAEA chief says interim understanding reopens a path for inspections",source_name:"IAEA DG",published_date:"2026-06-27",doc_type:"verification",domain_tags:["Nuclear"],reliability:"B2",needs_review:false,topic_tags:["verification","access","material-accounting"],summary:"Following a memorandum of understanding, the Director General said inspector access should resume, naming the first priority as checking whether seals on previously inspected material remain intact and whether any material is missing.",why_it_matters:"Access terms decide whether the unaccounted stockpile can be re-verified or stays a standing gap.",source_url:"https://www.timesofisrael.com/us-iran-deal-grants-un-inspectors-access-to-nuclear-sites-iaea-chief-says/"},
+{id:"chem-01",title:"OPCW team finds undeclared chemical weapons in Syria",source_name:"OPCW",published_date:"2026-05-27",doc_type:"field deployment",domain_tags:["Chemical"],reliability:"A1",needs_review:false,topic_tags:["declaration-accuracy","verification","destruction"],summary:"An OPCW expert team reported discovering a significant quantity of previously undeclared chemical munitions, related materials and documentation, supporting the Secretariat's long-standing assessment that the former government understated the programme's scope.",why_it_matters:"Reopens the declaration-accuracy question and resets the inventory verification is measured against.",source_url:"https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"},
+{id:"chem-02",title:"UN briefs Security Council on the Syria chemical-weapons discovery",source_name:"UN News",published_date:"2026-06-04",doc_type:"council briefing",domain_tags:["Chemical","Multi"],reliability:"A2",needs_review:false,topic_tags:["accountability","destruction","site-assessment"],summary:"The UN's senior disarmament official told the Security Council the find included munitions of a type linked to the 2013 Ghouta attack, and stressed the recovered materials must be declared and destroyed under OPCW verification. More than 100 sites remain to be assessed.",why_it_matters:"Signals the scale of remaining verification work and the friction likely to shape it.",source_url:"https://news.un.org/en/story/2026/06/1167652"},
+{id:"bio-01",title:"WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",source_name:"WHO",published_date:"2026-06-19",doc_type:"outbreak news",domain_tags:["Biological"],reliability:"A1",needs_review:false,topic_tags:["filovirus","PHEIC","biosurveillance"],summary:"WHO reporting for the DRC and Uganda records rapidly rising Bundibugyo virus cases and deaths after the event was declared a public health emergency of international concern on 17 May 2026. Countermeasures developed for other Ebola species are of uncertain effect against this virus.",why_it_matters:"A filovirus with limited proven countermeasures is a leading stress test for biosurveillance.",source_url:"https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608"},
+{id:"bio-02",title:"Single Nipah virus case confirmed in Kerala, India",source_name:"WHO",published_date:"2026-06-19",doc_type:"outbreak news",domain_tags:["Biological"],reliability:"A1",needs_review:false,topic_tags:["zoonosis","priority-pathogen","high-lethality"],summary:"Kerala authorities confirmed one laboratory-confirmed Nipah case in Kozhikode district, with over 100 contacts monitored and no secondary cases reported at the time. Nipah remains a WHO priority pathogen with high case fatality and no licensed vaccine.",why_it_matters:"Recurrent spillovers keep a high-lethality zoonosis on the priority-pathogen watchlist.",source_url:"https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609"},
+{id:"rad-01",title:"IAEA Incident and Trafficking Database underscores orphan-source risk",source_name:"IAEA",published_date:"2026-03-01",doc_type:"database",domain_tags:["Radiological"],reliability:"A1",needs_review:false,topic_tags:["orphan-source","trafficking","lifecycle-security"],summary:"The database continues to catalogue reported cases of lost, stolen or abandoned radioactive material, with theft during transport a recurring pattern. Guidance stresses lifecycle tracking of sealed sources and detection at scrap-metal choke points.",why_it_matters:"Orphan-source and scrap-stream gaps are where realistic dispersal risk concentrates.",source_url:"https://www.iaea.org/topics/radiation-sources/orphan-sources"},
+{id:"exp-01",title:"EU explosives-precursor rules reach their mandated evaluation point",source_name:"EUR-Lex",published_date:"2026-02-02",doc_type:"policy evaluation",domain_tags:["Explosives"],reliability:"A1",needs_review:false,topic_tags:["precursor-control","supply-chain","control-list"],summary:"Regulation (EU) 2019/1148 restricts public access to precursors such as concentrated nitric acid, hydrogen peroxide and ammonium nitrate, and requires suspicious-transaction reporting. The Commission was due to report on its application by 2 February 2026.",why_it_matters:"Precursor availability is the main policy lever between retail chemicals and device risk.",source_url:"https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:4407259"},
+{id:"multi-01",title:"AI protein design pressure-tests DNA synthesis screening",source_name:"Science",published_date:"2025-10-02",doc_type:"academic paper",domain_tags:["Multi","Biological"],reliability:"A2",needs_review:false,topic_tags:["dual-use","synthesis-screening","AI-biosecurity"],summary:"A peer-reviewed study showed AI-designed variants of proteins of concern could evade some sequence-based synthesis-screening tools, prompting patches developed with synthesis providers. Work continues toward function-aware, harmonised screening as a dual-use choke point.",why_it_matters:"A case where AI capability, biosecurity screening and supply-chain control converge on one enforceable node.",source_url:"https://www.science.org/doi/10.1126/science.adu8578"}
+]};
+
+let DOCS = SEED.records, META = SEED, active = "", q = "";
+
+const esc = s => String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function match(d){
+  if(active && !(d.domain_tags||[]).includes(active)) return false;
+  if(q){
+    const b=[d.title,d.summary,(d.topic_tags||[]).join(" "),d.source_name,(d.domain_tags||[]).join(" ")].join(" ").toLowerCase();
+    if(!b.includes(q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function renderStat(){
+  const prov = DOCS.filter(d=>d.needs_review).length;
+  document.getElementById("stat").innerHTML =
+    `<b>${DOCS.length}</b> records · updated <b>${esc(META.compiled||"n/a")}</b>`
+    + (prov?` · <b>${prov}</b> awaiting review`:"")
+    + ` · refresh every 3h`;
+}
+
+function renderFilters(){
+  const t={};
+  DOCS.forEach(d=>(d.domain_tags||[]).forEach(x=>t[x]=(t[x]||0)+1));
+  const order=["Chemical","Biological","Radiological","Nuclear","Explosives","Multi"];
+  document.getElementById("filters").innerHTML = order.filter(k=>t[k]).map(k=>
+    `<button class="f" aria-pressed="${active===k}" onclick="pick('${k}')">${k}<span class="n">${t[k]}</span></button>`
+  ).join("");
+}
+
+function renderFeed(){
+  const list = DOCS.filter(match).sort((a,b)=>(b.published_date||"").localeCompare(a.published_date||""));
+  document.getElementById("count").textContent =
+    list.length===DOCS.length ? `${list.length} records` : `${list.length} of ${DOCS.length}`;
+
+  document.getElementById("feed").innerHTML = list.length ? list.map(d=>{
+    const doms=(d.domain_tags&&d.domain_tags.length)?d.domain_tags:["Multi"];
+    const m=DM[doms[0]]||DM.Multi;
+    const codes=doms.map(x=>(DM[x]||DM.Multi).k).join("/");
+    return `<article>
+      <div class="line">
+        <span class="dm" style="color:${m.c}">${esc(codes)}</span><span class="s">/</span>
+        <span>${esc(d.source_name)}</span><span class="s">/</span>
+        <span>${esc(d.published_date||"undated")}</span><span class="s">/</span>
+        <span>${esc(d.doc_type||"news")}</span>
+        <span class="rel">${esc(d.reliability||"C3")}</span>
+        ${d.needs_review?'<span class="prov">PROVISIONAL</span>':''}
+      </div>
+      <h2><a href="${esc(d.source_url)}" target="_blank" rel="noopener">${esc(d.title)}</a></h2>
+      <p class="sum">${esc(d.summary)}</p>
+      ${d.why_it_matters?`<p class="why"><span>Why it matters</span>${esc(d.why_it_matters)}</p>`:""}
+      <a class="src" href="${esc(d.source_url)}" target="_blank" rel="noopener">Open source &#8599;</a>
+    </article>`;
+  }).join("") : `<p class="none">No records match.</p>`;
+}
+
+function render(){renderStat();renderFilters();renderFeed();}
+function pick(k){active = active===k?"":k; renderFilters(); renderFeed();}
+document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim();renderFeed();});
+
+render();  // instant render from seed, never blocks
+
+// Upgrade to live data if available. Failure is silent and harmless.
+fetch("data/records.json",{cache:"no-store"})
+  .then(r=>r.ok?r.json():Promise.reject())
+  .then(j=>{
+    const recs=Array.isArray(j)?j:(j.records||[]);
+    if(!recs.length) return;
+    DOCS=recs; META=j; render();
+  })
+  .catch(()=>{});
+</script>
+</body>
+</html>
