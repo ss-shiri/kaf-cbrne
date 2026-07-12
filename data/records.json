@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-a65dcdb64621",
+   "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167923",
+   "published_date": "2026-07-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T21:57:26+00:00"
+  },
+  {
    "id": "a-80118133791c",
    "title": "CDC Statement on Ebola Outbreak in the Democratic Republic of Congo and Uganda: 7/10/26",
    "source_name": "CDC Newsroom",
@@ -2194,23 +2211,6 @@
    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:4407259"
   },
   {
-   "id": "a-3a53c580f4eb",
-   "title": "CDC Surpasses 1 Million Voluntary Air Travel Participants in Biosurveillance Program",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-surpasses-1-million-voluntary-air-travel-participants-in-biosurveillance-program.html",
-   "published_date": "2026-01-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC announced its Traveler-Based Genomic Surveillance program surpassed one million participants",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:19+00:00"
-  },
-  {
    "id": "multi-01",
    "title": "AI protein design pressure-tests DNA synthesis screening",
    "source_name": "Science",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-12T19:25:55+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-07-12T22:10:58+00:00",
+ "sources_ok": "5/7"
 }
