@@ -1,26 +1,772 @@
 {
  "compiled": "2026-07-12",
- "source": "seed",
+ "source": "curated + auto",
  "records": [
   {
-   "id": "nuc-01",
-   "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
-   "source_name": "IAEA",
-   "published_date": "2026-06-04",
-   "doc_type": "safeguards report",
+   "id": "a-80118133791c",
+   "title": "CDC Statement on Ebola Outbreak in the Democratic Republic of Congo and Uganda: 7/10/26",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
+   "published_date": "2026-07-10",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC Statement on Ebola Outbreak in the Democratic Republic of Congo and Uganda: July 10, 2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:01+00:00"
+  },
+  {
+   "id": "a-862874c2769d",
+   "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167914",
+   "published_date": "2026-07-10",
+   "doc_type": "news",
    "domain_tags": [
     "Nuclear"
    ],
-   "reliability": "A1",
-   "needs_review": false,
-   "topic_tags": [
-    "nonproliferation",
-    "safeguards",
-    "verification-gap"
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:51+00:00"
+  },
+  {
+   "id": "a-c78247d7e746",
+   "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167913",
+   "published_date": "2026-07-10",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
    ],
-   "summary": "The 4 June 2026 quarterly report to the Board of Governors (GOV/2026/33) again assessed Iran as not meeting its NPT safeguards obligations, describing a near-total loss of monitoring after cooperation was suspended, with a large high-enriched uranium stockpile left unverified.",
-   "why_it_matters": "Defines the current verification baseline and the gaps inspectors treat as highest priority.",
-   "source_url": "https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports"
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:51+00:00"
+  },
+  {
+   "id": "a-fa592024d313",
+   "title": "IAEA-Led Mission Sample ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-mission-sample-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+   "published_date": "2026-07-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-5df7ff5573ec",
+   "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167909",
+   "published_date": "2026-07-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations paused on Thursday to remember the more than 8,000 Bosnian Muslim men and boys killed in the town of Srebrenica in July 1995, and the women and survivors left to rebuild their lives in the aftermath.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:52+00:00"
+  },
+  {
+   "id": "a-e6ddd0295f47",
+   "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167906",
+   "published_date": "2026-07-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN High Commissioner for Human Rights Volker Türk urged the armed forces of the Democratic Republic of the Congo and the Rwanda-backed M23 armed group to cease hostilities as he deplored recent civilian deaths on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:52+00:00"
+  },
+  {
+   "id": "a-d9e4873d8ed7",
+   "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167905",
+   "published_date": "2026-07-09",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:52+00:00"
+  },
+  {
+   "id": "a-fea0e7ca9e7a",
+   "title": "Security Council LIVE: ‘Urgent de-escalation’ needed now in Ukraine amid spike in civilian deaths",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167904",
+   "published_date": "2026-07-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council must use every tool and diplomatic channel to reach an urgent de-escalation, Rosemary DiCarlo, chief of UN political and peacebuilding affairs, told an emergency meeting on Thursday amid escalating deadly Russian drone and missile attacks on Ukrainian civilians.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:52+00:00"
+  },
+  {
+   "id": "a-7de26f782605",
+   "title": "Executive Council reinstates the rights and privileges of Syria under Chemical Weapons Convention",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/executive-council-reinstates-rights-and-privileges-syria-under-chemical",
+   "published_date": "2026-07-09",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Executive Council reinstates the rights and privileges of Syria under Chemical Weapons Convention From left to right: OPCW Deputy Director-General Odette Melono, OPCW Director-General Fernando Arias, Chairperson of the 112th Session of the Executive Council Ambassador Mohamed Basri of Morocco, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-6f1d77149fe9",
+   "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompt another global energy alert",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167898",
+   "published_date": "2026-07-08",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Renewed attacks on shipping in the Strait of Hormuz unsettled energy markets on Wednesday and prompted calls from the UN maritime agency, IMO, for “maximum restraint and de-escalation”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:53+00:00"
+  },
+  {
+   "id": "a-6a60d04349a4",
+   "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167897",
+   "published_date": "2026-07-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators reported on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:53+00:00"
+  },
+  {
+   "id": "a-c3031682bb6b",
+   "title": "Security Council LIVE: Open debate on sexual violence in conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167894",
+   "published_date": "2026-07-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Security Council is holding an open debate Tuesday honouring the promise of international law to survivors of sexual violence in conflict as more reports emerge about warring parties using rape as a weapon, actions that constitute war crimes. Stay tuned for live updates from our meetings ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:53+00:00"
+  },
+  {
+   "id": "a-3cbca3404913",
+   "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167893",
+   "published_date": "2026-07-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:53+00:00"
+  },
+  {
+   "id": "a-95e943dc0293",
+   "title": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+   "published_date": "2026-07-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-d8cdf41edf88",
+   "title": "OPCW report explores how chemical forensics can strengthen chemical weapons investigations",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-report-explores-how-chemical-forensics-can-strengthen-chemical",
+   "published_date": "2026-07-08",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW report explores how chemical forensics can strengthen chemical weapons investigations The OPCW hosts an event on chemical forensics and the Chemical Weapons Convention on the sidelines of the 112th Session of the Executive Council. THE HAGUE, Netherlands—8 July 2026—When an alleged chemical ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-e2d5a1721f32",
+   "title": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2025/11/statement-sabrina-dallafior-30th-session-conference-states-parties",
+   "published_date": "2026-07-08",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties Delivered by Sabrina Dallafior THE HAGUE, Netherlands–24 November 2025 Monsieur le Président, Directeur général, Excellences, Distingués délégués, Chers collègues, Tout d’abord, j’aimerais vous remercier. Je ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-9398e7480d9b",
+   "title": "IAEA and World Bank Group Collaborate to Advance Nuclear Energy for Development",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-and-world-bank-group-collaborate-to-advance-nuclear-energy-for-development",
+   "published_date": "2026-07-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-cf284103a3e8",
+   "title": "CDC warns of E. coli outbreak linked to frozen blueberries.",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-warns-of-e-coli-outbreak-linked-to-frozen-blueberries.html",
+   "published_date": "2026-07-07",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC alert: Recall of frozen blueberries linked to E. coli outbreak; do not eat recalled product.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:01+00:00"
+  },
+  {
+   "id": "a-df0f0e713105",
+   "title": "Peace hinges on people-centred policing, global summit hears",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167887",
+   "published_date": "2026-07-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Policing is the cornerstone of peace, said top UN officials ahead of the fifth UN Chiefs of Police Summit, which began on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:54+00:00"
+  },
+  {
+   "id": "a-b60d3b63f841",
+   "title": "Nuclear Liability: Ensuring Legal Certainty and Compensation for Nuclear Damage",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-liability-ensuring-legal-certainty-and-compensation-for-nuclear-damage",
+   "published_date": "2026-07-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-849c466b8937",
+   "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167875",
+   "published_date": "2026-07-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:55+00:00"
+  },
+  {
+   "id": "a-24120178ad8b",
+   "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167876",
+   "published_date": "2026-07-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s International Maritime Organization (IMO) appealed on Monday for the urgent release of 44 seafarers held captive in Somali waters by pirates and armed robbers.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:54+00:00"
+  },
+  {
+   "id": "a-b01be70f83dc",
+   "title": "Tritium Level Far Below Japan’s Operational Limit in 21st Batch of ALPS Treated Water, IAEA Confirms",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-21st-batch-of-alps-treated-water-iaea-confirms",
+   "published_date": "2026-07-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-3cec9776db28",
+   "title": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167866",
+   "published_date": "2026-07-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Described as “sometimes modest, sometimes historic,” UN special political missions have quietly been preventing the escalation of conflicts during the organization’s 80-year history, becoming a key instrument for maintaining peace.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:55+00:00"
+  },
+  {
+   "id": "a-573dd1b3ab6f",
+   "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167871",
+   "published_date": "2026-07-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:56+00:00"
+  },
+  {
+   "id": "a-aa2214833818",
+   "title": "Civilian dangers multiply as drones transform Ukraine’s battlefield",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167854",
+   "published_date": "2026-07-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:55+00:00"
+  },
+  {
+   "id": "a-825a0331372c",
+   "title": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-remarks-twenty-first-session-advisory-board",
+   "published_date": "2026-07-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach kviray Fri 03/07/2026 - 08:57 Opening remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Distinguished Chairperson, Distinguished Members and Observers of the Advisory Board, Dear ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-d9b5c89db6fc",
+   "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167860",
+   "published_date": "2026-07-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:56+00:00"
+  },
+  {
+   "id": "a-39731836a019",
+   "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167858",
+   "published_date": "2026-07-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid agencies in Ukraine on Thursday rushed to respond to a massive uptick in deadly strikes by Russia, including one of the largest attacks on Kyiv to date.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:56+00:00"
+  },
+  {
+   "id": "a-07c60afa0e4c",
+   "title": "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+   "published_date": "2026-07-02",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL) . The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately. WHO’s EUL ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-d640e2dc1b04",
+   "title": "Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+   "published_date": "2026-07-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-b4b3d53e89cc",
+   "title": "Update 356 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-356-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-07-02",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-935a6cd04fba",
+   "title": "CDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-encourages-americans-to-stay-mosquito-bite-free-during-americas-250th-independence-day-holiday.html",
+   "published_date": "2026-07-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC: Early West Nile season brings record cases; protect against mosquito bites this holiday weekend",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:02+00:00"
+  },
+  {
+   "id": "a-8b9571d2f314",
+   "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167856",
+   "published_date": "2026-07-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drone attacks by advancing rebel fighters who are besieging El Obeid, Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:56+00:00"
+  },
+  {
+   "id": "a-e2863dc16d26",
+   "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167852",
+   "published_date": "2026-07-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners warned on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:56+00:00"
+  },
+  {
+   "id": "a-01ef216005e2",
+   "title": "IAEA Holds First SMR School in a Technology Provider Country",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-holds-first-smr-school-in-a-technology-provider-country",
+   "published_date": "2026-07-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-e92867d4e190",
+   "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167844",
+   "published_date": "2026-06-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to a new UN report released on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:57+00:00"
+  },
+  {
+   "id": "a-123b5a8c10c0",
+   "title": "IAEA Reviews Progress of Uzbekistan’s Nuclear Power Infrastructure Development",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-uzbekistans-nuclear-power-infrastructure-development",
+   "published_date": "2026-06-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-55154d4b4073",
+   "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167833",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Missile and drone attacks killed at least a dozen civilians in Russia and Ukraine over the weekend as both countries continue to launch long-range drone strikes.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:58+00:00"
+  },
+  {
+   "id": "a-85bf31166bd0",
+   "title": "Middle East conflict leaves developing countries paying the price",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167831",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:58+00:00"
+  },
+  {
+   "id": "a-0888fbaae375",
+   "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167830",
+   "published_date": "2026-06-29",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:58+00:00"
+  },
+  {
+   "id": "a-8f82257e1b4e",
+   "title": "World News in Brief: Afghanistan airstrikes, rights violations in DR Congo, Gaza displacement",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167835",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 28 civilians were killed and 49 injured in airstrikes carried out in Paktya, Paktika and Kunar provinces in Afghanistan on Sunday evening, the UN Mission in the country has reported.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:57+00:00"
+  },
+  {
+   "id": "a-52a83c5395fa",
+   "title": "International cooperation critical as terrorism threat evolves",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167834",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Terrorism is evolving amid global instability characterised by heightened geopolitical tensions, protracted conflicts and growing fragmentation – and the international response must also evolve to meet the challenge.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:57+00:00"
+  },
+  {
+   "id": "a-cdee96454c4b",
+   "title": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/06/statement-director-general-opcw-fernando-arias-commemorate-39th",
+   "published_date": "2026-06-29",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran Delivered by Ambassador Fernando Arias, OPCW Director-General THE HAGUE, Netherlands–28 June 2026 Distinguished attendees, It is an honour for me ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-9dacecb3d0f2",
+   "title": "IAEA Hosts Global Conference on Nuclear Installation Safety",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-global-conference-on-nuclear-installation-safety",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
    "id": "nuc-02",
@@ -43,45 +789,276 @@
    "source_url": "https://www.timesofisrael.com/us-iran-deal-grants-un-inspectors-access-to-nuclear-sites-iaea-chief-says/"
   },
   {
-   "id": "chem-01",
-   "title": "OPCW team finds undeclared chemical weapons in Syria",
+   "id": "a-ba04c9a020e6",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda: 6/26/26",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
+   "published_date": "2026-06-26",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Audio file also available.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:03+00:00"
+  },
+  {
+   "id": "a-5d1844aa72fe",
+   "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167818",
+   "published_date": "2026-06-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:59+00:00"
+  },
+  {
+   "id": "a-e12d1fbdef15",
+   "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167824",
+   "published_date": "2026-06-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The new head of the UN mission in the Democratic Republic of the Congo (DRC) has urged parties to the peace processes for the volatile eastern region to maintain momentum and fully implement their commitments.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:58+00:00"
+  },
+  {
+   "id": "a-9371e2abbbc7",
+   "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167821",
+   "published_date": "2026-06-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:58+00:00"
+  },
+  {
+   "id": "a-b33cfc340fa7",
+   "title": "IAEA Director General in Japan Supporting Nuclear Energy, Safety and Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-director-general-in-japan-supporting-nuclear-energy-safety-and-cancer-care",
+   "published_date": "2026-06-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-4b29a96dae55",
+   "title": "Update 355 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-355-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-06-26",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-fbe1b450fb78",
+   "title": "Security Council extends critical stabilisation force in Syria",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/06/1167813",
+   "published_date": "2026-06-25",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:59+00:00"
+  },
+  {
+   "id": "a-6b30db358c4c",
+   "title": "Transcript - Update on CDC's Hantavirus Response - 6/24/26",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
+   "published_date": "2026-06-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript for an Update on CDC's Hantavirus Response - 6/24/26",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:03+00:00"
+  },
+  {
+   "id": "a-7dd87f8c47ff",
+   "title": "655 million people still living without electricity underscore urgent need to deliver on universal energy access target",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+   "published_date": "2026-06-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and technologies for cooking putting their health and well-being at risk.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-e37d9523080f",
+   "title": "Finland provides voluntary funding to support OPCW missions in Syria",
    "source_name": "OPCW",
-   "published_date": "2026-05-27",
-   "doc_type": "field deployment",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/06/finland-provides-voluntary-funding-support-opcw-missions-syria",
+   "published_date": "2026-06-24",
+   "doc_type": "news",
    "domain_tags": [
     "Chemical"
    ],
-   "reliability": "A1",
-   "needs_review": false,
-   "topic_tags": [
-    "declaration-accuracy",
-    "verification",
-    "destruction"
-   ],
-   "summary": "An OPCW expert team reported discovering a significant quantity of previously undeclared chemical munitions, related materials and documentation, supporting the Secretariat's long-standing assessment that the former government understated the programme's scope.",
-   "why_it_matters": "Reopens the declaration-accuracy question and resets the inventory verification is measured against.",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Finland provides voluntary funding to support OPCW missions in Syria Permanent Representative of Finland to the OPCW, H.E.Mr Ilkka-Pekka Similä, and the OPCW Director-General, Ambassador Fernando Arias THE HAGUE, Netherlands—24 June 2026—The Government of the Republic of Finland has voluntarily ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
   },
   {
-   "id": "chem-02",
-   "title": "UN briefs Security Council on the Syria chemical-weapons discovery",
-   "source_name": "UN News",
-   "published_date": "2026-06-04",
-   "doc_type": "council briefing",
+   "id": "a-649d16ff26c9",
+   "title": "IAEA Mission Says Egypt is Committed to Strengthening its National Regulatory Framework for Safety",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-egypt-is-committed-to-strengthening-its-national-regulatory-framework-for-safety",
+   "published_date": "2026-06-24",
+   "doc_type": "news",
    "domain_tags": [
-    "Chemical",
-    "Multi"
+    "Nuclear"
    ],
+   "topic_tags": [],
    "reliability": "A2",
-   "needs_review": false,
-   "topic_tags": [
-    "accountability",
-    "destruction",
-    "site-assessment"
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-a129e6648877",
+   "title": "IAEA Director General Joins International Experts Sampling Seawater Near Fukushima",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-director-general-joins-international-experts-sampling-seawater-near-fukushima",
+   "published_date": "2026-06-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
    ],
-   "summary": "The UN's senior disarmament official told the Security Council the find included munitions of a type linked to the 2013 Ghouta attack, and stressed the recovered materials must be declared and destroyed under OPCW verification. More than 100 sites remain to be assessed.",
-   "why_it_matters": "Signals the scale of remaining verification work and the friction likely to shape it.",
-   "source_url": "https://news.un.org/en/story/2026/06/1167652"
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-6a6d66f00d6b",
+   "title": "WHO urges scale up of newborn screening to improve early detection and care of birth defects",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+   "published_date": "2026-06-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability for millions of children. A new WHO report, Strengthening capacity for newborn screening, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-5c07ba96b922",
+   "title": "South Africa Advances Cancer Care Following First ImPACT Review",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/south-africa-advances-cancer-care-following-first-impact-review",
+   "published_date": "2026-06-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-672a431c36bb",
+   "title": "IAEA Hosts Conference on Accelerators for Research and Innovation",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-conference-on-accelerators-for-research-and-innovation",
+   "published_date": "2026-06-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
+  },
+  {
+   "id": "a-02ac0c17ae7c",
+   "title": "IAEA Releases First Public Tool to Map the World's Spent Nuclear Fuel",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-releases-first-public-tool-to-map-the-worlds-spent-nuclear-fuel",
+   "published_date": "2026-06-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
    "id": "bio-01",
@@ -124,6 +1101,991 @@
    "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609"
   },
   {
+   "id": "a-16ac739a11b8",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda and CDC's World Cup 2026(TM) activation",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-and-cdcs.html",
+   "published_date": "2026-06-18",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda and CDC's World Cup 2026(TM) activation",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:03+00:00"
+  },
+  {
+   "id": "a-fb190c09a934",
+   "title": "WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
+   "published_date": "2026-06-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for the clinical management of filovirus disease which include all types of Ebola and Marburg viruses. ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:48+00:00"
+  },
+  {
+   "id": "a-a56abb4ac8cd",
+   "title": "Welcoming Remarks at the Visit by the United Nations Disarmament Fellowship Programme to the OPCW",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/06/welcoming-remarks-visit-united-nations-disarmament",
+   "published_date": "2026-06-16",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Welcoming Remarks at the Visit by the United Nations Disarmament Fellowship Programme to the OPCW kviray Tue 16/06/2026 - 11:45 Welcoming remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Dear Fellows, Good morning, and welcome to the Organisation for the Prohibition of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-49eb6fd5a189",
+   "title": "OPCW and UNODA partner to bridge gap between scientists and policymakers",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/06/opcw-and-unoda-partner-bridge-gap-between-scientists-and-policymakers",
+   "published_date": "2026-06-16",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical",
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW and UNODA partner to bridge gap between scientists and policymakers The Organisation for the Prohibition of Chemical Weapons (OPCW) and United Nations Office for Disarmament Affairs (UNODA) brought together 25 chemists and biologists for the first joint workshop on policy and diplomacy for ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-40c260e5f4f5",
+   "title": "Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
+   "published_date": "2026-06-15",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Dear Leaders of the G7, the G20, BRICS and of all nations, We write to you together, from Geneva and from Brasília, with one shared conviction: that the world must finish what it started, and that you can help it do so. We begin not with an institution or an annex, but with a memory the whole world ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-90d52a382e10",
+   "title": "CDC Outbreak Update: Infant Botulism Linked to Powdered Infant Formula",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/infant-botulism-outbreak-linked-to-powdered-infant-formula-june-2026.html",
+   "published_date": "2026-06-13",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Parents urged to immediately stop using all Nara Organics Whole Milk Organic Infant Formula.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:04+00:00"
+  },
+  {
+   "id": "a-58eb51b3dcdb",
+   "title": "CDC Activates Emergency Operations Center for New World Screwworm Response",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-activates-emergency-operations-center-for-new-world-screwworm-response.html",
+   "published_date": "2026-06-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC Activates Emergency Operations Center for New World Screwworm Response",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:04+00:00"
+  },
+  {
+   "id": "a-fbbc5f7e248b",
+   "title": "Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
+   "published_date": "2026-06-12",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in governance, financing and regulation of blood systems.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-16978b12a298",
+   "title": "How is AI transforming chemistry — and why should chemical industry professionals keep up?",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/06/how-ai-transforming-chemistry-and-why-should-chemical-industry",
+   "published_date": "2026-06-10",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical",
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "How is AI transforming chemistry — and why should chemical industry professionals keep up? Participants in the 2026 Seoul Workshop on the Peaceful Development and Use of Chemistry, which took place from 14 to 16 April 2026 in Seoul, Republic of Korea. THE HAGUE, Netherlands—10 June 2026— Artificial ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:46+00:00"
+  },
+  {
+   "id": "a-55cddf6d201a",
+   "title": "Welcoming Remarks at the Advisory Body on Administrative and Financial Matters (ABAF) 60th Session",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/06/welcoming-remarks-advisory-body-administrative-and",
+   "published_date": "2026-06-09",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Welcoming Remarks at the Advisory Body on Administrative and Financial Matters (ABAF) 60th Session kviray Tue 09/06/2026 - 16:55 Welcoming remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Dear Chairperson, Distinguished Members of the ABAF, I would like to extend to all ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:47+00:00"
+  },
+  {
+   "id": "a-d92193d39222",
+   "title": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-warns-of-listeria-outbreak-linked-to-requeson-soft-ricotta-cheese.html",
+   "published_date": "2026-06-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:05+00:00"
+  },
+  {
+   "id": "a-446ae2ef9f5a",
+   "title": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-5-2026.html",
+   "published_date": "2026-06-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:04+00:00"
+  },
+  {
+   "id": "a-98fbac0663bf",
+   "title": "Africa CDC and WHO launch joint continental Ebola response plan",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
+   "published_date": "2026-06-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Nuclear",
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "nuc-01",
+   "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
+   "source_name": "IAEA",
+   "published_date": "2026-06-04",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "nonproliferation",
+    "safeguards",
+    "verification-gap"
+   ],
+   "summary": "The 4 June 2026 quarterly report to the Board of Governors (GOV/2026/33) again assessed Iran as not meeting its NPT safeguards obligations, describing a near-total loss of monitoring after cooperation was suspended, with a large high-enriched uranium stockpile left unverified.",
+   "why_it_matters": "Defines the current verification baseline and the gaps inspectors treat as highest priority.",
+   "source_url": "https://www.iaea.org/newscenter/focus/iran/iaea-and-iran-iaea-board-reports"
+  },
+  {
+   "id": "chem-02",
+   "title": "UN briefs Security Council on the Syria chemical-weapons discovery",
+   "source_name": "UN News",
+   "published_date": "2026-06-04",
+   "doc_type": "council briefing",
+   "domain_tags": [
+    "Chemical",
+    "Multi"
+   ],
+   "reliability": "A2",
+   "needs_review": false,
+   "topic_tags": [
+    "accountability",
+    "destruction",
+    "site-assessment"
+   ],
+   "summary": "The UN's senior disarmament official told the Security Council the find included munitions of a type linked to the 2013 Ghouta attack, and stressed the recovered materials must be declared and destroyed under OPCW verification. More than 100 sites remain to be assessed.",
+   "why_it_matters": "Signals the scale of remaining verification work and the friction likely to shape it.",
+   "source_url": "https://news.un.org/en/story/2026/06/1167652"
+  },
+  {
+   "id": "a-41aacca130be",
+   "title": "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+   "published_date": "2026-06-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organization (WHO).",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-d3bf7e49cd0e",
+   "title": "CDC Highlights Adverse Outcomes Linked to Travel-Related Cosmetic Procedures",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-highlights-adverse-outcomes-linked-to-travel-related-cosmetic-procedures.html",
+   "published_date": "2026-06-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC Highlights Adverse Outcomes Linked to Travel-Related Cosmetic Procedures",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:06+00:00"
+  },
+  {
+   "id": "a-f2d4f41486a7",
+   "title": "Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
+   "published_date": "2026-05-31",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the people of Ituri Province and the nation at large, following the joint mission to Bunia led by Dr ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-1958e468d189",
+   "title": "WHO urges governments to protect young people from addiction to tobacco and nicotine products",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+   "published_date": "2026-05-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Worldwide, at least 40 million children aged 13–15 use tobacco products, and young people’s use of e-cigarettes and nicotine pouches continues to rise. In advance of World No Tobacco Day – 31 May – the World Health Organization (WHO) urges governments around the world to protect a new generation ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-c00cc42f5cab",
+   "title": "Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus",
+   "published_date": "2026-05-28",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "In response to the current outbreak of Ebola disease caused by Bundibugyo virus occurring in the Democratic Republic of the Congo, with cases also reported in Uganda, WHO convened several of its expert and advisory groups. These groups assessed potential vaccines and therapeutics for both ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-5408f5b336c6",
+   "title": "Message by the WHO Director-General to the people of the Democratic Republic of the Congo",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/28-05-2026-message-by-the-who-director-general-to-the-people-of-the-democratic-republic-of-the-congo",
+   "published_date": "2026-05-28",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "To the people of DRC, especially to the people of Ituri Jambo kwenu wakahaji wa Ituri Mbote na bino, bato ya Ituri My name is Tedros, and I am the Director-General of the World Health Organization (WHO). But today, I am not writing to you as an official. I am writing to you as someone who knows ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "chem-01",
+   "title": "OPCW team finds undeclared chemical weapons in Syria",
+   "source_name": "OPCW",
+   "published_date": "2026-05-27",
+   "doc_type": "field deployment",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "reliability": "A1",
+   "needs_review": false,
+   "topic_tags": [
+    "declaration-accuracy",
+    "verification",
+    "destruction"
+   ],
+   "summary": "An OPCW expert team reported discovering a significant quantity of previously undeclared chemical munitions, related materials and documentation, supporting the Secretariat's long-standing assessment that the former government understated the programme's scope.",
+   "why_it_matters": "Reopens the declaration-accuracy question and resets the inventory verification is measured against.",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"
+  },
+  {
+   "id": "a-9810428c05f9",
+   "title": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-growing-number-of-salmonella-illnesses-and-outbreaks-linked-to-moringa-leaf-products-consumers.html",
+   "published_date": "2026-05-27",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:06+00:00"
+  },
+  {
+   "id": "a-60de08d0af64",
+   "title": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-alert-update-growing-number-of-salmonella-illnesses-and-outbreaks-linked-to-moringa-leaf-products.html",
+   "published_date": "2026-05-27",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:06+00:00"
+  },
+  {
+   "id": "a-3cc35318d267",
+   "title": "Enhanced Ebola Airport Screening Expands to Atlanta",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/enhanced-ebola-airport-screening-expands-to-atlanta.html",
+   "published_date": "2026-05-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Enhanced Ebola Airport Screening Expands to Atlanta",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:07+00:00"
+  },
+  {
+   "id": "a-3540fbbc99da",
+   "title": "Seventy-ninth World Health Assembly – Daily update: 23 May 2026",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/23-05-2026-seventy-ninth-world-health-assembly---daily-update--23-may-2026",
+   "published_date": "2026-05-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Summary of discussions of 23 May at the Seventy-ninth World Health Assembly.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:49+00:00"
+  },
+  {
+   "id": "a-8344516008f1",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/22/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-22-2026.html",
+   "published_date": "2026-05-22",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/22/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:08+00:00"
+  },
+  {
+   "id": "a-270f5770c17f",
+   "title": "Statement: Update on Title 42 Order",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/statement-update-on-title-42-order.html",
+   "published_date": "2026-05-22",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Statement: Update on Title 42 Order",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:07+00:00"
+  },
+  {
+   "id": "a-e1d057f29626",
+   "title": "Seventy-ninth World Health Assembly – Daily update: 22 May 2026",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/22-05-2026-seventy-ninth-world-health-assembly-daily-update-22-may-2026",
+   "published_date": "2026-05-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Summary of discussions of 22 May at the Seventy-ninth World Health Assembly.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-61be04221d09",
+   "title": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
+   "published_date": "2026-05-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Committee’s advice aligned with the determination by the WHO Director-General that the event constitutes a public health emergency of international concern (PHEIC), but does not meet the criteria for pandemic emergency. The DG, considering the advice of the Committee, he is hereby issuing the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-b5a858c4a581",
+   "title": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-enhanced-ebola-airport-screening-begins-at-washington-dulles-international-airport.html",
+   "published_date": "2026-05-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:08+00:00"
+  },
+  {
+   "id": "a-dbf407729f55",
+   "title": "Seventy-ninth World Health Assembly – Daily update: 21 May 2026",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026",
+   "published_date": "2026-05-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Summary of discussions of 21 May at the Seventy-ninth World Health Assembly.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-127beddcfd52",
+   "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026",
+   "published_date": "2026-05-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Summary of discussions of 20 May at the Seventy-ninth World Health Assembly.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-ad0e6a2d6d42",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/20/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-20-2026.html",
+   "published_date": "2026-05-20",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/20/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:08+00:00"
+  },
+  {
+   "id": "a-9b2786df7c7f",
+   "title": "Seventy-ninth World Health Assembly – Daily update: 19 May 2026",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
+   "published_date": "2026-05-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Summary of discussions of 19 May at Seventy-ninth World Health Assembly",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-853ec22e275e",
+   "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
+   "published_date": "2026-05-20",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Today, the World Health Assembly recognized individuals and institutions whose contributions to global health have gone far beyond the call of duty. Six laureates representing diverse backgrounds and contexts were honoured by the President of the Seventy-ninth World Health Assembly, Dr Víctor Elias ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-4780fa08b085",
+   "title": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html",
+   "published_date": "2026-05-19",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:10+00:00"
+  },
+  {
+   "id": "a-690647ee51f7",
+   "title": "Transcript - Updates on CDC's Response to Ebola Outbreak in DRC and Uganda and Hantavirus Linked to M/V Hondius, 5/19/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-updates-on-cdcs-response-to-the-ebola-outbreak-in-drc-and-uganda-and-the-hantavirus.html",
+   "published_date": "2026-05-19",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Updates on CDC's Response to Ebola Outbreak in DRC and Uganda and Hantavirus Linked to M/V Hondius, 5/19/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:09+00:00"
+  },
+  {
+   "id": "a-7d0b00c876c0",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/18/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-18-2026.html",
+   "published_date": "2026-05-18",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/18/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:11+00:00"
+  },
+  {
+   "id": "a-ab79503b0c04",
+   "title": "World Health Assembly opens in Geneva, Switzerland",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
+   "published_date": "2026-05-18",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Seventy-ninth session of the World Health Assembly (WHA79) opened in Geneva, Switzerland today, with the election of Dr Víctor Elías Atallah Lajam of the Dominican Republic as the President of the Health Assembly. The elected Vice-Presidents are Dr Mohamed Ali Al-Ghouj of Libya, Dr Assa ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-99a40e0717aa",
+   "title": "Director-General presents Award for Global Health to four distinguished leaders",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/18-05-2026-director-general-presents-award-for-global-health-to-four-distinguished-leaders",
+   "published_date": "2026-05-18",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "At the Seventy-ninth World Health Assembly in Geneva, WHO Director-General Dr Tedros Adhanom Ghebreyesus has presented four distinguished leaders with the Award for Global Health, recognizing their lifetime achievements and exceptional contributions to improving the health and well-being of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-c32a4b3da6c8",
+   "title": "CDC Mobilizes International Response Following Ebola Disease Outbreak in DRC and Uganda",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-mobilizes-international-ebola-response.html",
+   "published_date": "2026-05-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Centers for Disease Control and Prevention (CDC) has mobilized Ebola response.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:12+00:00"
+  },
+  {
+   "id": "a-12ee6e94a6f4",
+   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/17/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-ebola-update-05-17-2026.html",
+   "published_date": "2026-05-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Audio file also available",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:11+00:00"
+  },
+  {
+   "id": "a-9651c30eb6cd",
+   "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+   "published_date": "2026-05-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-7068b9bf6437",
+   "title": "Transcript - Update on CDC's Hantavirus Response 5/15/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update0515-on-cdcs-hantavirus-response.html",
+   "published_date": "2026-05-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on CDC's Hantavirus Response 5/15/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:12+00:00"
+  },
+  {
+   "id": "a-78690590276f",
+   "title": "Transcript - Update on CDC's Hantavirus Response 5/14/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update0514-on-cdcs-hantavirus-response.html",
+   "published_date": "2026-05-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on CDC's Hantavirus Response 5/14/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:13+00:00"
+  },
+  {
+   "id": "a-a8a8a48c3080",
+   "title": "UPDATE - Ongoing Salmonella outbreaks linked to backyard poultry sickens 150 more people with over a quarter of cases in children under 5 years old",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-update-ongoing-salmonella-outbreaks-linked-to-backyard-poultry-sickens-150-more-people-with-over.html",
+   "published_date": "2026-05-14",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Investigation of Salmonella infections linked to backyard poultry has been updated",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:12+00:00"
+  },
+  {
+   "id": "a-96857550a3fa",
+   "title": "WHO warns nicotine pouch brands targeting youth as sales surge",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+   "published_date": "2026-05-14",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) warns about the rapid growth and aggressive marketing of nicotine pouches, especially targeting youth, amid limited regulation worldwide. Nicotine pouches pose significant health risks and governments are urged to implement strong regulatory measures to prevent ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:12:50+00:00"
+  },
+  {
+   "id": "a-44aa81554aba",
+   "title": "Transcript - Update on CDC's Hantavirus Response 5/13/2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response.html",
+   "published_date": "2026-05-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on CDC's Hantavirus Response 5/13/2026",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:13+00:00"
+  },
+  {
+   "id": "a-e23a2cd4f13f",
+   "title": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html",
+   "published_date": "2026-05-08",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The U.S. government is actively monitoring and responding to a hantavirus outbreak linked to the M/V Hondius cruise ship. At this time, the risk to the American public remains extremely low.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:13+00:00"
+  },
+  {
+   "id": "a-ec8dd75a3899",
+   "title": "New Salmonella outbreak linked to pet veiled chameleons; all sick people are children 2 years old or younger",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-newsalmonella-outbreak-linked-to-pet-veiled-chameleons-all-sick-people-are-children-2-years-old-or.html",
+   "published_date": "2026-05-07",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "A CDC investigation notice regarding a multistate outbreak of Salmonella infections has been posted",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:14+00:00"
+  },
+  {
+   "id": "a-2870c0b1b61e",
+   "title": "Statement on the M/V Hondius Cruise Ship",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026-hantavirus-confirmed-cruise-ship.html",
+   "published_date": "2026-05-07",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The Administration is closely monitoring the situation with U.S. travelers.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:14+00:00"
+  },
+  {
+   "id": "a-817b6dd706cc",
+   "title": "CDC announces Salmonella outbreak in 13 states linked to backyard poultry.",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-announces-salmonella-outbreak-in-13-states-linked-to-backyard-poultry-take-steps-to-protect.html",
+   "published_date": "2026-04-23",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "34 people across 13 states have gotten sick with the same strain of Salmonella",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:15+00:00"
+  },
+  {
+   "id": "a-aac5af04a371",
+   "title": "CDC Data Show Weekly ER Visits for Tick Bites Higher than Usual",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-data-show-weekly-er-visits-for-tick-bites-higher-than-usual.html",
+   "published_date": "2026-04-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Public health resources can help protect individuals and their families this tick season",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:14+00:00"
+  },
+  {
+   "id": "a-881c08acc599",
+   "title": "CDC Disease Detectives Present at Annual CDC EIS Conference",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-disease-detectives-present-at-annual-cdc-eis-conference.html",
+   "published_date": "2026-04-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC's Epidemic Intelligence Service officers are gathering this week for the 2026 EIS Conference",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:16+00:00"
+  },
+  {
+   "id": "a-a382051ac53c",
+   "title": "CDC's NIOSH Continues Annual Free Health Screenings for Coal Miners, Announces 2026 Dates",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdcs-niosh-continues-annual-free-health-screenings-for-coal-miners-announces-2026-dates.html",
+   "published_date": "2026-03-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "NIOSH will kick off the agency's annual mobile health screenings for coal miners this month",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:16+00:00"
+  },
+  {
+   "id": "a-a4002ee11903",
+   "title": "CDC Reinforces National Measles Response Through State Collaboration",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-reinforces-national-measles-response-through-state-collaboration.html",
+   "published_date": "2026-03-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC reaffirmed its commitment to protecting communities across the United States",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:17+00:00"
+  },
+  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -144,6 +2106,74 @@
    "source_url": "https://www.iaea.org/topics/radiation-sources/orphan-sources"
   },
   {
+   "id": "a-962863396f17",
+   "title": "Secretary Kennedy Appoints Two Physicians to CDC's Advisory Committee on Immunization Practices",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-secretary-kennedy-appoints-two-physicians-to-cdcs-advisory-committee-on-immunization-practices.html",
+   "published_date": "2026-02-28",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "HHS and CDC today announced the appointment of two new members to the CDC ACIP.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:17+00:00"
+  },
+  {
+   "id": "a-06b1bd94b484",
+   "title": "Statement on the Resignation of the CDC Principal Deputy Director",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-statement-on-the-resignation-of-the-cdc-principal-deputy-director.html",
+   "published_date": "2026-02-23",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC announced Dr. Ralph Abraham stepped down as Principal Deputy Director, effective immediately.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:18+00:00"
+  },
+  {
+   "id": "a-4fdf28e178ed",
+   "title": "Extensively drug-resistant Salmonella outbreak linked to moringa powder capsules",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-new-extensively-drug-resistantsalmonella-outbreak-linked-to-moringa-powder-capsules.html",
+   "published_date": "2026-02-13",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Three people have been hospitalized, and no deaths have been reported.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:18+00:00"
+  },
+  {
+   "id": "a-e9545cc52845",
+   "title": "CDC's National Firefighter Registry for Cancer is Now the Largest in the Nation",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdcs-national-firefighter-registry-for-cancer-is-now-the-largest-in-the-nation.html",
+   "published_date": "2026-02-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Program invites all U.S. firefighters to join to enhance understanding of cancer risk",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:19+00:00"
+  },
+  {
    "id": "exp-01",
    "title": "EU explosives-precursor rules reach their mandated evaluation point",
    "source_name": "EUR-Lex",
@@ -162,6 +2192,23 @@
    "summary": "Regulation (EU) 2019/1148 restricts public access to precursors such as concentrated nitric acid, hydrogen peroxide and ammonium nitrate, and requires suspicious-transaction reporting. The Commission was due to report on its application by 2 February 2026.",
    "why_it_matters": "Precursor availability is the main policy lever between retail chemicals and device risk.",
    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:4407259"
+  },
+  {
+   "id": "a-3a53c580f4eb",
+   "title": "CDC Surpasses 1 Million Voluntary Air Travel Participants in Biosurveillance Program",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-surpasses-1-million-voluntary-air-travel-participants-in-biosurveillance-program.html",
+   "published_date": "2026-01-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC announced its Traveler-Based Genomic Surveillance program surpassed one million participants",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-12T10:13:19+00:00"
   },
   {
    "id": "multi-01",
@@ -186,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-12T00:00:00+00:00",
- "sources_ok": "seed"
+ "updated_at": "2026-07-12T10:21:18+00:00",
+ "sources_ok": "5/7"
 }
