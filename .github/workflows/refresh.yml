@@ -1,0 +1,71 @@
+name: refresh
+
+# Runs every 3 hours, collects fresh CBRNE records, commits data/records.json.
+#
+# Two deliberate guards, both fixing real failures from the previous build:
+#   1. The collector exits non-zero when it fetches nothing, so a dead feed
+#      makes this job go RED and email you, instead of silently going green.
+#   2. The keepalive step touches .keepalive whenever the newest commit is
+#      older than 50 days. GitHub disables scheduled workflows after 60 days
+#      of repository inactivity, silently. This keeps the schedule alive.
+
+on:
+  schedule:
+    - cron: "7 */3 * * *"      # every 3 hours, offset off the hour to dodge runner contention
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: [backend/**, .github/workflows/**]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install --quiet feedparser
+
+      - name: Feed health check (non-blocking, for the log)
+        continue-on-error: true
+        run: python -m backend.verify_feeds
+
+      - name: Collect
+        run: python -m backend.collector --min-entries 1
+
+      - name: Keepalive (defeat 60-day auto-disable)
+        run: |
+          LAST=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          AGE=$(( (NOW - LAST) / 86400 ))
+          echo "days since last commit: $AGE"
+          if [ "$AGE" -ge 50 ]; then
+            date -u +%Y-%m-%dT%H:%M:%SZ > .keepalive
+            echo "keepalive touched"
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name "cbrne-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/records.json .keepalive 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "refresh records $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
