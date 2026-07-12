@@ -1,21 +1,22 @@
 name: refresh
 
-# Runs every 3 hours, collects fresh CBRNE records, commits data/records.json.
+# Refreshes CBRNE records every 3 hours and commits data/records.json.
 #
-# Two deliberate guards, both fixing real failures from the previous build:
-#   1. The collector exits non-zero when it fetches nothing, so a dead feed
-#      makes this job go RED and email you, instead of silently going green.
-#   2. The keepalive step touches .keepalive whenever the newest commit is
-#      older than 50 days. GitHub disables scheduled workflows after 60 days
-#      of repository inactivity, silently. This keeps the schedule alive.
+# This workflow is self-diagnosing. If the repository is laid out wrongly (for
+# example everything nested inside a subfolder, which is what the GitHub web
+# uploader produces when you drag a whole folder in), it locates the project,
+# warns you in the log, and still runs, instead of dying with an unhelpful
+# ModuleNotFoundError.
 
 on:
   schedule:
-    - cron: "7 */3 * * *"      # every 3 hours, offset off the hour to dodge runner contention
+    - cron: "7 */3 * * *"      # every 3 hours, offset off the hour
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: [backend/**, .github/workflows/**]
+    paths:
+      - "backend/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -27,7 +28,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,34 +39,66 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install
+      - name: Locate project root
+        id: loc
+        run: |
+          echo "Repository root contains:"
+          ls -a
+          echo "---"
+
+          if [ -f "backend/collector.py" ]; then
+            echo "dir=." >> "$GITHUB_OUTPUT"
+            echo "Project root is the repository root. Correct."
+            exit 0
+          fi
+
+          FOUND=$(find . -type f -path "*/backend/collector.py" -not -path "./.git/*" | head -1)
+
+          if [ -z "$FOUND" ]; then
+            echo "::error::backend/collector.py was not found anywhere in this repository."
+            echo "The backend/ folder did not upload. See README, section 'Uploading correctly'."
+            exit 1
+          fi
+
+          DIR=$(dirname "$(dirname "$FOUND")")
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+          echo "::warning::Project is nested at '$DIR' instead of the repository root."
+          echo "::warning::The collector will still run, but GitHub Pages will NOT serve the site until you move the files to the root."
+
+      - name: Install dependencies
         run: pip install --quiet feedparser
 
-      - name: Feed health check (non-blocking, for the log)
+      - name: Feed health check
         continue-on-error: true
+        working-directory: ${{ steps.loc.outputs.dir }}
+        env:
+          PYTHONPATH: .
         run: python -m backend.verify_feeds
 
-      - name: Collect
+      - name: Collect records
+        working-directory: ${{ steps.loc.outputs.dir }}
+        env:
+          PYTHONPATH: .
         run: python -m backend.collector --min-entries 1
 
-      - name: Keepalive (defeat 60-day auto-disable)
+      - name: Keepalive
         run: |
           LAST=$(git log -1 --format=%ct)
           NOW=$(date +%s)
           AGE=$(( (NOW - LAST) / 86400 ))
-          echo "days since last commit: $AGE"
+          echo "Days since last commit: $AGE"
           if [ "$AGE" -ge 50 ]; then
             date -u +%Y-%m-%dT%H:%M:%SZ > .keepalive
-            echo "keepalive touched"
+            echo "Keepalive timestamp refreshed."
           fi
 
-      - name: Commit
+      - name: Commit and push
         run: |
           git config user.name "cbrne-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/records.json .keepalive 2>/dev/null || true
+          git add -A
           if git diff --staged --quiet; then
-            echo "no changes"
+            echo "No changes to commit."
           else
             git commit -m "refresh records $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
