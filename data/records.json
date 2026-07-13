@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f537ca609506",
+   "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167929",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-13T22:01:09+00:00"
+  },
+  {
+   "id": "a-203376583e19",
+   "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167924",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday will be briefed by top officials on the latest ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-13T22:01:09+00:00"
+  },
+  {
    "id": "a-7f693a65d37f",
    "title": "IAEA Concludes International Physical Protection Advisory Follow-Up Mission in China",
    "source_name": "IAEA",
@@ -2157,40 +2191,6 @@
    "source_url": "https://www.iaea.org/topics/radiation-sources/orphan-sources"
   },
   {
-   "id": "a-962863396f17",
-   "title": "Secretary Kennedy Appoints Two Physicians to CDC's Advisory Committee on Immunization Practices",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-secretary-kennedy-appoints-two-physicians-to-cdcs-advisory-committee-on-immunization-practices.html",
-   "published_date": "2026-02-28",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "HHS and CDC today announced the appointment of two new members to the CDC ACIP.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:17+00:00"
-  },
-  {
-   "id": "a-06b1bd94b484",
-   "title": "Statement on the Resignation of the CDC Principal Deputy Director",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-statement-on-the-resignation-of-the-cdc-principal-deputy-director.html",
-   "published_date": "2026-02-23",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC announced Dr. Ralph Abraham stepped down as Principal Deputy Director, effective immediately.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:18+00:00"
-  },
-  {
    "id": "exp-01",
    "title": "EU explosives-precursor rules reach their mandated evaluation point",
    "source_name": "EUR-Lex",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-13T19:52:54+00:00",
+ "updated_at": "2026-07-13T22:12:12+00:00",
  "sources_ok": "5/7"
 }
