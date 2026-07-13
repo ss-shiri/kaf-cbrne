@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-7f693a65d37f",
+   "title": "IAEA Concludes International Physical Protection Advisory Follow-Up Mission in China",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-international-physical-protection-advisory-follow-up-mission-in-china",
+   "published_date": "2026-07-13",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-13T14:47:06+00:00"
+  },
+  {
+   "id": "a-924a274102e0",
+   "title": "Slovakia provides voluntary funding to support OPCW activities",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/slovakia-provides-voluntary-funding-support-opcw-activities",
+   "published_date": "2026-07-13",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Slovakia provides voluntary funding to support OPCW activities Permanent Representative of the Slovak Republic to the OPCW, H.E. Mr Juraj Podhorský, and OPCW Deputy Director-General Ambassador Odette Melono THE HAGUE, Netherlands—13 July 2026—The Government of the Slovak Republic has provided a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-13T14:47:06+00:00"
+  },
+  {
    "id": "a-a65dcdb64621",
    "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
    "source_name": "UN News",
@@ -2157,40 +2191,6 @@
    "ingested_at": "2026-07-12T10:13:18+00:00"
   },
   {
-   "id": "a-4fdf28e178ed",
-   "title": "Extensively drug-resistant Salmonella outbreak linked to moringa powder capsules",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-new-extensively-drug-resistantsalmonella-outbreak-linked-to-moringa-powder-capsules.html",
-   "published_date": "2026-02-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Three people have been hospitalized, and no deaths have been reported.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:18+00:00"
-  },
-  {
-   "id": "a-e9545cc52845",
-   "title": "CDC's National Firefighter Registry for Cancer is Now the Largest in the Nation",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdcs-national-firefighter-registry-for-cancer-is-now-the-largest-in-the-nation.html",
-   "published_date": "2026-02-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Program invites all U.S. firefighters to join to enhance understanding of cancer risk",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:19+00:00"
-  },
-  {
    "id": "exp-01",
    "title": "EU explosives-precursor rules reach their mandated evaluation point",
    "source_name": "EUR-Lex",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-13T09:48:13+00:00",
+ "updated_at": "2026-07-13T14:57:48+00:00",
  "sources_ok": "5/7"
 }
