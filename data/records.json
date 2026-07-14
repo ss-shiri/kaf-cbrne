@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-89b65cdd1bb1",
+   "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-14T10:52:01+00:00"
+  },
+  {
    "id": "a-b162a47788f4",
    "title": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
    "source_name": "UN News",
@@ -2154,23 +2171,6 @@
    "ingested_at": "2026-07-12T10:13:16+00:00"
   },
   {
-   "id": "a-a382051ac53c",
-   "title": "CDC's NIOSH Continues Annual Free Health Screenings for Coal Miners, Announces 2026 Dates",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdcs-niosh-continues-annual-free-health-screenings-for-coal-miners-announces-2026-dates.html",
-   "published_date": "2026-03-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "NIOSH will kick off the agency's annual mobile health screenings for coal miners this month",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:16+00:00"
-  },
-  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-14T08:26:53+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-07-14T11:03:51+00:00",
+ "sources_ok": "4/7"
 }
