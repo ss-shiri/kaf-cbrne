@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-48a13495712a",
+   "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/new-cdc-data-shows-decline-in-healthcare-associated-infections.html",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T22:07:03+00:00"
+  },
+  {
+   "id": "a-8906748df330",
+   "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167946",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Colombia awaits the inauguration of its newly elected president, pockets of insecurity remain a challenge for a nation that has overcome decades of conflict, the head of the UN verification team there told the Security Council on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T22:06:51+00:00"
+  },
+  {
+   "id": "a-0bd05cfbda1f",
+   "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167949",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T22:06:50+00:00"
+  },
+  {
+   "id": "a-e93c1b0f5a7e",
+   "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167945",
+   "published_date": "2026-07-15",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council meets at 3pm on Wednesday for an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T22:06:50+00:00"
+  },
+  {
    "id": "a-14e9bc15dd35",
    "title": "Update 358 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -2103,74 +2171,6 @@
    "ingested_at": "2026-07-12T10:12:50+00:00"
   },
   {
-   "id": "a-c32a4b3da6c8",
-   "title": "CDC Mobilizes International Response Following Ebola Disease Outbreak in DRC and Uganda",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-mobilizes-international-ebola-response.html",
-   "published_date": "2026-05-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Centers for Disease Control and Prevention (CDC) has mobilized Ebola response.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:12+00:00"
-  },
-  {
-   "id": "a-12ee6e94a6f4",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/17/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-ebola-update-05-17-2026.html",
-   "published_date": "2026-05-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Audio file also available",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:11+00:00"
-  },
-  {
-   "id": "a-9651c30eb6cd",
-   "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
-   "published_date": "2026-05-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-7068b9bf6437",
-   "title": "Transcript - Update on CDC's Hantavirus Response 5/15/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update0515-on-cdcs-hantavirus-response.html",
-   "published_date": "2026-05-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on CDC's Hantavirus Response 5/15/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:12+00:00"
-  },
-  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-15T19:30:05+00:00",
+ "updated_at": "2026-07-15T22:21:48+00:00",
  "sources_ok": "5/7"
 }
