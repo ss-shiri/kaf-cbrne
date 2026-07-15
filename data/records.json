@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-3ec6bab28dc0",
+   "title": "Nuclear Science is Transforming Rainbow Trout Farming in Latin America",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-science-is-transforming-rainbow-trout-farming-in-latin-america",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T13:54:14+00:00"
+  },
+  {
    "id": "a-129a91b813b0",
    "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
    "source_name": "WHO Outbreak News",
@@ -2154,23 +2171,6 @@
    "ingested_at": "2026-07-12T10:13:14+00:00"
   },
   {
-   "id": "a-2870c0b1b61e",
-   "title": "Statement on the M/V Hondius Cruise Ship",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026-hantavirus-confirmed-cruise-ship.html",
-   "published_date": "2026-05-07",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Administration is closely monitoring the situation with U.S. travelers.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:14+00:00"
-  },
-  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-15T11:04:44+00:00",
+ "updated_at": "2026-07-15T14:05:16+00:00",
  "sources_ok": "5/7"
 }
