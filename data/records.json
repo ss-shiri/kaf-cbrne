@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-129a91b813b0",
+   "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
+   "published_date": "2026-07-15",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T10:56:01+00:00"
+  },
+  {
    "id": "a-75650ae5c730",
    "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
    "source_name": "UN News",
@@ -2154,23 +2171,6 @@
    "ingested_at": "2026-07-12T10:13:14+00:00"
   },
   {
-   "id": "a-817b6dd706cc",
-   "title": "CDC announces Salmonella outbreak in 13 states linked to backyard poultry.",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-announces-salmonella-outbreak-in-13-states-linked-to-backyard-poultry-take-steps-to-protect.html",
-   "published_date": "2026-04-23",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "34 people across 13 states have gotten sick with the same strain of Salmonella",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T08:24:28+00:00"
-  },
-  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-15T08:34:45+00:00",
+ "updated_at": "2026-07-15T11:04:44+00:00",
  "sources_ok": "5/7"
 }
