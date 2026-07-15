@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-14e9bc15dd35",
+   "title": "Update 358 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-358-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-07-15",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-15T19:19:57+00:00"
+  },
+  {
    "id": "a-0ee6db5ffe41",
    "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
    "source_name": "UN News",
@@ -2154,23 +2171,6 @@
    "ingested_at": "2026-07-12T10:13:12+00:00"
   },
   {
-   "id": "a-78690590276f",
-   "title": "Transcript - Update on CDC's Hantavirus Response 5/14/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update0514-on-cdcs-hantavirus-response.html",
-   "published_date": "2026-05-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on CDC's Hantavirus Response 5/14/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:13+00:00"
-  },
-  {
    "id": "rad-01",
    "title": "IAEA Incident and Trafficking Database underscores orphan-source risk",
    "source_name": "IAEA",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-15T16:40:25+00:00",
+ "updated_at": "2026-07-15T19:30:05+00:00",
  "sources_ok": "5/7"
 }
