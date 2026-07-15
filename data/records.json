@@ -2154,21 +2154,21 @@
    "ingested_at": "2026-07-12T10:13:14+00:00"
   },
   {
-   "id": "a-aac5af04a371",
-   "title": "CDC Data Show Weekly ER Visits for Tick Bites Higher than Usual",
+   "id": "a-817b6dd706cc",
+   "title": "CDC announces Salmonella outbreak in 13 states linked to backyard poultry.",
    "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-data-show-weekly-er-visits-for-tick-bites-higher-than-usual.html",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-announces-salmonella-outbreak-in-13-states-linked-to-backyard-poultry-take-steps-to-protect.html",
    "published_date": "2026-04-23",
-   "doc_type": "news",
+   "doc_type": "outbreak news",
    "domain_tags": [
     "Biological"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "Public health resources can help protect individuals and their families this tick season",
+   "summary": "34 people across 13 states have gotten sick with the same strain of Salmonella",
    "why_it_matters": "",
-   "ingested_at": "2026-07-15T05:38:07+00:00"
+   "ingested_at": "2026-07-15T08:24:28+00:00"
   },
   {
    "id": "rad-01",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-15T05:45:30+00:00",
+ "updated_at": "2026-07-15T08:34:45+00:00",
  "sources_ok": "5/7"
 }
