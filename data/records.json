@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-1155c48aa6e4",
+   "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167951",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "There is growing concern for at least 500 people believed to have been aboard two boats that reportedly capsized off Myanmar’s coast in recent days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:19+00:00"
+  },
+  {
+   "id": "a-b43eab7ed0a9",
+   "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766009",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:29+00:00"
+  },
+  {
+   "id": "a-f682198a812c",
+   "title": "New guidance offers hope for reducing the global toll of dementia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167948",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) has issued updated global guidelines aimed at reducing the risk of cognitive decline and dementia, saying that up to 45 per cent of cases may be preventable or delayed by addressing modifiable risk factors throughout life.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:21+00:00"
+  },
+  {
+   "id": "a-b0848bb3bcbe",
+   "title": "Childhood vaccination rate increases slightly, but millions remain unprotected",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167942",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Global childhood immunization programmes continued to recover in 2025, but conflict, poverty and growing vaccine hesitancy are still leaving millions vulnerable to preventable diseases, according to new UN data released on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:21+00:00"
+  },
+  {
+   "id": "a-5578982c2bae",
+   "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167950",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Access to education continues to worsen in the West Bank, the United Nations reported on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:20+00:00"
+  },
+  {
    "id": "a-48a13495712a",
    "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
    "source_name": "CDC Newsroom",
@@ -173,6 +258,125 @@
    "ingested_at": "2026-07-15T10:56:01+00:00"
   },
   {
+   "id": "a-898362fad441",
+   "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766008",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:29+00:00"
+  },
+  {
+   "id": "a-62f27ca7c32e",
+   "title": "People continue to stand by refugees, Gen Z shows most empathy",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167934",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Protection for refugees has been enshrined in international law for more than seven decades, but how much support is there today for those fleeing conflict and persecution?",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:24+00:00"
+  },
+  {
+   "id": "a-cd5ab4a7a3e8",
+   "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167937",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A UN independent human rights expert has urged political leaders in the United Kingdom to support implementation of a Supreme Court ruling on the legal definition of sex, warning that opposition to updated equality guidance risks weakening protections for women and girls.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:23+00:00"
+  },
+  {
+   "id": "a-f8a3dc04631a",
+   "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167935",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Civilian casualties in Ukraine soared during the first half of 2026 amid escalating Russian attacks and intensifying use of deadly weapons, the UN human rights monitoring mission in the country, HRMMU, said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:23+00:00"
+  },
+  {
+   "id": "a-0b21edd36595",
+   "title": "Skills for an uncertain future: How youth can navigate a changing job market",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167943",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Choosing a path for the future has never been easy, but for young people today, such rapid technological change as artificial intelligence (AI) is making it increasingly difficult to predict which skills will remain relevant in the years ahead.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:22+00:00"
+  },
+  {
+   "id": "a-1e8a026d8117",
+   "title": "World Cup football’s other goal: Helping young people talk about mental health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167941",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:22+00:00"
+  },
+  {
+   "id": "a-9966b976d2c1",
+   "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167939",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Humanitarians in the Gaza Strip continue to face significant challenges in reaching communities located near the so-called “Yellow Line” in northern Rafah, the UN aid coordination office OCHA said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:22+00:00"
+  },
+  {
    "id": "a-f14025dd103f",
    "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
    "source_name": "CDC Newsroom",
@@ -239,6 +443,57 @@
    "summary": "Infections of the Bundibugyo species of Ebola in the Democratic Republic of the Congo (DRC) have reached record highs and a majority of new cases are coming from “unknown chains of transmission”, the UN World Health Organization (WHO) warned on Tuesday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-14T19:27:15+00:00"
+  },
+  {
+   "id": "a-2a0887f50303",
+   "title": "Afghanistan: 3.7 million young lives at risk of malnutrition, UNICEF warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167925",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Some 3.7 million children under five in Afghanistan are at heightened risk of malnutrition due to food insecurity, poor diets and inadequate access to basic services as the peak season for life-threatening wasting looms.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:26+00:00"
+  },
+  {
+   "id": "a-0552e23ff289",
+   "title": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167927",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In a world of “parallel realities” where stark inequalities seemingly divide people and challenge the promise of multilateralism, the vision of the Sustainable Development Goals (SDGs) is to bring people together and help them achieve a better reality.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:25+00:00"
+  },
+  {
+   "id": "a-d79ad2551b44",
+   "title": "International Criminal Court ‘a critical cog’ in global justice efforts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167932",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations upheld the critical role of the International Criminal Court (ICC) on Monday in the global fight to end impunity for grave crimes, amid calls for it to be abolished.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:24+00:00"
   },
   {
    "id": "a-89b65cdd1bb1",
@@ -343,6 +598,40 @@
    "ingested_at": "2026-07-13T14:47:06+00:00"
   },
   {
+   "id": "a-cb6b2effedd8",
+   "title": "Reviving communities home by home in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167921",
+   "published_date": "2026-07-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:27+00:00"
+  },
+  {
+   "id": "a-c630e5e08ff1",
+   "title": "From NASA to the classroom: The engineer bringing AI to those left behind",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167920",
+   "published_date": "2026-07-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nia Jetter spent two decades building spacecraft and robots. Now she is trying to make sure the artificial intelligence revolution doesn't leave anyone behind.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:26+00:00"
+  },
+  {
    "id": "a-a65dcdb64621",
    "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
    "source_name": "UN News",
@@ -358,6 +647,74 @@
    "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-12T21:57:26+00:00"
+  },
+  {
+   "id": "a-5c5c80492d40",
+   "title": "Thai youth leaders push for inclusion, partnership and lasting change",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167917",
+   "published_date": "2026-07-11",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From local communities to the global stage, a diverse group of young leaders from Thailand is helping shape conversations on public policy, climate action, inclusion, indigenous rights, disability access and youth wellbeing.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:27+00:00"
+  },
+  {
+   "id": "a-9dedbe56562d",
+   "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167922",
+   "published_date": "2026-07-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:27+00:00"
+  },
+  {
+   "id": "a-b3b6c4712d07",
+   "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167918",
+   "published_date": "2026-07-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-for-education swaps, warning in a Friday report that many developing countries are spending more on debt servicing than on schooling their children.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:28+00:00"
+  },
+  {
+   "id": "a-3d5dcd261c1f",
+   "title": "South Sudan: UN acts ahead of drought to protect thousands",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167915",
+   "published_date": "2026-07-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As drought risk intensifies in South Sudan’s Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T14:06:28+00:00"
   },
   {
    "id": "a-80118133791c",
@@ -1794,40 +2151,6 @@
    "ingested_at": "2026-07-12T10:12:49+00:00"
   },
   {
-   "id": "a-c00cc42f5cab",
-   "title": "Experts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus",
-   "published_date": "2026-05-28",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "In response to the current outbreak of Ebola disease caused by Bundibugyo virus occurring in the Democratic Republic of the Congo, with cases also reported in Uganda, WHO convened several of its expert and advisory groups. These groups assessed potential vaccines and therapeutics for both ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
-   "id": "a-5408f5b336c6",
-   "title": "Message by the WHO Director-General to the people of the Democratic Republic of the Congo",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/28-05-2026-message-by-the-who-director-general-to-the-people-of-the-democratic-republic-of-the-congo",
-   "published_date": "2026-05-28",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "To the people of DRC, especially to the people of Ituri Jambo kwenu wakahaji wa Ituri Mbote na bino, bato ya Ituri My name is Tedros, and I am the Director-General of the World Health Organization (WHO). But today, I am not writing to you as an official. I am writing to you as someone who knows ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
    "id": "chem-01",
    "title": "OPCW team finds undeclared chemical weapons in Syria",
    "source_name": "OPCW",
@@ -1846,329 +2169,6 @@
    "summary": "An OPCW expert team reported discovering a significant quantity of previously undeclared chemical munitions, related materials and documentation, supporting the Secretariat's long-standing assessment that the former government understated the programme's scope.",
    "why_it_matters": "Reopens the declaration-accuracy question and resets the inventory verification is measured against.",
    "source_url": "https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"
-  },
-  {
-   "id": "a-9810428c05f9",
-   "title": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-growing-number-of-salmonella-illnesses-and-outbreaks-linked-to-moringa-leaf-products-consumers.html",
-   "published_date": "2026-05-27",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "New Alert: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:06+00:00"
-  },
-  {
-   "id": "a-60de08d0af64",
-   "title": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-alert-update-growing-number-of-salmonella-illnesses-and-outbreaks-linked-to-moringa-leaf-products.html",
-   "published_date": "2026-05-27",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Alert Update: Growing number of Salmonella illnesses and outbreaks linked to moringa leaf products",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:06+00:00"
-  },
-  {
-   "id": "a-3cc35318d267",
-   "title": "Enhanced Ebola Airport Screening Expands to Atlanta",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/enhanced-ebola-airport-screening-expands-to-atlanta.html",
-   "published_date": "2026-05-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Enhanced Ebola Airport Screening Expands to Atlanta",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:07+00:00"
-  },
-  {
-   "id": "a-3540fbbc99da",
-   "title": "Seventy-ninth World Health Assembly – Daily update: 23 May 2026",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/23-05-2026-seventy-ninth-world-health-assembly---daily-update--23-may-2026",
-   "published_date": "2026-05-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Summary of discussions of 23 May at the Seventy-ninth World Health Assembly.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
-   "id": "a-8344516008f1",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/22/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-22-2026.html",
-   "published_date": "2026-05-22",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/22/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:08+00:00"
-  },
-  {
-   "id": "a-270f5770c17f",
-   "title": "Statement: Update on Title 42 Order",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/statement-update-on-title-42-order.html",
-   "published_date": "2026-05-22",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement: Update on Title 42 Order",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:07+00:00"
-  },
-  {
-   "id": "a-e1d057f29626",
-   "title": "Seventy-ninth World Health Assembly – Daily update: 22 May 2026",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/22-05-2026-seventy-ninth-world-health-assembly-daily-update-22-may-2026",
-   "published_date": "2026-05-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Summary of discussions of 22 May at the Seventy-ninth World Health Assembly.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-61be04221d09",
-   "title": "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
-   "published_date": "2026-05-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Committee’s advice aligned with the determination by the WHO Director-General that the event constitutes a public health emergency of international concern (PHEIC), but does not meet the criteria for pandemic emergency. The DG, considering the advice of the Committee, he is hereby issuing the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-b5a858c4a581",
-   "title": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-enhanced-ebola-airport-screening-begins-at-washington-dulles-international-airport.html",
-   "published_date": "2026-05-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Enhanced Ebola Airport Screening Begins at Washington-Dulles International Airport",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:08+00:00"
-  },
-  {
-   "id": "a-dbf407729f55",
-   "title": "Seventy-ninth World Health Assembly – Daily update: 21 May 2026",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/21-05-2026-seventy-ninth-world-health-assembly---daily-update--21-may-2026",
-   "published_date": "2026-05-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Summary of discussions of 21 May at the Seventy-ninth World Health Assembly.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-127beddcfd52",
-   "title": "Seventy-ninth World Health Assembly – Daily update: 20 May 2026",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly---daily-update--20-may-2026",
-   "published_date": "2026-05-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Summary of discussions of 20 May at the Seventy-ninth World Health Assembly.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-ad0e6a2d6d42",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/20/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-20-2026.html",
-   "published_date": "2026-05-20",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/20/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:08+00:00"
-  },
-  {
-   "id": "a-9b2786df7c7f",
-   "title": "Seventy-ninth World Health Assembly – Daily update: 19 May 2026",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/19-05-2026-seventy-ninth-world-health-assembly---daily-update--19-may-2026",
-   "published_date": "2026-05-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Summary of discussions of 19 May at Seventy-ninth World Health Assembly",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-853ec22e275e",
-   "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
-   "published_date": "2026-05-20",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Today, the World Health Assembly recognized individuals and institutions whose contributions to global health have gone far beyond the call of duty. Six laureates representing diverse backgrounds and contexts were honoured by the President of the Seventy-ninth World Health Assembly, Dr Víctor Elias ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-4780fa08b085",
-   "title": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html",
-   "published_date": "2026-05-19",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:10+00:00"
-  },
-  {
-   "id": "a-690647ee51f7",
-   "title": "Transcript - Updates on CDC's Response to Ebola Outbreak in DRC and Uganda and Hantavirus Linked to M/V Hondius, 5/19/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-updates-on-cdcs-response-to-the-ebola-outbreak-in-drc-and-uganda-and-the-hantavirus.html",
-   "published_date": "2026-05-19",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Updates on CDC's Response to Ebola Outbreak in DRC and Uganda and Hantavirus Linked to M/V Hondius, 5/19/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:09+00:00"
-  },
-  {
-   "id": "a-7d0b00c876c0",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/18/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-5-18-2026.html",
-   "published_date": "2026-05-18",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 5/18/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:11+00:00"
-  },
-  {
-   "id": "a-ab79503b0c04",
-   "title": "World Health Assembly opens in Geneva, Switzerland",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
-   "published_date": "2026-05-18",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Seventy-ninth session of the World Health Assembly (WHA79) opened in Geneva, Switzerland today, with the election of Dr Víctor Elías Atallah Lajam of the Dominican Republic as the President of the Health Assembly. The elected Vice-Presidents are Dr Mohamed Ali Al-Ghouj of Libya, Dr Assa ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
-  },
-  {
-   "id": "a-99a40e0717aa",
-   "title": "Director-General presents Award for Global Health to four distinguished leaders",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/18-05-2026-director-general-presents-award-for-global-health-to-four-distinguished-leaders",
-   "published_date": "2026-05-18",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "At the Seventy-ninth World Health Assembly in Geneva, WHO Director-General Dr Tedros Adhanom Ghebreyesus has presented four distinguished leaders with the Award for Global Health, recognizing their lifetime achievements and exceptional contributions to improving the health and well-being of ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:50+00:00"
   },
   {
    "id": "rad-01",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-16T11:13:32+00:00",
+ "updated_at": "2026-07-16T14:16:43+00:00",
  "sources_ok": "5/7"
 }
