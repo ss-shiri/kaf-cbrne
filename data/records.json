@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f3f1b48d93e1",
+   "title": "Peacekeepers step up support as families return to south Lebanon",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167961",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T22:07:33+00:00"
+  },
+  {
+   "id": "a-d503edc2b07b",
+   "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167960",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-16T22:07:33+00:00"
+  },
+  {
    "id": "a-1155c48aa6e4",
    "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
    "source_name": "UN News",
@@ -2117,40 +2151,6 @@
    "ingested_at": "2026-07-12T10:13:06+00:00"
   },
   {
-   "id": "a-f2d4f41486a7",
-   "title": "Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-   "published_date": "2026-05-31",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the people of Ituri Province and the nation at large, following the joint mission to Bunia led by Dr ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
-   "id": "a-1958e468d189",
-   "title": "WHO urges governments to protect young people from addiction to tobacco and nicotine products",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
-   "published_date": "2026-05-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Worldwide, at least 40 million children aged 13–15 use tobacco products, and young people’s use of e-cigarettes and nicotine pouches continues to rise. In advance of World No Tobacco Day – 31 May – the World Health Organization (WHO) urges governments around the world to protect a new generation ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
    "id": "chem-01",
    "title": "OPCW team finds undeclared chemical weapons in Syria",
    "source_name": "OPCW",
@@ -2233,6 +2233,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-16T19:31:03+00:00",
+ "updated_at": "2026-07-16T22:21:16+00:00",
  "sources_ok": "5/7"
 }
