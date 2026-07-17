@@ -1,7 +1,58 @@
 {
- "compiled": "2026-07-16",
+ "compiled": "2026-07-17",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-c09cb008e615",
+   "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167957",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Member States reaffirmed their commitment to the Sustainable Development Goals (SDGs) by adopting a declaration on Wednesday that they will implement reforms to help close the $4 trillion SDG financing gap.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T03:17:01+00:00"
+  },
+  {
+   "id": "a-524e9512650f",
+   "title": "‘Heat deaths are not inevitable’: WHO pushes Europe to heat‑proof its hospitals",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167955",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Europe battles a deadly record-breaking heatwave, the World Health Organization (WHO) issued new guidance on Thursday to help countries face scorching temperatures now and in the future.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T03:17:01+00:00"
+  },
+  {
+   "id": "a-5d5940fb8bf8",
+   "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167959",
+   "published_date": "2026-07-16",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T03:17:00+00:00"
+  },
   {
    "id": "a-f3f1b48d93e1",
    "title": "Peacekeepers step up support as families return to south Lebanon",
@@ -2058,24 +2109,6 @@
    "ingested_at": "2026-07-12T10:13:04+00:00"
   },
   {
-   "id": "a-98fbac0663bf",
-   "title": "Africa CDC and WHO launch joint continental Ebola response plan",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-   "published_date": "2026-06-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Nuclear",
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2115,40 +2148,6 @@
    "summary": "The UN's senior disarmament official told the Security Council the find included munitions of a type linked to the 2013 Ghouta attack, and stressed the recovered materials must be declared and destroyed under OPCW verification. More than 100 sites remain to be assessed.",
    "why_it_matters": "Signals the scale of remaining verification work and the friction likely to shape it.",
    "source_url": "https://news.un.org/en/story/2026/06/1167652"
-  },
-  {
-   "id": "a-41aacca130be",
-   "title": "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
-   "published_date": "2026-06-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organization (WHO).",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
-   "id": "a-d3bf7e49cd0e",
-   "title": "CDC Highlights Adverse Outcomes Linked to Travel-Related Cosmetic Procedures",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-highlights-adverse-outcomes-linked-to-travel-related-cosmetic-procedures.html",
-   "published_date": "2026-06-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Highlights Adverse Outcomes Linked to Travel-Related Cosmetic Procedures",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:06+00:00"
   },
   {
    "id": "chem-01",
@@ -2233,6 +2232,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-16T22:21:16+00:00",
+ "updated_at": "2026-07-17T03:29:08+00:00",
  "sources_ok": "5/7"
 }
