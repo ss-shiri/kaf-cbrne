@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9b5b300fef2f",
+   "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/shredded-iceberg-lettuce-served-at-taco-bell-locations-is-source-of-cyclosporiasis-infections.html",
+   "published_date": "2026-07-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC: Avoid Taco Bell shredded lettuce in 5 states after Cyclospora outbreak; 1,644 sick",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T19:19:15+00:00"
+  },
+  {
+   "id": "a-e367b8feb9ef",
+   "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167970",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights chief, Volker Türk, has appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T19:18:54+00:00"
+  },
+  {
    "id": "a-f1ae7e908859",
    "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
    "source_name": "CDC Newsroom",
@@ -2073,40 +2107,6 @@
    "ingested_at": "2026-07-12T10:13:04+00:00"
   },
   {
-   "id": "a-58eb51b3dcdb",
-   "title": "CDC Activates Emergency Operations Center for New World Screwworm Response",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-activates-emergency-operations-center-for-new-world-screwworm-response.html",
-   "published_date": "2026-06-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Activates Emergency Operations Center for New World Screwworm Response",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:04+00:00"
-  },
-  {
-   "id": "a-fbbc5f7e248b",
-   "title": "Safe blood supply improves as voluntary donations exceed 85%, but many people still lack access",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/12-06-2026-safe-blood-supply-improves-as-voluntary-donations-exceed-85---but-many-people-still-lack-access",
-   "published_date": "2026-06-12",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "New data from the World Health Organization (WHO) show sustained progress towards safer blood supplies globally but also highlight persistent inequalities in access to safe blood and weaknesses in governance, financing and regulation of blood systems.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-17T16:29:58+00:00",
+ "updated_at": "2026-07-17T19:30:24+00:00",
  "sources_ok": "5/7"
 }
