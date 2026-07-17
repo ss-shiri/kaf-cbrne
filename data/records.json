@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f1ae7e908859",
+   "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766028",
+   "published_date": "2026-07-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC: Avoid Taco Bell shredded lettuce in 5 states after Cyclospora outbreak; 1,644 sick",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T16:19:53+00:00"
+  },
+  {
+   "id": "a-57c8d10ebfe5",
+   "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167965",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T16:19:44+00:00"
+  },
+  {
+   "id": "a-7b20eb2dbb65",
+   "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167967",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN humanitarians working in war-torn Sudan on Friday highlighted rapidly growing needs among the more than 100,000 displaced people now sheltering in camps in the city of El Obeid.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T16:19:43+00:00"
+  },
+  {
+   "id": "a-ef5d872f2888",
+   "title": "Healthy Soil, Healthy Crops in Seychelles",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/node/289221",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T16:19:37+00:00"
+  },
+  {
    "id": "a-c09cb008e615",
    "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
    "source_name": "UN News",
@@ -2039,76 +2107,6 @@
    "ingested_at": "2026-07-12T10:12:49+00:00"
   },
   {
-   "id": "a-16978b12a298",
-   "title": "How is AI transforming chemistry — and why should chemical industry professionals keep up?",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/06/how-ai-transforming-chemistry-and-why-should-chemical-industry",
-   "published_date": "2026-06-10",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical",
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "How is AI transforming chemistry — and why should chemical industry professionals keep up? Participants in the 2026 Seoul Workshop on the Peaceful Development and Use of Chemistry, which took place from 14 to 16 April 2026 in Seoul, Republic of Korea. THE HAGUE, Netherlands—10 June 2026— Artificial ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-55cddf6d201a",
-   "title": "Welcoming Remarks at the Advisory Body on Administrative and Financial Matters (ABAF) 60th Session",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/06/welcoming-remarks-advisory-body-administrative-and",
-   "published_date": "2026-06-09",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Welcoming Remarks at the Advisory Body on Administrative and Financial Matters (ABAF) 60th Session kviray Tue 09/06/2026 - 16:55 Welcoming remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Dear Chairperson, Distinguished Members of the ABAF, I would like to extend to all ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:47+00:00"
-  },
-  {
-   "id": "a-d92193d39222",
-   "title": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-warns-of-listeria-outbreak-linked-to-requeson-soft-ricotta-cheese.html",
-   "published_date": "2026-06-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T13:50:31+00:00"
-  },
-  {
-   "id": "a-446ae2ef9f5a",
-   "title": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-5-2026.html",
-   "published_date": "2026-06-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T10:52:35+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2232,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-17T14:00:25+00:00",
+ "updated_at": "2026-07-17T16:29:58+00:00",
  "sources_ok": "5/7"
 }
