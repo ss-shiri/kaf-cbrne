@@ -2075,6 +2075,23 @@
    "ingested_at": "2026-07-12T10:12:47+00:00"
   },
   {
+   "id": "a-d92193d39222",
+   "title": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-warns-of-listeria-outbreak-linked-to-requeson-soft-ricotta-cheese.html",
+   "published_date": "2026-06-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC warns of Listeria outbreak linked to requesón/soft ricotta cheese",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-17T13:50:31+00:00"
+  },
+  {
    "id": "a-446ae2ef9f5a",
    "title": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
    "source_name": "CDC Newsroom",
@@ -2090,24 +2107,6 @@
    "summary": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
    "why_it_matters": "",
    "ingested_at": "2026-07-17T10:52:35+00:00"
-  },
-  {
-   "id": "a-98fbac0663bf",
-   "title": "Africa CDC and WHO launch joint continental Ebola response plan",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-   "published_date": "2026-06-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Nuclear",
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T08:19:30+00:00"
   },
   {
    "id": "nuc-01",
@@ -2233,6 +2232,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-17T11:05:29+00:00",
+ "updated_at": "2026-07-17T14:00:25+00:00",
  "sources_ok": "5/7"
 }
