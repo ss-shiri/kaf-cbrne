@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-21646b21b33b",
+   "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167973",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-18T13:27:14+00:00"
+  },
+  {
    "id": "a-9b5b300fef2f",
    "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
    "source_name": "CDC Newsroom",
@@ -2090,23 +2107,6 @@
    "ingested_at": "2026-07-12T10:12:49+00:00"
   },
   {
-   "id": "a-90d52a382e10",
-   "title": "CDC Outbreak Update: Infant Botulism Linked to Powdered Infant Formula",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/infant-botulism-outbreak-linked-to-powdered-infant-formula-june-2026.html",
-   "published_date": "2026-06-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Parents urged to immediately stop using all Nara Organics Whole Milk Organic Infant Formula.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:04+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-18T10:33:31+00:00",
+ "updated_at": "2026-07-18T13:37:30+00:00",
  "sources_ok": "5/7"
 }
