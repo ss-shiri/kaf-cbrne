@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-24af9ab1b94c",
+   "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167963",
+   "published_date": "2026-07-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For millions of Haitians, daily life has become a struggle to stay safe, find enough food and simply move around their own neighbourhood.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-19T19:13:45+00:00"
+  },
+  {
    "id": "a-865311663043",
    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
    "source_name": "UN News",
@@ -2087,24 +2104,6 @@
    "ingested_at": "2026-07-12T10:12:48+00:00"
   },
   {
-   "id": "a-a56abb4ac8cd",
-   "title": "Welcoming Remarks at the Visit by the United Nations Disarmament Fellowship Programme to the OPCW",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/06/welcoming-remarks-visit-united-nations-disarmament",
-   "published_date": "2026-06-16",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Welcoming Remarks at the Visit by the United Nations Disarmament Fellowship Programme to the OPCW kviray Tue 16/06/2026 - 11:45 Welcoming remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Dear Fellows, Good morning, and welcome to the Organisation for the Prohibition of ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2228,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-19T16:15:56+00:00",
+ "updated_at": "2026-07-19T19:22:19+00:00",
  "sources_ok": "5/7"
 }
