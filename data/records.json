@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-865311663043",
+   "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-19T16:01:30+00:00"
+  },
+  {
    "id": "a-21646b21b33b",
    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
    "source_name": "UN News",
@@ -460,6 +477,23 @@
    "summary": "In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) ...",
    "why_it_matters": "",
    "ingested_at": "2026-07-15T10:56:01+00:00"
+  },
+  {
+   "id": "a-7cc5aa17383d",
+   "title": "West Africa and the Sahel: Terrorism is changing its face",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/07/1167940",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-19T16:01:33+00:00"
   },
   {
    "id": "a-898362fad441",
@@ -2071,42 +2105,6 @@
    "ingested_at": "2026-07-12T10:12:46+00:00"
   },
   {
-   "id": "a-49eb6fd5a189",
-   "title": "OPCW and UNODA partner to bridge gap between scientists and policymakers",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/06/opcw-and-unoda-partner-bridge-gap-between-scientists-and-policymakers",
-   "published_date": "2026-06-16",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical",
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW and UNODA partner to bridge gap between scientists and policymakers The Organisation for the Prohibition of Chemical Weapons (OPCW) and United Nations Office for Disarmament Affairs (UNODA) brought together 25 chemists and biologists for the first joint workshop on policy and diplomacy for ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-40c260e5f4f5",
-   "title": "Open letter to leaders of G7, G20, BRICS and all nations on finalizing the WHO Pandemic Agreement’s Pathogen Access and Benefit Sharing annex",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
-   "published_date": "2026-06-15",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Dear Leaders of the G7, the G20, BRICS and of all nations, We write to you together, from Geneva and from Brasília, with one shared conviction: that the world must finish what it started, and that you can help it do so. We begin not with an institution or an annex, but with a memory the whole world ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:49+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2230,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-19T13:46:33+00:00",
+ "updated_at": "2026-07-19T16:15:56+00:00",
  "sources_ok": "5/7"
 }
