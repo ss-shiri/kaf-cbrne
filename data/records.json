@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f50132944a12",
+   "title": "Ukraine: UN condemns overnight attack on Kyiv",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167975",
+   "published_date": "2026-07-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-19T21:58:40+00:00"
+  },
+  {
    "id": "a-24af9ab1b94c",
    "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
    "source_name": "UN News",
@@ -2087,23 +2104,6 @@
    "ingested_at": "2026-07-12T10:13:03+00:00"
   },
   {
-   "id": "a-fb190c09a934",
-   "title": "WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
-   "published_date": "2026-06-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "As the Democratic Republic of the Congo is battling an Ebola disease outbreak caused by the Bundibugyo virus, the World Health Organization (WHO) has released its first comprehensive guidelines for the clinical management of filovirus disease which include all types of Ebola and Marburg viruses. ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:48+00:00"
-  },
-  {
    "id": "nuc-01",
    "title": "IAEA maintains finding of Iranian non-compliance with NPT safeguards",
    "source_name": "IAEA",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-19T19:22:19+00:00",
+ "updated_at": "2026-07-19T22:13:05+00:00",
  "sources_ok": "5/7"
 }
