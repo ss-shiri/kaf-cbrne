@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d751b671fc6a",
+   "title": "IAEA Launches New NUTEC Plastics Global Marine Monitoring Platform",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-launches-new-nutec-plastics-global-marine-monitoring-platform",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T16:27:50+00:00"
+  },
+  {
    "id": "a-38687f379ddf",
    "title": "Moon Day focuses growing concerns around space junk",
    "source_name": "UN News",
@@ -103,6 +120,23 @@
    "summary": "For millions of Haitians, daily life has become a struggle to stay safe, find enough food and simply move around their own neighbourhood.",
    "why_it_matters": "",
    "ingested_at": "2026-07-19T19:13:45+00:00"
+  },
+  {
+   "id": "a-cd9a1ae54d2d",
+   "title": "WHO Member States continue negotiations on the Pathogen Access and Benefit Sharing Annex",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
+   "published_date": "2026-07-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "WHO Member States have advanced negotiations on the Pathogen Access and Benefit Sharing (PABS) annex, a central component of the WHO Pandemic Agreement, while agreeing that continued discussions are needed to finalize a framework that supports a faster, more effective and equitable response to ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T16:27:53+00:00"
   },
   {
    "id": "a-38894280d776",
@@ -2030,40 +2064,6 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-4b29a96dae55",
-   "title": "Update 355 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-355-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-06-26",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-fbe1b450fb78",
-   "title": "Security Council extends critical stabilisation force in Syria",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167813",
-   "published_date": "2026-06-25",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:59+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-20T14:34:36+00:00",
+ "updated_at": "2026-07-20T16:40:44+00:00",
  "sources_ok": "5/7"
 }
