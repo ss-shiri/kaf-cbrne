@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-38687f379ddf",
+   "title": "Moon Day focuses growing concerns around space junk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167976",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid surging lunar exploration, the UN on Monday urged governments to ensure that humanity's return to the Moon does not come at the expense of planet Earth – or the long-term sustainability of space.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T14:19:52+00:00"
+  },
+  {
+   "id": "a-aa23b72f34ca",
+   "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167972",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "After years of violence perpetrated by gangs, widespread insecurity and the displacement of almost 1.5 million people as well as growing humanitarian needs, Haitians are glimpsing signs of hope as a path to democratic elections begins to emerge. At UN Headquarters in New York, the 15-member ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T14:19:51+00:00"
+  },
+  {
    "id": "a-2b2a454bb60c",
    "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
    "source_name": "CDC Newsroom",
@@ -2030,40 +2064,6 @@
    "ingested_at": "2026-07-12T10:12:59+00:00"
   },
   {
-   "id": "a-6b30db358c4c",
-   "title": "Transcript - Update on CDC's Hantavirus Response - 6/24/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
-   "published_date": "2026-06-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript for an Update on CDC's Hantavirus Response - 6/24/26",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:03+00:00"
-  },
-  {
-   "id": "a-7dd87f8c47ff",
-   "title": "655 million people still living without electricity underscore urgent need to deliver on universal energy access target",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
-   "published_date": "2026-06-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and technologies for cooking putting their health and well-being at risk.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:48+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-20T09:36:11+00:00",
+ "updated_at": "2026-07-20T14:34:36+00:00",
  "sources_ok": "5/7"
 }
