@@ -71,6 +71,57 @@
    "ingested_at": "2026-07-19T19:13:45+00:00"
   },
   {
+   "id": "a-38894280d776",
+   "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167974",
+   "published_date": "2026-07-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:37+00:00"
+  },
+  {
+   "id": "a-611d526d6f7f",
+   "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167971",
+   "published_date": "2026-07-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 256,000 people in Djibouti – around 25 per cent of the population – are likely to face crisis or emergency level hunger over the coming months, a UN-backed global food monitoring network warned in a new report released Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:39+00:00"
+  },
+  {
+   "id": "a-8bbef3143601",
+   "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167954",
+   "published_date": "2026-07-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "It looks like a regular coffee shop, albeit set up in an old red bus. Stairs lead up to a serving hatch, with a menu of drink options. A selection of jaunty coffee-related messages like “My one and only love: Americano” and “Miss you a latte,” adorn the side of the bus.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:38+00:00"
+  },
+  {
    "id": "a-865311663043",
    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
    "source_name": "UN News",
@@ -205,6 +256,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-07-17T16:19:37+00:00"
+  },
+  {
+   "id": "a-a86a575236f3",
+   "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167956",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For Tanatswa Amanda Chikaura, mental health advocacy began with a personal loss: while studying psychology at the University of Zimbabwe, she learned that a fellow student had died by suicide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:41+00:00"
+  },
+  {
+   "id": "a-408bb7748924",
+   "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167964",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:41+00:00"
+  },
+  {
+   "id": "a-fc8a6b76ac5f",
+   "title": "Haiti: Training the next generation to fight corruption",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167931",
+   "published_date": "2026-07-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "How do you tackle corruption in a country grappling with insecurity, weak institutions and widespread impunity? In Haiti, the Government and the United Nations are betting on the country's youth.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T09:25:40+00:00"
   },
   {
    "id": "a-c09cb008e615",
@@ -1962,108 +2064,6 @@
    "ingested_at": "2026-07-12T10:12:48+00:00"
   },
   {
-   "id": "a-e37d9523080f",
-   "title": "Finland provides voluntary funding to support OPCW missions in Syria",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/06/finland-provides-voluntary-funding-support-opcw-missions-syria",
-   "published_date": "2026-06-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Finland provides voluntary funding to support OPCW missions in Syria Permanent Representative of Finland to the OPCW, H.E.Mr Ilkka-Pekka Similä, and the OPCW Director-General, Ambassador Fernando Arias THE HAGUE, Netherlands—24 June 2026—The Government of the Republic of Finland has voluntarily ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-649d16ff26c9",
-   "title": "IAEA Mission Says Egypt is Committed to Strengthening its National Regulatory Framework for Safety",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-egypt-is-committed-to-strengthening-its-national-regulatory-framework-for-safety",
-   "published_date": "2026-06-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-a129e6648877",
-   "title": "IAEA Director General Joins International Experts Sampling Seawater Near Fukushima",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-director-general-joins-international-experts-sampling-seawater-near-fukushima",
-   "published_date": "2026-06-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-6a6d66f00d6b",
-   "title": "WHO urges scale up of newborn screening to improve early detection and care of birth defects",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
-   "published_date": "2026-06-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) today calls on countries to expand newborn screening for birth defects, highlighting how early detection and treatment can save lives and reduce lifelong disability for millions of children. A new WHO report, Strengthening capacity for newborn screening, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:48+00:00"
-  },
-  {
-   "id": "a-5c07ba96b922",
-   "title": "South Africa Advances Cancer Care Following First ImPACT Review",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/south-africa-advances-cancer-care-following-first-impact-review",
-   "published_date": "2026-06-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-672a431c36bb",
-   "title": "IAEA Hosts Conference on Accelerators for Research and Innovation",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-conference-on-accelerators-for-research-and-innovation",
-   "published_date": "2026-06-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-20T03:52:38+00:00",
+ "updated_at": "2026-07-20T09:36:11+00:00",
  "sources_ok": "5/7"
 }
