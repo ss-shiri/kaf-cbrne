@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-67befdbfde45",
+   "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167979",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T22:05:05+00:00"
+  },
+  {
+   "id": "a-2f15f014f272",
+   "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167980",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian attacks and drone strikes killed at least two children and injured dozens more across Ukraine over recent days while severely damaging three critical aid warehouses, UN agencies reported on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T22:05:04+00:00"
+  },
+  {
    "id": "a-c81ed2a65baf",
    "title": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
    "source_name": "UN News",
@@ -1996,6 +2030,23 @@
    "source_url": "https://www.timesofisrael.com/us-iran-deal-grants-un-inspectors-access-to-nuclear-sites-iaea-chief-says/"
   },
   {
+   "id": "a-b33cfc340fa7",
+   "title": "IAEA Director General in Japan Supporting Nuclear Energy, Safety and Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-director-general-in-japan-supporting-nuclear-energy-safety-and-cancer-care",
+   "published_date": "2026-06-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T22:04:58+00:00"
+  },
+  {
    "id": "a-ba04c9a020e6",
    "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda: 6/26/26",
    "source_name": "CDC Newsroom",
@@ -2011,57 +2062,6 @@
    "summary": "Audio file also available.",
    "why_it_matters": "",
    "ingested_at": "2026-07-12T10:13:03+00:00"
-  },
-  {
-   "id": "a-5d1844aa72fe",
-   "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167818",
-   "published_date": "2026-06-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:59+00:00"
-  },
-  {
-   "id": "a-e12d1fbdef15",
-   "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167824",
-   "published_date": "2026-06-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The new head of the UN mission in the Democratic Republic of the Congo (DRC) has urged parties to the peace processes for the volatile eastern region to maintain momentum and fully implement their commitments.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:58+00:00"
-  },
-  {
-   "id": "a-9371e2abbbc7",
-   "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167821",
-   "published_date": "2026-06-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:58+00:00"
   },
   {
    "id": "bio-01",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-20T20:01:18+00:00",
+ "updated_at": "2026-07-20T22:16:12+00:00",
  "sources_ok": "5/7"
 }
