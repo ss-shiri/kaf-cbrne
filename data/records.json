@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c81ed2a65baf",
+   "title": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167978",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When a 12-story apartment building pancaked in La Guaira, Venezuela, following two powerful earthquakes late last month, panic ensued to save people injured or trapped under the rubble.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T19:49:19+00:00"
+  },
+  {
    "id": "a-d751b671fc6a",
    "title": "IAEA Launches New NUTEC Plastics Global Marine Monitoring Platform",
    "source_name": "IAEA",
@@ -2047,23 +2064,6 @@
    "ingested_at": "2026-07-12T10:12:58+00:00"
   },
   {
-   "id": "a-b33cfc340fa7",
-   "title": "IAEA Director General in Japan Supporting Nuclear Energy, Safety and Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-director-general-in-japan-supporting-nuclear-energy-safety-and-cancer-care",
-   "published_date": "2026-06-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-20T16:40:44+00:00",
+ "updated_at": "2026-07-20T20:01:18+00:00",
  "sources_ok": "5/7"
 }
