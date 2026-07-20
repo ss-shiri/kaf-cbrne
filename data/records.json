@@ -1,7 +1,41 @@
 {
- "compiled": "2026-07-19",
+ "compiled": "2026-07-20",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-2b2a454bb60c",
+   "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766045",
+   "published_date": "2026-07-19",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The FIFA World Cup 2026(TM) brought 48 teams and millions of fans to 16 North American cities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T03:39:58+00:00"
+  },
+  {
+   "id": "a-174d95c61243",
+   "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
+   "published_date": "2026-07-19",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The FIFA World Cup 2026(TM) brought 48 teams and millions of fans to 16 North American cities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-20T03:39:58+00:00"
+  },
   {
    "id": "a-f50132944a12",
    "title": "Ukraine: UN condemns overnight attack on Kyiv",
@@ -2030,23 +2064,6 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-02ac0c17ae7c",
-   "title": "IAEA Releases First Public Tool to Map the World's Spent Nuclear Fuel",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-releases-first-public-tool-to-map-the-worlds-spent-nuclear-fuel",
-   "published_date": "2026-06-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2085,23 +2102,6 @@
    "summary": "Kerala authorities confirmed one laboratory-confirmed Nipah case in Kozhikode district, with over 100 contacts monitored and no secondary cases reported at the time. Nipah remains a WHO priority pathogen with high case fatality and no licensed vaccine.",
    "why_it_matters": "Recurrent spillovers keep a high-lethality zoonosis on the priority-pathogen watchlist.",
    "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609"
-  },
-  {
-   "id": "a-16ac739a11b8",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda and CDC's World Cup 2026(TM) activation",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-and-cdcs.html",
-   "published_date": "2026-06-18",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda and CDC's World Cup 2026(TM) activation",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:03+00:00"
   },
   {
    "id": "nuc-01",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-19T22:13:05+00:00",
+ "updated_at": "2026-07-20T03:52:38+00:00",
  "sources_ok": "5/7"
 }
