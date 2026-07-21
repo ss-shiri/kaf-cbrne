@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-539534b157de",
+   "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167989",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T22:07:46+00:00"
+  },
+  {
+   "id": "a-245de1f61896",
+   "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167992",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent UN human rights experts on Tuesday condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T22:07:45+00:00"
+  },
+  {
+   "id": "a-ea7e7bfedc42",
+   "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167991",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T22:07:45+00:00"
+  },
+  {
+   "id": "a-a490f58760f5",
+   "title": "UN report: Global hunger levels ease for third consecutive year as regional disparities persist",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sustainable Development Goals by 2030, according to The State of Food Security and Nutrition in the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T22:07:41+00:00"
+  },
+  {
    "id": "a-fc8f731523ee",
    "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
    "source_name": "UN News",
@@ -1975,75 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:57+00:00"
   },
   {
-   "id": "a-123b5a8c10c0",
-   "title": "IAEA Reviews Progress of Uzbekistan’s Nuclear Power Infrastructure Development",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-uzbekistans-nuclear-power-infrastructure-development",
-   "published_date": "2026-06-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-cdee96454c4b",
-   "title": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/06/statement-director-general-opcw-fernando-arias-commemorate-39th",
-   "published_date": "2026-06-29",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran Delivered by Ambassador Fernando Arias, OPCW Director-General THE HAGUE, Netherlands–28 June 2026 Distinguished attendees, It is an honour for me ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T16:26:27+00:00"
-  },
-  {
-   "id": "a-9dacecb3d0f2",
-   "title": "IAEA Hosts Global Conference on Nuclear Installation Safety",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-global-conference-on-nuclear-installation-safety",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T16:26:25+00:00"
-  },
-  {
-   "id": "a-55154d4b4073",
-   "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167833",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Missile and drone attacks killed at least a dozen civilians in Russia and Ukraine over the weekend as both countries continue to launch long-range drone strikes.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T19:52:12+00:00",
+ "updated_at": "2026-07-21T22:19:36+00:00",
  "sources_ok": "5/7"
 }
