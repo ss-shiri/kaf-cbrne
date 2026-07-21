@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-4e0a137efd79",
+   "title": "WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
+   "published_date": "2026-07-20",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low- and middle-income countries with affordable or free access to scientific knowledge. The ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T08:37:19+00:00"
+  },
+  {
+   "id": "a-64e931949a63",
+   "title": "Road deaths fall by 21% globally but stronger action is needed to save lives",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
+   "published_date": "2026-07-20",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Despite the addition of more than one billion motor-vehicles to the world’s roads, road traffic deaths declined by 21% between 2011 and 2025, according to new data released by the World Health Organization (WHO). The world has experienced profound changes in road traffic during this time with the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T08:37:19+00:00"
+  },
+  {
    "id": "a-67befdbfde45",
    "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
    "source_name": "UN News",
@@ -2030,40 +2064,6 @@
    "source_url": "https://www.timesofisrael.com/us-iran-deal-grants-un-inspectors-access-to-nuclear-sites-iaea-chief-says/"
   },
   {
-   "id": "a-b33cfc340fa7",
-   "title": "IAEA Director General in Japan Supporting Nuclear Energy, Safety and Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-director-general-in-japan-supporting-nuclear-energy-safety-and-cancer-care",
-   "published_date": "2026-06-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T22:04:58+00:00"
-  },
-  {
-   "id": "a-ba04c9a020e6",
-   "title": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda: 6/26/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-26-26.html",
-   "published_date": "2026-06-26",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Audio file also available.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:03+00:00"
-  },
-  {
    "id": "bio-01",
    "title": "WHO tracks Bundibugyo Ebola outbreak declared a public health emergency",
    "source_name": "WHO",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T03:29:30+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-07-21T08:46:21+00:00",
+ "sources_ok": "5/7"
 }
