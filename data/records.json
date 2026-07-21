@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-fc8f731523ee",
+   "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167984",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T19:39:32+00:00"
+  },
+  {
    "id": "a-1766dab54897",
    "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-12T10:12:58+00:00"
   },
   {
-   "id": "a-85bf31166bd0",
-   "title": "Middle East conflict leaves developing countries paying the price",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167831",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T16:41:42+00:00",
+ "updated_at": "2026-07-21T19:52:12+00:00",
  "sources_ok": "5/7"
 }
