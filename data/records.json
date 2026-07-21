@@ -1975,6 +1975,41 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
+   "id": "a-cdee96454c4b",
+   "title": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/06/statement-director-general-opcw-fernando-arias-commemorate-39th",
+   "published_date": "2026-06-29",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran Delivered by Ambassador Fernando Arias, OPCW Director-General THE HAGUE, Netherlands–28 June 2026 Distinguished attendees, It is an honour for me ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T16:26:27+00:00"
+  },
+  {
+   "id": "a-9dacecb3d0f2",
+   "title": "IAEA Hosts Global Conference on Nuclear Installation Safety",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-global-conference-on-nuclear-installation-safety",
+   "published_date": "2026-06-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T16:26:25+00:00"
+  },
+  {
    "id": "a-55154d4b4073",
    "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
    "source_name": "UN News",
@@ -2007,40 +2042,6 @@
    "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
    "why_it_matters": "",
    "ingested_at": "2026-07-12T10:12:58+00:00"
-  },
-  {
-   "id": "a-0888fbaae375",
-   "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167830",
-   "published_date": "2026-06-29",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:58+00:00"
-  },
-  {
-   "id": "a-8f82257e1b4e",
-   "title": "World News in Brief: Afghanistan airstrikes, rights violations in DR Congo, Gaza displacement",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167835",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 28 civilians were killed and 49 injured in airstrikes carried out in Paktya, Paktika and Kunar provinces in Afghanistan on Sunday evening, the UN Mission in the country has reported.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:57+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T14:17:05+00:00",
+ "updated_at": "2026-07-21T16:41:42+00:00",
  "sources_ok": "5/7"
 }
