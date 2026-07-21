@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-1766dab54897",
+   "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167983",
+   "published_date": "2026-07-21",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the Democratic Republic of the Congo (DRC), UN health teams and partners are still racing to contain the rapidly expanding Ebola outbreak, despite ongoing insecurity in eastern areas where the virus has taken hold. As of 19 July, the DRC Government has recorded 2,423 confirmed cases, including ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T14:07:04+00:00"
+  },
+  {
+   "id": "a-5f7bb58fdd7f",
+   "title": "From the General Assembly to Harlem: Mandela’s call to action endures",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167981",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sixty-seven minutes. That is how long volunteers spent serving lunch to people experiencing food insecurity at Refettorio Harlem in New York City last week – one for every year Nelson Mandela gave to public service.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T14:07:05+00:00"
+  },
+  {
+   "id": "a-a2b74f775267",
+   "title": "Health response brings lifesaving care closer to thousands in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167982",
+   "published_date": "2026-07-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Thousands of people in some of Yemen's most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the UN aid coordination office (OCHA) through the Yemen Humanitarian Fund.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-21T14:07:05+00:00"
+  },
+  {
    "id": "a-4e0a137efd79",
    "title": "WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries",
    "source_name": "WHO Outbreak News",
@@ -1992,58 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:57+00:00"
   },
   {
-   "id": "a-52a83c5395fa",
-   "title": "International cooperation critical as terrorism threat evolves",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167834",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Terrorism is evolving amid global instability characterised by heightened geopolitical tensions, protracted conflicts and growing fragmentation – and the international response must also evolve to meet the challenge.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:57+00:00"
-  },
-  {
-   "id": "a-cdee96454c4b",
-   "title": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/06/statement-director-general-opcw-fernando-arias-commemorate-39th",
-   "published_date": "2026-06-29",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement by the Director-General of the OPCW, Fernando Arias, to commemorate the 39th anniversary of the 1987 chemical weapons attack on Sardasht, Iran Delivered by Ambassador Fernando Arias, OPCW Director-General THE HAGUE, Netherlands–28 June 2026 Distinguished attendees, It is an honour for me ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-9dacecb3d0f2",
-   "title": "IAEA Hosts Global Conference on Nuclear Installation Safety",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-global-conference-on-nuclear-installation-safety",
-   "published_date": "2026-06-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T11:22:20+00:00",
+ "updated_at": "2026-07-21T14:17:05+00:00",
  "sources_ok": "5/7"
 }
