@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-b4ff9ea1b500",
+   "title": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-supports-syrian-authorities-strengthening-capacity-implement",
+   "published_date": "2026-07-22",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention The OPCW has trained 26 Syrian officials as part of its growing support to help Syria rebuild the institutional capacity needed to implement the Chemical Weapons Convention and fulfil its ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T11:13:05+00:00"
+  },
+  {
    "id": "a-539534b157de",
    "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-123b5a8c10c0",
-   "title": "IAEA Reviews Progress of Uzbekistan’s Nuclear Power Infrastructure Development",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-uzbekistans-nuclear-power-infrastructure-development",
-   "published_date": "2026-06-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T03:18:00+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-22T08:48:10+00:00",
+ "updated_at": "2026-07-22T11:23:00+00:00",
  "sources_ok": "5/7"
 }
