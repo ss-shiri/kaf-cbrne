@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-05fdcae524a0",
+   "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167994",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The world's shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T14:08:52+00:00"
+  },
+  {
+   "id": "a-a8fd493382b6",
+   "title": "Critical minerals: The hidden resources powering the clean energy future",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167990",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Why are critical minerals suddenly at the centre of global politics?",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T14:08:52+00:00"
+  },
+  {
    "id": "a-b4ff9ea1b500",
    "title": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention",
    "source_name": "OPCW",
@@ -18,6 +52,57 @@
    "summary": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention The OPCW has trained 26 Syrian officials as part of its growing support to help Syria rebuild the institutional capacity needed to implement the Chemical Weapons Convention and fulfil its ...",
    "why_it_matters": "",
    "ingested_at": "2026-07-22T11:13:05+00:00"
+  },
+  {
+   "id": "a-9b1b14f5c19e",
+   "title": "Global hunger declines again but progress remains uneven across regions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167987",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Global hunger declined for a third consecutive year in 2025 showing that progress is possible, but gains remain fragile and far too slow to achieve the Sustainable Development Goals (SDGs) by the 2030 deadline.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T14:08:54+00:00"
+  },
+  {
+   "id": "a-b5776ce1a46c",
+   "title": "UN refugee agency reports 144 migrants dead or missing off Mauritanian coast",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167985",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s refugee agency (UNHCR) reports that 144 migrants attempting to reach Europe are dead or missing due to a series of “tragic maritime incidents” off the coast of Mauritania last week.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T14:08:54+00:00"
+  },
+  {
+   "id": "a-2ec82f5edf29",
+   "title": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167993",
+   "published_date": "2026-07-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN General Assembly closed its first ever High-level Meeting on road safety on Tuesday by adopting a sweeping new declaration aimed at halving road deaths by 2030 – over the sole objection of the United States.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-22T14:08:52+00:00"
   },
   {
    "id": "a-539534b157de",
@@ -1958,91 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:48+00:00"
   },
   {
-   "id": "a-b4b3d53e89cc",
-   "title": "Update 356 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-356-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-07-02",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-935a6cd04fba",
-   "title": "CDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-encourages-americans-to-stay-mosquito-bite-free-during-americas-250th-independence-day-holiday.html",
-   "published_date": "2026-07-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC: Early West Nile season brings record cases; protect against mosquito bites this holiday weekend",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:02+00:00"
-  },
-  {
-   "id": "a-8b9571d2f314",
-   "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167856",
-   "published_date": "2026-07-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone attacks by advancing rebel fighters who are besieging El Obeid, Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:56+00:00"
-  },
-  {
-   "id": "a-e2863dc16d26",
-   "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167852",
-   "published_date": "2026-07-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners warned on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:56+00:00"
-  },
-  {
-   "id": "a-01ef216005e2",
-   "title": "IAEA Holds First SMR School in a Technology Provider Country",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-holds-first-smr-school-in-a-technology-provider-country",
-   "published_date": "2026-07-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-22T11:23:00+00:00",
+ "updated_at": "2026-07-22T14:19:55+00:00",
  "sources_ok": "5/7"
 }
