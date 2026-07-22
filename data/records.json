@@ -1,5 +1,5 @@
 {
- "compiled": "2026-07-21",
+ "compiled": "2026-07-22",
  "source": "curated + auto",
  "records": [
   {
@@ -2026,21 +2026,21 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-e92867d4e190",
-   "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/06/1167844",
+   "id": "a-123b5a8c10c0",
+   "title": "IAEA Reviews Progress of Uzbekistan’s Nuclear Power Infrastructure Development",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-uzbekistans-nuclear-power-infrastructure-development",
    "published_date": "2026-06-30",
    "doc_type": "news",
    "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to a new UN report released on Tuesday.",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:57+00:00"
+   "ingested_at": "2026-07-22T03:18:00+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-21T22:19:36+00:00",
+ "updated_at": "2026-07-22T03:32:07+00:00",
  "sources_ok": "5/7"
 }
