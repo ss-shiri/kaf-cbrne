@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-be147fbe4fd6",
+   "title": "WHO launches seven strategies to prevent drowning",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Ahead of World Drowning Prevention Day on 25 July, the World Health Organization (WHO) is launching a new technical package to help governments and communities implement seven proven measures to reduce drowning deaths.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T16:39:52+00:00"
+  },
+  {
    "id": "a-771cc8c741e6",
    "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:55+00:00"
   },
   {
-   "id": "a-825a0331372c",
-   "title": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-remarks-twenty-first-session-advisory-board",
-   "published_date": "2026-07-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach kviray Fri 03/07/2026 - 08:57 Opening remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Distinguished Chairperson, Distinguished Members and Observers of the Advisory Board, Dear ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T08:38:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-23T14:26:21+00:00",
+ "updated_at": "2026-07-23T16:50:01+00:00",
  "sources_ok": "4/7"
 }
