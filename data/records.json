@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-318f4304fd2a",
+   "title": "Update 359 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-359-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-07-23",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T19:26:37+00:00"
+  },
+  {
    "id": "a-be147fbe4fd6",
    "title": "WHO launches seven strategies to prevent drowning",
    "source_name": "WHO Outbreak News",
@@ -2026,23 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-3cec9776db28",
-   "title": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167866",
-   "published_date": "2026-07-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Described as “sometimes modest, sometimes historic,” UN special political missions have quietly been preventing the escalation of conflicts during the organization’s 80-year history, becoming a key instrument for maintaining peace.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-23T16:50:01+00:00",
+ "updated_at": "2026-07-23T19:39:28+00:00",
  "sources_ok": "4/7"
 }
