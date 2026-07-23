@@ -1,7 +1,92 @@
 {
- "compiled": "2026-07-22",
+ "compiled": "2026-07-23",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-771cc8c741e6",
+   "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168000",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN partners launched the Winter Response Plan to help 2.1 million people in Ukraine survive another cold season as the country grapples with the on-going Russian invasion.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T03:25:03+00:00"
+  },
+  {
+   "id": "a-95c8ae23d9f0",
+   "title": "Nicaragua continues to weaken political freedoms, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167999",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights chief Volker Türk on Wednesday condemned new threats from Nicaragua’s co-president Daniel Ortega to hinder civil rights and prevent dissenting individuals and groups from participating in elections.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T03:25:03+00:00"
+  },
+  {
+   "id": "a-fff8df8528a5",
+   "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167996",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Flash floods have killed at least 26 people across eastern Afghanistan, including 23 in the mountainous province of Nuristan, where homes, markets and roads were swept away and search teams continued looking for people reported missing.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T03:25:03+00:00"
+  },
+  {
+   "id": "a-b7a496cdce3f",
+   "title": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1167995",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met Wednesday in New York to debate critical minerals — the lithium, cobalt and copper powering the clean energy transition. Demand is set to triple by 2030. The question: will this mineral wealth build peace and prosperity, or fund conflict and corruption? Follow live updates ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T03:25:03+00:00"
+  },
+  {
+   "id": "a-865966677125",
+   "title": "Thousands prevented from returning home to southern Lebanon",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168003",
+   "published_date": "2026-07-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T03:25:02+00:00"
+  },
   {
    "id": "a-05fdcae524a0",
    "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
@@ -1958,91 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:56+00:00"
   },
   {
-   "id": "a-aa2214833818",
-   "title": "Civilian dangers multiply as drones transform Ukraine’s battlefield",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167854",
-   "published_date": "2026-07-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:55+00:00"
-  },
-  {
-   "id": "a-825a0331372c",
-   "title": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-remarks-twenty-first-session-advisory-board",
-   "published_date": "2026-07-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach kviray Fri 03/07/2026 - 08:57 Opening remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Distinguished Chairperson, Distinguished Members and Observers of the Advisory Board, Dear ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-07c60afa0e4c",
-   "title": "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-   "published_date": "2026-07-02",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL) . The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately. WHO’s EUL ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T22:09:17+00:00"
-  },
-  {
-   "id": "a-d640e2dc1b04",
-   "title": "Patient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
-   "published_date": "2026-07-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "In a major international effort to evaluate potential treatments for Ebola disease due to Bundibugyo virus (BVD), the PARTNERS clinical trial has opened enrolment today for patients in the Democratic Republic of the Congo.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T22:09:17+00:00"
-  },
-  {
-   "id": "a-b4b3d53e89cc",
-   "title": "Update 356 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-356-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-07-02",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T19:34:49+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-22T22:19:53+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-07-23T03:36:16+00:00",
+ "sources_ok": "5/7"
 }
