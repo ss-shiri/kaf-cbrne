@@ -2026,21 +2026,21 @@
    "ingested_at": "2026-07-12T10:12:55+00:00"
   },
   {
-   "id": "a-573dd1b3ab6f",
-   "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167871",
+   "id": "a-825a0331372c",
+   "title": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-remarks-twenty-first-session-advisory-board",
    "published_date": "2026-07-03",
-   "doc_type": "news",
+   "doc_type": "advisory",
    "domain_tags": [
-    "Multi"
+    "Chemical"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
+   "summary": "Opening Remarks at the Twenty-First Session of the Advisory Board on Education and Outreach kviray Fri 03/07/2026 - 08:57 Opening remarks by the Deputy Director-General of the OPCW, Ambassador Odette Melono Distinguished Chairperson, Distinguished Members and Observers of the Advisory Board, Dear ...",
    "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:56+00:00"
+   "ingested_at": "2026-07-23T08:38:28+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-23T03:36:16+00:00",
+ "updated_at": "2026-07-23T08:48:55+00:00",
  "sources_ok": "5/7"
 }
