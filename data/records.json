@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-dab297220f74",
+   "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168004",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T22:09:08+00:00"
+  },
+  {
+   "id": "a-3b576951c24e",
+   "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168006",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T22:09:07+00:00"
+  },
+  {
+   "id": "a-55093f77fbc3",
+   "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168005",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the Security Council debate on Thursday on how best to settle disputes between States peacefully, ambassadors provided examples of success and challenges ahead under such themes as effective early warning and how to move from rhetorical support for preventive diplomacy to ensuring more ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-23T22:09:07+00:00"
+  },
+  {
    "id": "a-318f4304fd2a",
    "title": "Update 359 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -1992,57 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
-   "id": "a-849c466b8937",
-   "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167875",
-   "published_date": "2026-07-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:55+00:00"
-  },
-  {
-   "id": "a-24120178ad8b",
-   "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167876",
-   "published_date": "2026-07-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s International Maritime Organization (IMO) appealed on Monday for the urgent release of 44 seafarers held captive in Somali waters by pirates and armed robbers.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:54+00:00"
-  },
-  {
-   "id": "a-b01be70f83dc",
-   "title": "Tritium Level Far Below Japan’s Operational Limit in 21st Batch of ALPS Treated Water, IAEA Confirms",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-21st-batch-of-alps-treated-water-iaea-confirms",
-   "published_date": "2026-07-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-23T19:39:28+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-07-23T22:23:52+00:00",
+ "sources_ok": "5/7"
 }
