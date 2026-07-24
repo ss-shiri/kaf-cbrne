@@ -3,6 +3,142 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-6989dddc5e24",
+   "title": "Wildfires surge across Europe as Spain and France battle major blazes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168013",
+   "published_date": "2026-07-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The amount of land burned by wildfires across Europe has increased by 57 per cent in four years, according to new data from the World Health Organization (WHO) in Europe.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:46+00:00"
+  },
+  {
+   "id": "a-a4317ad0a426",
+   "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168012",
+   "published_date": "2026-07-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:46+00:00"
+  },
+  {
+   "id": "a-32a7de7a1580",
+   "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168018",
+   "published_date": "2026-07-24",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:45+00:00"
+  },
+  {
+   "id": "a-dad526941dfd",
+   "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168016",
+   "published_date": "2026-07-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:45+00:00"
+  },
+  {
+   "id": "a-de53421eb285",
+   "title": "Satellites can now spot methane leaks in real time – but most go unfixed",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168007",
+   "published_date": "2026-07-23",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Satellites can now spot major methane leaks from space within days. Yet only 13 per cent of those alerts lead to any response from the governments or companies responsible.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:49+00:00"
+  },
+  {
+   "id": "a-ee5d9485efc3",
+   "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168008",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amar Bendjama, Permanent Representative of Algeria to the UN, was elected on Thursday to serve as the next president of the UN’s Economic and Social Council (ECOSOC).",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:48+00:00"
+  },
+  {
+   "id": "a-9317d458e6b7",
+   "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168010",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:47+00:00"
+  },
+  {
+   "id": "a-6d0209b79b86",
+   "title": "Iran urged to stop protest-related executions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168009",
+   "published_date": "2026-07-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-24T19:37:47+00:00"
+  },
+  {
    "id": "a-dab297220f74",
    "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
    "source_name": "UN News",
@@ -1907,142 +2043,6 @@
    "ingested_at": "2026-07-12T10:12:53+00:00"
   },
   {
-   "id": "a-3cbca3404913",
-   "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167893",
-   "published_date": "2026-07-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:53+00:00"
-  },
-  {
-   "id": "a-95e943dc0293",
-   "title": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-   "published_date": "2026-07-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:48+00:00"
-  },
-  {
-   "id": "a-d8cdf41edf88",
-   "title": "OPCW report explores how chemical forensics can strengthen chemical weapons investigations",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-report-explores-how-chemical-forensics-can-strengthen-chemical",
-   "published_date": "2026-07-08",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW report explores how chemical forensics can strengthen chemical weapons investigations The OPCW hosts an event on chemical forensics and the Chemical Weapons Convention on the sidelines of the 112th Session of the Executive Council. THE HAGUE, Netherlands—8 July 2026—When an alleged chemical ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-e2d5a1721f32",
-   "title": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2025/11/statement-sabrina-dallafior-30th-session-conference-states-parties",
-   "published_date": "2026-07-08",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties Delivered by Sabrina Dallafior THE HAGUE, Netherlands–24 November 2025 Monsieur le Président, Directeur général, Excellences, Distingués délégués, Chers collègues, Tout d’abord, j’aimerais vous remercier. Je ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:46+00:00"
-  },
-  {
-   "id": "a-9398e7480d9b",
-   "title": "IAEA and World Bank Group Collaborate to Advance Nuclear Energy for Development",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-and-world-bank-group-collaborate-to-advance-nuclear-energy-for-development",
-   "published_date": "2026-07-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
-   "id": "a-cf284103a3e8",
-   "title": "CDC warns of E. coli outbreak linked to frozen blueberries.",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-warns-of-e-coli-outbreak-linked-to-frozen-blueberries.html",
-   "published_date": "2026-07-07",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC alert: Recall of frozen blueberries linked to E. coli outbreak; do not eat recalled product.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:13:01+00:00"
-  },
-  {
-   "id": "a-df0f0e713105",
-   "title": "Peace hinges on people-centred policing, global summit hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167887",
-   "published_date": "2026-07-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Policing is the cornerstone of peace, said top UN officials ahead of the fifth UN Chiefs of Police Summit, which began on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:54+00:00"
-  },
-  {
-   "id": "a-b60d3b63f841",
-   "title": "Nuclear Liability: Ensuring Legal Certainty and Compensation for Nuclear Damage",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/nuclear-liability-ensuring-legal-certainty-and-compensation-for-nuclear-damage",
-   "published_date": "2026-07-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-24T16:57:41+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-07-24T19:50:26+00:00",
+ "sources_ok": "5/7"
 }
