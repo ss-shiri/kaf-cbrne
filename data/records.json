@@ -1992,6 +1992,23 @@
    "ingested_at": "2026-07-12T10:12:45+00:00"
   },
   {
+   "id": "a-7de26f782605",
+   "title": "Executive Council reinstates the rights and privileges of Syria under Chemical Weapons Convention",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/executive-council-reinstates-rights-and-privileges-syria-under-chemical",
+   "published_date": "2026-07-09",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Executive Council reinstates the rights and privileges of Syria under Chemical Weapons Convention From left to right: OPCW Deputy Director-General Odette Melono, OPCW Director-General Fernando Arias, Chairperson of the 112th Session of the Executive Council Ambassador Mohamed Basri of Morocco, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-25T10:38:17+00:00"
+  },
+  {
    "id": "a-5df7ff5573ec",
    "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
    "source_name": "UN News",
@@ -2022,23 +2039,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "UN High Commissioner for Human Rights Volker Türk urged the armed forces of the Democratic Republic of the Congo and the Rwanda-backed M23 armed group to cease hostilities as he deplored recent civilian deaths on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-12T10:12:52+00:00"
-  },
-  {
-   "id": "a-d9e4873d8ed7",
-   "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167905",
-   "published_date": "2026-07-09",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
    "why_it_matters": "",
    "ingested_at": "2026-07-12T10:12:52+00:00"
   },
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-25T08:28:14+00:00",
+ "updated_at": "2026-07-25T10:49:46+00:00",
  "sources_ok": "5/7"
 }
