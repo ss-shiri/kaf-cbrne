@@ -1,5 +1,5 @@
 {
- "compiled": "2026-07-24",
+ "compiled": "2026-07-25",
  "source": "curated + auto",
  "records": [
   {
@@ -2026,21 +2026,21 @@
    "ingested_at": "2026-07-12T10:12:46+00:00"
   },
   {
-   "id": "a-95e943dc0293",
-   "title": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+   "id": "a-e2d5a1721f32",
+   "title": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2025/11/statement-sabrina-dallafior-30th-session-conference-states-parties",
    "published_date": "2026-07-08",
-   "doc_type": "news",
+   "doc_type": "statement",
    "domain_tags": [
-    "Biological"
+    "Chemical"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, ...",
+   "summary": "Statement by Sabrina Dallafior to the 30th Session of the Conference of States-Parties Delivered by Sabrina Dallafior THE HAGUE, Netherlands–24 November 2025 Monsieur le Président, Directeur général, Excellences, Distingués délégués, Chers collègues, Tout d’abord, j’aimerais vous remercier. Je ...",
    "why_it_matters": "",
-   "ingested_at": "2026-07-24T22:10:07+00:00"
+   "ingested_at": "2026-07-25T03:17:09+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-24T22:20:40+00:00",
+ "updated_at": "2026-07-25T03:33:15+00:00",
  "sources_ok": "5/7"
 }
