@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-58272e9b38db",
+   "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168034",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-27T22:12:06+00:00"
+  },
+  {
+   "id": "a-095977ee8b20",
+   "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168035",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-27T22:12:06+00:00"
+  },
+  {
    "id": "a-abe13906d027",
    "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:27+00:00"
   },
   {
-   "id": "a-80118133791c",
-   "title": "CDC Statement on Ebola Outbreak in the Democratic Republic of Congo and Uganda: 7/10/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
-   "published_date": "2026-07-10",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Statement on Ebola Outbreak in the Democratic Republic of Congo and Uganda: July 10, 2026",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-27T17:02:54+00:00"
-  },
-  {
-   "id": "a-fa592024d313",
-   "title": "IAEA-Led Mission Sample ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-mission-sample-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
-   "published_date": "2026-07-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-27T14:48:07+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-27T19:53:37+00:00",
+ "updated_at": "2026-07-27T22:23:10+00:00",
  "sources_ok": "5/7"
 }
