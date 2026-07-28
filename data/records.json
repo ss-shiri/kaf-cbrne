@@ -1,7 +1,24 @@
 {
- "compiled": "2026-07-27",
+ "compiled": "2026-07-28",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-3b4bf816ac33",
+   "title": "WHO: Integration, innovation and community leadership key to ending HIV, hepatitis and STIs",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) today launched a new report assessing progress in implementing the Global Health Sector Strategies (GHSS) on HIV, viral hepatitis and sexually transmitted infections (STIs) for 2022–2030. Released during the 26th International AIDS Conference (AIDS 2026) and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T02:55:28+00:00"
+  },
   {
    "id": "a-58272e9b38db",
    "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:27+00:00"
   },
   {
-   "id": "a-9dedbe56562d",
-   "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167922",
-   "published_date": "2026-07-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:27+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-27T22:23:10+00:00",
+ "updated_at": "2026-07-28T03:05:27+00:00",
  "sources_ok": "5/7"
 }
