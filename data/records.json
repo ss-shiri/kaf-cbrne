@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-28fdbcba0e5f",
+   "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168037",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members are hearing updates on Tuesday. Join our live coverage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T16:45:10+00:00"
+  },
+  {
    "id": "a-1dbb8c71b709",
    "title": "What is Cherenkov Radiation?",
    "source_name": "IAEA",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:27+00:00"
   },
   {
-   "id": "a-c630e5e08ff1",
-   "title": "From NASA to the classroom: The engineer bringing AI to those left behind",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167920",
-   "published_date": "2026-07-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nia Jetter spent two decades building spacecraft and robots. Now she is trying to make sure the artificial intelligence revolution doesn't leave anyone behind.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:26+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-28T14:35:00+00:00",
+ "updated_at": "2026-07-28T16:58:03+00:00",
  "sources_ok": "5/7"
 }
