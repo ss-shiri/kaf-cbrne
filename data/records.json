@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-01bfa8e4324f",
+   "title": "Forced online scams: IOM warns trafficking networks are booming",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168038",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A job advert can hide a criminal network, and a single click can lead to a nightmare. Hundreds of thousands of people are trafficked every year on the promise of legitimate work abroad, only to be held captive and forced into online scam operations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:23+00:00"
+  },
+  {
+   "id": "a-147da1fb5783",
+   "title": "Climate alarm ‘blaring from every direction’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168042",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Climate-driven disasters are reaching “nightmare proportions” due to humanity’s “addiction” to fossil fuels, a top UN official warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:22+00:00"
+  },
+  {
+   "id": "a-fc24f80137c6",
+   "title": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168040",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Years of progress in tackling HIV, viral hepatitis and sexually transmitted infections (STIs) are at risk of stalling, leaving millions of people without access to life-saving prevention, testing and treatment, the World Health Organization (WHO) has warned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:22+00:00"
+  },
+  {
+   "id": "a-7d8b09e68096",
+   "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168039",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A woman is stopped for buying groceries alone. The shopkeeper who served her is slapped and hauled in for questioning. A teacher is turned away from her own classroom for the wrong cloak.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:22+00:00"
+  },
+  {
    "id": "a-28fdbcba0e5f",
    "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
    "source_name": "UN News",
@@ -35,6 +103,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-07-28T11:23:12+00:00"
+  },
+  {
+   "id": "a-180e495e4ae8",
+   "title": "Conflict and crisis put six World Heritage sites at risk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168031",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:25+00:00"
+  },
+  {
+   "id": "a-2d339a24a325",
+   "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168030",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Cyberattacks, data breaches, online harassment and other forms of technology-facilitated violence are becoming significant obstacles to HIV prevention and treatment, according to a UNAIDS specialist who says digital security has become inseparable from the fight against the epidemic itself.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:25+00:00"
+  },
+  {
+   "id": "a-a85207539360",
+   "title": "High prices and funding cuts stall HIV prevention revolution",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168033",
+   "published_date": "2026-07-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The AIDS epidemic could stage a comeback amid unequal access to breakthrough prevention medicines and a sharp decline in global funding, according to a UN report released on Monday ahead of the opening of the 26th International AIDS Conference in Rio de Janeiro, Brazil.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-28T22:10:24+00:00"
   },
   {
    "id": "a-5512d2348396",
@@ -1925,125 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:24+00:00"
   },
   {
-   "id": "a-89b65cdd1bb1",
-   "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-14T10:52:01+00:00"
-  },
-  {
-   "id": "a-b162a47788f4",
-   "title": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167930",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN World Food Programme (WFP) is calling for greater humanitarian access to Gaza, warning that restrictions on aid deliveries, ongoing violence and funding shortages are severely limiting its ability to reach people in need.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-14T05:36:42+00:00"
-  },
-  {
-   "id": "a-f537ca609506",
-   "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167929",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-13T22:01:09+00:00"
-  },
-  {
-   "id": "a-203376583e19",
-   "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167924",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday will be briefed by top officials on the latest ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-13T22:01:09+00:00"
-  },
-  {
-   "id": "a-7f693a65d37f",
-   "title": "IAEA Concludes International Physical Protection Advisory Follow-Up Mission in China",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-international-physical-protection-advisory-follow-up-mission-in-china",
-   "published_date": "2026-07-13",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-13T14:47:06+00:00"
-  },
-  {
-   "id": "a-924a274102e0",
-   "title": "Slovakia provides voluntary funding to support OPCW activities",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/slovakia-provides-voluntary-funding-support-opcw-activities",
-   "published_date": "2026-07-13",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Slovakia provides voluntary funding to support OPCW activities Permanent Representative of the Slovak Republic to the OPCW, H.E. Mr Juraj Podhorský, and OPCW Deputy Director-General Ambassador Odette Melono THE HAGUE, Netherlands—13 July 2026—The Government of the Slovak Republic has provided a ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-13T14:47:06+00:00"
-  },
-  {
-   "id": "a-cb6b2effedd8",
-   "title": "Reviving communities home by home in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167921",
-   "published_date": "2026-07-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:27+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-28T19:53:52+00:00",
+ "updated_at": "2026-07-28T22:20:19+00:00",
  "sources_ok": "5/7"
 }
