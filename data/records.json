@@ -1,5 +1,5 @@
 {
- "compiled": "2026-07-28",
+ "compiled": "2026-07-29",
  "source": "curated + auto",
  "records": [
   {
@@ -1976,6 +1976,57 @@
    "ingested_at": "2026-07-14T19:27:15+00:00"
   },
   {
+   "id": "a-89b65cdd1bb1",
+   "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+   "published_date": "2026-07-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-29T03:14:59+00:00"
+  },
+  {
+   "id": "a-924a274102e0",
+   "title": "Slovakia provides voluntary funding to support OPCW activities",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/slovakia-provides-voluntary-funding-support-opcw-activities",
+   "published_date": "2026-07-13",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Slovakia provides voluntary funding to support OPCW activities Deputy Permanent Representative of the Slovak Republic to the OPCW, Mr Peter Nagy, and OPCW Deputy Director-General Ambassador Odette Melono THE HAGUE, Netherlands—13 July 2026—The Government of the Slovak Republic has provided a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-29T03:14:55+00:00"
+  },
+  {
+   "id": "a-7f693a65d37f",
+   "title": "IAEA Concludes International Physical Protection Advisory Follow-Up Mission in China",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-international-physical-protection-advisory-follow-up-mission-in-china",
+   "published_date": "2026-07-13",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-29T03:14:54+00:00"
+  },
+  {
    "id": "a-c30a108e2158",
    "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
    "source_name": "UN News",
@@ -1991,57 +2042,6 @@
    "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday heard briefings from top officials on the latest ...",
    "why_it_matters": "",
    "ingested_at": "2026-07-22T19:35:52+00:00"
-  },
-  {
-   "id": "a-2a0887f50303",
-   "title": "Afghanistan: 3.7 million young lives at risk of malnutrition, UNICEF warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167925",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Some 3.7 million children under five in Afghanistan are at heightened risk of malnutrition due to food insecurity, poor diets and inadequate access to basic services as the peak season for life-threatening wasting looms.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:26+00:00"
-  },
-  {
-   "id": "a-0552e23ff289",
-   "title": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167927",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In a world of “parallel realities” where stark inequalities seemingly divide people and challenge the promise of multilateralism, the vision of the Sustainable Development Goals (SDGs) is to bring people together and help them achieve a better reality.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:25+00:00"
-  },
-  {
-   "id": "a-d79ad2551b44",
-   "title": "International Criminal Court ‘a critical cog’ in global justice efforts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167932",
-   "published_date": "2026-07-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations upheld the critical role of the International Criminal Court (ICC) on Monday in the global fight to end impunity for grave crimes, amid calls for it to be abolished.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:24+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-28T22:20:19+00:00",
+ "updated_at": "2026-07-29T03:25:56+00:00",
  "sources_ok": "5/7"
 }
