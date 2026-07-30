@@ -1,5 +1,5 @@
 {
- "compiled": "2026-07-29",
+ "compiled": "2026-07-30",
  "source": "curated + auto",
  "records": [
   {
@@ -2027,21 +2027,21 @@
    "ingested_at": "2026-07-14T19:27:15+00:00"
   },
   {
-   "id": "a-7f693a65d37f",
-   "title": "IAEA Concludes International Physical Protection Advisory Follow-Up Mission in China",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-international-physical-protection-advisory-follow-up-mission-in-china",
+   "id": "a-89b65cdd1bb1",
+   "title": "El Salvador validated by WHO as having eliminated trachoma as a public health problem",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
    "published_date": "2026-07-13",
-   "doc_type": "advisory",
+   "doc_type": "news",
    "domain_tags": [
-    "Nuclear"
+    "Biological"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "Open the source for details.",
+   "summary": "The World Health Organization (WHO) has validated El Salvador as having eliminated trachoma as a public health problem. Trachoma is the world's leading infectious cause of blindness.",
    "why_it_matters": "",
-   "ingested_at": "2026-07-29T22:04:57+00:00"
+   "ingested_at": "2026-07-30T02:47:29+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-29T22:17:30+00:00",
+ "updated_at": "2026-07-30T02:59:37+00:00",
  "sources_ok": "5/7"
 }
