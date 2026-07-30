@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f55e7cc2b127",
+   "title": "Returning Afghans face growing risk of trafficking as crises deepen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168051",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Afghans returning from neighbouring countries are facing growing risks of human trafficking and exploitation as overlapping humanitarian and economic crises leave many struggling to survive, the UN warned on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-30T22:11:20+00:00"
+  },
+  {
+   "id": "a-d34ebd996066",
+   "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168052",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-30T22:11:19+00:00"
+  },
+  {
    "id": "a-8da57fbde85a",
    "title": "Update 360 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:22+00:00"
   },
   {
-   "id": "a-f14025dd103f",
-   "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-cyclosporiasis-response-7-14-26.html",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T16:27:51+00:00"
-  },
-  {
-   "id": "a-f129ffcdf768",
-   "title": "West Africa and the Sahel: Terrorism is changing its face",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167940",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T16:27:36+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-30T19:52:35+00:00",
+ "updated_at": "2026-07-30T22:21:53+00:00",
  "sources_ok": "5/7"
 }
