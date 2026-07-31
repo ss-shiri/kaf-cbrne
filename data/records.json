@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d0e210da11c0",
+   "title": "Fear grows as freedoms shrink in Uganda",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168057",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Uganda is experiencing a growing climate of fear as increasing restrictions on fundamental freedoms leave opposition supporters, journalists, human rights defenders and civil society groups at heightened risk of abuse, according to the UN Human Rights Office (OHCHR).",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-31T14:21:06+00:00"
+  },
+  {
+   "id": "a-c47945d503f3",
+   "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168055",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-31T14:21:06+00:00"
+  },
+  {
    "id": "a-f55e7cc2b127",
    "title": "Returning Afghans face growing risk of trafficking as crises deepen",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:23+00:00"
   },
   {
-   "id": "a-0b21edd36595",
-   "title": "Skills for an uncertain future: How youth can navigate a changing job market",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167943",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Choosing a path for the future has never been easy, but for young people today, such rapid technological change as artificial intelligence (AI) is making it increasingly difficult to predict which skills will remain relevant in the years ahead.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:22+00:00"
-  },
-  {
-   "id": "a-1e8a026d8117",
-   "title": "World Cup football’s other goal: Helping young people talk about mental health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167941",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:22+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-31T11:42:06+00:00",
+ "updated_at": "2026-07-31T14:32:03+00:00",
  "sources_ok": "5/7"
 }
