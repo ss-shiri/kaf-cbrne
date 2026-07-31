@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-b987e331201b",
+   "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168062",
+   "published_date": "2026-07-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-31T19:42:20+00:00"
+  },
+  {
    "id": "a-d0e210da11c0",
    "title": "Fear grows as freedoms shrink in Uganda",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:23+00:00"
   },
   {
-   "id": "a-f8a3dc04631a",
-   "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167935",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Civilian casualties in Ukraine soared during the first half of 2026 amid escalating Russian attacks and intensifying use of deadly weapons, the UN human rights monitoring mission in the country, HRMMU, said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:23+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-31T17:05:00+00:00",
+ "updated_at": "2026-07-31T19:52:32+00:00",
  "sources_ok": "5/7"
 }
