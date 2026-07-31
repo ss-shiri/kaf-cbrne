@@ -1,5 +1,5 @@
 {
- "compiled": "2026-07-30",
+ "compiled": "2026-07-31",
  "source": "curated + auto",
  "records": [
   {
@@ -1908,6 +1908,23 @@
    "ingested_at": "2026-07-15T10:56:01+00:00"
   },
   {
+   "id": "a-f14025dd103f",
+   "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-cyclosporiasis-response-7-14-26.html",
+   "published_date": "2026-07-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
+   "why_it_matters": "",
+   "ingested_at": "2026-07-31T03:30:40+00:00"
+  },
+  {
    "id": "a-7cc5aa17383d",
    "title": "West Africa and the Sahel: Terrorism is changing its face",
    "source_name": "UN News",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:22+00:00"
-  },
-  {
-   "id": "a-9966b976d2c1",
-   "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167939",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanitarians in the Gaza Strip continue to face significant challenges in reaching communities located near the so-called “Yellow Line” in northern Rafah, the UN aid coordination office OCHA said on Tuesday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-16T14:06:22+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-07-30T22:21:53+00:00",
+ "updated_at": "2026-07-31T03:43:13+00:00",
  "sources_ok": "5/7"
 }
