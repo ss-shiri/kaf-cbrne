@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-bcf64c945a8a",
+   "title": "Strong El Niño ahead, UN weather agency warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168059",
+   "published_date": "2026-07-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:18+00:00"
+  },
+  {
+   "id": "a-6709e683f4c6",
+   "title": "Wildfire smoke poses hidden health threat",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168060",
+   "published_date": "2026-07-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Wildfires are often associated with the destruction they leave behind, but the smoke they produce can pose a serious health threat far beyond the fire zone, the World Health Organization (WHO) has warned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:18+00:00"
+  },
+  {
    "id": "a-b987e331201b",
    "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
    "source_name": "UN News",
@@ -18,6 +52,40 @@
    "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
    "why_it_matters": "",
    "ingested_at": "2026-07-31T19:42:20+00:00"
+  },
+  {
+   "id": "a-b3f8b208a85b",
+   "title": "Wildfires: Prevention is the best defence, UN says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168054",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The wildfires burning across Europe and North America highlight the urgent need for action now – as climate change, land-use pressures and human activity make severe fires more likely in the future.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:19+00:00"
+  },
+  {
+   "id": "a-756ae4660288",
+   "title": "The climate pattern putting millions at risk: El Niño explained",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168056",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "El Niño is putting millions of lives at risk in eastern and southern Africa but the UN is ensuring that communities are better prepared to deal with its impact.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:18+00:00"
   },
   {
    "id": "a-d0e210da11c0",
@@ -122,6 +190,23 @@
    "ingested_at": "2026-07-30T11:12:19+00:00"
   },
   {
+   "id": "a-b2064840355b",
+   "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168047",
+   "published_date": "2026-07-29",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:20+00:00"
+  },
+  {
    "id": "a-872ce306cbb6",
    "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
    "source_name": "UN News",
@@ -188,6 +273,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-07-29T11:29:30+00:00"
+  },
+  {
+   "id": "a-211249dbd07b",
+   "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/07/1168043",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-01T08:28:21+00:00"
   },
   {
    "id": "a-01bfa8e4324f",
@@ -1942,108 +2044,6 @@
    "ingested_at": "2026-07-15T13:54:14+00:00"
   },
   {
-   "id": "a-129a91b813b0",
-   "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
-   "published_date": "2026-07-15",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "In 2025, 90% of infants globally – or nearly 116 million – received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% – or 110 million – completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T10:56:01+00:00"
-  },
-  {
-   "id": "a-f14025dd103f",
-   "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-cyclosporiasis-response-7-14-26.html",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-31T03:30:40+00:00"
-  },
-  {
-   "id": "a-7cc5aa17383d",
-   "title": "West Africa and the Sahel: Terrorism is changing its face",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/07/1167940",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-19T16:01:33+00:00"
-  },
-  {
-   "id": "a-898362fad441",
-   "title": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766008",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Transcript - Update on CDC's Cyclosporiasis Response - 7/14/26",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:29+00:00"
-  },
-  {
-   "id": "a-62f27ca7c32e",
-   "title": "People continue to stand by refugees, Gen Z shows most empathy",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167934",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Protection for refugees has been enshrined in international law for more than seven decades, but how much support is there today for those fleeing conflict and persecution?",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:24+00:00"
-  },
-  {
-   "id": "a-cd5ab4a7a3e8",
-   "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167937",
-   "published_date": "2026-07-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A UN independent human rights expert has urged political leaders in the United Kingdom to support implementation of a Supreme Court ruling on the legal definition of sex, warning that opposition to updated equality guidance risks weakening protections for women and girls.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:23+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-01T03:40:38+00:00",
+ "updated_at": "2026-08-01T08:39:41+00:00",
  "sources_ok": "5/7"
 }
