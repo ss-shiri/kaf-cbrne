@@ -1,5 +1,5 @@
 {
- "compiled": "2026-08-01",
+ "compiled": "2026-08-02",
  "source": "curated + auto",
  "records": [
   {
@@ -1840,6 +1840,23 @@
    "ingested_at": "2026-07-16T14:06:19+00:00"
   },
   {
+   "id": "a-3ec6bab28dc0",
+   "title": "Nuclear Science is Transforming Rainbow Trout Farming in Latin America",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-science-is-transforming-rainbow-trout-farming-in-latin-america",
+   "published_date": "2026-07-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-02T03:29:12+00:00"
+  },
+  {
    "id": "a-b43eab7ed0a9",
    "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
    "source_name": "CDC Newsroom",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-15T16:27:31+00:00"
   },
   {
-   "id": "a-a1cd9d24449d",
-   "title": "IAEA Draws Safeguards Conclusions for 179 States – IAEA Report",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-draws-safeguards-conclusions-for-179-states-iaea-report",
-   "published_date": "2026-07-15",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T16:27:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-01T22:15:42+00:00",
+ "updated_at": "2026-08-02T03:42:57+00:00",
  "sources_ok": "5/7"
 }
