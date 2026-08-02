@@ -1840,6 +1840,23 @@
    "ingested_at": "2026-07-16T14:06:19+00:00"
   },
   {
+   "id": "a-a1cd9d24449d",
+   "title": "IAEA Draws Safeguards Conclusions for 179 States – IAEA Report",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-draws-safeguards-conclusions-for-179-states-iaea-report",
+   "published_date": "2026-07-15",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-02T08:30:55+00:00"
+  },
+  {
    "id": "a-3ec6bab28dc0",
    "title": "Nuclear Science is Transforming Rainbow Trout Farming in Latin America",
    "source_name": "IAEA",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-15T16:27:35+00:00"
   },
   {
-   "id": "a-32c3fa951022",
-   "title": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia , providing countries with evidence-based recommendations to help prevent or delay the onset of dementia across the life course. Dementia is a condition caused by brain ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T16:27:31+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-02T03:42:57+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-08-02T08:42:57+00:00",
+ "sources_ok": "4/7"
 }
