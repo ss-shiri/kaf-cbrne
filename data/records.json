@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-05a085e86e03",
+   "title": "Opening Ceremony of the OPCW Associate Programme 2026",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-ceremony-opcw-associate-programme-2026",
+   "published_date": "2026-08-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Ceremony of the OPCW Associate Programme 2026 ppuhm Mon 03/08/2026 - 10:18 Opening remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Distinguished participants, Dear colleagues, It is a great pleasure to welcome you to the 27th edition of the OPCW Associate ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-03T09:56:28+00:00"
+  },
+  {
    "id": "a-daa2634044a4",
    "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-15T22:06:50+00:00"
   },
   {
-   "id": "a-14e9bc15dd35",
-   "title": "Update 358 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-358-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-07-15",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T19:19:57+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-03T03:45:19+00:00",
+ "updated_at": "2026-08-03T10:06:03+00:00",
  "sources_ok": "5/7"
 }
