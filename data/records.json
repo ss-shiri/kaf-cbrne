@@ -1,7 +1,24 @@
 {
- "compiled": "2026-08-02",
+ "compiled": "2026-08-03",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-daa2634044a4",
+   "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168058",
+   "published_date": "2026-08-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sofia* was 27, raising her seven-year-old son alone in Venezuela, and running out of options. For years she had distributed personal hygiene products door to door, but as her customers’ finances collapsed, so did her income.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-03T03:31:20+00:00"
+  },
   {
    "id": "a-5def091958f3",
    "title": "Recovery in Ukraine, one life at a time",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-15T19:19:57+00:00"
   },
   {
-   "id": "a-0ee6db5ffe41",
-   "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167944",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Alongside gold, the little-known Sudanese commodity gum arabic – used in soft drinks, food, cosmetics and pharmaceuticals – continues to fuel the war.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T16:27:35+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-02T22:13:38+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-03T03:45:19+00:00",
+ "sources_ok": "5/7"
 }
