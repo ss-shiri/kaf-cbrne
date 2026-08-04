@@ -1,7 +1,92 @@
 {
- "compiled": "2026-08-03",
+ "compiled": "2026-08-04",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-4db90322046f",
+   "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168064",
+   "published_date": "2026-08-03",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New UN-backed centres will serve eastern Democratic Republic of the Congo (DRC) as confirmed Ebola cases continued to climb sharply over the weekend in the largest ever outbreak of the highly contagious disease in the country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-04T03:13:54+00:00"
+  },
+  {
+   "id": "a-f0b22bc57b9c",
+   "title": "In Somalia, AI is helping deliver food to hungry families",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168066",
+   "published_date": "2026-08-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid a deepening hunger crisis in Somalia, artificial intelligence (AI) is helping to deliver aid to the people who need it most.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-04T03:13:53+00:00"
+  },
+  {
+   "id": "a-fc1308996683",
+   "title": "Mothers still lack support to breastfeed, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168065",
+   "published_date": "2026-08-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Breastfeeding rates are rising worldwide, but millions of mothers and families still lack the services and protection they need to feed their babies safely, the UN has warned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-04T03:13:53+00:00"
+  },
+  {
+   "id": "a-89bc68f15c39",
+   "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168067",
+   "published_date": "2026-08-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-04T03:13:52+00:00"
+  },
+  {
+   "id": "a-f569fa1b1fc5",
+   "title": "Drone strikes threaten civilians and aid operations in Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168068",
+   "published_date": "2026-08-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-04T03:13:51+00:00"
+  },
   {
    "id": "a-05a085e86e03",
    "title": "Opening Ceremony of the OPCW Associate Programme 2026",
@@ -1959,91 +2044,6 @@
    "ingested_at": "2026-07-16T14:06:21+00:00"
   },
   {
-   "id": "a-b0848bb3bcbe",
-   "title": "Childhood vaccination rate increases slightly, but millions remain unprotected",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167942",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Global childhood immunization programmes continued to recover in 2025, but conflict, poverty and growing vaccine hesitancy are still leaving millions vulnerable to preventable diseases, according to new UN data released on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:21+00:00"
-  },
-  {
-   "id": "a-5578982c2bae",
-   "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167950",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Access to education continues to worsen in the West Bank, the United Nations reported on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-16T14:06:20+00:00"
-  },
-  {
-   "id": "a-48a13495712a",
-   "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/new-cdc-data-shows-decline-in-healthcare-associated-infections.html",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T22:07:03+00:00"
-  },
-  {
-   "id": "a-8906748df330",
-   "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167946",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As Colombia awaits the inauguration of its newly elected president, pockets of insecurity remain a challenge for a nation that has overcome decades of conflict, the head of the UN verification team there told the Security Council on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T22:06:51+00:00"
-  },
-  {
-   "id": "a-0bd05cfbda1f",
-   "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167949",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-15T22:06:50+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-03T22:22:45+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-04T03:26:14+00:00",
+ "sources_ok": "5/7"
 }
