@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f8c9a9cd63bd",
+   "title": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168080",
+   "published_date": "2026-08-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-05T16:45:13+00:00"
+  },
+  {
    "id": "a-25342d79f644",
    "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
    "source_name": "UN News",
@@ -2010,29 +2027,12 @@
    "ingested_at": "2026-07-16T14:06:19+00:00"
   },
   {
-   "id": "a-48a13495712a",
-   "title": "New CDC Data Shows Decline in Healthcare-Associated Infections",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/new-cdc-data-shows-decline-in-healthcare-associated-infections.html",
-   "published_date": "2026-07-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC reports fewer hospital-acquired infections in 2023, highlighting improved patient safety.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T08:47:15+00:00"
-  },
-  {
-   "id": "a-14e9bc15dd35",
-   "title": "Update 358 – IAEA Director General Statement on Situation in Ukraine",
+   "id": "a-a1cd9d24449d",
+   "title": "IAEA Draws Safeguards Conclusions for 179 States – IAEA Report",
    "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-358-iaea-director-general-statement-on-situation-in-ukraine",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-draws-safeguards-conclusions-for-179-states-iaea-report",
    "published_date": "2026-07-15",
-   "doc_type": "statement",
+   "doc_type": "safeguards report",
    "domain_tags": [
     "Nuclear"
    ],
@@ -2041,7 +2041,7 @@
    "needs_review": true,
    "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-08-03T14:51:37+00:00"
+   "ingested_at": "2026-08-05T16:45:08+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-05T14:34:09+00:00",
+ "updated_at": "2026-08-05T16:56:07+00:00",
  "sources_ok": "5/7"
 }
