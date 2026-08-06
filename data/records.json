@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-2ccfd30e61fb",
+   "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168089",
+   "published_date": "2026-08-06",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council meets this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-06T14:24:59+00:00"
+  },
+  {
+   "id": "a-e0b0df206e6f",
+   "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168088",
+   "published_date": "2026-08-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-06T14:24:59+00:00"
+  },
+  {
+   "id": "a-34002695086f",
+   "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168090",
+   "published_date": "2026-08-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gangs in Haiti continue to terrorize communities with the “wanton, intentional infliction of incredible pain” on people who often are just in the wrong place at the wrong time.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-06T14:24:58+00:00"
+  },
+  {
    "id": "a-1b2b6e7acf5c",
    "title": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
    "source_name": "UN News",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-07-17T19:19:15+00:00"
   },
   {
-   "id": "a-e367b8feb9ef",
-   "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167970",
-   "published_date": "2026-07-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights chief, Volker Türk, has appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T19:18:54+00:00"
-  },
-  {
-   "id": "a-f1ae7e908859",
-   "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766028",
-   "published_date": "2026-07-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC: Avoid Taco Bell shredded lettuce in 5 states after Cyclospora outbreak; 1,644 sick",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T16:19:53+00:00"
-  },
-  {
-   "id": "a-57c8d10ebfe5",
-   "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167965",
-   "published_date": "2026-07-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T16:19:44+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-06T11:38:15+00:00",
+ "updated_at": "2026-08-06T14:36:44+00:00",
  "sources_ok": "5/7"
 }
