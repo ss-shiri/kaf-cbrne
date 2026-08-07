@@ -1,7 +1,58 @@
 {
- "compiled": "2026-08-06",
+ "compiled": "2026-08-07",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-5fe33b788196",
+   "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168094",
+   "published_date": "2026-08-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent UN human rights experts on Thursday condemned a fresh round of US sanctions against Cuba, calling them an attempt to force change on “a sovereign State through threats and coercion.”",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-07T00:07:12+00:00"
+  },
+  {
+   "id": "a-e2c7a4aaca05",
+   "title": "Ebola virus reaches displacement camps in DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168092",
+   "published_date": "2026-08-06",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Agencies are on high alert amid reports that the rapidly spreading Ebola Bundibugyo virus species in the Democratic Republic of the Congo (DRC) has infected 19 internally displaced people, killed five of them, according to the UN’s refugee agency (UNHCR).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-07T00:07:12+00:00"
+  },
+  {
+   "id": "a-3b1b3613309c",
+   "title": "Update 361 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-361-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-08-06",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-07T00:06:53+00:00"
+  },
   {
    "id": "a-2ccfd30e61fb",
    "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-07-20T09:25:38+00:00"
   },
   {
-   "id": "a-865311663043",
-   "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/07/1167965",
-   "published_date": "2026-07-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-19T16:01:30+00:00"
-  },
-  {
-   "id": "a-21646b21b33b",
-   "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167973",
-   "published_date": "2026-07-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-18T13:27:14+00:00"
-  },
-  {
-   "id": "a-9b5b300fef2f",
-   "title": "Shredded iceberg lettuce served at Taco Bell locations is source of cyclosporiasis infections in five states",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/shredded-iceberg-lettuce-served-at-taco-bell-locations-is-source-of-cyclosporiasis-infections.html",
-   "published_date": "2026-07-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC: Avoid Taco Bell shredded lettuce in 5 states after Cyclospora outbreak; 1,644 sick",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-17T19:19:15+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-06T14:36:44+00:00",
+ "updated_at": "2026-08-07T00:21:55+00:00",
  "sources_ok": "5/7"
 }
