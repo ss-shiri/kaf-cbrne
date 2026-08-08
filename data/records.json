@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-22b75cddade4",
+   "title": "For Brazil’s Indigenous youth, visibility is resistance",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168097",
+   "published_date": "2026-08-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As climate change reshapes Indigenous territories across Brazil, a new generation is turning to culture and digital platforms to defend their lands and their future.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-08T18:45:32+00:00"
+  },
+  {
+   "id": "a-741909c2219d",
+   "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168084",
+   "published_date": "2026-08-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan's blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-08T18:45:33+00:00"
+  },
+  {
    "id": "a-95dd781de6d0",
    "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-20T03:39:58+00:00"
   },
   {
-   "id": "a-174d95c61243",
-   "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
-   "published_date": "2026-07-19",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The FIFA World Cup 2026(TM) brought 48 teams and millions of fans to 16 North American cities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T03:39:58+00:00"
-  },
-  {
-   "id": "a-f50132944a12",
-   "title": "Ukraine: UN condemns overnight attack on Kyiv",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167975",
-   "published_date": "2026-07-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-19T21:58:40+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-08T15:48:02+00:00",
+ "updated_at": "2026-08-08T18:58:16+00:00",
  "sources_ok": "5/7"
 }
