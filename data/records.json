@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-95dd781de6d0",
+   "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168101",
+   "published_date": "2026-08-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-08T15:35:24+00:00"
+  },
+  {
    "id": "a-e2ae58f64a43",
    "title": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-19T21:58:40+00:00"
   },
   {
-   "id": "a-24af9ab1b94c",
-   "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167963",
-   "published_date": "2026-07-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For millions of Haitians, daily life has become a struggle to stay safe, find enough food and simply move around their own neighbourhood.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-19T19:13:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-08T09:50:18+00:00",
+ "updated_at": "2026-08-08T15:48:02+00:00",
  "sources_ok": "5/7"
 }
