@@ -2027,10 +2027,10 @@
    "ingested_at": "2026-07-20T14:19:51+00:00"
   },
   {
-   "id": "a-174d95c61243",
+   "id": "a-2b2a454bb60c",
    "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
    "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766045",
    "published_date": "2026-07-19",
    "doc_type": "statement",
    "domain_tags": [
@@ -2041,7 +2041,7 @@
    "needs_review": true,
    "summary": "The FIFA World Cup 2026(TM) brought 48 teams and millions of fans to 16 North American cities.",
    "why_it_matters": "",
-   "ingested_at": "2026-08-09T15:37:04+00:00"
+   "ingested_at": "2026-08-09T18:50:11+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-09T15:48:04+00:00",
+ "updated_at": "2026-08-09T19:03:22+00:00",
  "sources_ok": "5/7"
 }
