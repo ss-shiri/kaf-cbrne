@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-55c925667e98",
+   "title": "Humanitarian aid warehouses come under attack in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168102",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russia’s ongoing full-scale invasion of Ukraine has left civilians vulnerable to repeated deadly attacks and humanitarian workers and key facilities being targeted and destroyed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-10T16:03:17+00:00"
+  },
+  {
    "id": "a-1efe5380deca",
    "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-20T14:19:52+00:00"
   },
   {
-   "id": "a-aa23b72f34ca",
-   "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167972",
-   "published_date": "2026-07-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "After years of violence perpetrated by gangs, widespread insecurity and the displacement of almost 1.5 million people as well as growing humanitarian needs, Haitians are glimpsing signs of hope as a path to democratic elections begins to emerge. At UN Headquarters in New York, the 15-member ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T14:19:51+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-10T13:32:06+00:00",
+ "updated_at": "2026-08-10T16:14:02+00:00",
  "sources_ok": "5/7"
 }
