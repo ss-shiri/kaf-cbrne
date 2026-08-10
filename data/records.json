@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-1efe5380deca",
+   "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168093",
+   "published_date": "2026-08-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sarah Tekhlu was ready to give up on university. An Eritrean refugee, she had already been displaced once from Khartoum to Madani, then again to Port Sudan, as war tore through the country around her. Higher education, she had decided, was a luxury she could no longer afford to want.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-10T07:51:05+00:00"
+  },
+  {
    "id": "a-22b75cddade4",
    "title": "For Brazil’s Indigenous youth, visibility is resistance",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-20T14:19:51+00:00"
   },
   {
-   "id": "a-174d95c61243",
-   "title": "Statement on CDC Public Health Readiness & Response for the FIFA World Cup 2026(TM)",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
-   "published_date": "2026-07-19",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The FIFA World Cup 2026(TM) brought 48 teams and millions of fans to 16 North American cities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-10T04:43:12+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-10T04:52:23+00:00",
+ "updated_at": "2026-08-10T08:01:16+00:00",
  "sources_ok": "5/7"
 }
