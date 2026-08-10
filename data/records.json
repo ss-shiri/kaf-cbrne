@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-0a8c45e84cc1",
+   "title": "UN calls for urgent action to protect children from online information risks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168103",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than eight in 10 young people aged 15 to 24 worldwide are now online, and in low-income countries they outpace the rest of the population nearly two to one.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-10T19:03:56+00:00"
+  },
+  {
+   "id": "a-806f347ffb49",
+   "title": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168104",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Five years into Taliban rule, Afghans still have almost no way of knowing whether soldiers, police and morality officers who abuse their power ever face consequences – and that secrecy is corroding trust in the State, the UN said Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-10T19:03:55+00:00"
+  },
+  {
    "id": "a-55c925667e98",
    "title": "Humanitarian aid warehouses come under attack in Ukraine",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-20T19:49:19+00:00"
   },
   {
-   "id": "a-d751b671fc6a",
-   "title": "IAEA Launches New NUTEC Plastics Global Marine Monitoring Platform",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-launches-new-nutec-plastics-global-marine-monitoring-platform",
-   "published_date": "2026-07-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T16:27:50+00:00"
-  },
-  {
-   "id": "a-38687f379ddf",
-   "title": "Moon Day focuses growing concerns around space junk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167976",
-   "published_date": "2026-07-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid surging lunar exploration, the UN on Monday urged governments to ensure that humanity's return to the Moon does not come at the expense of planet Earth – or the long-term sustainability of space.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T14:19:52+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-10T16:14:02+00:00",
+ "updated_at": "2026-08-10T19:17:32+00:00",
  "sources_ok": "5/7"
 }
