@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-b14e9c1acd70",
+   "title": "UN offers support to Colombia after magnitude 7.4 earthquake kills dozens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168106",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN offered its support to Colombia on Monday after a magnitude 7.4 earthquake struck the west of the country, killing at least 111 people and injuring at least 87, including several children, while leaving others trapped under the rubble and causing landslides and serious damage to homes and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T10:04:15+00:00"
+  },
+  {
+   "id": "a-7a47e2cf982c",
+   "title": "DR Congo: Ebola is killing people before they ever reach a doctor",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168105",
+   "published_date": "2026-08-10",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 1,900 people have died in the Democratic Republic of the Congo's Ebola outbreak – and most of them never made it to a treatment centre. Between 60 and 70 per cent of deaths are happening in communities far from care, a gap that is now central to the World Health Organization's response.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T10:04:15+00:00"
+  },
+  {
    "id": "a-54031eaf7d0d",
    "title": "Fighting deepens needs and fuels further displacement in Sudan",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-21T14:07:05+00:00"
   },
   {
-   "id": "a-4e0a137efd79",
-   "title": "WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
-   "published_date": "2026-07-20",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) today marks the 25th anniversary of Research4Life, a public-private partnership that provides researchers, educators, health professionals and policy-makers in low- and middle-income countries with affordable or free access to scientific knowledge. The ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T08:37:19+00:00"
-  },
-  {
-   "id": "a-64e931949a63",
-   "title": "Road deaths fall by 21% globally but stronger action is needed to save lives",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
-   "published_date": "2026-07-20",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Despite the addition of more than one billion motor-vehicles to the world’s roads, road traffic deaths declined by 21% between 2011 and 2025, according to new data released by the World Health Organization (WHO). The world has experienced profound changes in road traffic during this time with the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T08:37:19+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-11T07:28:36+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-11T10:17:48+00:00",
+ "sources_ok": "5/7"
 }
