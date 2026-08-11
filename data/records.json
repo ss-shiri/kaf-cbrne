@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-bbd07767de55",
+   "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168118",
+   "published_date": "2026-08-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reportedly left more than 60 civilians dead and 50 others injured.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T21:54:23+00:00"
+  },
+  {
+   "id": "a-3408bae61c94",
+   "title": "Ebola deaths top 2,000 as scientists race to develop vaccine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168117",
+   "published_date": "2026-08-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Local officials in the DR Congo (DRC) reported on Tuesday that deaths from the Ebola virus disease have surpassed 2,000, with half of that number in the last 20 days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T21:54:23+00:00"
+  },
+  {
+   "id": "a-7c0320f37f60",
+   "title": "World marks second warmest July on record",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168115",
+   "published_date": "2026-08-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As multiple regions contend with unbearable heat, drought, wildfires and other extreme weather, the World Meteorological Organization (WMO) on Tuesday underlined the crucial need for stronger forecasts and early warning systems to protect lives and livelihoods.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T21:54:23+00:00"
+  },
+  {
+   "id": "a-cdb97e0bb11c",
+   "title": "After post-pandemic improvement, youth unemployment is rising again",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168120",
+   "published_date": "2026-08-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took to the streets of Nepal last year, demanding a stake in the country’s economic growth. The protest worked and the prime minister resigned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T21:54:22+00:00"
+  },
+  {
    "id": "a-8b3aa50535a8",
    "title": "Colombia earthquake: UN joins national response",
    "source_name": "UN News",
@@ -1976,74 +2044,6 @@
    "ingested_at": "2026-07-22T14:08:52+00:00"
   },
   {
-   "id": "a-539534b157de",
-   "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167989",
-   "published_date": "2026-07-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T22:07:46+00:00"
-  },
-  {
-   "id": "a-245de1f61896",
-   "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167992",
-   "published_date": "2026-07-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent UN human rights experts on Tuesday condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T22:07:45+00:00"
-  },
-  {
-   "id": "a-ea7e7bfedc42",
-   "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167991",
-   "published_date": "2026-07-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T22:07:45+00:00"
-  },
-  {
-   "id": "a-a490f58760f5",
-   "title": "UN report: Global hunger levels ease for third consecutive year as regional disparities persist",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
-   "published_date": "2026-07-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sustainable Development Goals by 2030, according to The State of Food Security and Nutrition in the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-21T22:07:41+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-11T19:24:15+00:00",
+ "updated_at": "2026-08-11T22:06:18+00:00",
  "sources_ok": "5/7"
 }
