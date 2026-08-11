@@ -1,7 +1,41 @@
 {
- "compiled": "2026-08-10",
+ "compiled": "2026-08-11",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-54031eaf7d0d",
+   "title": "Fighting deepens needs and fuels further displacement in Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168109",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ongoing conflict, displacement and funding shortages continue to deepen needs in Sudan, the UN Office for the Coordination of Humanitarian Affairs (OCHA) warned on Monday, underscoring the need for greater civilian protection.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T02:05:52+00:00"
+  },
+  {
+   "id": "a-dcff327de704",
+   "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168108",
+   "published_date": "2026-08-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-11T02:05:52+00:00"
+  },
   {
    "id": "a-0a8c45e84cc1",
    "title": "UN calls for urgent action to protect children from online information risks",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-21T08:37:19+00:00"
   },
   {
-   "id": "a-67befdbfde45",
-   "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167979",
-   "published_date": "2026-07-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T22:05:05+00:00"
-  },
-  {
-   "id": "a-2f15f014f272",
-   "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167980",
-   "published_date": "2026-07-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russian attacks and drone strikes killed at least two children and injured dozens more across Ukraine over recent days while severely damaging three critical aid warehouses, UN agencies reported on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-20T22:05:04+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-10T22:03:07+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-11T02:15:46+00:00",
+ "sources_ok": "5/7"
 }
