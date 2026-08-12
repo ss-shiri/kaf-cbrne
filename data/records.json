@@ -1925,6 +1925,23 @@
    "ingested_at": "2026-07-23T16:39:52+00:00"
   },
   {
+   "id": "a-b4ff9ea1b500",
+   "title": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-supports-syrian-authorities-strengthening-capacity-implement",
+   "published_date": "2026-07-22",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention The OPCW has trained 26 Syrian officials as part of its growing support to help Syria rebuild the institutional capacity needed to implement the Chemical Weapons Convention and fulfil its ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-12T21:52:20+00:00"
+  },
+  {
    "id": "a-771cc8c741e6",
    "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
    "source_name": "UN News",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "The world's shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T14:08:52+00:00"
-  },
-  {
-   "id": "a-a8fd493382b6",
-   "title": "Critical minerals: The hidden resources powering the clean energy future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167990",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Why are critical minerals suddenly at the centre of global politics?",
    "why_it_matters": "",
    "ingested_at": "2026-07-22T14:08:52+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-12T19:27:49+00:00",
+ "updated_at": "2026-08-12T22:07:12+00:00",
  "sources_ok": "5/7"
 }
