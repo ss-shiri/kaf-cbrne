@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f9daa929f183",
+   "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168121",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-12T19:13:12+00:00"
+  },
+  {
+   "id": "a-04bff853bd18",
+   "title": "IAEA Observes Progress in Safety at Research Reactor in the Philippines",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-observes-progress-in-safety-at-research-reactor-in-the-philippines",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-12T19:13:01+00:00"
+  },
+  {
    "id": "a-011a868a5b06",
    "title": "Five Reasons Students Should Visit the IAEA Visitor Centre",
    "source_name": "IAEA",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-22T14:08:52+00:00"
   },
   {
-   "id": "a-b4ff9ea1b500",
-   "title": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-supports-syrian-authorities-strengthening-capacity-implement",
-   "published_date": "2026-07-22",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention The OPCW has trained 26 Syrian officials as part of its growing support to help Syria rebuild the institutional capacity needed to implement the Chemical Weapons Convention and fulfil its ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T11:13:05+00:00"
-  },
-  {
-   "id": "a-9b1b14f5c19e",
-   "title": "Global hunger declines again but progress remains uneven across regions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167987",
-   "published_date": "2026-07-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Global hunger declined for a third consecutive year in 2025 showing that progress is possible, but gains remain fragile and far too slow to achieve the Sustainable Development Goals (SDGs) by the 2030 deadline.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T14:08:54+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-12T16:17:44+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-12T19:27:49+00:00",
+ "sources_ok": "5/7"
 }
