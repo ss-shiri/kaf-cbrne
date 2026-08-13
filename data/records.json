@@ -3,6 +3,125 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f3cb492d55f2",
+   "title": "Cholera spreads across borders in West and Central Africa",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168125",
+   "published_date": "2026-08-12",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Cholera is spreading rapidly across West and Central Africa, with active outbreaks now in six countries and millions of children at growing risk, UN children’s agency UNICEF has said.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:22+00:00"
+  },
+  {
+   "id": "a-f04a8bd8f6a2",
+   "title": "WHO chief voices concern over Trump Administration’s executive order on vaccines",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168124",
+   "published_date": "2026-08-12",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the World Health Organization (WHO) on Wednesday upheld the safety of childhood vaccines in response to a new directive from the White House to overhaul the recommended inoculation schedule.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:22+00:00"
+  },
+  {
+   "id": "a-43c8d09ad2cf",
+   "title": "Five years after Taliban takeover, Afghan women ‘erased from public life’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168123",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Five years after the Taliban seized power, women and girls in Afghanistan have been systematically stripped of their rights, UN agencies said on Wednesday. De facto authorities have issued more than 100 decrees curbing education, work and freedom of movement – restrictions now compounded by deep ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:22+00:00"
+  },
+  {
+   "id": "a-5035cf1af1cf",
+   "title": "Migrant deaths climb sharply in 2026, new UN data shows",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168127",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Severe weather, war, economic pressure and shifting policies reshaped migration journeys across multiple regions in the first four months of 2026, driving a surge in deaths, according to new data released on Wednesday by the International Organization for Migration (IOM).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:21+00:00"
+  },
+  {
+   "id": "a-f74fe5308545",
+   "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168126",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations has once again urged warring parties in Sudan to protect civilians as the fighting continues to take a heavy toll on the population.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:21+00:00"
+  },
+  {
+   "id": "a-44c7ee22a6de",
+   "title": "Youth advocates gather in New York to launch new AI standards",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168129",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As artificial intelligence (AI) rapidly transforms everything from how we learn, to the job market, children are adopting the technology more than three times faster than adults – exposing them to unique opportunities and risks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:20+00:00"
+  },
+  {
+   "id": "a-a69c99537ef8",
+   "title": "UN continues scaling up response to earthquake in Colombia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168128",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN on Wednesday continued scaling up assistance to areas affected by the deadly earthquake that hit Colombia two days earlier.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T04:56:20+00:00"
+  },
+  {
    "id": "a-f9daa929f183",
    "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
    "source_name": "UN News",
@@ -1925,125 +2044,6 @@
    "ingested_at": "2026-07-23T16:39:52+00:00"
   },
   {
-   "id": "a-b4ff9ea1b500",
-   "title": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/opcw-supports-syrian-authorities-strengthening-capacity-implement",
-   "published_date": "2026-07-22",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW supports Syrian authorities in strengthening capacity to implement the Chemical Weapons Convention The OPCW has trained 26 Syrian officials as part of its growing support to help Syria rebuild the institutional capacity needed to implement the Chemical Weapons Convention and fulfil its ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-12T21:52:20+00:00"
-  },
-  {
-   "id": "a-771cc8c741e6",
-   "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168000",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN partners launched the Winter Response Plan to help 2.1 million people in Ukraine survive another cold season as the country grapples with the on-going Russian invasion.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T03:25:03+00:00"
-  },
-  {
-   "id": "a-95c8ae23d9f0",
-   "title": "Nicaragua continues to weaken political freedoms, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167999",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights chief Volker Türk on Wednesday condemned new threats from Nicaragua’s co-president Daniel Ortega to hinder civil rights and prevent dissenting individuals and groups from participating in elections.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T03:25:03+00:00"
-  },
-  {
-   "id": "a-fff8df8528a5",
-   "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167996",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Flash floods have killed at least 26 people across eastern Afghanistan, including 23 in the mountainous province of Nuristan, where homes, markets and roads were swept away and search teams continued looking for people reported missing.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T03:25:03+00:00"
-  },
-  {
-   "id": "a-b7a496cdce3f",
-   "title": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167995",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met Wednesday in New York to debate critical minerals — the lithium, cobalt and copper powering the clean energy transition. Demand is set to triple by 2030. The question: will this mineral wealth build peace and prosperity, or fund conflict and corruption? Follow live updates ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T03:25:03+00:00"
-  },
-  {
-   "id": "a-865966677125",
-   "title": "Thousands prevented from returning home to southern Lebanon",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168003",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T03:25:02+00:00"
-  },
-  {
-   "id": "a-05fdcae524a0",
-   "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1167994",
-   "published_date": "2026-07-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world's shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-22T14:08:52+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-13T02:34:43+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-13T05:09:48+00:00",
+ "sources_ok": "5/7"
 }
