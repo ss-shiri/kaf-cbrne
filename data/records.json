@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-8d8f56866d39",
+   "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168130",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T16:02:18+00:00"
+  },
+  {
+   "id": "a-26280045615b",
+   "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168131",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council holds an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T16:02:17+00:00"
+  },
+  {
    "id": "a-f3cb492d55f2",
    "title": "Cholera spreads across borders in West and Central Africa",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-23T22:09:07+00:00"
   },
   {
-   "id": "a-318f4304fd2a",
-   "title": "Update 359 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-359-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-07-23",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T19:26:37+00:00"
-  },
-  {
-   "id": "a-be147fbe4fd6",
-   "title": "WHO launches seven strategies to prevent drowning",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Ahead of World Drowning Prevention Day on 25 July, the World Health Organization (WHO) is launching a new technical package to help governments and communities implement seven proven measures to reduce drowning deaths.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T16:39:52+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-13T13:37:53+00:00",
+ "updated_at": "2026-08-13T16:18:33+00:00",
  "sources_ok": "5/7"
 }
