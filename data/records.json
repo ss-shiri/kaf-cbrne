@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-702e350a457d",
+   "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168132",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk on Thursday condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T19:09:06+00:00"
+  },
+  {
+   "id": "a-254dab01531a",
+   "title": "Ukraine: Civilian casualties hit highest level since March 2022",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168134",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Civilian casualties in Ukraine reached their highest monthly level in July, with more people killed and injured than at any time since March 2022, the UN Human Rights Monitoring Mission in the country, HRMMU, said in an update on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T19:09:05+00:00"
+  },
+  {
    "id": "a-8d8f56866d39",
    "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
    "source_name": "UN News",
@@ -1925,6 +1959,23 @@
    "ingested_at": "2026-07-24T19:37:45+00:00"
   },
   {
+   "id": "a-318f4304fd2a",
+   "title": "Update 359 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-359-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-07-23",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-13T19:08:50+00:00"
+  },
+  {
    "id": "a-de53421eb285",
    "title": "Satellites can now spot methane leaks in real time – but most go unfixed",
    "source_name": "UN News",
@@ -1991,57 +2042,6 @@
    "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
    "why_it_matters": "",
    "ingested_at": "2026-07-24T19:37:47+00:00"
-  },
-  {
-   "id": "a-dab297220f74",
-   "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168004",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T22:09:08+00:00"
-  },
-  {
-   "id": "a-3b576951c24e",
-   "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168006",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T22:09:07+00:00"
-  },
-  {
-   "id": "a-55093f77fbc3",
-   "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168005",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In the Security Council debate on Thursday on how best to settle disputes between States peacefully, ambassadors provided examples of success and challenges ahead under such themes as effective early warning and how to move from rhetorical support for preventive diplomacy to ensuring more ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-23T22:09:07+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-13T16:18:33+00:00",
+ "updated_at": "2026-08-13T19:25:43+00:00",
  "sources_ok": "5/7"
 }
