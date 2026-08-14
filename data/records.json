@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-bdb64efc32c1",
+   "title": "Sudan: The harrowing reality of giving birth in a war zone",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168141",
+   "published_date": "2026-08-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sudanese women about to give birth are losing their babies and sometimes their own lives because of a lack of specialist healthcare support, amid the ongoing war, UN humanitarians said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-14T15:56:44+00:00"
+  },
+  {
    "id": "a-10c1e15ca48f",
    "title": "Update 362 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-24T19:37:45+00:00"
   },
   {
-   "id": "a-dad526941dfd",
-   "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168016",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-14T13:28:22+00:00",
+ "updated_at": "2026-08-14T16:07:59+00:00",
  "sources_ok": "5/7"
 }
