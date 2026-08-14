@@ -1,7 +1,58 @@
 {
- "compiled": "2026-08-13",
+ "compiled": "2026-08-14",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-56799d0880d4",
+   "title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168135",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Five years since the Taliban seized power in Kabul, life for some Afghans has improved while many others suffer growing hardship.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-14T02:23:41+00:00"
+  },
+  {
+   "id": "a-40949f90b78e",
+   "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168138",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New satellite assessments show the destruction of buildings in Gaza has climbed by nearly 10 per cent since October’s faltering ceasefire between Hamas and Israeli forces aim to end the two-year war, which reduced cities to rubble and displaced more than one million people, UN agencies said on ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-14T02:23:40+00:00"
+  },
+  {
+   "id": "a-ad0effb1253d",
+   "title": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168137",
+   "published_date": "2026-08-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Health authorities in the Democratic Republic of the Congo (DRC) are tracking a growing share of people exposed to Ebola, but the epidemic in the country's restive east continues to outpace their ability to find and isolate the sick, the World Health Organization (WHO) has warned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-14T02:23:40+00:00"
+  },
   {
    "id": "a-702e350a457d",
    "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-07-24T19:37:49+00:00"
   },
   {
-   "id": "a-ee5d9485efc3",
-   "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168008",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amar Bendjama, Permanent Representative of Algeria to the UN, was elected on Thursday to serve as the next president of the UN’s Economic and Social Council (ECOSOC).",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:48+00:00"
-  },
-  {
-   "id": "a-9317d458e6b7",
-   "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168010",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:47+00:00"
-  },
-  {
-   "id": "a-6d0209b79b86",
-   "title": "Iran urged to stop protest-related executions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168009",
-   "published_date": "2026-07-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:47+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-13T22:08:00+00:00",
+ "updated_at": "2026-08-14T02:38:49+00:00",
  "sources_ok": "5/7"
 }
