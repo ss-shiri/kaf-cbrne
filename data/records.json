@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-eb8f446be116",
+   "title": "The grass beneath our feet: Why rangelands matter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168119",
+   "published_date": "2026-08-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning by the day.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T18:36:48+00:00"
+  },
+  {
    "id": "a-521e931ef863",
    "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-15T03:44:28+00:00"
   },
   {
-   "id": "a-9ef9fc6271fa",
-   "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168021",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "One month after twin earthquakes rocked Venezuela, thousands of women and girls continue to face difficulty in accessing essential healthcare and protection services, a senior official with the UN reproductive and sexual health agency UNFPA said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-25T08:14:19+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-15T15:40:02+00:00",
+ "updated_at": "2026-08-15T18:51:18+00:00",
  "sources_ok": "5/7"
 }
