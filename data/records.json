@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-521e931ef863",
+   "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168146",
+   "published_date": "2026-08-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public information campaigns in the east of the Democratic Republic of the Congo (DRC).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T15:26:17+00:00"
+  },
+  {
    "id": "a-56a22016c013",
    "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-25T08:14:19+00:00"
   },
   {
-   "id": "a-704ce92c6887",
-   "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168023",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-25T08:14:17+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-15T13:02:40+00:00",
+ "updated_at": "2026-08-15T15:40:02+00:00",
  "sources_ok": "5/7"
 }
