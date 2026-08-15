@@ -1,7 +1,92 @@
 {
- "compiled": "2026-08-14",
+ "compiled": "2026-08-15",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-56a22016c013",
+   "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168142",
+   "published_date": "2026-08-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN’s drugs and crime fighting agency (UNODC).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T01:35:48+00:00"
+  },
+  {
+   "id": "a-53f005d4e75f",
+   "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168147",
+   "published_date": "2026-08-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T01:35:47+00:00"
+  },
+  {
+   "id": "a-a23668ea81a1",
+   "title": "An attack on healthcare every six hours, and no one held to account",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168144",
+   "published_date": "2026-08-14",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T01:35:47+00:00"
+  },
+  {
+   "id": "a-ff6a78fcd597",
+   "title": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168149",
+   "published_date": "2026-08-14",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As amber heat-health alerts spread across England this summer, a new study has found that the warnings are being received – but not changing behaviour.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T01:35:46+00:00"
+  },
+  {
+   "id": "a-fe52621079ae",
+   "title": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168148",
+   "published_date": "2026-08-14",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) – the fastest-growing on record and on track to become the deadliest – is killing one person every 30 minutes.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T01:35:46+00:00"
+  },
   {
    "id": "a-bdb64efc32c1",
    "title": "Sudan: The harrowing reality of giving birth in a war zone",
@@ -1959,91 +2044,6 @@
    "ingested_at": "2026-07-25T08:14:17+00:00"
   },
   {
-   "id": "a-2f4e1b17ea3a",
-   "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cyclospora-outbreak-linked-to-iceberg-lettuce-expanded-to-four-new-states.html",
-   "published_date": "2026-07-24",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T22:10:26+00:00"
-  },
-  {
-   "id": "a-dc3c890e7d57",
-   "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168024",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, batteries and smartphones.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T22:10:09+00:00"
-  },
-  {
-   "id": "a-6989dddc5e24",
-   "title": "Wildfires surge across Europe as Spain and France battle major blazes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168013",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The amount of land burned by wildfires across Europe has increased by 57 per cent in four years, according to new data from the World Health Organization (WHO) in Europe.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:46+00:00"
-  },
-  {
-   "id": "a-a4317ad0a426",
-   "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168012",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:46+00:00"
-  },
-  {
-   "id": "a-32a7de7a1580",
-   "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168018",
-   "published_date": "2026-07-24",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-24T19:37:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-14T21:42:58+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-15T01:50:32+00:00",
+ "sources_ok": "5/7"
 }
