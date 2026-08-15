@@ -1993,6 +1993,23 @@
    "ingested_at": "2026-07-26T16:06:03+00:00"
   },
   {
+   "id": "a-2f4e1b17ea3a",
+   "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cyclospora-outbreak-linked-to-iceberg-lettuce-expanded-to-four-new-states.html",
+   "published_date": "2026-07-24",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-15T03:44:28+00:00"
+  },
+  {
    "id": "a-9ef9fc6271fa",
    "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
    "source_name": "UN News",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-25T08:14:17+00:00"
-  },
-  {
-   "id": "a-ada713a9e2a6",
-   "title": "International Criminal Court Prosecutor Karim Khan dismissed",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168025",
-   "published_date": "2026-07-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary proceedings related to widely reported sexual misconduct allegations at an emergency session at UN Headquarters in New York on Friday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-25T08:14:17+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-15T01:50:32+00:00",
+ "updated_at": "2026-08-15T03:58:01+00:00",
  "sources_ok": "5/7"
 }
