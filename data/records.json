@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-168f443a8cc2",
+   "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168136",
+   "published_date": "2026-08-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-16T18:36:00+00:00"
+  },
+  {
    "id": "a-eb8f446be116",
    "title": "The grass beneath our feet: Why rangelands matter",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-26T16:06:03+00:00"
   },
   {
-   "id": "a-2f4e1b17ea3a",
-   "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cyclospora-outbreak-linked-to-iceberg-lettuce-expanded-to-four-new-states.html",
-   "published_date": "2026-07-24",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T03:44:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-16T15:39:33+00:00",
+ "updated_at": "2026-08-16T18:45:32+00:00",
  "sources_ok": "5/7"
 }
