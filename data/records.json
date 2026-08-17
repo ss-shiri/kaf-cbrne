@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-cc962e5cacb7",
+   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
+   "published_date": "2026-08-17",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-17T18:47:36+00:00"
+  },
+  {
    "id": "a-168f443a8cc2",
    "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-27T14:48:16+00:00"
   },
   {
-   "id": "a-0004e68b4da7",
-   "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168027",
-   "published_date": "2026-07-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Syria has an opportunity not only to recover from conflict but to build “a future that is more stable, more inclusive and more prosperous for all Syrians”, UN Secretary-General António Guterres said in Damascus on Saturday as he began a landmark visit to the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-26T16:06:03+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-17T15:46:30+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-08-17T19:01:52+00:00",
+ "sources_ok": "4/7"
 }
