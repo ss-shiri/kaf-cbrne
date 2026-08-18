@@ -1,7 +1,24 @@
 {
- "compiled": "2026-08-17",
+ "compiled": "2026-08-18",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-1da1fde1ba41",
+   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766260",
+   "published_date": "2026-08-17",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T01:35:23+00:00"
+  },
   {
    "id": "a-4ee2623705e0",
    "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-07-26T19:19:28+00:00"
   },
   {
-   "id": "a-7cbbafb45aff",
-   "title": "After war took her leg, this Ukrainian gymnast refused to give up",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168020",
-   "published_date": "2026-07-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week, she carried a message far bigger than her performance.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-26T19:19:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-17T21:40:57+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-08-18T01:42:30+00:00",
+ "sources_ok": "4/7"
 }
