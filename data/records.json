@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c4286b50ba8a",
+   "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168157",
+   "published_date": "2026-08-18",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From the frontlines of the deadliest-ever Ebola outbreak in Democratic Republic of the Congo (DRC), the UN World Health Organization (WHO) shared details on Tuesday of a massive push for community engagement, a day after yet another ambulance attack.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T21:29:36+00:00"
+  },
+  {
+   "id": "a-2778c0c5313a",
+   "title": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168159",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent UN Human Rights Council-appointed experts on Tuesday condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its “continued and unlawful use of capital punishment.”",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T21:29:35+00:00"
+  },
+  {
+   "id": "a-9d2a4ef8f7d7",
+   "title": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168163",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are “far from over,” the UN warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T21:29:34+00:00"
+  },
+  {
+   "id": "a-6a8c081db019",
+   "title": "Colombia earthquake: UN ramps up aid for 100,000 people",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168161",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN is scaling up humanitarian assistance in western Colombia as needs continue to grow following last week’s devastating 7.4-magnitude earthquake, according to the latest update released on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T21:29:34+00:00"
+  },
+  {
+   "id": "a-ec6ee31fb2a5",
+   "title": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168164",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A single New York Times article on a disaster generated an additional $500,000 in official aid. That’s just one of the findings on the critical role a free press plays in saving lives, according to a new UN report released on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T21:29:33+00:00"
+  },
+  {
    "id": "a-3478a572d3d3",
    "title": "Gaza: Only three per cent of cropland available to grow food",
    "source_name": "UN News",
@@ -1958,92 +2043,6 @@
    "ingested_at": "2026-07-28T16:45:10+00:00"
   },
   {
-   "id": "a-1dbb8c71b709",
-   "title": "What is Cherenkov Radiation?",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-   "published_date": "2026-07-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T11:23:12+00:00"
-  },
-  {
-   "id": "a-c243929ca63a",
-   "title": "Sabrina Dallafior begins term as new Director-General of the OPCW",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/sabrina-dallafior-begins-term-new-director-general-opcw",
-   "published_date": "2026-07-27",
-   "doc_type": "press release",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Sabrina Dallafior begins term as new Director-General of the OPCW Sabrina Dallafior today assumed office as Director-General of the OPCW, becoming its fifth Director-General and the first woman to lead the Organisation since its establishment. (Photo: OPCW) THE HAGUE, Netherlands—27 July 2026— ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T06:52:27+00:00"
-  },
-  {
-   "id": "a-180e495e4ae8",
-   "title": "Conflict and crisis put six World Heritage sites at risk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168031",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T22:10:25+00:00"
-  },
-  {
-   "id": "a-2d339a24a325",
-   "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168030",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Cyberattacks, data breaches, online harassment and other forms of technology-facilitated violence are becoming significant obstacles to HIV prevention and treatment, according to a UNAIDS specialist who says digital security has become inseparable from the fight against the epidemic itself.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T22:10:25+00:00"
-  },
-  {
-   "id": "a-a85207539360",
-   "title": "High prices and funding cuts stall HIV prevention revolution",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168033",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The AIDS epidemic could stage a comeback amid unequal access to breakthrough prevention medicines and a sharp decline in global funding, according to a UN report released on Monday ahead of the opening of the 26th International AIDS Conference in Rio de Janeiro, Brazil.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T22:10:24+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-18T18:57:54+00:00",
+ "updated_at": "2026-08-18T21:44:54+00:00",
  "sources_ok": "5/7"
 }
