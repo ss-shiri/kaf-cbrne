@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-a8be30d02a0b",
+   "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168155",
+   "published_date": "2026-08-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become \"the new normal.\"",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T03:49:20+00:00"
+  },
+  {
+   "id": "a-0879fd1f62c8",
+   "title": "Ebola outbreak becomes deadliest in DR Congo’s history",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168154",
+   "published_date": "2026-08-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo (DRC) is now the deadliest the country has ever faced, the UN’s World Health Organization (WHO) said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T03:49:20+00:00"
+  },
+  {
+   "id": "a-c88bbab21402",
+   "title": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168156",
+   "published_date": "2026-08-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As heatwaves are turning deadlier, fires and disasters are razing cities — and rising seas are erasing territories — one environmental crisis remains dangerously overlooked: the degradation of the land beneath our feet.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T03:49:19+00:00"
+  },
+  {
    "id": "a-1da1fde1ba41",
    "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
    "source_name": "CDC Newsroom",
@@ -1992,58 +2043,6 @@
    "ingested_at": "2026-07-27T14:48:14+00:00"
   },
   {
-   "id": "a-c243929ca63a",
-   "title": "Sabrina Dallafior begins term as new Director-General of the OPCW",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/07/sabrina-dallafior-begins-term-new-director-general-opcw",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Sabrina Dallafior begins term as new Director-General of the OPCW Sabrina Dallafior today assumed office as Director-General of the OPCW, becoming its fifth Director-General and the first woman to lead the Organisation since its establishment. (Photo: OPCW) THE HAGUE, Netherlands—27 July 2026— ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-27T10:01:10+00:00"
-  },
-  {
-   "id": "a-88a4196a00d7",
-   "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168026",
-   "published_date": "2026-07-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-27T14:48:15+00:00"
-  },
-  {
-   "id": "a-a27b16b1cba4",
-   "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168028",
-   "published_date": "2026-07-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-26T19:19:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-18T01:42:30+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-18T04:04:50+00:00",
+ "sources_ok": "5/7"
 }
