@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-3478a572d3d3",
+   "title": "Gaza: Only three per cent of cropland available to grow food",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168160",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T18:45:26+00:00"
+  },
+  {
+   "id": "a-6ad102caa139",
+   "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168158",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-18T18:45:26+00:00"
+  },
+  {
    "id": "a-009b4085b47a",
    "title": "Joint Statement by the Minister of Foreign Affairs and Expatriates of the Syrian Arab Republic and the Director General of the International Atomic Energy Agency",
    "source_name": "IAEA",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-07-28T22:10:24+00:00"
   },
   {
-   "id": "a-5512d2348396",
-   "title": "75 years later, the promise to protect refugees faces its greatest test",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168036",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the world marks the 75th anniversary of the Refugee Convention, the UN refugee agency (UNHCR) has launched a global campaign urging governments, organizations and individuals to renew their commitment to protecting people forced to flee war, violence and persecution.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T14:22:36+00:00"
-  },
-  {
-   "id": "a-3b4bf816ac33",
-   "title": "WHO: Integration, innovation and community leadership key to ending HIV, hepatitis and STIs",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis",
-   "published_date": "2026-07-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) today launched a new report assessing progress in implementing the Global Health Sector Strategies (GHSS) on HIV, viral hepatitis and sexually transmitted infections (STIs) for 2022–2030. Released during the 26th International AIDS Conference (AIDS 2026) and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T02:55:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-18T15:56:14+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-18T18:57:54+00:00",
+ "sources_ok": "5/7"
 }
