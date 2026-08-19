@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-4ae07d55a10c",
+   "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168168",
+   "published_date": "2026-08-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The International Criminal Court (ICC) on Wednesday responded to a new round of US sanctions targeting its president and a senior prosecutor, calling them “a flagrant attack” against the court.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-19T21:30:04+00:00"
+  },
+  {
+   "id": "a-12c87edfb437",
+   "title": "Zambia: Arrests and detention of political opponents following election raises concern",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168169",
+   "published_date": "2026-08-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the wake of President Hakainde Hichilema of Zambia’s re-election for a second five-year term, UN human rights chief has raised concerns over the reported arrests and detention of political opponents in the country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-19T21:30:04+00:00"
+  },
+  {
    "id": "a-696e232234e6",
    "title": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
    "source_name": "UN News",
@@ -2009,40 +2043,6 @@
    "ingested_at": "2026-07-29T11:29:30+00:00"
   },
   {
-   "id": "a-1dbb8c71b709",
-   "title": "What is Cherenkov Radiation?",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-   "published_date": "2026-07-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T01:37:01+00:00"
-  },
-  {
-   "id": "a-211249dbd07b",
-   "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168043",
-   "published_date": "2026-07-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From the peaks of Mount Olympus in Greece to the shores of the “D-Day” beaches in France, 25 cultural or natural landmarks from across the globe have been newly inscribed on the World Heritage List, updated annually by the UN Educational, Scientific and Cultural Organization (UNESCO).",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T08:28:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-19T19:03:19+00:00",
+ "updated_at": "2026-08-19T21:46:22+00:00",
  "sources_ok": "5/7"
 }
