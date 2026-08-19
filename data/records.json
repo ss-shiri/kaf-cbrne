@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-ab61a98157f4",
+   "title": "imPACT Review Highlights Namibia’s Commitment to Cancer Care and Opportunities to Expand Services",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/impact-review-highlights-namibias-commitment-to-cancer-care-and-opportunities-to-expand-services",
+   "published_date": "2026-08-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-19T09:38:28+00:00"
+  },
+  {
    "id": "a-c4286b50ba8a",
    "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "ingested_at": "2026-07-28T22:10:22+00:00"
   },
   {
-   "id": "a-7d8b09e68096",
-   "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168039",
-   "published_date": "2026-07-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A woman is stopped for buying groceries alone. The shopkeeper who served her is slapped and hauled in for questioning. A teacher is turned away from her own classroom for the wrong cloak.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T22:10:22+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-19T07:01:17+00:00",
+ "updated_at": "2026-08-19T09:49:09+00:00",
  "sources_ok": "5/7"
 }
