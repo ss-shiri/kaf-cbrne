@@ -1,5 +1,5 @@
 {
- "compiled": "2026-08-18",
+ "compiled": "2026-08-19",
  "source": "curated + auto",
  "records": [
   {
@@ -1941,6 +1941,23 @@
    "ingested_at": "2026-07-29T11:29:30+00:00"
   },
   {
+   "id": "a-1dbb8c71b709",
+   "title": "What is Cherenkov Radiation?",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+   "published_date": "2026-07-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-19T01:37:01+00:00"
+  },
+  {
    "id": "a-211249dbd07b",
    "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
    "source_name": "UN News",
@@ -2024,23 +2041,6 @@
    "summary": "A woman is stopped for buying groceries alone. The shopkeeper who served her is slapped and hauled in for questioning. A teacher is turned away from her own classroom for the wrong cloak.",
    "why_it_matters": "",
    "ingested_at": "2026-07-28T22:10:22+00:00"
-  },
-  {
-   "id": "a-28fdbcba0e5f",
-   "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168037",
-   "published_date": "2026-07-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members are hearing updates on Tuesday. Join our live coverage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-28T16:45:10+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-18T21:44:54+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-08-19T01:37:20+00:00",
+ "sources_ok": "4/7"
 }
