@@ -1975,6 +1975,23 @@
    "ingested_at": "2026-07-30T11:12:19+00:00"
   },
   {
+   "id": "a-a3709ea2bc34",
+   "title": "IAEA and George Washington University Law School Conclude First Summer School on the Legal Framework for Nuclear Energy",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-and-george-washington-university-law-school-conclude-first-summer-school-on-the-legal-framework-for-nuclear-energy",
+   "published_date": "2026-07-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-20T03:50:53+00:00"
+  },
+  {
    "id": "a-b2064840355b",
    "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
    "source_name": "UN News",
@@ -2022,23 +2039,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "The United Nations Secretary-General said on Wednesday that he plans to convene fresh talks on Cyprus to resolve the decades-long division on the Mediterranean island, stressing that the moment calls for rebuilding trust between its two communities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-29T19:25:21+00:00"
-  },
-  {
-   "id": "a-95965ea8dacc",
-   "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168045",
-   "published_date": "2026-07-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-29T19:25:21+00:00"
   },
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-20T01:47:12+00:00",
+ "updated_at": "2026-08-20T04:05:05+00:00",
  "sources_ok": "5/7"
 }
