@@ -683,6 +683,23 @@
    "ingested_at": "2026-08-13T16:02:17+00:00"
   },
   {
+   "id": "a-ebf3f541e62e",
+   "title": "Behind every mission: How the OPCW Situation Centre supports the Organisation’s global mandate",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/08/behind-every-mission-how-opcw-situation-centre-supports-organisations",
+   "published_date": "2026-08-12",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Behind every mission: How the OPCW Situation Centre supports the Organisation’s global mandate Behind every deployment is the OPCW Situation Centre (SitCen), a 24/7 operational hub that helps inspectors stay informed, connected and prepared wherever their work takes them. (Photo: OPCW) THE HAGUE, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-20T09:39:51+00:00"
+  },
+  {
    "id": "a-f3cb492d55f2",
    "title": "Cholera spreads across borders in West and Central Africa",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "ingested_at": "2026-07-30T14:17:01+00:00"
   },
   {
-   "id": "a-e1c63ca28038",
-   "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168048",
-   "published_date": "2026-07-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations Secretary-General said on Wednesday that he plans to convene fresh talks on Cyprus to resolve the decades-long division on the Mediterranean island, stressing that the moment calls for rebuilding trust between its two communities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-29T19:25:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-20T07:04:17+00:00",
+ "updated_at": "2026-08-20T09:49:57+00:00",
  "sources_ok": "5/7"
 }
