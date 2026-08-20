@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d635c9ba8ff6",
+   "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168173",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further atrocity crimes unless renewed fighting stops, a UN-backed probe said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-20T21:33:17+00:00"
+  },
+  {
+   "id": "a-5ef20255c612",
+   "title": "Update 363 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-363-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-08-20",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-20T21:33:04+00:00"
+  },
+  {
+   "id": "a-61a282ebdefc",
+   "title": "The clean energy transition needs land. Can it help restore it too?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168172",
+   "published_date": "2026-08-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "What if the infrastructure needed to fight climate change could also help repair the land beneath it?",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-20T21:33:17+00:00"
+  },
+  {
    "id": "a-0ef0645144b4",
    "title": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
    "source_name": "UN News",
@@ -1992,57 +2043,6 @@
    "ingested_at": "2026-07-30T11:12:19+00:00"
   },
   {
-   "id": "a-a3709ea2bc34",
-   "title": "IAEA and George Washington University Law School Conclude First Summer School on the Legal Framework for Nuclear Energy",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-and-george-washington-university-law-school-conclude-first-summer-school-on-the-legal-framework-for-nuclear-energy",
-   "published_date": "2026-07-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-20T03:50:53+00:00"
-  },
-  {
-   "id": "a-b2064840355b",
-   "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168047",
-   "published_date": "2026-07-29",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN emergency food agency appealed for immediate funding on Wednesday, warning that deepening hunger is undermining the response to an Ebola outbreak in the Democratic Republic of the Congo (DRC) that has now infected more than 3,200 people.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T08:28:20+00:00"
-  },
-  {
-   "id": "a-872ce306cbb6",
-   "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168049",
-   "published_date": "2026-07-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-30T14:17:01+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-20T18:56:55+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-20T21:47:59+00:00",
+ "sources_ok": "5/7"
 }
