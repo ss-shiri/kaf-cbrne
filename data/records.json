@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-893ac0bb2d9e",
+   "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168184",
+   "published_date": "2026-08-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The global funding crisis for humanitarian work is taking a growing toll on the most vulnerable children in Somalia, where some aid programmes and facilities have been forced to shut down.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T21:29:29+00:00"
+  },
+  {
+   "id": "a-8859902d6dde",
+   "title": "New initiative launched to shield terrorism victims from online harm",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168186",
+   "published_date": "2026-08-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T21:29:28+00:00"
+  },
+  {
    "id": "a-270f69621c8e",
    "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
    "source_name": "CDC Newsroom",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-08-01T08:28:18+00:00"
   },
   {
-   "id": "a-6709e683f4c6",
-   "title": "Wildfire smoke poses hidden health threat",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168060",
-   "published_date": "2026-07-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Wildfires are often associated with the destruction they leave behind, but the smoke they produce can pose a serious health threat far beyond the fire zone, the World Health Organization (WHO) has warned.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T08:28:18+00:00"
-  },
-  {
-   "id": "a-b987e331201b",
-   "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168062",
-   "published_date": "2026-07-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-31T19:42:20+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-21T18:59:14+00:00",
+ "updated_at": "2026-08-21T21:39:14+00:00",
  "sources_ok": "5/7"
 }
