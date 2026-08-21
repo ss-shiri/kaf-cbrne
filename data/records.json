@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c2ea7dc900e1",
+   "title": "IAEA Revamps Major Nuclear Power Database",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-revamps-major-nuclear-power-database",
+   "published_date": "2026-08-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T12:57:30+00:00"
+  },
+  {
    "id": "a-7c8642184b61",
    "title": "France provides voluntary funding to enhance OPCW’s work",
    "source_name": "OPCW",
@@ -1925,6 +1942,23 @@
    "ingested_at": "2026-07-31T19:42:20+00:00"
   },
   {
+   "id": "a-6ce048cc682c",
+   "title": "Tritium Level Far Below Japan’s Operational Limit in 22nd Batch of ALPS Treated Water, IAEA Confirms",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-22nd-batch-of-alps-treated-water-iaea-confirms",
+   "published_date": "2026-07-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T12:57:30+00:00"
+  },
+  {
    "id": "a-b3f8b208a85b",
    "title": "Wildfires: Prevention is the best defence, UN says",
    "source_name": "UN News",
@@ -2008,40 +2042,6 @@
    "summary": "Afghans returning from neighbouring countries are facing growing risks of human trafficking and exploitation as overlapping humanitarian and economic crises leave many struggling to survive, the UN warned on Thursday.",
    "why_it_matters": "",
    "ingested_at": "2026-07-30T22:11:20+00:00"
-  },
-  {
-   "id": "a-d34ebd996066",
-   "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168052",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-30T22:11:19+00:00"
-  },
-  {
-   "id": "a-8da57fbde85a",
-   "title": "Update 360 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-360-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-07-30",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-30T14:16:07+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-21T09:55:12+00:00",
+ "updated_at": "2026-08-21T13:17:03+00:00",
  "sources_ok": "5/7"
 }
