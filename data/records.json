@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-cca14e65db7b",
+   "title": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/08/statement-director-general-organisation-prohibition",
+   "published_date": "2026-08-21",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons kviray Fri 21/08/2026 - 15:16 Today marks the 13th anniversary of a devastating chemical weapons attack in the Ghouta area of Damascus in Syria. On 21 August 2013, the nerve agent sarin was used in Ghouta, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T15:38:38+00:00"
+  },
+  {
    "id": "a-c2ea7dc900e1",
    "title": "IAEA Revamps Major Nuclear Power Database",
    "source_name": "IAEA",
@@ -18,6 +35,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-08-21T12:57:30+00:00"
+  },
+  {
+   "id": "a-60433dc763fe",
+   "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168180",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ninety-four cent of Gaza’s 2.1 million residents need shelter as Israeli gunfire and strikes continue inside the enclave, UN agencies and peacekeepers warned on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T15:38:46+00:00"
+  },
+  {
+   "id": "a-1fd5d5b60db3",
+   "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168181",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T15:38:44+00:00"
   },
   {
    "id": "a-7c8642184b61",
@@ -1942,6 +1993,23 @@
    "ingested_at": "2026-07-31T19:42:20+00:00"
   },
   {
+   "id": "a-8da57fbde85a",
+   "title": "Update 360 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-360-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-07-30",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T15:38:38+00:00"
+  },
+  {
    "id": "a-6ce048cc682c",
    "title": "Tritium Level Far Below Japan’s Operational Limit in 22nd Batch of ALPS Treated Water, IAEA Confirms",
    "source_name": "IAEA",
@@ -1974,74 +2042,6 @@
    "summary": "The wildfires burning across Europe and North America highlight the urgent need for action now – as climate change, land-use pressures and human activity make severe fires more likely in the future.",
    "why_it_matters": "",
    "ingested_at": "2026-08-01T08:28:19+00:00"
-  },
-  {
-   "id": "a-756ae4660288",
-   "title": "The climate pattern putting millions at risk: El Niño explained",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168056",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "El Niño is putting millions of lives at risk in eastern and southern Africa but the UN is ensuring that communities are better prepared to deal with its impact.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T08:28:18+00:00"
-  },
-  {
-   "id": "a-d0e210da11c0",
-   "title": "Fear grows as freedoms shrink in Uganda",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168057",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Uganda is experiencing a growing climate of fear as increasing restrictions on fundamental freedoms leave opposition supporters, journalists, human rights defenders and civil society groups at heightened risk of abuse, according to the UN Human Rights Office (OHCHR).",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-31T14:21:06+00:00"
-  },
-  {
-   "id": "a-c47945d503f3",
-   "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168055",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-31T14:21:06+00:00"
-  },
-  {
-   "id": "a-f55e7cc2b127",
-   "title": "Returning Afghans face growing risk of trafficking as crises deepen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168051",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Afghans returning from neighbouring countries are facing growing risks of human trafficking and exploitation as overlapping humanitarian and economic crises leave many struggling to survive, the UN warned on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-30T22:11:20+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-21T13:17:03+00:00",
+ "updated_at": "2026-08-21T15:50:19+00:00",
  "sources_ok": "5/7"
 }
