@@ -3,6 +3,24 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-7c8642184b61",
+   "title": "France provides voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/08/france-provides-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "France provides voluntary funding to enhance OPCW’s work H.E. Mr François Alabrune, Permanent Representative of the French Republic, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Government of France has contributed EUR 1 million to the Trust Fund for Syria Missions and EUR 30,000 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-21T09:41:45+00:00"
+  },
+  {
    "id": "a-d635c9ba8ff6",
    "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
    "source_name": "UN News",
@@ -2026,23 +2044,6 @@
    "ingested_at": "2026-07-30T14:16:07+00:00"
   },
   {
-   "id": "a-6ce048cc682c",
-   "title": "Tritium Level Far Below Japan’s Operational Limit in 22nd Batch of ALPS Treated Water, IAEA Confirms",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-22nd-batch-of-alps-treated-water-iaea-confirms",
-   "published_date": "2026-07-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-07-30T11:12:19+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-21T07:13:13+00:00",
+ "updated_at": "2026-08-21T09:55:12+00:00",
  "sources_ok": "5/7"
 }
