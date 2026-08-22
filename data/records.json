@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-75cb75b05391",
+   "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168182",
+   "published_date": "2026-08-21",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the deadliest Ebola outbreak in DR Congo’s history continued spreading on Friday, UN responders renewed their urgent appeal for immediate international support, with existing funding for lifesaving work critically low.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T09:32:05+00:00"
+  },
+  {
+   "id": "a-73b7d0236e7a",
+   "title": "AI for Good: How the UN uses AI to advance human rights",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168177",
+   "published_date": "2026-08-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For Ari, a six-year-old boy with learning difficulties in Jamaica, artificial intelligence (AI) opened the door to something many children take for granted: reading a book in his own language. Thousands of miles away, gold miners in Ethiopia are being screened more quickly for tuberculosis, while ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T09:32:04+00:00"
+  },
+  {
    "id": "a-f198e01d4af7",
    "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
    "source_name": "CDC Newsroom",
@@ -103,6 +137,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-08-21T12:57:30+00:00"
+  },
+  {
+   "id": "a-a69488b61677",
+   "title": "DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168174",
+   "published_date": "2026-08-20",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Democratic Republic of the Congo (DRC) will receive 70,000 doses of the Ervebo vaccine from the UN’s international vaccine coordination group (ICG) to protect frontline communities against the Ebola virus disease.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T09:32:07+00:00"
+  },
+  {
+   "id": "a-1d3da7b038a8",
+   "title": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168178",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ten days after a powerful earthquake struck western Colombia, an estimated 1.2 million people need humanitarian assistance, while some communities have still received little or no aid, UN agencies said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T09:32:06+00:00"
+  },
+  {
+   "id": "a-69b701ad59eb",
+   "title": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168176",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Children, who are particularly vulnerable to the disease, account for half of the 46 suspected mpox cases identified in Guinea-Bissau – with 16 of them under the age of four.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T09:32:06+00:00"
   },
   {
    "id": "a-60433dc763fe",
@@ -1959,91 +2044,6 @@
    "ingested_at": "2026-08-04T03:13:53+00:00"
   },
   {
-   "id": "a-89bc68f15c39",
-   "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168067",
-   "published_date": "2026-08-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T03:13:52+00:00"
-  },
-  {
-   "id": "a-f569fa1b1fc5",
-   "title": "Drone strikes threaten civilians and aid operations in Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168068",
-   "published_date": "2026-08-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA said on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T03:13:51+00:00"
-  },
-  {
-   "id": "a-05a085e86e03",
-   "title": "Opening Ceremony of the OPCW Associate Programme 2026",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-ceremony-opcw-associate-programme-2026",
-   "published_date": "2026-08-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Opening Ceremony of the OPCW Associate Programme 2026 ppuhm Mon 03/08/2026 - 10:18 Opening remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Distinguished participants, Dear colleagues, It is a great pleasure to welcome you to the 27th edition of the OPCW Associate ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-03T09:56:28+00:00"
-  },
-  {
-   "id": "a-daa2634044a4",
-   "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168058",
-   "published_date": "2026-08-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Sofia* was 27, raising her seven-year-old son alone in Venezuela, and running out of options. For years she had distributed personal hygiene products door to door, but as her customers’ finances collapsed, so did her income.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-03T03:31:20+00:00"
-  },
-  {
-   "id": "a-5def091958f3",
-   "title": "Recovery in Ukraine, one life at a time",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168053",
-   "published_date": "2026-08-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T22:03:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-22T07:01:38+00:00",
+ "updated_at": "2026-08-22T09:42:43+00:00",
  "sources_ok": "5/7"
 }
