@@ -1993,6 +1993,23 @@
    "ingested_at": "2026-08-05T14:21:51+00:00"
   },
   {
+   "id": "a-05a085e86e03",
+   "title": "Opening Ceremony of the OPCW Associate Programme 2026",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-ceremony-opcw-associate-programme-2026",
+   "published_date": "2026-08-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Ceremony of the OPCW Associate Programme 2026 ppuhm Mon 03/08/2026 - 10:18 Opening remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Distinguished participants, Dear colleagues, It is a great pleasure to welcome you to the 27th edition of the OPCW Associate ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T12:49:14+00:00"
+  },
+  {
    "id": "a-4db90322046f",
    "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
    "source_name": "UN News",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "Amid a deepening hunger crisis in Somalia, artificial intelligence (AI) is helping to deliver aid to the people who need it most.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T03:13:53+00:00"
-  },
-  {
-   "id": "a-fc1308996683",
-   "title": "Mothers still lack support to breastfeed, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168065",
-   "published_date": "2026-08-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Breastfeeding rates are rising worldwide, but millions of mothers and families still lack the services and protection they need to feed their babies safely, the UN has warned.",
    "why_it_matters": "",
    "ingested_at": "2026-08-04T03:13:53+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-22T09:42:43+00:00",
+ "updated_at": "2026-08-22T13:02:48+00:00",
  "sources_ok": "5/7"
 }
