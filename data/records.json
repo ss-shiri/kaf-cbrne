@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f198e01d4af7",
+   "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766293",
+   "published_date": "2026-08-21",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC warns of a multistate Salmonella and E. coli outbreak linked to recalled alfalfa sprout product.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-22T03:46:45+00:00"
+  },
+  {
    "id": "a-893ac0bb2d9e",
    "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-01T22:03:21+00:00"
   },
   {
-   "id": "a-bcf64c945a8a",
-   "title": "Strong El Niño ahead, UN weather agency warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/07/1168059",
-   "published_date": "2026-07-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-01T08:28:18+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-22T01:43:53+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-08-22T03:54:11+00:00",
+ "sources_ok": "4/7"
 }
