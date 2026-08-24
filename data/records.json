@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-8914a6f47cc6",
+   "title": "Sudan war: $22 million education boost to help 200,000 children",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168187",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For millions of children in Sudan, the classroom remains out of reach as the country’s civil war continues to disrupt their education. To help tackle this huge problem, the UN global education fund on Monday announced a $22 million initiative to help 200,000 youngsters return to learning.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T15:44:44+00:00"
+  },
+  {
+   "id": "a-e750aff2609b",
+   "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168188",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council is currently hearing top UN officials brief on the latest updates about war-torn Sudan as escalating conflict, drone strikes against civilians, displacement, hunger and flooding affects millions and UN agencies strive to deliver lifesaving aid. UN News app users can follow our ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T15:44:43+00:00"
+  },
+  {
+   "id": "a-0cfa7efe26ed",
+   "title": "Breaking the silence over sexual violence against men and boys in war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168150",
+   "published_date": "2026-08-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Conflicts can expose civilians and detainees to grave abuses; the challenge is not only to document these crimes, but also to ensure all survivors are recognised, protected and able to access justice and care.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T15:44:44+00:00"
+  },
+  {
    "id": "a-75cb75b05391",
    "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
    "source_name": "UN News",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-08-05T14:21:51+00:00"
   },
   {
-   "id": "a-05a085e86e03",
-   "title": "Opening Ceremony of the OPCW Associate Programme 2026",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/07/opening-ceremony-opcw-associate-programme-2026",
-   "published_date": "2026-08-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Opening Ceremony of the OPCW Associate Programme 2026 ppuhm Mon 03/08/2026 - 10:18 Opening remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Distinguished participants, Dear colleagues, It is a great pleasure to welcome you to the 27th edition of the OPCW Associate ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T12:49:14+00:00"
-  },
-  {
-   "id": "a-4db90322046f",
-   "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168064",
-   "published_date": "2026-08-03",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New UN-backed centres will serve eastern Democratic Republic of the Congo (DRC) as confirmed Ebola cases continued to climb sharply over the weekend in the largest ever outbreak of the highly contagious disease in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T03:13:54+00:00"
-  },
-  {
-   "id": "a-f0b22bc57b9c",
-   "title": "In Somalia, AI is helping deliver food to hungry families",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168066",
-   "published_date": "2026-08-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid a deepening hunger crisis in Somalia, artificial intelligence (AI) is helping to deliver aid to the people who need it most.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-04T03:13:53+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-24T13:12:28+00:00",
+ "updated_at": "2026-08-24T15:59:40+00:00",
  "sources_ok": "5/7"
 }
