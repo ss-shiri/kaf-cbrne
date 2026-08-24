@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-621d99966f13",
+   "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168191",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war were in the spotlight on Monday as the Security Council hears the latest reports from UN officials about the situation on the ground. UN News app users can follow our live coverage here.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T21:34:31+00:00"
+  },
+  {
+   "id": "a-05801e666786",
+   "title": "Global food supply has become ‘collateral damage’ in conflicts: Secretary-General",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168190",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The disruption of maritime traffic in the Strait of Hormuz, Black Sea and Bab al-Mandab Strait has worsened hunger crises and must immediately end, UN Secretary-General António Guterres said.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T21:34:31+00:00"
+  },
+  {
+   "id": "a-98b61bd15f2f",
+   "title": "Gaza: Children still at risk despite drop in acute hunger",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168193",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Among tent cities pitched on the rubble of destroyed homes in Gaza, children are, by one measure, finally getting enough to eat. By another, however, many of them may never fully recover, according to a new study by the UN Children’s Fund (UNICEF) released on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T21:34:30+00:00"
+  },
+  {
+   "id": "a-77a55fcbba21",
+   "title": "Two UN peacekeepers killed in South Sudan ambush",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168192",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Two UN peacekeepers have been killed and a total of seven people injured after unidentified gunmen ambushed a patrol in South Sudan’s eastern Jonglei state on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-24T21:34:30+00:00"
+  },
+  {
    "id": "a-8914a6f47cc6",
    "title": "Sudan war: $22 million education boost to help 200,000 children",
    "source_name": "UN News",
@@ -1976,74 +2044,6 @@
    "ingested_at": "2026-08-05T22:15:41+00:00"
   },
   {
-   "id": "a-a2a65cfe9e36",
-   "title": "Africans bear the brunt of biodiversity loss",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168078",
-   "published_date": "2026-08-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For millions across Africa and the developing world, the biodiversity crisis is not an abstract problem – it’s the soil that no longer yields bountiful harvests and the fish that no longer return to coastal waters.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T22:15:39+00:00"
-  },
-  {
-   "id": "a-25342d79f644",
-   "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168074",
-   "published_date": "2026-08-04",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T14:21:52+00:00"
-  },
-  {
-   "id": "a-29db1825c898",
-   "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168077",
-   "published_date": "2026-08-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T14:21:51+00:00"
-  },
-  {
-   "id": "a-87d8c3135fb1",
-   "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168076",
-   "published_date": "2026-08-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As Russia’s invasion of Ukraine continues, with both sides stepping up airstrikes and drone attacks in recent weeks deep inside each other's territory, the UN Children’s Fund (UNICEF) appealed on Tuesday for greater protection for the war’s youngest victims.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T14:21:51+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-24T19:02:43+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-08-24T21:42:36+00:00",
+ "sources_ok": "5/7"
 }
