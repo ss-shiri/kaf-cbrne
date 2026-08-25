@@ -1908,6 +1908,23 @@
    "ingested_at": "2026-08-06T14:24:58+00:00"
   },
   {
+   "id": "a-62312c493288",
+   "title": "Bahamas Charts Next Steps to Strengthen Cancer Control Following imPACT Review",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/bahamas-charts-next-steps-to-strengthen-cancer-control-following-impact-review",
+   "published_date": "2026-08-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-25T15:49:15+00:00"
+  },
+  {
    "id": "a-cf1a2218bb47",
    "title": "CDC warns of Salmonella outbreak linked to jalapeños",
    "source_name": "CDC Newsroom",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing at least 17 civilians – mainly around Kyiv – and injuring another 44, the UN human rights office in Ukraine reported.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T22:15:38+00:00"
-  },
-  {
-   "id": "a-ce5bae9e1678",
-   "title": "Sharp spike in executions, death sentences in Iran",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168081",
-   "published_date": "2026-08-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
    "why_it_matters": "",
    "ingested_at": "2026-08-05T22:15:38+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-25T13:07:01+00:00",
+ "updated_at": "2026-08-25T15:58:59+00:00",
  "sources_ok": "5/7"
 }
