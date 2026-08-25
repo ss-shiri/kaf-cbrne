@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-4554fd6669f2",
+   "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168194",
+   "published_date": "2026-08-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From Ecuador to Bangladesh, a new generation of entrepreneurs is turning land restoration into economic opportunity. Whether repurposing agricultural waste, building greenhouses or deploying AI-powered sensors, they are showing, with support from a United Nations-backed initiative, that restoring ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-25T09:40:56+00:00"
+  },
+  {
    "id": "a-ae5ad4d6196f",
    "title": "100 days of Ebola and the race to stop the spread",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-05T16:45:13+00:00"
   },
   {
-   "id": "a-d6a9abe2eed6",
-   "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168069",
-   "published_date": "2026-08-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-05T22:15:42+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-25T07:05:34+00:00",
+ "updated_at": "2026-08-25T09:54:36+00:00",
  "sources_ok": "5/7"
 }
