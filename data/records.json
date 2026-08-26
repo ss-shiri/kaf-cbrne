@@ -2010,6 +2010,23 @@
    "ingested_at": "2026-08-06T14:24:58+00:00"
   },
   {
+   "id": "a-b29d17df302c",
+   "title": "CDC warns of Salmonella outbreak linked to jalapeños",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-warns-of-salmonella-outbreak-linked-to-jalapenos.html",
+   "published_date": "2026-08-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-26T19:53:14+00:00"
+  },
+  {
    "id": "a-62312c493288",
    "title": "Bahamas Charts Next Steps to Strengthen Cancer Control Following imPACT Review",
    "source_name": "IAEA",
@@ -2025,23 +2042,6 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-08-25T15:49:15+00:00"
-  },
-  {
-   "id": "a-cf1a2218bb47",
-   "title": "CDC warns of Salmonella outbreak linked to jalapeños",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766165",
-   "published_date": "2026-08-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T18:43:41+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-26T16:37:50+00:00",
+ "updated_at": "2026-08-26T20:01:50+00:00",
  "sources_ok": "5/7"
 }
