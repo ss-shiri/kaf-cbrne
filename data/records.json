@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-0ce97e42b89f",
+   "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168204",
+   "published_date": "2026-08-26",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid illegal Israeli settlement surges, continued attacks in Gaza and the West Bank alongside tensions throughout Occupied Palestinian Territory, the Security Council is meeting at 10am (local time) on Wednesday to hear briefings on the latest developments. UN News app users can follow here.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-26T16:22:19+00:00"
+  },
+  {
+   "id": "a-77bc185375c9",
+   "title": "Joint Statement - ATLAS Ministerial Launch Event",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/joint-statement-atlas-ministerial-launch-event",
+   "published_date": "2026-08-26",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-26T16:21:59+00:00"
+  },
+  {
+   "id": "a-1c06cecdd57a",
+   "title": "IAEA Launches ATLAS as Countries Explore Nuclear Power for Shipping and Offshore Energy",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-launches-atlas-as-countries-explore-nuclear-power-for-shipping-and-offshore-energy",
+   "published_date": "2026-08-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-26T16:21:59+00:00"
+  },
+  {
    "id": "a-45b20d9dee6d",
    "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
    "source_name": "UN News",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-08-21T18:43:41+00:00"
   },
   {
-   "id": "a-1b2b6e7acf5c",
-   "title": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168086",
-   "published_date": "2026-08-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Concluding his first official visit to Cambodia, UN independent human rights expert Tom Andrews said he was encouraged by the government’s cooperation but remained concerned about key human rights issues such as the lack of freedom of expression.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T08:46:06+00:00"
-  },
-  {
-   "id": "a-4abe6c074c65",
-   "title": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168085",
-   "published_date": "2026-08-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "An independent UN human rights expert has welcomed ongoing proceedings in the United States to extradite “manosphere” bloggers Andrew and Tristan Tate to the United Kingdom, calling the case an important step towards accountability for serious allegations of violence against women and girls.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T08:46:06+00:00"
-  },
-  {
-   "id": "a-b29d17df302c",
-   "title": "CDC warns of Salmonella outbreak linked to jalapeños",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-warns-of-salmonella-outbreak-linked-to-jalapenos.html",
-   "published_date": "2026-08-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T03:13:11+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-26T13:15:46+00:00",
+ "updated_at": "2026-08-26T16:37:50+00:00",
  "sources_ok": "5/7"
 }
