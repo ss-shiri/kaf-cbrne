@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-2c31bf6fe55f",
+   "title": "OPCW Director-General Sabrina Dallafior on official visit to France",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/08/opcw-director-general-sabrina-dallafior-official-visit-france",
+   "published_date": "2026-08-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General Sabrina Dallafior on official visit to France OPCW Director-General Sabrina Dallafior (left) meets with Jean-Noël Barrot, Minister for Europe and Foreign Affairs of France, during her official visit to Paris, France, on 26 August 2026. (Credit: Philémon Henry) PARIS, France—26 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-27T13:59:53+00:00"
+  },
+  {
    "id": "a-29feedf6a831",
    "title": "Explainer: UN peace operations work to create, preserve peace",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-06T14:24:59+00:00"
   },
   {
-   "id": "a-34002695086f",
-   "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168090",
-   "published_date": "2026-08-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gangs in Haiti continue to terrorize communities with the “wanton, intentional infliction of incredible pain” on people who often are just in the wrong place at the wrong time.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T14:24:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-27T00:45:26+00:00",
+ "updated_at": "2026-08-27T14:09:51+00:00",
  "sources_ok": "5/7"
 }
