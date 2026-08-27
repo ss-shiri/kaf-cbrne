@@ -1,7 +1,41 @@
 {
- "compiled": "2026-08-26",
+ "compiled": "2026-08-27",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-29feedf6a831",
+   "title": "Explainer: UN peace operations work to create, preserve peace",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168210",
+   "published_date": "2026-08-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Supporting the first democratic elections after brutal civil wars in Mozambique and Cambodia. Disarming thousands of child soldiers in Sierra Leone. Helping to secure Namibia’s independence from South Africa. These are some of the contributions of UN operations around the world to help countries ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-27T00:35:46+00:00"
+  },
+  {
+   "id": "a-9ee974013b15",
+   "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168211",
+   "published_date": "2026-08-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of the world’s busiest waterways are seeking closer cooperation to stay ahead of fast-evolving maritime threats.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-27T00:35:45+00:00"
+  },
   {
    "id": "a-0ce97e42b89f",
    "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-08-06T14:24:58+00:00"
   },
   {
-   "id": "a-b29d17df302c",
-   "title": "CDC warns of Salmonella outbreak linked to jalapeños",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/2026-cdc-warns-of-salmonella-outbreak-linked-to-jalapenos.html",
-   "published_date": "2026-08-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "A CDC food safety alert regarding a multistate outbreak of Salmonella linked to jalapeños",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-26T19:53:14+00:00"
-  },
-  {
-   "id": "a-62312c493288",
-   "title": "Bahamas Charts Next Steps to Strengthen Cancer Control Following imPACT Review",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/bahamas-charts-next-steps-to-strengthen-cancer-control-following-impact-review",
-   "published_date": "2026-08-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-25T15:49:15+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-26T20:01:50+00:00",
+ "updated_at": "2026-08-27T00:45:26+00:00",
  "sources_ok": "5/7"
 }
