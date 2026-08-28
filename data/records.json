@@ -1,7 +1,58 @@
 {
- "compiled": "2026-08-27",
+ "compiled": "2026-08-28",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-c39a7e43100f",
+   "title": "Security Council LIVE: Tracking Syria’s transition",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168214",
+   "published_date": "2026-08-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Damascus continues to rebuild after more than a decade of war – from the recent dissolution of the Kurdish-led Syrian Democratic Forces to the United States’ removal of Syria from its sponsors of terrorism list – a top UN official warned the Security Council on Thursday that international ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-28T00:19:16+00:00"
+  },
+  {
+   "id": "a-41e55ecc479f",
+   "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168215",
+   "published_date": "2026-08-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Damaged roads, disrupted services and ongoing military activity continue to put civilians at risk in south Lebanon as strikes between Israeli forces and Hezbollah continue, according to the UN’s peacekeeping mission in the country (UNIFIL).",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-28T00:19:15+00:00"
+  },
+  {
+   "id": "a-d13da0793faa",
+   "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168220",
+   "published_date": "2026-08-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-28T00:19:14+00:00"
+  },
   {
    "id": "a-2c31bf6fe55f",
    "title": "OPCW Director-General Sabrina Dallafior on official visit to France",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-08-07T00:07:12+00:00"
   },
   {
-   "id": "a-3b1b3613309c",
-   "title": "Update 361 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-361-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-08-06",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-07T00:06:53+00:00"
-  },
-  {
-   "id": "a-2ccfd30e61fb",
-   "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168089",
-   "published_date": "2026-08-06",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council meets this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T14:24:59+00:00"
-  },
-  {
-   "id": "a-e0b0df206e6f",
-   "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168088",
-   "published_date": "2026-08-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-06T14:24:59+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-27T14:09:51+00:00",
+ "updated_at": "2026-08-28T00:30:21+00:00",
  "sources_ok": "5/7"
 }
