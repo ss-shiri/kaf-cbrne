@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-09e853a50d8c",
+   "title": "ATLAS LAUNCHED",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/atlas-launched",
+   "published_date": "2026-08-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-28T15:11:11+00:00"
+  },
+  {
    "id": "a-c39a7e43100f",
    "title": "Security Council LIVE: Tracking Syria’s transition",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-07T00:07:12+00:00"
   },
   {
-   "id": "a-e2c7a4aaca05",
-   "title": "Ebola virus reaches displacement camps in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168092",
-   "published_date": "2026-08-06",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Agencies are on high alert amid reports that the rapidly spreading Ebola Bundibugyo virus species in the Democratic Republic of the Congo (DRC) has infected 19 internally displaced people, killed five of them, according to the UN’s refugee agency (UNHCR).",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-07T00:07:12+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-28T00:30:21+00:00",
+ "updated_at": "2026-08-28T15:21:53+00:00",
  "sources_ok": "5/7"
 }
