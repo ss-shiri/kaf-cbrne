@@ -1891,6 +1891,23 @@
    "ingested_at": "2026-08-12T10:12:11+00:00"
   },
   {
+   "id": "a-20e45631515f",
+   "title": "IAEA Trains Ukrainian Experts in Non-Destructive Testing for Civil Engineering",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-trains-ukrainian-experts-in-non-destructive-testing-for-civil-engineering",
+   "published_date": "2026-08-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-30T16:26:28+00:00"
+  },
+  {
    "id": "a-27b94b95823e",
    "title": "HHS Secretary Kennedy's Remarks Honoring David Rose - August 7, 2026",
    "source_name": "CDC Newsroom",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "The Security Council holds an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News app users can follow here.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T16:03:47+00:00"
-  },
-  {
-   "id": "a-b97d0cbe3a6a",
-   "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168110",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Myanmar's military has carried out a sustained campaign of deliberate attacks on civilians – including airstrikes on homes, schools and camps for displaced people, alongside arbitrary detention, torture and sexual violence – according to Human Rights Council-appointed investigators.",
    "why_it_matters": "",
    "ingested_at": "2026-08-11T16:03:47+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-30T11:49:09+00:00",
+ "updated_at": "2026-08-30T16:39:51+00:00",
  "sources_ok": "5/7"
 }
