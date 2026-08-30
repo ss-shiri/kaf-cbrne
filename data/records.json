@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-5d4a23540cac",
+   "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168228",
+   "published_date": "2026-08-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "On the shores of Nkondo, in Uganda’s Kikuube district, the day begins before sunrise. Fishers enter the lake to fish, while families around Lake Albert rely on its waters for food, income and daily survival.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-30T23:19:15+00:00"
+  },
+  {
    "id": "a-0b676bad8bd8",
    "title": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-11T16:04:19+00:00"
   },
   {
-   "id": "a-5e9699622c3b",
-   "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168113",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council holds an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News app users can follow here.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T16:03:47+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-30T21:03:17+00:00",
+ "updated_at": "2026-08-30T23:28:23+00:00",
  "sources_ok": "5/7"
 }
