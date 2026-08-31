@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-57e6ec1ccb55",
+   "title": "CDC Launches New Overdose Prevention Data Channel",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-launches-new-overdose-prevention-data-channel.html",
+   "published_date": "2026-08-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC launches a central data channel to track overdose trends and strengthen prevention nationwide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-31T20:44:14+00:00"
+  },
+  {
+   "id": "a-325441ab1bea",
+   "title": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168231",
+   "published_date": "2026-08-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "He was born without arms, a legacy of four decades of nuclear explosions at the Semipalatinsk test site in his native Kazakhstan.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-31T20:44:04+00:00"
+  },
+  {
+   "id": "a-f1fd55c3c666",
+   "title": "‘Slavery is not a thing of the past’: UN supports call for reparations",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/08/1168232",
+   "published_date": "2026-08-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Slavery is not just a thing of the past. Its effects continue to be felt in systemic inequality and racism. This was reiterated on Monday by the UN Committee against Racial Discrimination (CERD) as the world marks the International Day of People of African Descent.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-31T20:44:03+00:00"
+  },
+  {
+   "id": "a-c8dd437406c3",
+   "title": "Nuclear Techniques Improve Rice Varieties, Boost Yields in Lao PDR",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-techniques-improve-rice-varieties-boost-yields-in-lao-pdr",
+   "published_date": "2026-08-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-31T20:43:54+00:00"
+  },
+  {
    "id": "a-a2347fb7f84b",
    "title": "Tritium Level Far Below Japan’s Operational Limit in 23rd Batch of ALPS Treated Water, IAEA Confirms",
    "source_name": "IAEA",
@@ -1925,6 +1993,23 @@
    "ingested_at": "2026-08-12T10:12:11+00:00"
   },
   {
+   "id": "a-efc1377dc633",
+   "title": "HHS Secretary Kennedy's Remarks Honoring David Rose - August 7, 2026",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/hhs-secretary-kennedys-remarks-honoring-david-rose-august-7-2026.html",
+   "published_date": "2026-08-11",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Secretary Kennedy honors Officer David Rose's courage, sacrifice, and service at the CDC.",
+   "why_it_matters": "",
+   "ingested_at": "2026-08-31T20:44:15+00:00"
+  },
+  {
    "id": "a-20e45631515f",
    "title": "IAEA Trains Ukrainian Experts in Non-Destructive Testing for Civil Engineering",
    "source_name": "IAEA",
@@ -1957,91 +2042,6 @@
    "summary": "Secretary Kennedy honors Officer David Rose's courage, sacrifice, and service at the CDC.",
    "why_it_matters": "",
    "ingested_at": "2026-08-21T18:43:41+00:00"
-  },
-  {
-   "id": "a-bbd07767de55",
-   "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168118",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reportedly left more than 60 civilians dead and 50 others injured.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T21:54:23+00:00"
-  },
-  {
-   "id": "a-3408bae61c94",
-   "title": "Ebola deaths top 2,000 as scientists race to develop vaccine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168117",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Local officials in the DR Congo (DRC) reported on Tuesday that deaths from the Ebola virus disease have surpassed 2,000, with half of that number in the last 20 days.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T21:54:23+00:00"
-  },
-  {
-   "id": "a-7c0320f37f60",
-   "title": "World marks second warmest July on record",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168115",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As multiple regions contend with unbearable heat, drought, wildfires and other extreme weather, the World Meteorological Organization (WMO) on Tuesday underlined the crucial need for stronger forecasts and early warning systems to protect lives and livelihoods.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T21:54:23+00:00"
-  },
-  {
-   "id": "a-cdb97e0bb11c",
-   "title": "After post-pandemic improvement, youth unemployment is rising again",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168120",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took to the streets of Nepal last year, demanding a stake in the country’s economic growth. The protest worked and the prime minister resigned.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T21:54:22+00:00"
-  },
-  {
-   "id": "a-8b3aa50535a8",
-   "title": "Colombia earthquake: UN joins national response",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168112",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As earthquake rescue efforts across western Colombia continued on Tuesday, UN agencies said that they stood ready to help “with everything we've got”, in coordination with national authorities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-11T19:09:00+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-08-31T13:26:36+00:00",
+ "updated_at": "2026-08-31T20:55:35+00:00",
  "sources_ok": "5/7"
 }
