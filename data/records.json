@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-3883e6a3d036",
+   "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168239",
+   "published_date": "2026-09-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres on Tuesday urged leaders of the Shanghai Cooperation Organization (SCO) to help reshape global governance for a changing world, arguing that a more multipolar international order can strengthen multilateralism, advance fairness and better serve developing ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-01T23:11:37+00:00"
+  },
+  {
    "id": "a-8903fadcf8bd",
    "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
    "source_name": "UN News",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-08-31T20:44:15+00:00"
   },
   {
-   "id": "a-20e45631515f",
-   "title": "IAEA Trains Ukrainian Experts in Non-Destructive Testing for Civil Engineering",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-trains-ukrainian-experts-in-non-destructive-testing-for-civil-engineering",
-   "published_date": "2026-08-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-30T16:26:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-01T18:27:41+00:00",
+ "updated_at": "2026-09-01T23:25:08+00:00",
  "sources_ok": "5/7"
 }
