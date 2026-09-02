@@ -1,5 +1,5 @@
 {
- "compiled": "2026-09-01",
+ "compiled": "2026-09-02",
  "source": "curated + auto",
  "records": [
   {
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-01T23:25:08+00:00",
+ "updated_at": "2026-09-02T04:04:59+00:00",
  "sources_ok": "5/7"
 }
