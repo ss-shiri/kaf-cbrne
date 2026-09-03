@@ -3,6 +3,24 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f16e274f099f",
+   "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168271",
+   "published_date": "2026-09-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council meets Thursday at 10am (local time) to be briefed on latest developments and discuss the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T16:11:22+00:00"
+  },
+  {
    "id": "a-4015778e53eb",
    "title": "IAEA Reviews Finland's Nuclear and Radiological Emergency Preparedness and Response",
    "source_name": "IAEA",
@@ -19,6 +37,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-09-03T10:58:32+00:00"
+  },
+  {
+   "id": "a-7fef7eea39f2",
+   "title": "Repression of political opposition surges in post-election Zambia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168267",
+   "published_date": "2026-09-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown on political opposition has intensified, raising concerns about the future of democracy in the country, according to a UN Human Rights Council-appointed expert.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T16:11:23+00:00"
+  },
+  {
+   "id": "a-f99406880c03",
+   "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168268",
+   "published_date": "2026-09-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides exchanging strikes as fears grow over further civilian casualties.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T16:11:23+00:00"
   },
   {
    "id": "a-3883e6a3d036",
@@ -1994,57 +2046,6 @@
    "ingested_at": "2026-08-12T19:13:12+00:00"
   },
   {
-   "id": "a-04bff853bd18",
-   "title": "IAEA Observes Progress in Safety at Research Reactor in the Philippines",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-observes-progress-in-safety-at-research-reactor-in-the-philippines",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-12T19:13:01+00:00"
-  },
-  {
-   "id": "a-011a868a5b06",
-   "title": "Five Reasons Students Should Visit the IAEA Visitor Centre",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/five-reasons-students-should-visit-the-iaea-visitor-centre",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-12T13:21:15+00:00"
-  },
-  {
-   "id": "a-1ff3d1d88c6c",
-   "title": "The 2026 International Nuclear Science Olympiad Inspires Young Scientists",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/the-2026-international-nuclear-science-olympiad-inspires-young-scientists",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-12T10:12:11+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-03T11:10:01+00:00",
+ "updated_at": "2026-09-03T16:22:23+00:00",
  "sources_ok": "5/7"
 }
