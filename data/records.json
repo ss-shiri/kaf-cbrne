@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-59ce3ee6053f",
+   "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168275",
+   "published_date": "2026-09-03",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T23:08:25+00:00"
+  },
+  {
    "id": "a-f16e274f099f",
    "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-13T04:56:20+00:00"
   },
   {
-   "id": "a-a69c99537ef8",
-   "title": "UN continues scaling up response to earthquake in Colombia",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168128",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN on Wednesday continued scaling up assistance to areas affected by the deadly earthquake that hit Colombia two days earlier.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-13T04:56:20+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-03T20:58:52+00:00",
+ "updated_at": "2026-09-03T23:18:42+00:00",
  "sources_ok": "5/7"
 }
