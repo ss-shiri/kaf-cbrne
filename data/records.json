@@ -3,6 +3,24 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-4015778e53eb",
+   "title": "IAEA Reviews Finland's Nuclear and Radiological Emergency Preparedness and Response",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-finlands-nuclear-and-radiological-emergency-preparedness-and-response",
+   "published_date": "2026-09-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Radiological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T10:58:32+00:00"
+  },
+  {
    "id": "a-3883e6a3d036",
    "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
    "source_name": "UN News",
@@ -2027,23 +2045,6 @@
    "ingested_at": "2026-08-12T10:12:11+00:00"
   },
   {
-   "id": "a-efc1377dc633",
-   "title": "HHS Secretary Kennedy's Remarks Honoring David Rose - August 7, 2026",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/hhs-secretary-kennedys-remarks-honoring-david-rose-august-7-2026.html",
-   "published_date": "2026-08-11",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Secretary Kennedy honors Officer David Rose's courage, sacrifice, and service at the CDC.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-31T20:44:15+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-03T04:04:53+00:00",
+ "updated_at": "2026-09-03T11:10:01+00:00",
  "sources_ok": "5/7"
 }
