@@ -1893,6 +1893,23 @@
    "ingested_at": "2026-08-13T16:02:17+00:00"
   },
   {
+   "id": "a-04bff853bd18",
+   "title": "IAEA Observes Progress in Safety at Research Reactor in the Philippines",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-observes-progress-in-safety-at-research-reactor-in-the-philippines",
+   "published_date": "2026-08-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-03T20:49:03+00:00"
+  },
+  {
    "id": "a-ebf3f541e62e",
    "title": "Behind every mission: How the OPCW Situation Centre supports the Organisation’s global mandate",
    "source_name": "OPCW",
@@ -2027,23 +2044,6 @@
    "summary": "The UN on Wednesday continued scaling up assistance to areas affected by the deadly earthquake that hit Colombia two days earlier.",
    "why_it_matters": "",
    "ingested_at": "2026-08-13T04:56:20+00:00"
-  },
-  {
-   "id": "a-f9daa929f183",
-   "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168121",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-12T19:13:12+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-03T16:22:23+00:00",
+ "updated_at": "2026-09-03T20:58:52+00:00",
  "sources_ok": "5/7"
 }
