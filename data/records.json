@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-a85c1c220937",
+   "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168278",
+   "published_date": "2026-09-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-04T16:05:58+00:00"
+  },
+  {
+   "id": "a-a30d9f7f2e06",
+   "title": "What is Environmental Remediation?",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/what-is-environmental-remediation",
+   "published_date": "2026-09-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-04T16:05:48+00:00"
+  },
+  {
    "id": "a-59ce3ee6053f",
    "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-08-13T04:56:21+00:00"
   },
   {
-   "id": "a-f74fe5308545",
-   "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168126",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations has once again urged warring parties in Sudan to protect civilians as the fighting continues to take a heavy toll on the population.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-13T04:56:21+00:00"
-  },
-  {
-   "id": "a-44c7ee22a6de",
-   "title": "Youth advocates gather in New York to launch new AI standards",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168129",
-   "published_date": "2026-08-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As artificial intelligence (AI) rapidly transforms everything from how we learn, to the job market, children are adopting the technology more than three times faster than adults – exposing them to unique opportunities and risks.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-13T04:56:20+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-04T11:11:26+00:00",
+ "updated_at": "2026-09-04T16:17:07+00:00",
  "sources_ok": "5/7"
 }
