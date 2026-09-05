@@ -1961,6 +1961,23 @@
    "ingested_at": "2026-08-15T15:26:17+00:00"
   },
   {
+   "id": "a-10c1e15ca48f",
+   "title": "Update 362 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-362-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-08-14",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-05T10:20:21+00:00"
+  },
+  {
    "id": "a-56a22016c013",
    "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
    "source_name": "UN News",
@@ -2025,23 +2042,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "As amber heat-health alerts spread across England this summer, a new study has found that the warnings are being received – but not changing behaviour.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T01:35:46+00:00"
-  },
-  {
-   "id": "a-fe52621079ae",
-   "title": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168148",
-   "published_date": "2026-08-14",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) – the fastest-growing on record and on track to become the deadliest – is killing one person every 30 minutes.",
    "why_it_matters": "",
    "ingested_at": "2026-08-15T01:35:46+00:00"
   },
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-05T04:08:14+00:00",
+ "updated_at": "2026-09-05T10:30:05+00:00",
  "sources_ok": "5/7"
 }
