@@ -1,7 +1,41 @@
 {
- "compiled": "2026-09-05",
+ "compiled": "2026-09-06",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-1c56038bf95e",
+   "title": "As wildfires spread north, UN agencies race to help Europe adapt",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168273",
+   "published_date": "2026-09-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the climate warms, the threat of wildfires is spreading in Europe. How can historically cooler and wetter countries prepare?",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-06T03:58:29+00:00"
+  },
+  {
+   "id": "a-e8b19e92d2ff",
+   "title": "Central Park adapts to climate change while helping New York stay cool",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168277",
+   "published_date": "2026-09-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the heart of Manhattan in New York City, the effects of climate change are becoming increasingly visible.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-06T03:58:29+00:00"
+  },
   {
    "id": "a-5554a4c13e42",
    "title": "Update 365 – IAEA Director General Statement on Situation in Ukraine",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-08-15T01:35:48+00:00"
   },
   {
-   "id": "a-53f005d4e75f",
-   "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168147",
-   "published_date": "2026-08-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T01:35:47+00:00"
-  },
-  {
-   "id": "a-a23668ea81a1",
-   "title": "An attack on healthcare every six hours, and no one held to account",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168144",
-   "published_date": "2026-08-14",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T01:35:47+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-05T22:54:24+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-09-06T04:10:00+00:00",
+ "sources_ok": "5/7"
 }
