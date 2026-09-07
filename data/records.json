@@ -1,7 +1,24 @@
 {
- "compiled": "2026-09-06",
+ "compiled": "2026-09-07",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-82ac3137287b",
+   "title": "New reservoir offers innovative solution to South Sudan cattle beef",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168266",
+   "published_date": "2026-09-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At the end of a history-laden path winding through palm trees and scattered ruins – remnants of once-vibrant villages destroyed by cattle raids – lies a rare sight in this dry part of Terekeka county in South Sudan: a sparkling, fresh water source.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-07T03:57:50+00:00"
+  },
   {
    "id": "a-1c56038bf95e",
    "title": "As wildfires spread north, UN agencies race to help Europe adapt",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-09-05T10:20:21+00:00"
   },
   {
-   "id": "a-56a22016c013",
-   "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168142",
-   "published_date": "2026-08-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN’s drugs and crime fighting agency (UNODC).",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T01:35:48+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-06T23:02:31+00:00",
+ "updated_at": "2026-09-07T04:10:43+00:00",
  "sources_ok": "5/7"
 }
