@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-8cf4cd992396",
+   "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168288",
+   "published_date": "2026-09-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-07T17:43:14+00:00"
+  },
+  {
+   "id": "a-bc6ce34c64f3",
+   "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168287",
+   "published_date": "2026-09-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The ongoing war in Sudan took centre stage at the UN Human Rights Council on Monday where the UN High Commissioner for Human Rights, Volker Türk, led calls for an end to attacks on civilians in “markets, hospitals [and] fuel stations”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-07T17:43:14+00:00"
+  },
+  {
+   "id": "a-43fb91ccf2a3",
+   "title": "IAEA Director General's Introductory Statement to the Board of Governors",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-7-september-2026",
+   "published_date": "2026-09-07",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "(As prepared for delivery) Ladies and gentlemen, In a fragmented world, the IAEA is more indispensable than ever. Our impartial and expert work is part of some of the most sensitive and consequential international efforts of our time.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-07T17:43:01+00:00"
+  },
+  {
    "id": "a-346efd5d41d9",
    "title": "‘Advance safety for all’: International police cooperation helps tackle cross-border crime",
    "source_name": "UN News",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-17T18:47:36+00:00"
   },
   {
-   "id": "a-168f443a8cc2",
-   "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168136",
-   "published_date": "2026-08-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-16T18:36:00+00:00"
-  },
-  {
-   "id": "a-eb8f446be116",
-   "title": "The grass beneath our feet: Why rangelands matter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168119",
-   "published_date": "2026-08-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning by the day.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T18:36:48+00:00"
-  },
-  {
-   "id": "a-521e931ef863",
-   "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168146",
-   "published_date": "2026-08-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public information campaigns in the east of the Democratic Republic of the Congo (DRC).",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-15T15:26:17+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-07T12:18:52+00:00",
+ "updated_at": "2026-09-07T17:55:27+00:00",
  "sources_ok": "5/7"
 }
