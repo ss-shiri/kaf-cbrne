@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-346efd5d41d9",
+   "title": "‘Advance safety for all’: International police cooperation helps tackle cross-border crime",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168280",
+   "published_date": "2026-09-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As criminal networks increasingly exploit weak institutions and operate across borders, the UN says no police force can tackle them alone.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-07T12:06:26+00:00"
+  },
+  {
    "id": "a-82ac3137287b",
    "title": "New reservoir offers innovative solution to South Sudan cattle beef",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-15T15:26:17+00:00"
   },
   {
-   "id": "a-10c1e15ca48f",
-   "title": "Update 362 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-362-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-08-14",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-05T10:20:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-07T04:10:43+00:00",
+ "updated_at": "2026-09-07T12:18:52+00:00",
  "sources_ok": "5/7"
 }
