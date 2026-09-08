@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d82e29b02967",
+   "title": "IAEA Hosts Workshop for International Financial Institutions on Nuclear Financing",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-workshop-for-international-financial-institutions-on-nuclear-financing",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-08T16:23:38+00:00"
+  },
+  {
    "id": "a-ef38e74eaea3",
    "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
    "source_name": "UN News",
@@ -1961,6 +1978,23 @@
    "ingested_at": "2026-08-18T15:36:29+00:00"
   },
   {
+   "id": "a-cc962e5cacb7",
+   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
+   "published_date": "2026-08-17",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-08T16:24:03+00:00"
+  },
+  {
    "id": "a-a8be30d02a0b",
    "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "summary": "As heatwaves are turning deadlier, fires and disasters are razing cities — and rising seas are erasing territories — one environmental crisis remains dangerously overlooked: the degradation of the land beneath our feet.",
    "why_it_matters": "",
    "ingested_at": "2026-08-18T03:49:19+00:00"
-  },
-  {
-   "id": "a-1da1fde1ba41",
-   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766260",
-   "published_date": "2026-08-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T01:35:23+00:00"
-  },
-  {
-   "id": "a-4ee2623705e0",
-   "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168151",
-   "published_date": "2026-08-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Escalating conflict in Yemen is killing and injuring a growing number of civilians, the UN human rights chief warned on Monday, as Houthi rebels also strike Saudi Arabia and Red Sea shipping linked to the wider Iran–US confrontation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-17T21:30:27+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-08T11:12:28+00:00",
+ "updated_at": "2026-09-08T16:39:09+00:00",
  "sources_ok": "5/7"
 }
