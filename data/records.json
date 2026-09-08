@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-593f018118b0",
+   "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168292",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A successful and lasting transition in Syria requires comprehensive accountability, inclusion and guarantees that violations will not be repeated, UN independent investigators told the Human Rights Council in Geneva on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-08T20:58:11+00:00"
+  },
+  {
    "id": "a-d82e29b02967",
    "title": "IAEA Hosts Workshop for International Financial Institutions on Nuclear Financing",
    "source_name": "IAEA",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-18T03:49:20+00:00"
   },
   {
-   "id": "a-c88bbab21402",
-   "title": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168156",
-   "published_date": "2026-08-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As heatwaves are turning deadlier, fires and disasters are razing cities — and rising seas are erasing territories — one environmental crisis remains dangerously overlooked: the degradation of the land beneath our feet.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T03:49:19+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-08T16:39:09+00:00",
+ "updated_at": "2026-09-08T21:10:59+00:00",
  "sources_ok": "5/7"
 }
