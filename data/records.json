@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-ef38e74eaea3",
+   "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168283",
+   "published_date": "2026-09-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Tackling air pollution and climate change together can save millions of lives, reduce global warming and generate roughly $15 in economic benefits for every $1 spent, a new UN-backed report has revealed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-08T10:58:35+00:00"
+  },
+  {
    "id": "a-8cf4cd992396",
    "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-17T21:30:27+00:00"
   },
   {
-   "id": "a-cc962e5cacb7",
-   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
-   "published_date": "2026-08-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-17T18:47:36+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-08T04:13:32+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-09-08T11:12:28+00:00",
+ "sources_ok": "5/7"
 }
