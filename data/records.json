@@ -1,7 +1,109 @@
 {
- "compiled": "2026-09-08",
+ "compiled": "2026-09-09",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-64fa5dc7582c",
+   "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168291",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In war-torn Gaza, a growing number of women-headed households face “impossible decisions” every day, amid ongoing Israeli airstrikes and still-scarce resources, UN humanitarians said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:43+00:00"
+  },
+  {
+   "id": "a-dd8df3cec091",
+   "title": "Tobacco use can undermine fertility, UN health agency warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168290",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Smoking very likely makes it harder to have a baby, the UN World Health Organization (WHO) warned in a new publication issued on Tuesday, highlighting that women who smoke have a 40 per cent higher risk of infertility compared to non-smokers.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:43+00:00"
+  },
+  {
+   "id": "a-61d3ab537fe0",
+   "title": "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168293",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN General Assembly gavelled open its 81st session on Tuesday at UN Headquarters as the incoming president pledged to restore public trust in the institution during a time of war, humanitarian crises and intensifying climate change.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:42+00:00"
+  },
+  {
+   "id": "a-279310bb41c6",
+   "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168298",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:41+00:00"
+  },
+  {
+   "id": "a-c94263bc6937",
+   "title": "AI datacentres pose growing threat to electricity systems worldwide",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168296",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Use of data-intensive technologies – in particular artificial intelligence (AI) data centres – is growing faster than electricity infrastructure can handle, the UN’s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:41+00:00"
+  },
+  {
+   "id": "a-8d9ed2e7141e",
+   "title": "Ebola response in eastern DR Congo must include food aid, WFP says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168295",
+   "published_date": "2026-09-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Ebola sweeps across the eastern Democratic Republic of the Congo (DRC), ensuring families meet their basic food needs is crucial to halt the spread of the deadly disease.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T04:06:41+00:00"
+  },
   {
    "id": "a-593f018118b0",
    "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
@@ -1944,108 +2046,6 @@
    "ingested_at": "2026-08-18T18:45:26+00:00"
   },
   {
-   "id": "a-6ad102caa139",
-   "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168158",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T18:45:26+00:00"
-  },
-  {
-   "id": "a-009b4085b47a",
-   "title": "Joint Statement by the Minister of Foreign Affairs and Expatriates of the Syrian Arab Republic and the Director General of the International Atomic Energy Agency",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/joint-statement-by-the-minister-of-foreign-affairs-and-expatriates-of-the-syrian-arab-republic-and-the-director-general-of-the-international-atomic-energy-agency",
-   "published_date": "2026-08-18",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T15:36:29+00:00"
-  },
-  {
-   "id": "a-c562f438e01d",
-   "title": "IAEA imPACT Review Highlights Namibia’s Commitment to Cancer Care and Opportunities to Expand Services",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-impact-review-highlights-namibias-commitment-to-cancer-care-and-opportunities-to-expand-services",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T15:36:29+00:00"
-  },
-  {
-   "id": "a-cc962e5cacb7",
-   "title": "CDC Statement on Newly Released Kindergarten Vaccination Data",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
-   "published_date": "2026-08-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC data show kindergarten vaccination rates remain high, with a slight 0.1% decline in coverage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-08T16:24:03+00:00"
-  },
-  {
-   "id": "a-a8be30d02a0b",
-   "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168155",
-   "published_date": "2026-08-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become \"the new normal.\"",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T03:49:20+00:00"
-  },
-  {
-   "id": "a-0879fd1f62c8",
-   "title": "Ebola outbreak becomes deadliest in DR Congo’s history",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168154",
-   "published_date": "2026-08-17",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo (DRC) is now the deadliest the country has ever faced, the UN’s World Health Organization (WHO) said on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T03:49:20+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-08T23:30:22+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-09-09T04:21:20+00:00",
+ "sources_ok": "5/7"
 }
