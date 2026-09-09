@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-4f6cf12a6fa9",
+   "title": "Record number of attacks on education, global fund warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168300",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T16:19:27+00:00"
+  },
+  {
+   "id": "a-bc7f89ad22eb",
+   "title": "Guterres urges leaders to invest in peace as conflicts deepen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168301",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T16:19:26+00:00"
+  },
+  {
+   "id": "a-f4f6010be360",
+   "title": "Ukrainian NPP Workers’ Children Meet with DG, Tour IAEA HQ as Part of Summer Camp Programme Hosted by Austria",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/ukrainian-npp-workers-children-meet-with-dg-tour-iaea-hq-as-part-of-summer-camp-programme-hosted-by-austria",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T16:19:19+00:00"
+  },
+  {
    "id": "a-4a952344028d",
    "title": "Sweden provides voluntary funding to support OPCW’s work",
    "source_name": "OPCW",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-18T21:29:36+00:00"
   },
   {
-   "id": "a-2778c0c5313a",
-   "title": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168159",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent UN Human Rights Council-appointed experts on Tuesday condemned the execution of at least 16 people in Singapore for drug-related offences this year and urged the country to end its “continued and unlawful use of capital punishment.”",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T21:29:35+00:00"
-  },
-  {
-   "id": "a-9d2a4ef8f7d7",
-   "title": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168163",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are “far from over,” the UN warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T21:29:34+00:00"
-  },
-  {
-   "id": "a-6a8c081db019",
-   "title": "Colombia earthquake: UN ramps up aid for 100,000 people",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168161",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN is scaling up humanitarian assistance in western Colombia as needs continue to grow following last week’s devastating 7.4-magnitude earthquake, according to the latest update released on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T21:29:34+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-09T11:17:04+00:00",
+ "updated_at": "2026-09-09T16:30:20+00:00",
  "sources_ok": "5/7"
 }
