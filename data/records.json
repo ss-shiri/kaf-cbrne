@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-3eb3f4a6dce9",
+   "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168302",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade – while pressing all sides to move quickly from paper to practice.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-09T20:46:07+00:00"
+  },
+  {
    "id": "a-4f6cf12a6fa9",
    "title": "Record number of attacks on education, global fund warns",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-19T09:38:28+00:00"
   },
   {
-   "id": "a-c4286b50ba8a",
-   "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168157",
-   "published_date": "2026-08-18",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From the frontlines of the deadliest-ever Ebola outbreak in Democratic Republic of the Congo (DRC), the UN World Health Organization (WHO) shared details on Tuesday of a massive push for community engagement, a day after yet another ambulance attack.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-18T21:29:36+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-09T16:30:20+00:00",
+ "updated_at": "2026-09-09T20:57:01+00:00",
  "sources_ok": "5/7"
 }
