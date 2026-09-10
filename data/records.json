@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-16cd2ad7bcb7",
+   "title": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168303",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T10:59:44+00:00"
+  },
+  {
+   "id": "a-bc3df74c4180",
+   "title": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168306",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When the creek beside Taudibura Garo's school in Papua New Guinea floods, the water doesn't stop at the gate. It rises through the pit toilets – making the school unsafe – sending the 16-year-old and her classmates home without being able to finish.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T10:59:43+00:00"
+  },
+  {
+   "id": "a-1d7af911b981",
+   "title": "Flood-ravaged Nepal calls for climate justice",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168305",
+   "published_date": "2026-09-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nepal’s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change – but are increasingly grappling with its most lethal consequences, the top UN official in the country said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T10:59:43+00:00"
+  },
+  {
    "id": "a-3eb3f4a6dce9",
    "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
    "source_name": "UN News",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-19T15:36:22+00:00"
   },
   {
-   "id": "a-dd6b0b999b49",
-   "title": "Aid workers under fire as drones reshape warfare",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168153",
-   "published_date": "2026-08-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN is warning that aid workers face a deadly and evolving threat, with armed drones reshaping battlefields worldwide – putting humanitarian teams increasingly in the line of fire.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T15:36:22+00:00"
-  },
-  {
-   "id": "a-5b6091f6dc46",
-   "title": "New Research Launched on Safety of Edible Insects and Other Novel Foods",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/new-research-launched-on-safety-of-edible-insects-and-other-novel-foods",
-   "published_date": "2026-08-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T12:56:17+00:00"
-  },
-  {
-   "id": "a-ab61a98157f4",
-   "title": "imPACT Review Highlights Namibia’s Commitment to Cancer Care and Opportunities to Expand Services",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/impact-review-highlights-namibias-commitment-to-cancer-care-and-opportunities-to-expand-services",
-   "published_date": "2026-08-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T09:38:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-10T04:17:55+00:00",
+ "updated_at": "2026-09-10T11:11:00+00:00",
  "sources_ok": "5/7"
 }
