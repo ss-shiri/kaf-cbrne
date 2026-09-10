@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-ccbaf624ad4c",
+   "title": "Twenty-Five Years After 9/11 - Lessons from the World Trade Center Health Program",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/twenty-five-years-after-9-11-lessons-from-the-world-trade-center-health-program.html",
+   "published_date": "2026-09-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Paper examines 9/11-related health outcomes and lessons learned since the disaster.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T16:10:21+00:00"
+  },
+  {
+   "id": "a-0ee6fbdddd84",
+   "title": "Human cost of violence in South Sudan ‘continues to grow’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168307",
+   "published_date": "2026-09-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T16:10:06+00:00"
+  },
+  {
+   "id": "a-7f824c94fb39",
+   "title": "What You Need to Know about the IAEA General Conference",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/what-you-need-to-know-about-the-iaea-general-conference",
+   "published_date": "2026-09-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-10T16:09:54+00:00"
+  },
+  {
    "id": "a-16cd2ad7bcb7",
    "title": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
    "source_name": "UN News",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-20T01:35:55+00:00"
   },
   {
-   "id": "a-4ae07d55a10c",
-   "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168168",
-   "published_date": "2026-08-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The International Criminal Court (ICC) on Wednesday responded to a new round of US sanctions targeting its president and a senior prosecutor, calling them “a flagrant attack” against the court.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T21:30:04+00:00"
-  },
-  {
-   "id": "a-12c87edfb437",
-   "title": "Zambia: Arrests and detention of political opponents following election raises concern",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168169",
-   "published_date": "2026-08-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In the wake of President Hakainde Hichilema of Zambia’s re-election for a second five-year term, UN human rights chief has raised concerns over the reported arrests and detention of political opponents in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T21:30:04+00:00"
-  },
-  {
-   "id": "a-696e232234e6",
-   "title": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168165",
-   "published_date": "2026-08-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Intensifying fighting in Sudan has displaced at least another 200,000 people since late 2025, while destructive seasonal floods are compounding the massive humanitarian emergency there, the UN International Organization for Migration (IOM) said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-19T15:36:22+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-10T11:11:00+00:00",
+ "updated_at": "2026-09-10T16:25:23+00:00",
  "sources_ok": "5/7"
 }
