@@ -1,5 +1,5 @@
 {
- "compiled": "2026-09-10",
+ "compiled": "2026-09-11",
  "source": "curated + auto",
  "records": [
   {
@@ -1960,6 +1960,24 @@
    "ingested_at": "2026-08-21T12:57:30+00:00"
   },
   {
+   "id": "a-7c8642184b61",
+   "title": "France provides voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/08/france-provides-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-08-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "France provides voluntary funding to enhance OPCW’s work H.E. Mr François Alabrune, Permanent Representative of the French Republic to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Government of France has contributed EUR 1 million to the Trust Fund for Syria Missions ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T04:01:55+00:00"
+  },
+  {
    "id": "a-a69488b61677",
    "title": "DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads",
    "source_name": "UN News",
@@ -2026,23 +2044,6 @@
    "summary": "Ninety-four cent of Gaza’s 2.1 million residents need shelter as Israeli gunfire and strikes continue inside the enclave, UN agencies and peacekeepers warned on Thursday.",
    "why_it_matters": "",
    "ingested_at": "2026-08-21T15:38:46+00:00"
-  },
-  {
-   "id": "a-1fd5d5b60db3",
-   "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168181",
-   "published_date": "2026-08-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T15:38:44+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-10T23:12:45+00:00",
+ "updated_at": "2026-09-11T04:15:45+00:00",
  "sources_ok": "5/7"
 }
