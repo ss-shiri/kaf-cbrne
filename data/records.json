@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-a2b65a5b0d5c",
+   "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168313",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Terrorist groups are recruiting, raising money and even planning operations through propaganda that is now “embedded” in every stage of their work, a new UN report warns – and governments are struggling to keep pace.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T16:13:39+00:00"
+  },
+  {
    "id": "a-9b980715ab8e",
    "title": "Update 366 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -2030,23 +2047,6 @@
    "ingested_at": "2026-09-11T04:01:55+00:00"
   },
   {
-   "id": "a-a69488b61677",
-   "title": "DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168174",
-   "published_date": "2026-08-20",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Democratic Republic of the Congo (DRC) will receive 70,000 doses of the Ervebo vaccine from the UN’s international vaccine coordination group (ICG) to protect frontline communities against the Ebola virus disease.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T09:32:07+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-11T11:11:02+00:00",
+ "updated_at": "2026-09-11T16:24:49+00:00",
  "sources_ok": "5/7"
 }
