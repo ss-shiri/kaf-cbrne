@@ -3,6 +3,58 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9b980715ab8e",
+   "title": "Update 366 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-366-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-09-11",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T10:57:59+00:00"
+  },
+  {
+   "id": "a-c176ef33bb6a",
+   "title": "OPCW Director-General makes official visit to China",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-director-general-makes-official-visit-china",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General makes official visit to China THE HAGUE, Netherlands, 11 September 2026 — OPCW Director-General Sabrina Dallafior visited to China from 31 August to 5 September. OPCW Member State representatives travelled to Abandoned Chemical Weapon (ACW) excavation, recovery, and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T10:57:59+00:00"
+  },
+  {
+   "id": "a-96b5982f7d54",
+   "title": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/united-kingdom-provides-voluntary-funding-more-eur-13-million-enhance",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work H.E. Mr Christopher Maxwell Rampling, Permanent Representative of the United Kingdom of Great Britain and Northern Ireland (UK) to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T10:57:59+00:00"
+  },
+  {
    "id": "a-382325f94b91",
    "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
    "source_name": "UN News",
@@ -1995,57 +2047,6 @@
    "ingested_at": "2026-08-22T09:32:07+00:00"
   },
   {
-   "id": "a-1d3da7b038a8",
-   "title": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168178",
-   "published_date": "2026-08-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ten days after a powerful earthquake struck western Colombia, an estimated 1.2 million people need humanitarian assistance, while some communities have still received little or no aid, UN agencies said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T09:32:06+00:00"
-  },
-  {
-   "id": "a-69b701ad59eb",
-   "title": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168176",
-   "published_date": "2026-08-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Children, who are particularly vulnerable to the disease, account for half of the 46 suspected mpox cases identified in Guinea-Bissau – with 16 of them under the age of four.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T09:32:06+00:00"
-  },
-  {
-   "id": "a-60433dc763fe",
-   "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168180",
-   "published_date": "2026-08-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ninety-four cent of Gaza’s 2.1 million residents need shelter as Israeli gunfire and strikes continue inside the enclave, UN agencies and peacekeepers warned on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T15:38:46+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-11T04:15:45+00:00",
+ "updated_at": "2026-09-11T11:11:02+00:00",
  "sources_ok": "5/7"
 }
