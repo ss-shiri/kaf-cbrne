@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-06065ce3ea68",
+   "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168318",
+   "published_date": "2026-09-11",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council meets top of the hour to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T20:47:13+00:00"
+  },
+  {
+   "id": "a-3e25373a1a42",
+   "title": "The world just had the hottest August ever",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168317",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Earth just had the hottest August on record, according to newly released weather data.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T20:47:13+00:00"
+  },
+  {
+   "id": "a-a3e352b6a5f2",
+   "title": "Surge in displacement following fighting in southwest Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168314",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 46,000 people have been displaced since renewed fighting last week between Houthi rebels and pro-government forces in southwestern Yemen, the International Organization for Migration (IOM) reported on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T20:47:13+00:00"
+  },
+  {
+   "id": "a-854685948f10",
+   "title": "IAEA-Led Mission Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-mission-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-11T20:46:58+00:00"
+  },
+  {
    "id": "a-a2b65a5b0d5c",
    "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
    "source_name": "UN News",
@@ -1978,75 +2046,6 @@
    "ingested_at": "2026-08-21T21:29:28+00:00"
   },
   {
-   "id": "a-270f69621c8e",
-   "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/outbreak-linked-to-alfalfa-sprouts-people-sickened-with-e-coli-and-salmonella.html",
-   "published_date": "2026-08-21",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC warns of a multistate Salmonella and E. coli outbreak linked to recalled alfalfa sprout product.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T18:43:41+00:00"
-  },
-  {
-   "id": "a-cca14e65db7b",
-   "title": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/08/statement-director-general-organisation-prohibition",
-   "published_date": "2026-08-21",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons kviray Fri 21/08/2026 - 15:16 Today marks the 13th anniversary of a devastating chemical weapons attack in the Ghouta area of Damascus in Syria. On 21 August 2013, the nerve agent sarin was used in Ghouta, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T15:38:38+00:00"
-  },
-  {
-   "id": "a-c2ea7dc900e1",
-   "title": "IAEA Revamps Major Nuclear Power Database",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-revamps-major-nuclear-power-database",
-   "published_date": "2026-08-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-21T12:57:30+00:00"
-  },
-  {
-   "id": "a-7c8642184b61",
-   "title": "France provides voluntary funding to enhance OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/08/france-provides-voluntary-funding-enhance-opcws-work",
-   "published_date": "2026-08-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "France provides voluntary funding to enhance OPCW’s work H.E. Mr François Alabrune, Permanent Representative of the French Republic to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Government of France has contributed EUR 1 million to the Trust Fund for Syria Missions ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T04:01:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-11T16:24:49+00:00",
+ "updated_at": "2026-09-11T21:00:31+00:00",
  "sources_ok": "5/7"
 }
