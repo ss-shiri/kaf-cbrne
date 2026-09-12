@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-50334f122dec",
+   "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168320",
+   "published_date": "2026-09-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ola Ishtiwi sits with her children in front of the remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from a series of painted cement blocks Israel has placed to mark what has become known as the “yellow line”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-12T20:24:10+00:00"
+  },
+  {
    "id": "a-06065ce3ea68",
    "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-22T09:32:04+00:00"
   },
   {
-   "id": "a-f198e01d4af7",
-   "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766293",
-   "published_date": "2026-08-21",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC warns of a multistate Salmonella and E. coli outbreak linked to recalled alfalfa sprout product.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T03:46:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-12T15:34:19+00:00",
+ "updated_at": "2026-09-12T20:38:25+00:00",
  "sources_ok": "5/7"
 }
