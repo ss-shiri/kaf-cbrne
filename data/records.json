@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-78ee0e4da4fc",
+   "title": "Director General's Statement to the Seventieth Regular Session of the IAEA General Conference",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/statements/director-generals-statement-to-the-seventieth-regular-session-of-the-iaea-general-conference",
+   "published_date": "2026-09-14",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "(As prepared for delivery) Excellencies, ladies and gentlemen, Today we begin the 70th General Conference, welcoming the Democratic Republic of Timor-Leste as the IAEA’s one-hundred-and-eighty-second Member State.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T12:22:03+00:00"
+  },
+  {
+   "id": "a-1d8f1df9a71d",
+   "title": "IAEA General Conference Elects Argentine Ambassador as Conference President",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-general-conference-elects-argentine-ambassador-as-conference-president",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T12:22:03+00:00"
+  },
+  {
+   "id": "a-6df73dd92b8f",
+   "title": "IAEA Projects Global Nuclear Power Capacity Could Triple by 2060, Continuing Rising Trend",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-projects-global-nuclear-power-capacity-could-triple-by-2060-continuing-rising-trend",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T12:22:03+00:00"
+  },
+  {
+   "id": "a-d9411fbc1aa8",
+   "title": "Adequate uranium resources available, but sustained investment essential to support global nuclear capacity growth",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/adequate-uranium-resources-available-but-sustained-investment-essential-to-support-global-nuclear-capacity-growth",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T12:22:03+00:00"
+  },
+  {
    "id": "a-50334f122dec",
    "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
    "source_name": "UN News",
@@ -1978,74 +2046,6 @@
    "ingested_at": "2026-08-24T15:44:44+00:00"
   },
   {
-   "id": "a-270f69621c8e",
-   "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/outbreak-linked-to-alfalfa-sprouts-people-sickened-with-e-coli-and-salmonella.html",
-   "published_date": "2026-08-21",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC warns of a multistate Salmonella and E. coli outbreak linked to recalled alfalfa sprout product.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T23:07:27+00:00"
-  },
-  {
-   "id": "a-cca14e65db7b",
-   "title": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/08/statement-director-general-organisation-prohibition",
-   "published_date": "2026-08-21",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Statement by the Director-General of the Organisation for the Prohibition of Chemical Weapons kviray Fri 21/08/2026 - 15:16 Today marks the 13th anniversary of a devastating chemical weapons attack in the Ghouta area of Damascus in Syria. On 21 August 2013, the nerve agent sarin was used in Ghouta, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T23:07:06+00:00"
-  },
-  {
-   "id": "a-75cb75b05391",
-   "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168182",
-   "published_date": "2026-08-21",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the deadliest Ebola outbreak in DR Congo’s history continued spreading on Friday, UN responders renewed their urgent appeal for immediate international support, with existing funding for lifesaving work critically low.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T09:32:05+00:00"
-  },
-  {
-   "id": "a-73b7d0236e7a",
-   "title": "AI for Good: How the UN uses AI to advance human rights",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168177",
-   "published_date": "2026-08-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For Ari, a six-year-old boy with learning difficulties in Jamaica, artificial intelligence (AI) opened the door to something many children take for granted: reading a book in his own language. Thousands of miles away, gold miners in Ethiopia are being screened more quickly for tuberculosis, while ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-22T09:32:04+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-14T04:34:24+00:00",
+ "updated_at": "2026-09-14T12:32:16+00:00",
  "sources_ok": "5/7"
 }
