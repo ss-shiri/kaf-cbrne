@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-1dbe381faba5",
+   "title": "IAEA chief underscores commitment to nuclear safety and verification",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168325",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Director General of the UN nuclear watchdog, IAEA, opened its 70th General Conference on Monday in Vienna with a message full of optimism, stressing that despite the many difficulties and tensions the world is witnessing a “common spirit of dedication” which still guides their work.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T19:47:00+00:00"
+  },
+  {
+   "id": "a-c58a8fe5e26f",
+   "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168328",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T19:46:59+00:00"
+  },
+  {
+   "id": "a-5615f5d53a95",
+   "title": "The Week Ahead: IAEA Hosts 70th General Conference",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/the-week-ahead-iaea-hosts-70th-general-conference",
+   "published_date": "2026-09-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-14T19:46:50+00:00"
+  },
+  {
    "id": "a-78ee0e4da4fc",
    "title": "Director General's Statement to the Seventieth Regular Session of the IAEA General Conference",
    "source_name": "IAEA",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-24T21:34:30+00:00"
   },
   {
-   "id": "a-8914a6f47cc6",
-   "title": "Sudan war: $22 million education boost to help 200,000 children",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168187",
-   "published_date": "2026-08-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For millions of children in Sudan, the classroom remains out of reach as the country’s civil war continues to disrupt their education. To help tackle this huge problem, the UN global education fund on Monday announced a $22 million initiative to help 200,000 youngsters return to learning.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-24T15:44:44+00:00"
-  },
-  {
-   "id": "a-e750aff2609b",
-   "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168188",
-   "published_date": "2026-08-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council is currently hearing top UN officials brief on the latest updates about war-torn Sudan as escalating conflict, drone strikes against civilians, displacement, hunger and flooding affects millions and UN agencies strive to deliver lifesaving aid. UN News app users can follow our ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-24T15:44:43+00:00"
-  },
-  {
-   "id": "a-0cfa7efe26ed",
-   "title": "Breaking the silence over sexual violence against men and boys in war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168150",
-   "published_date": "2026-08-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Conflicts can expose civilians and detainees to grave abuses; the challenge is not only to document these crimes, but also to ensure all survivors are recognised, protected and able to access justice and care.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-24T15:44:44+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-14T12:32:16+00:00",
+ "updated_at": "2026-09-14T20:03:27+00:00",
  "sources_ok": "5/7"
 }
