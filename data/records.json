@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-ac109e163ede",
+   "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/scientific-forum-opening-2026-delivering-on-the-promise-of-cancer-care",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-15T11:28:06+00:00"
+  },
+  {
+   "id": "a-8b6442da3a19",
+   "title": "Bridging the Global Gap in Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/bridging-the-global-gap-in-cancer-care",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-15T11:28:06+00:00"
+  },
+  {
    "id": "a-3111277120e5",
    "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-08-25T01:36:59+00:00"
   },
   {
-   "id": "a-621d99966f13",
-   "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168191",
-   "published_date": "2026-08-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war were in the spotlight on Monday as the Security Council hears the latest reports from UN officials about the situation on the ground. UN News app users can follow our live coverage here.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-24T21:34:31+00:00"
-  },
-  {
-   "id": "a-05801e666786",
-   "title": "Global food supply has become ‘collateral damage’ in conflicts: Secretary-General",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168190",
-   "published_date": "2026-08-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The disruption of maritime traffic in the Strait of Hormuz, Black Sea and Bab al-Mandab Strait has worsened hunger crises and must immediately end, UN Secretary-General António Guterres said.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-24T21:34:31+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-15T04:32:08+00:00",
+ "updated_at": "2026-09-15T11:41:39+00:00",
  "sources_ok": "5/7"
 }
