@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-93a47b5ce839",
+   "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168334",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-15T16:40:52+00:00"
+  },
+  {
+   "id": "a-a9800b165da1",
+   "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168337",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-15T16:40:51+00:00"
+  },
+  {
+   "id": "a-fa60236f7852",
+   "title": "World fears major war more than any other global risk, UN survey finds",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168332",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-15T16:40:51+00:00"
+  },
+  {
    "id": "a-ac109e163ede",
    "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
    "source_name": "IAEA",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-08-25T12:56:38+00:00"
   },
   {
-   "id": "a-fed1f22d102d",
-   "title": "IAEA-led Study Finds 5-star Rating System Can Help Make CT Imaging Safer",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-led-study-finds-5-star-rating-system-can-help-make-ct-imaging-safer",
-   "published_date": "2026-08-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-25T12:56:32+00:00"
-  },
-  {
-   "id": "a-4554fd6669f2",
-   "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168194",
-   "published_date": "2026-08-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From Ecuador to Bangladesh, a new generation of entrepreneurs is turning land restoration into economic opportunity. Whether repurposing agricultural waste, building greenhouses or deploying AI-powered sensors, they are showing, with support from a United Nations-backed initiative, that restoring ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-25T09:40:56+00:00"
-  },
-  {
-   "id": "a-ae5ad4d6196f",
-   "title": "100 days of Ebola and the race to stop the spread",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168195",
-   "published_date": "2026-08-24",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A hundred days after the Bundibugyo Ebola outbreak was declared, the Democratic Republic of the Congo (DRC) is facing an epidemic of an unprecedented scale and efforts must grow to contain the spread in the eastern region and across borders, UN agencies warned on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-25T01:36:59+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-15T11:41:39+00:00",
+ "updated_at": "2026-09-15T16:55:12+00:00",
  "sources_ok": "5/7"
 }
