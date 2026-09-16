@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c8cf29af0e5d",
+   "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168352",
+   "published_date": "2026-09-16",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-16T23:38:07+00:00"
+  },
+  {
    "id": "a-9d4f01b49f90",
    "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-26T09:49:13+00:00"
   },
   {
-   "id": "a-ca624066be9f",
-   "title": "As wars spread, the global food system unravels",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168201",
-   "published_date": "2026-08-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A family with four children abandoned its farm in Somalia after armed groups arrived and demanded payments for the right to continue cultivating the land. They walked roughly 100 kilometers to a displacement camp. One of the children died along the way.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-25T21:33:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-16T21:21:39+00:00",
+ "updated_at": "2026-09-16T23:53:17+00:00",
  "sources_ok": "5/7"
 }
