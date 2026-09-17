@@ -1,7 +1,24 @@
 {
- "compiled": "2026-09-16",
+ "compiled": "2026-09-17",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-068c82e55429",
+   "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168353",
+   "published_date": "2026-09-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-17T04:23:50+00:00"
+  },
   {
    "id": "a-c8cf29af0e5d",
    "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-29T01:36:39+00:00"
   },
   {
-   "id": "a-45b20d9dee6d",
-   "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168203",
-   "published_date": "2026-08-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The killings in Kenscoff began late Sunday, when armed men descended on the farming community in the hills overlooking Haiti’s capital, setting homes ablaze and attacking residents. By Monday, bodies lay in the streets and survivors were searching for missing relatives.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-26T09:49:13+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-16T23:53:17+00:00",
+ "updated_at": "2026-09-17T04:35:52+00:00",
  "sources_ok": "5/7"
 }
