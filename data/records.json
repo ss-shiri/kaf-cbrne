@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-db67b9121c95",
+   "title": "IAEA Visitor Centre Celebrates Its First Anniversary",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-visitor-centre-celebrates-its-first-anniversary",
+   "published_date": "2026-09-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-17T16:39:49+00:00"
+  },
+  {
    "id": "a-268ec6c88f28",
    "title": "Closing Remarks at the Twenty-Sixth Annual Induction Workshop for Diplomatic Personnel Accredited to the OPCW",
    "source_name": "OPCW",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-08-29T01:36:42+00:00"
   },
   {
-   "id": "a-63c3c841dac4",
-   "title": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168197",
-   "published_date": "2026-08-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As extreme heat becomes an increasingly visible reality across Japan, meteorologists, scientists, businesses and professional footballers are joining forces to encourage stronger climate action and raise awareness of the risks posed by global warming.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-29T01:36:42+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-17T11:36:25+00:00",
+ "updated_at": "2026-09-17T16:53:49+00:00",
  "sources_ok": "5/7"
 }
