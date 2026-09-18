@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-6b8b7ea741c9",
+   "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168364",
+   "published_date": "2026-09-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-18T16:10:52+00:00"
+  },
+  {
+   "id": "a-e264bdb32e8f",
+   "title": "New Members Elected to the IAEA Board of Governors",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/GC70-new-members-elected-to-the-iaea-board-of-governors",
+   "published_date": "2026-09-18",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-18T16:10:44+00:00"
+  },
+  {
    "id": "a-57f0c452ce50",
    "title": "As freshwater reserves shrink, countries must prepare for a new water reality",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-08-29T09:53:51+00:00"
   },
   {
-   "id": "a-8ef8f92d23e3",
-   "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168224",
-   "published_date": "2026-08-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Chocó and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-29T01:36:30+00:00"
-  },
-  {
-   "id": "a-01073b95aeaa",
-   "title": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168221",
-   "published_date": "2026-08-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The impact of the deadly flood in Nepal has been described as “immense” as the authorities there confirm that 538 bodies have been recovered from the disaster-stricken area.",
-   "why_it_matters": "",
-   "ingested_at": "2026-08-29T01:36:30+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-18T11:05:28+00:00",
+ "updated_at": "2026-09-18T16:21:18+00:00",
  "sources_ok": "5/7"
 }
