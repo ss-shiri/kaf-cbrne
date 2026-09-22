@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-11f3c18c300c",
+   "title": "Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/annual-report-to-the-nation-progress-against-lung-cancer-drives-down-cancer-mortality.html",
+   "published_date": "2026-09-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Learn the latest U.S. cancer trends, including falling death rates and lung cancer progress.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-22T16:40:39+00:00"
+  },
+  {
+   "id": "a-a9cd6dc54bce",
+   "title": "Displacement on the rise in Yemen as fighting continues",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168390",
+   "published_date": "2026-09-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-22T16:40:30+00:00"
+  },
+  {
    "id": "a-acaf999baf98",
    "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-09-05T03:54:09+00:00"
   },
   {
-   "id": "a-3883e6a3d036",
-   "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168239",
-   "published_date": "2026-09-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres on Tuesday urged leaders of the Shanghai Cooperation Organization (SCO) to help reshape global governance for a changing world, arguing that a more multipolar international order can strengthen multilateralism, advance fairness and better serve developing ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-01T23:11:37+00:00"
-  },
-  {
-   "id": "a-8903fadcf8bd",
-   "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168238",
-   "published_date": "2026-09-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Victims of Afghanistan’s decades-long armed conflict continue to suffer profound physical, psychological, social and economic consequences, often without access to justice, reparation or formal acknowledgement of the harm done to them, according to a new UN report.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-01T18:17:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-22T11:30:32+00:00",
+ "updated_at": "2026-09-22T16:50:28+00:00",
  "sources_ok": "5/7"
 }
