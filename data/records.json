@@ -1,5 +1,5 @@
 {
- "compiled": "2026-09-21",
+ "compiled": "2026-09-22",
  "source": "curated + auto",
  "records": [
   {
@@ -2029,21 +2029,21 @@
    "ingested_at": "2026-09-01T18:17:21+00:00"
   },
   {
-   "id": "a-325457fb5500",
-   "title": "Nepal flooding deaths surpass 900 as needs climb",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/08/1168233",
+   "id": "a-57e6ec1ccb55",
+   "title": "CDC Launches New Overdose Prevention Data Channel",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-launches-new-overdose-prevention-data-channel.html",
    "published_date": "2026-08-31",
    "doc_type": "news",
    "domain_tags": [
-    "Multi"
+    "Biological"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
+   "summary": "CDC launches a central data channel to track overdose trends and strengthen prevention nationwide.",
    "why_it_matters": "",
-   "ingested_at": "2026-09-05T03:54:11+00:00"
+   "ingested_at": "2026-09-21T23:58:32+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-21T20:05:45+00:00",
+ "updated_at": "2026-09-22T00:14:37+00:00",
  "sources_ok": "5/7"
 }
