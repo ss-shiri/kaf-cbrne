@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-acaf999baf98",
+   "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168387",
+   "published_date": "2026-09-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-22T11:18:31+00:00"
+  },
+  {
    "id": "a-de15c0c07266",
    "title": "CDC Data Show Encouraging Progress in Youth Health",
    "source_name": "CDC Newsroom",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-09-01T18:17:21+00:00"
   },
   {
-   "id": "a-57e6ec1ccb55",
-   "title": "CDC Launches New Overdose Prevention Data Channel",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-launches-new-overdose-prevention-data-channel.html",
-   "published_date": "2026-08-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC launches a central data channel to track overdose trends and strengthen prevention nationwide.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T23:58:32+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-22T04:25:49+00:00",
+ "updated_at": "2026-09-22T11:30:32+00:00",
  "sources_ok": "5/7"
 }
