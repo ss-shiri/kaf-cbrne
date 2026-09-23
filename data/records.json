@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-ac249d475887",
+   "title": "‘Time is running out’ for Israel-Palestine two-State solution",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168401",
+   "published_date": "2026-09-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-23T11:12:14+00:00"
+  },
+  {
    "id": "a-11f3c18c300c",
    "title": "Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality",
    "source_name": "CDC Newsroom",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-09-05T03:54:10+00:00"
   },
   {
-   "id": "a-df0708645aa7",
-   "title": "Response must outpace spread of Ebola: UN relief chief",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168246",
-   "published_date": "2026-09-01",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world must move faster to contain an Ebola outbreak in the Democratic Republic of the Congo (DRC) that is growing exponentially, the UN’s Emergency Relief Coordinator warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-05T03:54:09+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-23T04:26:02+00:00",
+ "updated_at": "2026-09-23T11:22:32+00:00",
  "sources_ok": "5/7"
 }
