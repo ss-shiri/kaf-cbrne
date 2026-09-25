@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f38d98a22b39",
+   "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/turkiye-protects-its-citrus-harvests-with-nuclear-science",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T11:33:22+00:00"
+  },
+  {
+   "id": "a-949e8bd7b150",
+   "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-368-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-09-25",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T11:33:22+00:00"
+  },
+  {
    "id": "a-b01d2335a42d",
    "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-09-08T20:58:11+00:00"
   },
   {
-   "id": "a-d82e29b02967",
-   "title": "IAEA Hosts Workshop for International Financial Institutions on Nuclear Financing",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-hosts-workshop-for-international-financial-institutions-on-nuclear-financing",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-08T16:23:38+00:00"
-  },
-  {
-   "id": "a-ef38e74eaea3",
-   "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168283",
-   "published_date": "2026-09-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Tackling air pollution and climate change together can save millions of lives, reduce global warming and generate roughly $15 in economic benefits for every $1 spent, a new UN-backed report has revealed.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-08T10:58:35+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-25T04:35:37+00:00",
+ "updated_at": "2026-09-25T11:44:36+00:00",
  "sources_ok": "5/7"
 }
