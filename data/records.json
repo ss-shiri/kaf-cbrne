@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-73e05b47e56f",
+   "title": "Yemen violence deepens concerns over child hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168436",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T16:57:05+00:00"
+  },
+  {
+   "id": "a-a0f7f5151d72",
+   "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-inter-american-development-bank-sign-partnership-agreement-on-nuclear-energy-for-development",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T16:56:57+00:00"
+  },
+  {
    "id": "a-f38d98a22b39",
    "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
    "source_name": "IAEA",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-09-09T04:06:41+00:00"
   },
   {
-   "id": "a-8d9ed2e7141e",
-   "title": "Ebola response in eastern DR Congo must include food aid, WFP says",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168295",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As Ebola sweeps across the eastern Democratic Republic of the Congo (DRC), ensuring families meet their basic food needs is crucial to halt the spread of the deadly disease.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:41+00:00"
-  },
-  {
-   "id": "a-593f018118b0",
-   "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168292",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A successful and lasting transition in Syria requires comprehensive accountability, inclusion and guarantees that violations will not be repeated, UN independent investigators told the Human Rights Council in Geneva on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-08T20:58:11+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-25T11:44:36+00:00",
+ "updated_at": "2026-09-25T17:06:37+00:00",
  "sources_ok": "5/7"
 }
