@@ -1,7 +1,58 @@
 {
- "compiled": "2026-09-24",
+ "compiled": "2026-09-25",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-b01d2335a42d",
+   "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168427",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T04:23:06+00:00"
+  },
+  {
+   "id": "a-0c0e0399e69d",
+   "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168429",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“There is a people. A people who can wait no longer. A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T04:23:05+00:00"
+  },
+  {
+   "id": "a-697c08008ae2",
+   "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168428",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-25T04:23:05+00:00"
+  },
   {
    "id": "a-35ecd2adef37",
    "title": "LIVE: Climate change is here - What happens next is still in our hands",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-09-08T10:58:35+00:00"
   },
   {
-   "id": "a-8cf4cd992396",
-   "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168288",
-   "published_date": "2026-09-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-07T17:43:14+00:00"
-  },
-  {
-   "id": "a-bc6ce34c64f3",
-   "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168287",
-   "published_date": "2026-09-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The ongoing war in Sudan took centre stage at the UN Human Rights Council on Monday where the UN High Commissioner for Human Rights, Volker Türk, led calls for an end to attacks on civilians in “markets, hospitals [and] fuel stations”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-07T17:43:14+00:00"
-  },
-  {
-   "id": "a-43fb91ccf2a3",
-   "title": "IAEA Director General's Introductory Statement to the Board of Governors",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-7-september-2026",
-   "published_date": "2026-09-07",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "(As prepared for delivery) Ladies and gentlemen, In a fragmented world, the IAEA is more indispensable than ever. Our impartial and expert work is part of some of the most sensitive and consequential international efforts of our time.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-07T17:43:01+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-24T21:32:24+00:00",
+ "updated_at": "2026-09-25T04:35:37+00:00",
  "sources_ok": "5/7"
 }
