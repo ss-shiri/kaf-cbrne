@@ -1,7 +1,58 @@
 {
- "compiled": "2026-09-25",
+ "compiled": "2026-09-26",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-e4d9c64b8789",
+   "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168450",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-26T04:27:36+00:00"
+  },
+  {
+   "id": "a-83c0c1573202",
+   "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168447",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-26T04:27:36+00:00"
+  },
+  {
+   "id": "a-138be0199084",
+   "title": "Security Council LIVE: Rising tide of forced displacement",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168438",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-26T04:27:36+00:00"
+  },
   {
    "id": "a-73e05b47e56f",
    "title": "Yemen violence deepens concerns over child hunger crisis",
@@ -1993,57 +2044,6 @@
    "ingested_at": "2026-09-09T04:06:43+00:00"
   },
   {
-   "id": "a-61d3ab537fe0",
-   "title": "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168293",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN General Assembly gavelled open its 81st session on Tuesday at UN Headquarters as the incoming president pledged to restore public trust in the institution during a time of war, humanitarian crises and intensifying climate change.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:42+00:00"
-  },
-  {
-   "id": "a-279310bb41c6",
-   "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168298",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:41+00:00"
-  },
-  {
-   "id": "a-c94263bc6937",
-   "title": "AI datacentres pose growing threat to electricity systems worldwide",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168296",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Use of data-intensive technologies – in particular artificial intelligence (AI) data centres – is growing faster than electricity infrastructure can handle, the UN’s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:41+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-25T21:34:32+00:00",
+ "updated_at": "2026-09-26T04:38:40+00:00",
  "sources_ok": "5/7"
 }
