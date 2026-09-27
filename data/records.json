@@ -1992,6 +1992,42 @@
    "ingested_at": "2026-09-12T20:24:10+00:00"
   },
   {
+   "id": "a-c176ef33bb6a",
+   "title": "OPCW Director-General makes official visit to China",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-director-general-makes-official-visit-china",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical",
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General makes official visit to China OPCW Director-General Sabrina Dallafior and the OPCW Executive Council at the Dunhua Excavation and Recovery site in China. (Photo: OPCW) THE HAGUE, Netherlands, 11 September 2026 — OPCW Director-General Sabrina Dallafior visited China from 31 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T16:44:54+00:00"
+  },
+  {
+   "id": "a-96b5982f7d54",
+   "title": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/united-kingdom-provides-voluntary-funding-more-eur-13-million-enhance",
+   "published_date": "2026-09-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work H.E. Mr Christopher Maxwell Rampling, Permanent Representative of the United Kingdom of Great Britain and Northern Ireland (UK) to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T16:44:54+00:00"
+  },
+  {
    "id": "a-06065ce3ea68",
    "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
    "source_name": "UN News",
@@ -2005,40 +2041,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "The Security Council meets top of the hour to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T20:47:13+00:00"
-  },
-  {
-   "id": "a-3e25373a1a42",
-   "title": "The world just had the hottest August ever",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168317",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Earth just had the hottest August on record, according to newly released weather data.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T20:47:13+00:00"
-  },
-  {
-   "id": "a-a3e352b6a5f2",
-   "title": "Surge in displacement following fighting in southwest Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168314",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 46,000 people have been displaced since renewed fighting last week between Houthi rebels and pro-government forces in southwestern Yemen, the International Organization for Migration (IOM) reported on Friday.",
    "why_it_matters": "",
    "ingested_at": "2026-09-11T20:47:13+00:00"
   },
@@ -2226,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-27T11:55:54+00:00",
+ "updated_at": "2026-09-27T16:57:34+00:00",
  "sources_ok": "5/7"
 }
