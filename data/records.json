@@ -3,6 +3,346 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-37bf52936254",
+   "title": "The Takeaway: UN General Assembly debate Day 5",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168462",
+   "published_date": "2026-09-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From artificial intelligence to migration, some of the forces reshaping the twenty-first century took centre stage at the UN General Assembly on Saturday. Leaders wrestled with a common dilemma: how to harness profound technological and social change without allowing it to deepen the divisions ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:37+00:00"
+  },
+  {
+   "id": "a-b51d368e879a",
+   "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168456",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "China's Vice President, Han Zheng, urged the world to defend the postwar international order on Saturday, telling the UN General Assembly that geopolitical conflicts, widening development gaps and mounting global challenges make multilateralism more urgent than ever.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:40+00:00"
+  },
+  {
+   "id": "a-dbbcc8326a74",
+   "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168455",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Countries adopted on Saturday a new global blueprint for tackling rapidly evolving forms of crime, as the UN’s largest gathering on crime prevention and criminal justice opened in Abu Dhabi with a call for stronger international cooperation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:40+00:00"
+  },
+  {
+   "id": "a-f99201782780",
+   "title": "The Takeaway: UN General Assembly debate Day 4",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168454",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From the Caribbean to the Pacific, leaders from small island States demanded climate justice, ocean protection and greater solidarity at the UN General Assembly on Friday. They warned that rising seas are already redrawing national boundaries, while the ripple effects of faraway wars are being felt ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:40+00:00"
+  },
+  {
+   "id": "a-b6184db7e97a",
+   "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168458",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Cuba’s Foreign Minister warned the UN General Assembly on Saturday that escalating military and economic pressure in Latin America and the Caribbean was threatening international law, while accusing the United States of intensifying a decades-long campaign to isolate and weaken his country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:39+00:00"
+  },
+  {
+   "id": "a-2fea373b2b51",
+   "title": "Lavrov issues call for new Eurasian ‘security architecture’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168457",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russia's Foreign Minister, Sergey Lavrov, accused Western countries of destabilising the world through “force and double standards” in his address to the UN General Assembly on Saturday, vowing that Moscow's “special military operation” in Ukraine would be “carried through to the end.”",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:39+00:00"
+  },
+  {
+   "id": "a-059c830af436",
+   "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168461",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Canada’s Foreign Minister Anita Anand warned the UN General Assembly on Saturday that the international order has entered an era of profound disruption, calling for stronger multilateral cooperation and new partnerships as major powers increasingly turn away from global economic integration.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:38+00:00"
+  },
+  {
+   "id": "a-a3c867b28047",
+   "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168460",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "India’s External Affairs Minister Subrahmanyam Jaishankar warned on Saturday that violent conflicts continue to undermine international peace and security, while countries far removed from the battlefield are being forced to pay a heavy price.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:38+00:00"
+  },
+  {
+   "id": "a-c5fd80908299",
+   "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168459",
+   "published_date": "2026-09-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:38+00:00"
+  },
+  {
+   "id": "a-13974809ac82",
+   "title": "The Takeaway: UN General Assembly debate Day 3",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168434",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the high-level debate enters a fourth day, The Takeaway looks back at key highlights on Thursday, with Israeli and Palestinian leaders presenting divergent views on the Middle East conflict and their counterparts from across the world weighing in on the far-reaching impacts of the ongoing crisis ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:44+00:00"
+  },
+  {
+   "id": "a-76bb0be0f3fb",
+   "title": "Australia urges global cooperation on climate, AI checks and international law",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168435",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Australian Prime Minister Anthony Albanese underlined the need for countries to work together to address the climate crisis, emerging technologies such as AI, and the breakdown of international rules, at the United Nations General Assembly on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:43+00:00"
+  },
+  {
+   "id": "a-6e11f6c393c8",
+   "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168443",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:42+00:00"
+  },
+  {
+   "id": "a-fa1467ef2d13",
+   "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168441",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nepal’s Prime Minister Balendra Shah brought a stark warning from the Himalayas to the UN General Assembly on Thursday, saying catastrophic floods that killed at least 1,400 people in his country laid bare the human cost of climate change, and the failure of the international system to protect ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:42+00:00"
+  },
+  {
+   "id": "a-5236055eafcc",
+   "title": "Africa needs its own AI solutions, not borrowed ones, says expert",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168440",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Africa should focus its use of technology on solving its own real challenges rather than copying the systems and priorities of other parts of the world.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:42+00:00"
+  },
+  {
+   "id": "a-afc188664160",
+   "title": "Sudan’s farmers are ready to return – private investment could get them there",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168439",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The war in Sudan has devastated the economy and agricultural production, but a UN-backed plan aims to mobilise private sector investment to help farmers return to their fields.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:42+00:00"
+  },
+  {
+   "id": "a-459988c4d1ea",
+   "title": "LIVE: Six years on from COVID-19, is the world ready for the next pandemic?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168437",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "COVID-19 killed millions, shattered health systems and brought the global economy to a virtual standstill. World leaders are meeting Friday to review the lessons learned and cement a new approach to prevention and preparation for the next pandemic. Hopes are high that a World Health ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:42+00:00"
+  },
+  {
+   "id": "a-8dc729f646d5",
+   "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168452",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan’s share of the Indus River waters “will be treated as an act of war”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:41+00:00"
+  },
+  {
+   "id": "a-b2037f0cbe4b",
+   "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168449",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:41+00:00"
+  },
+  {
+   "id": "a-bba640ba19b0",
+   "title": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168444",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:41+00:00"
+  },
+  {
+   "id": "a-6960914dc555",
+   "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168453",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haiti is at a “watershed moment” in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aimé told the UN General Assembly on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:40+00:00"
+  },
+  {
    "id": "a-e4d9c64b8789",
    "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
    "source_name": "UN News",
@@ -120,6 +460,74 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-09-25T11:33:22+00:00"
+  },
+  {
+   "id": "a-a04b13aba7f1",
+   "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168433",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Barbados Prime Minister Mia Mottley called on world leaders on Thursday to turn knowledge into action, reform international institutions and ensure that new technologies and global wealth benefit everyone.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:44+00:00"
+  },
+  {
+   "id": "a-4a623d49a35c",
+   "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168432",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Vice-President of Yemen’s Presidential Leadership Council, Abdullah Al-Alimi Bawazir, told the UN General Assembly on Thursday that his Government had engaged “responsibly and positively” with regional and international peace initiatives and made significant concessions to end the suffering of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:44+00:00"
+  },
+  {
+   "id": "a-8c0d738833ab",
+   "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168431",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and described the violence in the West Bank as the work of a few “juvenile delinquents” and rejected accusations of genocide in Gaza as “the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:44+00:00"
+  },
+  {
+   "id": "a-7eda4ee1308b",
+   "title": "‘Rising seas are sinking futures’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168430",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "World leaders approved the UN Declaration on Sea Level Rise by consensus on Thursday as the UN chief warned that encroaching waters are already threatening the future of coastal communities worldwide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-27T11:46:44+00:00"
   },
   {
    "id": "a-b01d2335a42d",
@@ -1635,415 +2043,6 @@
    "ingested_at": "2026-09-11T20:47:13+00:00"
   },
   {
-   "id": "a-854685948f10",
-   "title": "IAEA-Led Mission Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-mission-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T20:46:58+00:00"
-  },
-  {
-   "id": "a-a2b65a5b0d5c",
-   "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168313",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Terrorist groups are recruiting, raising money and even planning operations through propaganda that is now “embedded” in every stage of their work, a new UN report warns – and governments are struggling to keep pace.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T16:13:39+00:00"
-  },
-  {
-   "id": "a-9b980715ab8e",
-   "title": "Update 366 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-366-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-09-11",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T10:57:59+00:00"
-  },
-  {
-   "id": "a-c176ef33bb6a",
-   "title": "OPCW Director-General makes official visit to China",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-director-general-makes-official-visit-china",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW Director-General makes official visit to China THE HAGUE, Netherlands, 11 September 2026 — OPCW Director-General Sabrina Dallafior visited to China from 31 August to 5 September. OPCW Member State representatives travelled to Abandoned Chemical Weapon (ACW) excavation, recovery, and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T10:57:59+00:00"
-  },
-  {
-   "id": "a-96b5982f7d54",
-   "title": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/09/united-kingdom-provides-voluntary-funding-more-eur-13-million-enhance",
-   "published_date": "2026-09-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "United Kingdom provides voluntary funding of more than EUR 1.3 million to enhance OPCW’s work H.E. Mr Christopher Maxwell Rampling, Permanent Representative of the United Kingdom of Great Britain and Northern Ireland (UK) to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T10:57:59+00:00"
-  },
-  {
-   "id": "a-382325f94b91",
-   "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168312",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T23:02:14+00:00"
-  },
-  {
-   "id": "a-57cf28975f03",
-   "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168311",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the economic toll climate change is already inflicting on Europe.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T23:02:14+00:00"
-  },
-  {
-   "id": "a-9cac732bfcf2",
-   "title": "CDC Statement on Increases in Recent Animal Rabies Activity and Associated Human Exposures",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
-   "published_date": "2026-09-10",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Statement on Increases in Recent Animal Rabies Activity and Associated Human Exposures",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T20:41:29+00:00"
-  },
-  {
-   "id": "a-484af3a61d55",
-   "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168310",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T20:41:20+00:00"
-  },
-  {
-   "id": "a-67dd3035dfb2",
-   "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168309",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T20:41:20+00:00"
-  },
-  {
-   "id": "a-ccbaf624ad4c",
-   "title": "Twenty-Five Years After 9/11 - Lessons from the World Trade Center Health Program",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/twenty-five-years-after-9-11-lessons-from-the-world-trade-center-health-program.html",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Paper examines 9/11-related health outcomes and lessons learned since the disaster.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T16:10:21+00:00"
-  },
-  {
-   "id": "a-0ee6fbdddd84",
-   "title": "Human cost of violence in South Sudan ‘continues to grow’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168307",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T16:10:06+00:00"
-  },
-  {
-   "id": "a-7f824c94fb39",
-   "title": "What You Need to Know about the IAEA General Conference",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/what-you-need-to-know-about-the-iaea-general-conference",
-   "published_date": "2026-09-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T16:09:54+00:00"
-  },
-  {
-   "id": "a-16cd2ad7bcb7",
-   "title": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168303",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Since the Taliban returned to power in 2021, the plight of Afghans has only deteriorated, with millions impoverished while authorities violate basic human rights daily.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T10:59:44+00:00"
-  },
-  {
-   "id": "a-bc3df74c4180",
-   "title": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168306",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When the creek beside Taudibura Garo's school in Papua New Guinea floods, the water doesn't stop at the gate. It rises through the pit toilets – making the school unsafe – sending the 16-year-old and her classmates home without being able to finish.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T10:59:43+00:00"
-  },
-  {
-   "id": "a-1d7af911b981",
-   "title": "Flood-ravaged Nepal calls for climate justice",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168305",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nepal’s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change – but are increasingly grappling with its most lethal consequences, the top UN official in the country said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-10T10:59:43+00:00"
-  },
-  {
-   "id": "a-3eb3f4a6dce9",
-   "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168302",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade – while pressing all sides to move quickly from paper to practice.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T20:46:07+00:00"
-  },
-  {
-   "id": "a-4f6cf12a6fa9",
-   "title": "Record number of attacks on education, global fund warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168300",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T16:19:27+00:00"
-  },
-  {
-   "id": "a-bc7f89ad22eb",
-   "title": "Guterres urges leaders to invest in peace as conflicts deepen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168301",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T16:19:26+00:00"
-  },
-  {
-   "id": "a-f4f6010be360",
-   "title": "Ukrainian NPP Workers’ Children Meet with DG, Tour IAEA HQ as Part of Summer Camp Programme Hosted by Austria",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/ukrainian-npp-workers-children-meet-with-dg-tour-iaea-hq-as-part-of-summer-camp-programme-hosted-by-austria",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T16:19:19+00:00"
-  },
-  {
-   "id": "a-4a952344028d",
-   "title": "Sweden provides voluntary funding to support OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/09/sweden-provides-voluntary-funding-support-opcws-work",
-   "published_date": "2026-09-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Sweden provides voluntary funding to support OPCW’s work H.E. Mr Julius Liljeström, Permanent Representative of the Kingdom of Sweden to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Government of Sweden has contributed EUR 630,000 to the Trust Fund for Syria Missions. ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T11:03:13+00:00"
-  },
-  {
-   "id": "a-8aa2ca708b22",
-   "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168297",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as “leverage” in conflicts that have nothing to do with them.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T11:03:20+00:00"
-  },
-  {
-   "id": "a-64fa5dc7582c",
-   "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168291",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In war-torn Gaza, a growing number of women-headed households face “impossible decisions” every day, amid ongoing Israeli airstrikes and still-scarce resources, UN humanitarians said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:43+00:00"
-  },
-  {
-   "id": "a-dd8df3cec091",
-   "title": "Tobacco use can undermine fertility, UN health agency warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168290",
-   "published_date": "2026-09-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Smoking very likely makes it harder to have a baby, the UN World Health Organization (WHO) warned in a new publication issued on Tuesday, highlighting that women who smoke have a 40 per cent higher risk of infertility compared to non-smokers.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-09T04:06:43+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-27T04:56:44+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-09-27T11:55:54+00:00",
+ "sources_ok": "5/7"
 }
