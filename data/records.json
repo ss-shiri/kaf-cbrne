@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-0d51ee41e7cd",
+   "title": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-and-brazil-strengthen-chemical-emergency-preparedness-across",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries Aerial view of the Port of Maputo, Mozambique. (Photo: Jacek Sopotnicki/Getty Images) Container ships unload at the Port of Maputo as trucks and trains carry cargo inland, part of a steady flow of goods ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-28T13:27:30+00:00"
+  },
+  {
    "id": "a-37bf52936254",
    "title": "The Takeaway: UN General Assembly debate Day 5",
    "source_name": "UN News",
@@ -2028,23 +2045,6 @@
    "ingested_at": "2026-09-27T16:44:54+00:00"
   },
   {
-   "id": "a-06065ce3ea68",
-   "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168318",
-   "published_date": "2026-09-11",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council meets top of the hour to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-11T20:47:13+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-28T05:00:10+00:00",
+ "updated_at": "2026-09-28T13:41:28+00:00",
  "sources_ok": "5/7"
 }
