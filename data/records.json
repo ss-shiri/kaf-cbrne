@@ -3,6 +3,159 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-b8bf1a374317",
+   "title": "How Nuclear Science Helps Tackle Food Waste",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/how-nuclear-science-helps-tackle-food-waste",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:45+00:00"
+  },
+  {
+   "id": "a-6c4343ae5469",
+   "title": "LIVE: World leaders take stock of global fight against racism",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168463",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "World leaders met in the General Assembly Monday to assess how far the world has come in combating racism and how far it still has to go. The Durban Declaration and Programme of Action, the most comprehensive framework of its kind, seeks to acknowledge historical injustices, dismantle inequalities ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:56+00:00"
+  },
+  {
+   "id": "a-1be34ae28b03",
+   "title": "From energy crisis to energy transition: How renewables are reshaping energy security",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168473",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The continuing conflict in the Middle East is disrupting global energy markets and pushing up fuel prices, with knock-on effects far beyond the region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:55+00:00"
+  },
+  {
+   "id": "a-77def8d34caf",
+   "title": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168467",
+   "published_date": "2026-09-28",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding – combined with the impact of climate change – the UN Children’s Fund, UNICEF, said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:55+00:00"
+  },
+  {
+   "id": "a-cdb4ef6ac16a",
+   "title": "‘Ballot must replace the bullets’, South Sudan tells General Assembly ahead of elections",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168475",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country’s Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, including the arms embargo to be lifted.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:54+00:00"
+  },
+  {
+   "id": "a-16d5b84182c1",
+   "title": "Sudan tells UN: No imposed solutions to country’s conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168474",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sudan’s Foreign Minister addressed the UN General Assembly on Monday in place of de facto head of state General Abdel Fattah al-Burhan, whose visa application was rejected by Washington.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:54+00:00"
+  },
+  {
+   "id": "a-d7ba8fd9c7d9",
+   "title": "The Takeaway Day 6: General Debate ends with call to turn words into action",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168478",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "After six days of speeches from the UN General Assembly podium, one word rose above all others: peace. This final edition of The Takeaway distils the messages he said reverberated through the Assembly Hall and looks at where the 193-member body goes from here.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:53+00:00"
+  },
+  {
+   "id": "a-2eae1d9ff680",
+   "title": "UN leaders renew push to defeat racism, 25 years after Durban",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168477",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“No country is free of racism.” That warning from US youth activist Marley Dias set the tone on Monday as UN Member States reinvigorated global efforts against racism, discrimination and xenophobia with a new declaration.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:53+00:00"
+  },
+  {
+   "id": "a-776c5dd15122",
+   "title": "DPR Korea tells UN its nuclear status is ‘irreversible’, rejects outside pressure",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168476",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Democratic People’s Republic of Korea (DPRK) told the UN General Assembly on Monday that its status as a nuclear-armed State was irreversible, arguing that its military capabilities were necessary to safeguard the country’s sovereignty and maintain peace on the Korean Peninsula.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T12:30:53+00:00"
+  },
+  {
    "id": "a-6ed5647f120f",
    "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
    "source_name": "UN News",
@@ -1890,159 +2043,6 @@
    "ingested_at": "2026-09-18T04:08:09+00:00"
   },
   {
-   "id": "a-3111277120e5",
-   "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168333",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T04:21:31+00:00"
-  },
-  {
-   "id": "a-42cd79b60f9f",
-   "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168331",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T23:46:40+00:00"
-  },
-  {
-   "id": "a-1dbe381faba5",
-   "title": "IAEA chief underscores commitment to nuclear safety and verification",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168325",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Director General of the UN nuclear watchdog, IAEA, opened its 70th General Conference on Monday in Vienna with a message full of optimism, stressing that despite the many difficulties and tensions the world is witnessing a “common spirit of dedication” which still guides their work.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T19:47:00+00:00"
-  },
-  {
-   "id": "a-c58a8fe5e26f",
-   "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168328",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T19:46:59+00:00"
-  },
-  {
-   "id": "a-5615f5d53a95",
-   "title": "The Week Ahead: IAEA Hosts 70th General Conference",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/the-week-ahead-iaea-hosts-70th-general-conference",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T19:46:50+00:00"
-  },
-  {
-   "id": "a-78ee0e4da4fc",
-   "title": "Director General's Statement to the Seventieth Regular Session of the IAEA General Conference",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/statements/director-generals-statement-to-the-seventieth-regular-session-of-the-iaea-general-conference",
-   "published_date": "2026-09-14",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "(As prepared for delivery) Excellencies, ladies and gentlemen, Today we begin the 70th General Conference, welcoming the Democratic Republic of Timor-Leste as the IAEA’s one-hundred-and-eighty-second Member State.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T12:22:03+00:00"
-  },
-  {
-   "id": "a-1d8f1df9a71d",
-   "title": "IAEA General Conference Elects Argentine Ambassador as Conference President",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-general-conference-elects-argentine-ambassador-as-conference-president",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T12:22:03+00:00"
-  },
-  {
-   "id": "a-6df73dd92b8f",
-   "title": "IAEA Projects Global Nuclear Power Capacity Could Triple by 2060, Continuing Rising Trend",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-projects-global-nuclear-power-capacity-could-triple-by-2060-continuing-rising-trend",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T12:22:03+00:00"
-  },
-  {
-   "id": "a-d9411fbc1aa8",
-   "title": "Adequate uranium resources available, but sustained investment essential to support global nuclear capacity growth",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/adequate-uranium-resources-available-but-sustained-investment-essential-to-support-global-nuclear-capacity-growth",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-14T12:22:03+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-29T05:26:51+00:00",
+ "updated_at": "2026-09-29T12:44:08+00:00",
  "sources_ok": "5/7"
 }
