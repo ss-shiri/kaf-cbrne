@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-2874ae92f9cd",
+   "title": "Yemen escalation fuels fears of further cholera, measles spread",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168480",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T19:53:45+00:00"
+  },
+  {
+   "id": "a-d7a47212a009",
+   "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168482",
+   "published_date": "2026-09-29",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T19:53:44+00:00"
+  },
+  {
+   "id": "a-87d11c6cc6e3",
+   "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168481",
+   "published_date": "2026-09-29",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T19:53:44+00:00"
+  },
+  {
+   "id": "a-86897798b34e",
+   "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168483",
+   "published_date": "2026-09-29",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with expected calls for greater safeguards.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-29T19:53:43+00:00"
+  },
+  {
    "id": "a-b8bf1a374317",
    "title": "How Nuclear Science Helps Tackle Food Waste",
    "source_name": "IAEA",
@@ -1975,74 +2043,6 @@
    "ingested_at": "2026-09-15T11:28:06+00:00"
   },
   {
-   "id": "a-8b6442da3a19",
-   "title": "Bridging the Global Gap in Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/bridging-the-global-gap-in-cancer-care",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T11:28:06+00:00"
-  },
-  {
-   "id": "a-eff0e0043e6f",
-   "title": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168329",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Poor management of toxic chemicals and hazardous waste threatens “many, if not all, human rights,” the newly appointed independent human rights independent expert on the rising threat told the Human Rights Council on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:10+00:00"
-  },
-  {
-   "id": "a-ba6f202bd83e",
-   "title": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168326",
-   "published_date": "2026-09-14",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Voluntary self-regulation by companies developing frontier artificial intelligence (AI) is “nowhere near sufficient” to address existing harms and prevent advanced autonomous AI models from circumventing human safeguards, UN human rights chief Volker Türk wrote on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:10+00:00"
-  },
-  {
-   "id": "a-9e6c31221b12",
-   "title": "Money sent home by migrants nearly doubles in a decade",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168330",
-   "published_date": "2026-09-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Migrants sent $728.6 billion home to families in low and middle-income countries in 2025, nearly double the amount recorded a decade earlier, according to a new report from the UN’s International Fund for Agricultural Development (IFAD).",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:09+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-29T12:44:08+00:00",
+ "updated_at": "2026-09-29T20:08:37+00:00",
  "sources_ok": "5/7"
 }
