@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-629ce753a0d3",
+   "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168490",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Four in five households in Lebanon struggle to afford basic necessities today, with children increasingly going without food, missing school and being pushed into work as conflict compounds years of economic crisis. \"I wanted to buy clothes for my children, but I could not. I also wanted to enrol ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T17:52:08+00:00"
+  },
+  {
+   "id": "a-bd4ef4ac7bf6",
+   "title": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168491",
+   "published_date": "2026-09-30",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN refugee agency, UNHCR, has voiced concern over Malaysia’s decision to return 1,476 people to Myanmar amid an ongoing civil war and a dire human rights and humanitarian situation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T17:52:07+00:00"
+  },
+  {
+   "id": "a-e95bf8013313",
+   "title": "IAEA Lise Meitner Programme Advances Women’s Nuclear Careers through Visit to the Russian Federation",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-lise-meitner-programme-advances-womens-nuclear-careers-through-visit-to-the-russian-federation",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T17:51:54+00:00"
+  },
+  {
+   "id": "a-d82bf356c205",
+   "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168486",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T17:52:09+00:00"
+  },
+  {
+   "id": "a-dabf920a1ed8",
+   "title": "Clean your plate – to reduce food loss and waste",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168485",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T17:52:09+00:00"
+  },
+  {
    "id": "a-eb71997176ec",
    "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
    "source_name": "UN News",
@@ -1958,91 +2043,6 @@
    "ingested_at": "2026-09-18T04:08:07+00:00"
   },
   {
-   "id": "a-f0f924ce12b1",
-   "title": "Ukraine: Attacks on education threaten an entire generation, UNICEF warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168336",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In an underground classroom in Sumy, Ukraine, children sit quietly at their desks, busy with the day’s lessons. For the moment they are shielded from the horrors of nearly five years of war, but just barely.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:07+00:00"
-  },
-  {
-   "id": "a-d39dca15a806",
-   "title": "UNICEF says thousands of children require mental health support after Nepal floods",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168340",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children’s Fund (UNICEF) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:06+00:00"
-  },
-  {
-   "id": "a-661ec005a14a",
-   "title": "Escalating conflict drives new displacement in Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168339",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:06+00:00"
-  },
-  {
-   "id": "a-049f304f2ffb",
-   "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168343",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T23:30:13+00:00"
-  },
-  {
-   "id": "a-93a47b5ce839",
-   "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168334",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T16:40:52+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-30T09:42:31+00:00",
+ "updated_at": "2026-09-30T18:07:48+00:00",
  "sources_ok": "5/7"
 }
