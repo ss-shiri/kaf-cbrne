@@ -1890,6 +1890,23 @@
    "ingested_at": "2026-09-16T16:34:21+00:00"
   },
   {
+   "id": "a-ac109e163ede",
+   "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/scientific-forum-opening-2026-delivering-on-the-promise-of-cancer-care",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T09:30:20+00:00"
+  },
+  {
    "id": "a-8b6442da3a19",
    "title": "Bridging the Global Gap in Cancer Care",
    "source_name": "IAEA",
@@ -2024,23 +2041,6 @@
    "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
    "why_it_matters": "",
    "ingested_at": "2026-09-15T16:40:52+00:00"
-  },
-  {
-   "id": "a-a9800b165da1",
-   "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168337",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T16:40:51+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-30T00:23:50+00:00",
+ "updated_at": "2026-09-30T09:42:31+00:00",
  "sources_ok": "5/7"
 }
