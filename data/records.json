@@ -1,7 +1,24 @@
 {
- "compiled": "2026-09-29",
+ "compiled": "2026-09-30",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-eb71997176ec",
+   "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168488",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T00:13:53+00:00"
+  },
   {
    "id": "a-2874ae92f9cd",
    "title": "Yemen escalation fuels fears of further cholera, measles spread",
@@ -1873,6 +1890,23 @@
    "ingested_at": "2026-09-16T16:34:21+00:00"
   },
   {
+   "id": "a-8b6442da3a19",
+   "title": "Bridging the Global Gap in Cancer Care",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/bridging-the-global-gap-in-cancer-care",
+   "published_date": "2026-09-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T00:13:46+00:00"
+  },
+  {
    "id": "a-83b1109ace3b",
    "title": "Gaza remains recovery points to possible war crimes, says UN rights chief",
    "source_name": "UN News",
@@ -2007,40 +2041,6 @@
    "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
    "why_it_matters": "",
    "ingested_at": "2026-09-15T16:40:51+00:00"
-  },
-  {
-   "id": "a-fa60236f7852",
-   "title": "World fears major war more than any other global risk, UN survey finds",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168332",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T16:40:51+00:00"
-  },
-  {
-   "id": "a-ac109e163ede",
-   "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/scientific-forum-opening-2026-delivering-on-the-promise-of-cancer-care",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-15T11:28:06+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-29T20:08:37+00:00",
+ "updated_at": "2026-09-30T00:23:50+00:00",
  "sources_ok": "5/7"
 }
