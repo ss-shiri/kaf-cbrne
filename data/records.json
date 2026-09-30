@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-e3ca9e33f7b2",
+   "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168496",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T22:04:58+00:00"
+  },
+  {
+   "id": "a-fb5dc36c3450",
+   "title": "Somali families face renewed violence amid worsening hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168495",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
+   "why_it_matters": "",
+   "ingested_at": "2026-09-30T22:04:58+00:00"
+  },
+  {
    "id": "a-629ce753a0d3",
    "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
    "source_name": "UN News",
@@ -2009,40 +2043,6 @@
    "ingested_at": "2026-09-30T00:13:46+00:00"
   },
   {
-   "id": "a-83b1109ace3b",
-   "title": "Gaza remains recovery points to possible war crimes, says UN rights chief",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168335",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:08+00:00"
-  },
-  {
-   "id": "a-e4ef598c46b6",
-   "title": "Ebola responders grapple with widening outbreak in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168338",
-   "published_date": "2026-09-15",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The deadly Ebola virus outbreak in DR Congo continues to spread across the vast country despite some success in containing it, aid officials said on Tuesday, in a renewed call for international support to help responders on the ground.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:07+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-30T18:07:48+00:00",
+ "updated_at": "2026-09-30T22:16:07+00:00",
  "sources_ok": "5/7"
 }
