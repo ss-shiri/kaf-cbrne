@@ -1,7 +1,58 @@
 {
- "compiled": "2026-09-30",
+ "compiled": "2026-10-01",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-2d4905b12e6d",
+   "title": "Homicides fall as organised crime grows more profitable – and networked",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168493",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T05:14:17+00:00"
+  },
+  {
+   "id": "a-82be59c8088b",
+   "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168498",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T05:14:16+00:00"
+  },
+  {
+   "id": "a-a3933092b0f1",
+   "title": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168489",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "What if the world tackled inequality with the same kind of scientific firepower it has brought to the climate crisis?",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T05:14:16+00:00"
+  },
   {
    "id": "a-e3ca9e33f7b2",
    "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
@@ -1992,57 +2043,6 @@
    "ingested_at": "2026-09-16T23:38:07+00:00"
   },
   {
-   "id": "a-9d4f01b49f90",
-   "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168347",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council meets Wednesday to hear the latest updates, including from a civil society representative who ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-16T16:34:21+00:00"
-  },
-  {
-   "id": "a-ac109e163ede",
-   "title": "Scientific Forum Opening 2026: Delivering on the Promise of Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/scientific-forum-opening-2026-delivering-on-the-promise-of-cancer-care",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T09:30:20+00:00"
-  },
-  {
-   "id": "a-8b6442da3a19",
-   "title": "Bridging the Global Gap in Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/bridging-the-global-gap-in-cancer-care",
-   "published_date": "2026-09-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T00:13:46+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-09-30T22:16:07+00:00",
+ "updated_at": "2026-10-01T05:23:47+00:00",
  "sources_ok": "5/7"
 }
