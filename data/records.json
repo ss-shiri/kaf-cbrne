@@ -3,6 +3,58 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-fe64afd7d3c2",
+   "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168499",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:04+00:00"
+  },
+  {
+   "id": "a-bc07d049f640",
+   "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168503",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Radiological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:03+00:00"
+  },
+  {
+   "id": "a-b7b96f94aea3",
+   "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168502",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker Türk said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:03+00:00"
+  },
+  {
    "id": "a-9b773a8d9d98",
    "title": "OPCW and China advance responsible use of AI for chemical safety and security",
    "source_name": "OPCW",
@@ -174,6 +226,40 @@
    "ingested_at": "2026-09-30T17:51:54+00:00"
   },
   {
+   "id": "a-b52969c68407",
+   "title": "Yemen escalation fuels fears of further cholera, measles spread",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168480",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:17+00:00"
+  },
+  {
+   "id": "a-296e835652dd",
+   "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168481",
+   "published_date": "2026-09-29",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:11+00:00"
+  },
+  {
    "id": "a-d82bf356c205",
    "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
    "source_name": "UN News",
@@ -308,6 +394,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-09-29T12:30:45+00:00"
+  },
+  {
+   "id": "a-4b0c82714057",
+   "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168465",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-rich east of the country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:27+00:00"
+  },
+  {
+   "id": "a-735ac534ceab",
+   "title": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met Monday morning with prospects for peace in the Middle East under strain on two fronts. In the West Bank, settler violence and settlement expansion are raising fears for a two-State solution. In Gaza, a year-old peace plan has stalled while civilian suffering continues. The ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:22+00:00"
   },
   {
    "id": "a-6c4343ae5469",
@@ -667,6 +787,74 @@
    "ingested_at": "2026-09-27T11:46:38+00:00"
   },
   {
+   "id": "a-70476b370662",
+   "title": "Yemen violence deepens concerns over child hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:48+00:00"
+  },
+  {
+   "id": "a-341e9a8a8f22",
+   "title": "Security Council LIVE: Rising tide of forced displacement",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:43+00:00"
+  },
+  {
+   "id": "a-2b019560cf28",
+   "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:37+00:00"
+  },
+  {
+   "id": "a-02abcf1dbbf1",
+   "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168450",
+   "published_date": "2026-09-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:32+00:00"
+  },
+  {
    "id": "a-13974809ac82",
    "title": "The Takeaway: UN General Assembly debate Day 3",
    "source_name": "UN News",
@@ -973,6 +1161,57 @@
    "ingested_at": "2026-09-25T11:33:22+00:00"
   },
   {
+   "id": "a-2eb34315d959",
+   "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168427",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:05+00:00"
+  },
+  {
+   "id": "a-eb1b3578c491",
+   "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:59+00:00"
+  },
+  {
+   "id": "a-89bdc6a3e820",
+   "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168429",
+   "published_date": "2026-09-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“There is a people. A people who can wait no longer. A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:15:54+00:00"
+  },
+  {
    "id": "a-a04b13aba7f1",
    "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
    "source_name": "UN News",
@@ -1090,6 +1329,74 @@
    "summary": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.",
    "why_it_matters": "",
    "ingested_at": "2026-09-25T04:23:05+00:00"
+  },
+  {
+   "id": "a-44dfe6ad9c56",
+   "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+   "published_date": "2026-09-23",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:28+00:00"
+  },
+  {
+   "id": "a-70f6d6fb429a",
+   "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+   "published_date": "2026-09-23",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:22+00:00"
+  },
+  {
+   "id": "a-e92e5feb5b91",
+   "title": "LIVE: Climate change is here - What happens next is still in our hands",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168372",
+   "published_date": "2026-09-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:17+00:00"
+  },
+  {
+   "id": "a-5a5dd1968863",
+   "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168414",
+   "published_date": "2026-09-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengio, a recipient of the prestigious Turing ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:11+00:00"
   },
   {
    "id": "a-35ecd2adef37",
@@ -1226,6 +1533,40 @@
    "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, ...",
    "why_it_matters": "",
    "ingested_at": "2026-09-23T16:33:39+00:00"
+  },
+  {
+   "id": "a-7f1eb5d3a093",
+   "title": "Displacement on the rise in Yemen as fighting continues",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168390",
+   "published_date": "2026-09-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:39+00:00"
+  },
+  {
+   "id": "a-6ac6742d84e4",
+   "title": "‘Time is running out’ for Israel-Palestine two-State solution",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+   "published_date": "2026-09-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:34+00:00"
   },
   {
    "id": "a-73eafdcc3ea1",
@@ -1466,6 +1807,57 @@
    "ingested_at": "2026-09-22T16:40:30+00:00"
   },
   {
+   "id": "a-15fd3e488c4a",
+   "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168383",
+   "published_date": "2026-09-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to invest more in peace.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:56+00:00"
+  },
+  {
+   "id": "a-2e69a18e7d48",
+   "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168386",
+   "published_date": "2026-09-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:50+00:00"
+  },
+  {
+   "id": "a-94975b179c51",
+   "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168387",
+   "published_date": "2026-09-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-01T20:16:44+00:00"
+  },
+  {
    "id": "a-c207de6375e9",
    "title": "UN panel calls for stronger safeguards as AI agents advance",
    "source_name": "UN News",
@@ -1653,397 +2045,6 @@
    "ingested_at": "2026-09-23T16:33:46+00:00"
   },
   {
-   "id": "a-2a1ad3d73b6e",
-   "title": "Why the UN General Assembly still matters",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168361",
-   "published_date": "2026-09-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than eight decades on from its founding, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:46+00:00"
-  },
-  {
-   "id": "a-c745d46f7213",
-   "title": "UN Crime Congress: Technology is transforming crime – and the response to it",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168370",
-   "published_date": "2026-09-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Sitting in her Vienna office ahead of a pivotal UN gathering in Abu Dhabi, Monica Juma is focused on a simple reality: crime has evolved faster than many of the institutions designed to combat it.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:47+00:00"
-  },
-  {
-   "id": "a-6f306d896f28",
-   "title": "Security Council LIVE: UN peacekeeping under pressure",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168376",
-   "published_date": "2026-09-18",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN peacekeepers have increasingly been sent into places where there is no peace to keep – under resourced, outgunned and exposed to violence they are not equipped to counter. The Security Council meets this afternoon in New York to confront that problem, with Secretary-General António Guterres ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T23:08:36+00:00"
-  },
-  {
-   "id": "a-c5060168c91b",
-   "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168374",
-   "published_date": "2026-09-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T23:08:36+00:00"
-  },
-  {
-   "id": "a-e7a831f4a93f",
-   "title": "Women and girls pay high price in DR Congo Ebola outbreak",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168368",
-   "published_date": "2026-09-18",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T23:08:36+00:00"
-  },
-  {
-   "id": "a-6b8b7ea741c9",
-   "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168364",
-   "published_date": "2026-09-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T16:10:52+00:00"
-  },
-  {
-   "id": "a-e264bdb32e8f",
-   "title": "New Members Elected to the IAEA Board of Governors",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/GC70-new-members-elected-to-the-iaea-board-of-governors",
-   "published_date": "2026-09-18",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T16:10:44+00:00"
-  },
-  {
-   "id": "a-57f0c452ce50",
-   "title": "As freshwater reserves shrink, countries must prepare for a new water reality",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168350",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world is entering a period in which abnormal water supplies are becoming the norm, with river flows, groundwater and glaciers all showing signs of sustained disruption, the UN weather agency warned on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:01+00:00"
-  },
-  {
-   "id": "a-ae8d807fdb6a",
-   "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168354",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:00+00:00"
-  },
-  {
-   "id": "a-06441ad4502a",
-   "title": "Guterres calls for action as hate speech spreads across new platforms online",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168356",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Secretary-General has called for concerted action by governments, technology companies and civil society to stamp out hate speech, emphasizing that “its toxic message is spreading fast and striking deep”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:07:59+00:00"
-  },
-  {
-   "id": "a-1c033769d518",
-   "title": "World News in Brief: Winter aid for Gaza, West Bank; Haiti food production; migrant deaths at sea; human rights funding",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168362",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Children’s Fund (UNICEF) is seeking to raise $97.5 million to protect 540,000 children and their families in Gaza and the West Bank from harsh winter conditions in the coming months.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:07:58+00:00"
-  },
-  {
-   "id": "a-79e81ee459ea",
-   "title": "Gender equality woefully off track, new UN report reveals",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168360",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At the current rate of progress, gender equality would take 171 years to achieve, a new UN report finds as institutions built to advance gains are being defunded and demobilised.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:07:58+00:00"
-  },
-  {
-   "id": "a-70ed4fd7121d",
-   "title": "Security Council LIVE: Syria’s transition in the spotlight",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168355",
-   "published_date": "2026-09-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T21:09:48+00:00"
-  },
-  {
-   "id": "a-e9c455139bf1",
-   "title": "UN fact-finding mission on Iran focuses on plight of civilians",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168358",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and \"crimes against humanity committed by their government,\" while finding \"reasonable grounds\" to believe that the United States committed \"war crimes\" in the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T21:09:47+00:00"
-  },
-  {
-   "id": "a-3274a29f4204",
-   "title": "Update 367 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-367-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-09-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T21:09:39+00:00"
-  },
-  {
-   "id": "a-0f3dc5abb479",
-   "title": "Scientific Forum Highlights Progress in Expanding Access to Cancer Care",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/scientific-forum-highlights-progress-in-expanding-access-to-cancer-care",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The IAEA’s flagship Rays of Hope initiative to expand access to cancer care was in the spotlight at this year’s Scientific Forum. The signature side event at the 70th IAEA General Conference, the forum brought together a",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T21:09:39+00:00"
-  },
-  {
-   "id": "a-db67b9121c95",
-   "title": "IAEA Visitor Centre Celebrates Its First Anniversary",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-visitor-centre-celebrates-its-first-anniversary",
-   "published_date": "2026-09-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T16:39:49+00:00"
-  },
-  {
-   "id": "a-268ec6c88f28",
-   "title": "Closing Remarks at the Twenty-Sixth Annual Induction Workshop for Diplomatic Personnel Accredited to the OPCW",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/09/closing-remarks-twenty-sixth-annual-induction-workshop",
-   "published_date": "2026-09-17",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Closing Remarks at the Twenty-Sixth Annual Induction Workshop for Diplomatic Personnel Accredited to the OPCW kviray Thu 17/09/2026 - 11:03 Closing remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Good afternoon, dear Excellencies, Distinguished delegates, It has truly ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-17T11:22:29+00:00"
-  },
-  {
-   "id": "a-8ad75a4a186d",
-   "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168346",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:05+00:00"
-  },
-  {
-   "id": "a-5e6bdcf90c07",
-   "title": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168344",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Each September, New York becomes the centre of global diplomacy as presidents, prime ministers, ministers and diplomats from around the world gather at United Nations Headquarters.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:05+00:00"
-  },
-  {
-   "id": "a-cb2d0d39565a",
-   "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168345",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:04+00:00"
-  },
-  {
-   "id": "a-122d166ca63d",
-   "title": "Repression continues in Venezuela in the face of ‘appalling’ human rights violations",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168351",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In Venezuela’s El Rodeo maximum security prison, some of those detained for political reasons are subject to forced intubation – and prolonged confinement in a sealed underground cistern.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:02+00:00"
-  },
-  {
-   "id": "a-c8a63bf48d47",
-   "title": "AI, climate and conflicts top Guterres’s agenda ahead of General Assembly",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168348",
-   "published_date": "2026-09-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ahead of the UN General Assembly’s high-level week, Secretary-General António Guterres said the world had entered “an era of deep uncertainty” and urged governments to embrace international cooperation to address global threats.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-18T04:08:02+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-01T13:01:48+00:00",
+ "updated_at": "2026-10-01T20:26:23+00:00",
  "sources_ok": "5/7"
 }
