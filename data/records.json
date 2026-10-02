@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-deb8261e7f7d",
+   "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168511",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:42:49+00:00"
+  },
+  {
+   "id": "a-3d8257d4350b",
+   "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168508",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:42:49+00:00"
+  },
+  {
+   "id": "a-395edaee0413",
+   "title": "Update 369 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-02",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:42:41+00:00"
+  },
+  {
+   "id": "a-683b9d951ae0",
+   "title": "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/iaea-medical-assistance-supports-ukraines-nuclear-workers",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:42:41+00:00"
+  },
+  {
    "id": "a-fe64afd7d3c2",
    "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
    "source_name": "UN News",
@@ -71,6 +139,23 @@
    "summary": "OPCW and China advance responsible use of AI for chemical safety and security Participants and organisers of the Workshop on Artificial Intelligence and Chemical Safety and Security Management: Trustworthy AI for Responsible Use in Hangzhou, China, 1 September 2026. (Photo: Government of the ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-01T12:50:29+00:00"
+  },
+  {
+   "id": "a-3a889f2f1a8f",
+   "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168490",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Four in five households in Lebanon struggle to afford basic necessities today, with children increasingly going without food, missing school and being pushed into work as conflict compounds years of economic crisis. \"I wanted to buy clothes for my children, but I could not. I also wanted to enrol ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:42:56+00:00"
   },
   {
    "id": "a-4258d8dbd3f6",
@@ -224,6 +309,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-09-30T17:51:54+00:00"
+  },
+  {
+   "id": "a-3e5338166e9b",
+   "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+   "published_date": "2026-09-29",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east, despite a series of peace agreements. Ambassadors focused on ceasefire monitoring, rising tensions between the DRC and Rwanda and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:43:13+00:00"
+  },
+  {
+   "id": "a-38cc34aae630",
+   "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+   "published_date": "2026-09-29",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States returned to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with calls for greater safeguards.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:43:07+00:00"
+  },
+  {
+   "id": "a-a3e3172ec537",
+   "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+   "published_date": "2026-09-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-02T17:43:02+00:00"
   },
   {
    "id": "a-b52969c68407",
@@ -1909,142 +2045,6 @@
    "ingested_at": "2026-09-23T16:33:44+00:00"
   },
   {
-   "id": "a-acaf999baf98",
-   "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168387",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-22T11:18:31+00:00"
-  },
-  {
-   "id": "a-de15c0c07266",
-   "title": "CDC Data Show Encouraging Progress in Youth Health",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/cdc-data-show-encouraging-progress-in-youth-health.html",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CDC Data Show Encouraging Progress in Youth Health",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T19:55:26+00:00"
-  },
-  {
-   "id": "a-754af63e7738",
-   "title": "Ebola vaccine trial begins in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168381",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T19:55:18+00:00"
-  },
-  {
-   "id": "a-ebee8dfd690d",
-   "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168386",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T19:55:17+00:00"
-  },
-  {
-   "id": "a-ba615a0e0ea2",
-   "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168383",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to invest more in peace.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T19:55:17+00:00"
-  },
-  {
-   "id": "a-ce4d892f4362",
-   "title": "Week in Review: IAEA 70th General Conference",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/week-in-review-iaea-70th-general-conference",
-   "published_date": "2026-09-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The 70th annual IAEA General Conference came to a close on Friday last week, following five days of discussions, events and activities related to a range of nuclear topics.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-21T19:55:07+00:00"
-  },
-  {
-   "id": "a-bd73a24d0618",
-   "title": "The right to development: Why equity, not charity, is a human right",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168367",
-   "published_date": "2026-09-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Compare two children born in the same year: one in a country with functioning schools, social services, fair elections and a dynamic economy and the other in a nation devastated by poverty, conflict, climate change or corruption.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:46+00:00"
-  },
-  {
-   "id": "a-c34d804121e9",
-   "title": "The race to build a pandemic-proof world",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168377",
-   "published_date": "2026-09-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we can prepare better for the next pandemic.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:46+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-02T09:43:31+00:00",
+ "updated_at": "2026-10-02T17:54:50+00:00",
  "sources_ok": "5/7"
 }
