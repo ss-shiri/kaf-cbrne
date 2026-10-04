@@ -141,6 +141,23 @@
    "ingested_at": "2026-10-01T12:50:29+00:00"
   },
   {
+   "id": "a-391354595eef",
+   "title": "Somali families face renewed violence amid worsening hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168495",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-04T12:07:12+00:00"
+  },
+  {
    "id": "a-3a889f2f1a8f",
    "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
    "source_name": "UN News",
@@ -2028,23 +2045,6 @@
    "ingested_at": "2026-10-01T20:16:44+00:00"
   },
   {
-   "id": "a-c207de6375e9",
-   "title": "UN panel calls for stronger safeguards as AI agents advance",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168380",
-   "published_date": "2026-09-21",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world's first scientific body on artificial intelligence (AI) called on Monday for safeguards to be adapted as current firewalls are “unravelling”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:46+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-04T05:33:47+00:00",
+ "updated_at": "2026-10-04T12:19:13+00:00",
  "sources_ok": "5/7"
 }
