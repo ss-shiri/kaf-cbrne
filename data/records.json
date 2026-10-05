@@ -3,6 +3,108 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-581137f06881",
+   "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168519",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:15+00:00"
+  },
+  {
+   "id": "a-99e182ea0653",
+   "title": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168518",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:15+00:00"
+  },
+  {
+   "id": "a-0d9afef00a9d",
+   "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168521",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:14+00:00"
+  },
+  {
+   "id": "a-75f24004aba4",
+   "title": "UN upholds housing as a human right on World Habitat Day",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168520",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Representatives from governments, civil society and academia meeting in Muscat, Oman on Monday called for urgent action to address a global housing crisis affecting nearly 3.4 billion people.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:14+00:00"
+  },
+  {
+   "id": "a-41efd53ce9c9",
+   "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168526",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:13+00:00"
+  },
+  {
+   "id": "a-ae1629640a60",
+   "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168522",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:13+00:00"
+  },
+  {
    "id": "a-5ff61df79c27",
    "title": "OPCW Director-General Sabrina Dallafior meets with Panama’s Foreign Minister",
    "source_name": "OPCW",
@@ -52,6 +154,210 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-05T14:10:41+00:00"
+  },
+  {
+   "id": "a-84c225df8baa",
+   "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168492",
+   "published_date": "2026-10-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe. Its most important journey, though, was the one back to the Mexico City canals where it was filmed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:16+00:00"
+  },
+  {
+   "id": "a-099d9f79264c",
+   "title": "Beyond the Moon: Space Week around the world",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168517",
+   "published_date": "2026-10-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Right after the Soviet Union launched Sputnik in 1957, UNOOSA, the UN Office for Outer Space Affairs, was established and has since been monitoring developments across more than 77 successful lunar missions and other journeys while also taking a lead role in the annual World Space Week, which runs ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:15+00:00"
+  },
+  {
+   "id": "a-6a391fad9409",
+   "title": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168469",
+   "published_date": "2026-10-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:27+00:00"
+  },
+  {
+   "id": "a-417b94ac714d",
+   "title": "Rotting food waste emits 5 times more greenhouse gases than planes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168507",
+   "published_date": "2026-10-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Rotting food waste is causing up to 10 per cent of total global greenhouse gas emissions – five times more than the entire aviation sector, the UN’s environment agency warned this week.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:16+00:00"
+  },
+  {
+   "id": "a-5d68589261be",
+   "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:54+00:00"
+  },
+  {
+   "id": "a-a0c2c0193dab",
+   "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:44+00:00"
+  },
+  {
+   "id": "a-f9817bbb9184",
+   "title": "Escalating fighting in Yemen deepens food security crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168509",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:33+00:00"
+  },
+  {
+   "id": "a-a4e687847f7d",
+   "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:21+00:00"
+  },
+  {
+   "id": "a-bc949000110e",
+   "title": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168512",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global information landscape.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:11+00:00"
+  },
+  {
+   "id": "a-734329fa1dd9",
+   "title": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168513",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The war in Ukraine is a human rights catastrophe that is “growing and intensifying by the week” and threatening an even greater disaster across the region, UN High Commissioner for Human Rights Volker Türk said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:56:00+00:00"
+  },
+  {
+   "id": "a-c38719c5f762",
+   "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:48+00:00"
+  },
+  {
+   "id": "a-91efa93b401b",
+   "title": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168516",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Getting aid to people in the world’s most neglected emergencies takes more than money. It takes open roads, open borders and leaders willing to help it reach those in dire need.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:55:38+00:00"
   },
   {
    "id": "a-deb8261e7f7d",
@@ -122,6 +428,109 @@
    "ingested_at": "2026-10-02T17:42:41+00:00"
   },
   {
+   "id": "a-59b11f2ac402",
+   "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168499",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:58:01+00:00"
+  },
+  {
+   "id": "a-a9e18241ef79",
+   "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:57:50+00:00"
+  },
+  {
+   "id": "a-5e56d85f8731",
+   "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168502",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker Türk said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:57:39+00:00"
+  },
+  {
+   "id": "a-9e9ba6d4a707",
+   "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Radiological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:57:27+00:00"
+  },
+  {
+   "id": "a-3de4081104d2",
+   "title": "No more execution attempts on Christa Pike: UN rights chief",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights chief and nine independent rights experts on Thursday called on authorities in Tennessee not to pursue any further attempts to execute Christa Pike, saying her case highlights multiple concerns surrounding the death penalty.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:57:17+00:00"
+  },
+  {
+   "id": "a-38c2ea7cfb59",
+   "title": "UN Member States weigh latest Security Council veto, this time on Iran",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168505",
+   "published_date": "2026-10-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The General Assembly met on Thursday to examine the Security Council’s latest veto, cast by China and Russia over a United States-backed sanctions panel of experts on Iran nuclear facilities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:57:06+00:00"
+  },
+  {
    "id": "a-fe64afd7d3c2",
    "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
    "source_name": "UN News",
@@ -190,6 +599,57 @@
    "summary": "OPCW and China advance responsible use of AI for chemical safety and security Participants and organisers of the Workshop on Artificial Intelligence and Chemical Safety and Security Management: Trustworthy AI for Responsible Use in Hangzhou, China, 1 September 2026. (Photo: Government of the ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-01T12:50:29+00:00"
+  },
+  {
+   "id": "a-26480ae65197",
+   "title": "Homicides fall as organised crime grows more profitable – and networked",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168493",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:59:08+00:00"
+  },
+  {
+   "id": "a-89972df74a15",
+   "title": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168489",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "What if the world tackled inequality with the same kind of scientific firepower it has brought to the climate crisis?",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:58:46+00:00"
+  },
+  {
+   "id": "a-650f16ad6c0c",
+   "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168498",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-05T21:58:24+00:00"
   },
   {
    "id": "a-09e8867d3699",
@@ -1586,465 +2046,6 @@
    "ingested_at": "2026-10-01T20:16:28+00:00"
   },
   {
-   "id": "a-70f6d6fb429a",
-   "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168410",
-   "published_date": "2026-09-23",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:22+00:00"
-  },
-  {
-   "id": "a-e92e5feb5b91",
-   "title": "LIVE: Climate change is here - What happens next is still in our hands",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168372",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:17+00:00"
-  },
-  {
-   "id": "a-5a5dd1968863",
-   "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168414",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengio, a recipient of the prestigious Turing ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:11+00:00"
-  },
-  {
-   "id": "a-35ecd2adef37",
-   "title": "LIVE: Climate change is here - What happens next is still in our hands",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168372",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "🔴 LIVE NOW From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T21:20:33+00:00"
-  },
-  {
-   "id": "a-907e4bd1a164",
-   "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168414",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengio, Co-Chair of the UN-backed Independent ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T21:20:31+00:00"
-  },
-  {
-   "id": "a-7ab09b4698ca",
-   "title": "United Kingdom announces action on disinformation and global AI standards",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168406",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Kingdom will fight disinformation at home and abroad, and work to ensure global safety standards for artificial intelligence (AI), new Prime Minister Andy Burnham said on Monday evening in his first address to the United Nations General Assembly.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:41+00:00"
-  },
-  {
-   "id": "a-eb5ed51613ad",
-   "title": "Right to development: A blueprint for unmet promises",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168405",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map progress made and the 21st century challenges still ahead – from narrowing the digital divide to levelling the AI ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:40+00:00"
-  },
-  {
-   "id": "a-7f001129ce43",
-   "title": "UN health agency calls for investment boost to save young lives from cancer",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168408",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:40+00:00"
-  },
-  {
-   "id": "a-6daba04fea0b",
-   "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168407",
-   "published_date": "2026-09-23",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:40+00:00"
-  },
-  {
-   "id": "a-29a4a2f9eb2d",
-   "title": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168411",
-   "published_date": "2026-09-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country “is rising” on many levels, thanks to the strength of its people.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:39+00:00"
-  },
-  {
-   "id": "a-0d51a4adc2e8",
-   "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168410",
-   "published_date": "2026-09-23",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:39+00:00"
-  },
-  {
-   "id": "a-a2d447e2862a",
-   "title": "Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=132608&c=766495",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Learn the latest U.S. cancer trends, including falling death rates and lung cancer progress.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-04T16:52:31+00:00"
-  },
-  {
-   "id": "a-7f1eb5d3a093",
-   "title": "Displacement on the rise in Yemen as fighting continues",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168390",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:39+00:00"
-  },
-  {
-   "id": "a-6ac6742d84e4",
-   "title": "‘Time is running out’ for Israel-Palestine two-State solution",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:34+00:00"
-  },
-  {
-   "id": "a-73eafdcc3ea1",
-   "title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168392",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanity faces four defining “tests of power” – around war or peace, inequality, climate change and AI – that will determine whether the world moves towards a new era of cooperation or deeper division, the UN chief warned the General Assembly on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:44+00:00"
-  },
-  {
-   "id": "a-d4d651acb0e8",
-   "title": "Millions of children return to schools that still can’t provide clean water or a working toilet",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168393",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A new academic year is underway in many countries across the world, yet millions of children still attend schools where the water is unsafe to drink, toilets are unusable and there is nowhere to properly wash their hands.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:44+00:00"
-  },
-  {
-   "id": "a-83823c283ea7",
-   "title": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168400",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:43+00:00"
-  },
-  {
-   "id": "a-a0b761bcc9d4",
-   "title": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168399",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations continues to be weakened, and those who have tied their hopes to the world body – from Palestine to Sudan – have been disappointed, Türkiye’s President said, while adding that his country is committed to restoring confidence in the Organization.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:43+00:00"
-  },
-  {
-   "id": "a-728d01cc5ea4",
-   "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168397",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran – and declaring that he now faces a choice between making a deal, or taking far more drastic steps.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:43+00:00"
-  },
-  {
-   "id": "a-336bb8a8ba67",
-   "title": "Diplomacy is the way to address global challenges, Brazil tells General Assembly",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168395",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Brazilian President Luiz Inácio Lula da Silva told the General Assembly on Tuesday that the UN needs to become a “temple of peace” once again, as it confronts one of the most critical periods in its 80-year history.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:43+00:00"
-  },
-  {
-   "id": "a-41e9a97bc976",
-   "title": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly President",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168394",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman, president of the General Assembly’s 81st session on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:43+00:00"
-  },
-  {
-   "id": "a-66d6d5c93d70",
-   "title": "How El Niño offers a test of whether the world can adapt to a changing climate",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168404",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "El Niño is strengthening in a world that is already hotter, raising the risk of drought, floods and crop losses across some of the world’s most important food-producing regions. But unlike many disasters, this one can be seen coming. UN experts say the months ahead offer countries a chance not only ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:42+00:00"
-  },
-  {
-   "id": "a-9d9a35181ea9",
-   "title": "‘Ask us first’: Children demand a voice on AI’s future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168403",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The first generation to grow up with AI may also be the last one anyone thinks to ask about it – and that has to change, the UN's top human rights official said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:42+00:00"
-  },
-  {
-   "id": "a-29a49e747619",
-   "title": "Choose international order over ‘law of the jungle’, urges Macron",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168402",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: “Do we want to live…with a return to the law of the jungle – or do we want to live in a civilized international society?”",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:42+00:00"
-  },
-  {
-   "id": "a-e6737a9803f3",
-   "title": "When a country goes underwater: Island States fight for their future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168398",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Rising sea levels and ever-more-powerful storms are eroding shorelines, submerging land and threatening to evict millions of people from their homes worldwide.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T16:33:41+00:00"
-  },
-  {
-   "id": "a-ac249d475887",
-   "title": "‘Time is running out’ for Israel-Palestine two-State solution",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168401",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-23T11:12:14+00:00"
-  },
-  {
-   "id": "a-11f3c18c300c",
-   "title": "Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality",
-   "source_name": "CDC Newsroom",
-   "source_url": "https://www.cdc.gov/media/releases/2026/annual-report-to-the-nation-progress-against-lung-cancer-drives-down-cancer-mortality.html",
-   "published_date": "2026-09-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Learn the latest U.S. cancer trends, including falling death rates and lung cancer progress.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-22T16:40:39+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-05T14:26:23+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-05T22:09:23+00:00",
+ "sources_ok": "5/7"
 }
