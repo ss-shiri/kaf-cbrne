@@ -3,6 +3,24 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-634bde4b3c90",
+   "title": "Opening Statement by the Director-General to the 113th Session of the Executive Council",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opening-statement-director-general-113th-session-executive-council",
+   "published_date": "2026-10-06",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Statement by the Director-General to the 113th Session of the Executive Council OPCW Director-General Sabrina Dallafior delivers her opening remarks during the 113th Session of the Executive Council. (Photo: OPCW) THE HAGUE, Netherlands–6 October 2026 Excellencies, distinguished delegates, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-06T13:07:10+00:00"
+  },
+  {
    "id": "a-581137f06881",
    "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
    "source_name": "UN News",
@@ -2029,23 +2047,6 @@
    "ingested_at": "2026-09-25T04:23:05+00:00"
   },
   {
-   "id": "a-44dfe6ad9c56",
-   "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
-   "published_date": "2026-09-23",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:16:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-06T06:03:38+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-06T13:26:40+00:00",
+ "sources_ok": "5/7"
 }
