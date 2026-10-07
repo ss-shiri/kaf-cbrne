@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-0c4b2f02bcf4",
+   "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168542",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-07T18:43:45+00:00"
+  },
+  {
+   "id": "a-dce858716083",
+   "title": "Critical funding gap threatens health response in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168541",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-07T18:43:45+00:00"
+  },
+  {
+   "id": "a-cbfcdecaebfb",
+   "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168540",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-07T18:43:45+00:00"
+  },
+  {
    "id": "a-0b3946da02d3",
    "title": "WHO releases first global guidelines on child obesity as cases surge",
    "source_name": "UN News",
@@ -52,6 +103,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-07T10:03:03+00:00"
+  },
+  {
+   "id": "a-671cb73abb4b",
+   "title": "‘Ebola takes the people children depend on’: UNICEF",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168531",
+   "published_date": "2026-10-06",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves – the UN Children’s Fund (UNICEF) reported on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-07T18:43:48+00:00"
   },
   {
    "id": "a-8ff235805c86",
@@ -1928,123 +1996,55 @@
    "ingested_at": "2026-09-27T11:46:38+00:00"
   },
   {
-   "id": "a-70476b370662",
-   "title": "Yemen violence deepens concerns over child hunger crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+   "id": "a-a0f7f5151d72",
+   "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-inter-american-development-bank-sign-partnership-agreement-on-nuclear-energy-for-development",
    "published_date": "2026-09-25",
    "doc_type": "news",
    "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:48+00:00"
+   "ingested_at": "2026-10-07T18:43:33+00:00"
   },
   {
-   "id": "a-341e9a8a8f22",
-   "title": "Security Council LIVE: Rising tide of forced displacement",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
+   "id": "a-f38d98a22b39",
+   "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/turkiye-protects-its-citrus-harvests-with-nuclear-science",
    "published_date": "2026-09-25",
    "doc_type": "news",
    "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:43+00:00"
+   "ingested_at": "2026-10-07T18:43:33+00:00"
   },
   {
-   "id": "a-2b019560cf28",
-   "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+   "id": "a-949e8bd7b150",
+   "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-368-iaea-director-general-statement-on-situation-in-ukraine",
    "published_date": "2026-09-25",
-   "doc_type": "news",
+   "doc_type": "statement",
    "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:37+00:00"
-  },
-  {
-   "id": "a-02abcf1dbbf1",
-   "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168450",
-   "published_date": "2026-09-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:32+00:00"
-  },
-  {
-   "id": "a-13974809ac82",
-   "title": "The Takeaway: UN General Assembly debate Day 3",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168434",
-   "published_date": "2026-09-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the high-level debate enters a fourth day, The Takeaway looks back at key highlights on Thursday, with Israeli and Palestinian leaders presenting divergent views on the Middle East conflict and their counterparts from across the world weighing in on the far-reaching impacts of the ongoing crisis ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:44+00:00"
-  },
-  {
-   "id": "a-76bb0be0f3fb",
-   "title": "Australia urges global cooperation on climate, AI checks and international law",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168435",
-   "published_date": "2026-09-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Australian Prime Minister Anthony Albanese underlined the need for countries to work together to address the climate crisis, emerging technologies such as AI, and the breakdown of international rules, at the United Nations General Assembly on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:43+00:00"
-  },
-  {
-   "id": "a-6e11f6c393c8",
-   "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168443",
-   "published_date": "2026-09-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:42+00:00"
+   "ingested_at": "2026-10-07T18:43:33+00:00"
   },
   {
    "id": "nuc-02",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-07T10:18:06+00:00",
+ "updated_at": "2026-10-07T18:57:34+00:00",
  "sources_ok": "5/7"
 }
