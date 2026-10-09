@@ -1,7 +1,126 @@
 {
- "compiled": "2026-10-08",
+ "compiled": "2026-10-09",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-93fa9eb5a3db",
+   "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168551",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:31+00:00"
+  },
+  {
+   "id": "a-f1adb270b5c4",
+   "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168550",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:31+00:00"
+  },
+  {
+   "id": "a-56a9d2f02173",
+   "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168554",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:30+00:00"
+  },
+  {
+   "id": "a-8f5b0520f20d",
+   "title": "‘Age must never diminish rights,’ UN independent expert warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168553",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:30+00:00"
+  },
+  {
+   "id": "a-2c6d18c1b05c",
+   "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168555",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:29+00:00"
+  },
+  {
+   "id": "a-b4f90d280a69",
+   "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168557",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:28+00:00"
+  },
+  {
+   "id": "a-4dd3226321d6",
+   "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168556",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:28+00:00"
+  },
   {
    "id": "a-5f3fb05c4cf7",
    "title": "Opening Statement by the Director-General to the 113th Session of the Executive Council",
@@ -18,6 +137,108 @@
    "summary": "Opening Statement by the Director-General to the 113th Session of the Executive Council ppuhm Thu 08/10/2026 - 11:36 Tue 06/10/2026 - 12:00 Statement Director-General Opening Statement by the Director-General to the 113th Session of the Executive Council",
    "why_it_matters": "",
    "ingested_at": "2026-10-08T10:16:33+00:00"
+  },
+  {
+   "id": "a-c15f3d95fe65",
+   "title": "WHO releases first global guidelines on child obesity as cases surge",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:06:19+00:00"
+  },
+  {
+   "id": "a-f6f3a954448b",
+   "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168540",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:06:07+00:00"
+  },
+  {
+   "id": "a-c68672574dd6",
+   "title": "Critical funding gap threatens health response in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:55+00:00"
+  },
+  {
+   "id": "a-0cd104a580f0",
+   "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:43+00:00"
+  },
+  {
+   "id": "a-bc48895ccc14",
+   "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168547",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Health authorities in Russia say there is “no plague case” in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:32+00:00"
+  },
+  {
+   "id": "a-9b1f8036051f",
+   "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168546",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:05:32+00:00"
   },
   {
    "id": "a-107345d9327a",
@@ -137,6 +358,108 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-07T10:03:03+00:00"
+  },
+  {
+   "id": "a-362b5cda173c",
+   "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:07:26+00:00"
+  },
+  {
+   "id": "a-60d2d28c8dd0",
+   "title": "Testing and monitoring underway in suspected Russia plague death",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:07:15+00:00"
+  },
+  {
+   "id": "a-d631e654bc25",
+   "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168535",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:07:04+00:00"
+  },
+  {
+   "id": "a-892a7e2fde23",
+   "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected. Behind those warning signs is an El Niño whose Pacific Ocean temperatures have already surpassed the equivalent measurements during the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:06:53+00:00"
+  },
+  {
+   "id": "a-3942f637b024",
+   "title": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168539",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:06:42+00:00"
+  },
+  {
+   "id": "a-e5fdaf2a63d7",
+   "title": "‘Rocket revolution’ opens access to space",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168538",
+   "published_date": "2026-10-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For a long time, launching something beyond Earth was reserved for a relatively small number of national space programmes. That is changing.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T01:06:30+00:00"
   },
   {
    "id": "a-671cb73abb4b",
@@ -1724,329 +2047,6 @@
    "ingested_at": "2026-09-29T12:30:55+00:00"
   },
   {
-   "id": "a-77def8d34caf",
-   "title": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168467",
-   "published_date": "2026-09-28",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding – combined with the impact of climate change – the UN Children’s Fund, UNICEF, said on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:55+00:00"
-  },
-  {
-   "id": "a-cdb4ef6ac16a",
-   "title": "‘Ballot must replace the bullets’, South Sudan tells General Assembly ahead of elections",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168475",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country’s Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, including the arms embargo to be lifted.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:54+00:00"
-  },
-  {
-   "id": "a-16d5b84182c1",
-   "title": "Sudan tells UN: No imposed solutions to country’s conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168474",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Sudan’s Foreign Minister addressed the UN General Assembly on Monday in place of de facto head of state General Abdel Fattah al-Burhan, whose visa application was rejected by Washington.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:54+00:00"
-  },
-  {
-   "id": "a-d7ba8fd9c7d9",
-   "title": "The Takeaway Day 6: General Debate ends with call to turn words into action",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168478",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "After six days of speeches from the UN General Assembly podium, one word rose above all others: peace. This final edition of The Takeaway distils the messages he said reverberated through the Assembly Hall and looks at where the 193-member body goes from here.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:53+00:00"
-  },
-  {
-   "id": "a-2eae1d9ff680",
-   "title": "UN leaders renew push to defeat racism, 25 years after Durban",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168477",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "“No country is free of racism.” That warning from US youth activist Marley Dias set the tone on Monday as UN Member States reinvigorated global efforts against racism, discrimination and xenophobia with a new declaration.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:53+00:00"
-  },
-  {
-   "id": "a-776c5dd15122",
-   "title": "DPR Korea tells UN its nuclear status is ‘irreversible’, rejects outside pressure",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168476",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Democratic People’s Republic of Korea (DPRK) told the UN General Assembly on Monday that its status as a nuclear-armed State was irreversible, arguing that its military capabilities were necessary to safeguard the country’s sovereignty and maintain peace on the Korean Peninsula.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:53+00:00"
-  },
-  {
-   "id": "a-6ed5647f120f",
-   "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168465",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-rich east of the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-28T21:09:30+00:00"
-  },
-  {
-   "id": "a-e6cf40143075",
-   "title": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168464",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met Monday morning with prospects for peace in the Middle East under strain on two fronts. In the West Bank, settler violence and settlement expansion are raising fears for a two-State solution. In Gaza, a year-old peace plan has stalled while civilian suffering continues. The ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-28T21:09:29+00:00"
-  },
-  {
-   "id": "a-15656d5bf163",
-   "title": "Technical Cooperation Showcases Results at 70th IAEA General Conference",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/news/photoessay/tc-showcases-results-iaeagc-70",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-28T21:09:10+00:00"
-  },
-  {
-   "id": "a-0d51ee41e7cd",
-   "title": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-and-brazil-strengthen-chemical-emergency-preparedness-across",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries Aerial view of the Port of Maputo, Mozambique. (Photo: Jacek Sopotnicki/Getty Images) Container ships unload at the Port of Maputo as trucks and trains carry cargo inland, part of a steady flow of goods ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-28T13:27:30+00:00"
-  },
-  {
-   "id": "a-37bf52936254",
-   "title": "The Takeaway: UN General Assembly debate Day 5",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168462",
-   "published_date": "2026-09-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From artificial intelligence to migration, some of the forces reshaping the twenty-first century took centre stage at the UN General Assembly on Saturday. Leaders wrestled with a common dilemma: how to harness profound technological and social change without allowing it to deepen the divisions ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:37+00:00"
-  },
-  {
-   "id": "a-b51d368e879a",
-   "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168456",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "China's Vice President, Han Zheng, urged the world to defend the postwar international order on Saturday, telling the UN General Assembly that geopolitical conflicts, widening development gaps and mounting global challenges make multilateralism more urgent than ever.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:40+00:00"
-  },
-  {
-   "id": "a-dbbcc8326a74",
-   "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168455",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Countries adopted on Saturday a new global blueprint for tackling rapidly evolving forms of crime, as the UN’s largest gathering on crime prevention and criminal justice opened in Abu Dhabi with a call for stronger international cooperation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:40+00:00"
-  },
-  {
-   "id": "a-f99201782780",
-   "title": "The Takeaway: UN General Assembly debate Day 4",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168454",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From the Caribbean to the Pacific, leaders from small island States demanded climate justice, ocean protection and greater solidarity at the UN General Assembly on Friday. They warned that rising seas are already redrawing national boundaries, while the ripple effects of faraway wars are being felt ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:40+00:00"
-  },
-  {
-   "id": "a-b6184db7e97a",
-   "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168458",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Cuba’s Foreign Minister warned the UN General Assembly on Saturday that escalating military and economic pressure in Latin America and the Caribbean was threatening international law, while accusing the United States of intensifying a decades-long campaign to isolate and weaken his country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:39+00:00"
-  },
-  {
-   "id": "a-2fea373b2b51",
-   "title": "Lavrov issues call for new Eurasian ‘security architecture’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168457",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russia's Foreign Minister, Sergey Lavrov, accused Western countries of destabilising the world through “force and double standards” in his address to the UN General Assembly on Saturday, vowing that Moscow's “special military operation” in Ukraine would be “carried through to the end.”",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:39+00:00"
-  },
-  {
-   "id": "a-059c830af436",
-   "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168461",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Canada’s Foreign Minister Anita Anand warned the UN General Assembly on Saturday that the international order has entered an era of profound disruption, calling for stronger multilateral cooperation and new partnerships as major powers increasingly turn away from global economic integration.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:38+00:00"
-  },
-  {
-   "id": "a-a3c867b28047",
-   "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168460",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "India’s External Affairs Minister Subrahmanyam Jaishankar warned on Saturday that violent conflicts continue to undermine international peace and security, while countries far removed from the battlefield are being forced to pay a heavy price.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:38+00:00"
-  },
-  {
-   "id": "a-c5fd80908299",
-   "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168459",
-   "published_date": "2026-09-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-27T11:46:38+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-08T18:59:51+00:00",
+ "updated_at": "2026-10-09T01:21:52+00:00",
  "sources_ok": "5/7"
 }
