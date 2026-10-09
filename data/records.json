@@ -1979,6 +1979,23 @@
    "ingested_at": "2026-09-29T12:30:45+00:00"
   },
   {
+   "id": "a-0d51ee41e7cd",
+   "title": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-and-brazil-strengthen-chemical-emergency-preparedness-across",
+   "published_date": "2026-09-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries Aerial view of the Port of Maputo, Mozambique. (Photo: Jacek Sopotnicki/Getty Images) Container ships unload at the Port of Maputo as trucks and trains carry cargo inland, part of a steady flow of goods ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T10:17:35+00:00"
+  },
+  {
    "id": "a-4b0c82714057",
    "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
    "source_name": "UN News",
@@ -2028,23 +2045,6 @@
    "summary": "World leaders met in the General Assembly Monday to assess how far the world has come in combating racism and how far it still has to go. The Durban Declaration and Programme of Action, the most comprehensive framework of its kind, seeks to acknowledge historical injustices, dismantle inequalities ...",
    "why_it_matters": "",
    "ingested_at": "2026-09-29T12:30:56+00:00"
-  },
-  {
-   "id": "a-1be34ae28b03",
-   "title": "From energy crisis to energy transition: How renewables are reshaping energy security",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168473",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The continuing conflict in the Middle East is disrupting global energy markets and pushing up fuel prices, with knock-on effects far beyond the region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:55+00:00"
   },
   {
    "id": "nuc-02",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-09T01:21:52+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-10-09T10:30:46+00:00",
+ "sources_ok": "4/7"
 }
