@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-93db7cd79d49",
+   "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168559",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T18:12:46+00:00"
+  },
+  {
+   "id": "a-68a6f132dd91",
+   "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-09",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T18:12:39+00:00"
+  },
+  {
+   "id": "a-baaf4795e592",
+   "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T18:12:39+00:00"
+  },
+  {
+   "id": "a-c2786533d7d0",
+   "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
+   "published_date": "2026-10-09",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-09T18:12:39+00:00"
+  },
+  {
    "id": "a-93fa9eb5a3db",
    "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
    "source_name": "UN News",
@@ -1979,74 +2047,6 @@
    "ingested_at": "2026-09-29T12:30:45+00:00"
   },
   {
-   "id": "a-0d51ee41e7cd",
-   "title": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/09/opcw-and-brazil-strengthen-chemical-emergency-preparedness-across",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW and Brazil strengthen chemical emergency preparedness across the Lusophone countries Aerial view of the Port of Maputo, Mozambique. (Photo: Jacek Sopotnicki/Getty Images) Container ships unload at the Port of Maputo as trucks and trains carry cargo inland, part of a steady flow of goods ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T10:17:35+00:00"
-  },
-  {
-   "id": "a-4b0c82714057",
-   "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168465",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-rich east of the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:27+00:00"
-  },
-  {
-   "id": "a-735ac534ceab",
-   "title": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met Monday morning with prospects for peace in the Middle East under strain on two fronts. In the West Bank, settler violence and settlement expansion are raising fears for a two-State solution. In Gaza, a year-old peace plan has stalled while civilian suffering continues. The ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:22+00:00"
-  },
-  {
-   "id": "a-6c4343ae5469",
-   "title": "LIVE: World leaders take stock of global fight against racism",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168463",
-   "published_date": "2026-09-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "World leaders met in the General Assembly Monday to assess how far the world has come in combating racism and how far it still has to go. The Durban Declaration and Programme of Action, the most comprehensive framework of its kind, seeks to acknowledge historical injustices, dismantle inequalities ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:56+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-09T10:30:46+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-09T18:24:10+00:00",
+ "sources_ok": "5/7"
 }
