@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-032183b193be",
+   "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168558",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:48+00:00"
+  },
+  {
+   "id": "a-1a8c8b3cdf34",
+   "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168565",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:47+00:00"
+  },
+  {
+   "id": "a-ae3a5d0af4c1",
+   "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168562",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:47+00:00"
+  },
+  {
+   "id": "a-49c2c7e0abb8",
+   "title": "Amid heartache of Nepal flooding disaster, fear remains",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168561",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:47+00:00"
+  },
+  {
+   "id": "a-252c4459c068",
+   "title": "Global trade reaches record $35 trillion despite conflicts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168566",
+   "published_date": "2026-10-09",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:46+00:00"
+  },
+  {
    "id": "a-b4462f0b831b",
    "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
    "source_name": "UN News",
@@ -103,6 +188,108 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-09T18:12:39+00:00"
+  },
+  {
+   "id": "a-5e3ae52549f6",
+   "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:22+00:00"
+  },
+  {
+   "id": "a-2b63046c9a65",
+   "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:17+00:00"
+  },
+  {
+   "id": "a-06455bba91db",
+   "title": "‘Age must never diminish rights,’ UN independent expert warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:11+00:00"
+  },
+  {
+   "id": "a-c8df6a0c1589",
+   "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:05+00:00"
+  },
+  {
+   "id": "a-109fce261790",
+   "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:00+00:00"
+  },
+  {
+   "id": "a-b35de875d0ad",
+   "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:37:54+00:00"
   },
   {
    "id": "a-93fa9eb5a3db",
@@ -239,6 +426,57 @@
    "summary": "Opening Statement by the Director-General to the 113th Session of the Executive Council ppuhm Thu 08/10/2026 - 11:36 Tue 06/10/2026 - 12:00 Statement Director-General Opening Statement by the Director-General to the 113th Session of the Executive Council",
    "why_it_matters": "",
    "ingested_at": "2026-10-08T10:16:33+00:00"
+  },
+  {
+   "id": "a-622e2f39fd70",
+   "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168546",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:38+00:00"
+  },
+  {
+   "id": "a-e8ac1062a431",
+   "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Health authorities in Russia say there is “no plague case” in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:32+00:00"
+  },
+  {
+   "id": "a-0ea7c34ae19e",
+   "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168548",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Humanitarian Coordinator for Ukraine on Wednesday called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T09:38:27+00:00"
   },
   {
    "id": "a-c15f3d95fe65",
@@ -1809,244 +2047,6 @@
    "ingested_at": "2026-09-30T22:04:58+00:00"
   },
   {
-   "id": "a-629ce753a0d3",
-   "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168490",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Four in five households in Lebanon struggle to afford basic necessities today, with children increasingly going without food, missing school and being pushed into work as conflict compounds years of economic crisis. \"I wanted to buy clothes for my children, but I could not. I also wanted to enrol ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T17:52:08+00:00"
-  },
-  {
-   "id": "a-bd4ef4ac7bf6",
-   "title": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168491",
-   "published_date": "2026-09-30",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN refugee agency, UNHCR, has voiced concern over Malaysia’s decision to return 1,476 people to Myanmar amid an ongoing civil war and a dire human rights and humanitarian situation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T17:52:07+00:00"
-  },
-  {
-   "id": "a-e95bf8013313",
-   "title": "IAEA Lise Meitner Programme Advances Women’s Nuclear Careers through Visit to the Russian Federation",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-lise-meitner-programme-advances-womens-nuclear-careers-through-visit-to-the-russian-federation",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T17:51:54+00:00"
-  },
-  {
-   "id": "a-3e5338166e9b",
-   "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
-   "published_date": "2026-09-29",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east, despite a series of peace agreements. Ambassadors focused on ceasefire monitoring, rising tensions between the DRC and Rwanda and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-02T17:43:13+00:00"
-  },
-  {
-   "id": "a-38cc34aae630",
-   "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
-   "published_date": "2026-09-29",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States returned to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with calls for greater safeguards.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-02T17:43:07+00:00"
-  },
-  {
-   "id": "a-a3e3172ec537",
-   "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-02T17:43:02+00:00"
-  },
-  {
-   "id": "a-b52969c68407",
-   "title": "Yemen escalation fuels fears of further cholera, measles spread",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168480",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:17+00:00"
-  },
-  {
-   "id": "a-296e835652dd",
-   "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168481",
-   "published_date": "2026-09-29",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T20:15:11+00:00"
-  },
-  {
-   "id": "a-d82bf356c205",
-   "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168486",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T17:52:09+00:00"
-  },
-  {
-   "id": "a-dabf920a1ed8",
-   "title": "Clean your plate – to reduce food loss and waste",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168485",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T17:52:09+00:00"
-  },
-  {
-   "id": "a-eb71997176ec",
-   "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168488",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T00:13:53+00:00"
-  },
-  {
-   "id": "a-2874ae92f9cd",
-   "title": "Yemen escalation fuels fears of further cholera, measles spread",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168480",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T19:53:45+00:00"
-  },
-  {
-   "id": "a-d7a47212a009",
-   "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168482",
-   "published_date": "2026-09-29",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T19:53:44+00:00"
-  },
-  {
-   "id": "a-87d11c6cc6e3",
-   "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168481",
-   "published_date": "2026-09-29",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T19:53:44+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-10T00:51:01+00:00",
+ "updated_at": "2026-10-10T09:49:59+00:00",
  "sources_ok": "5/7"
 }
