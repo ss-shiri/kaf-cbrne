@@ -1826,6 +1826,23 @@
    "ingested_at": "2026-10-01T12:50:29+00:00"
   },
   {
+   "id": "a-e95bf8013313",
+   "title": "IAEA Lise Meitner Programme Advances Women’s Nuclear Careers through Visit to the Russian Federation",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-lise-meitner-programme-advances-womens-nuclear-careers-through-visit-to-the-russian-federation",
+   "published_date": "2026-09-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T17:11:56+00:00"
+  },
+  {
    "id": "a-26480ae65197",
    "title": "Homicides fall as organised crime grows more profitable – and networked",
    "source_name": "UN News",
@@ -2030,23 +2047,6 @@
    "ingested_at": "2026-09-30T22:04:58+00:00"
   },
   {
-   "id": "a-fb5dc36c3450",
-   "title": "Somali families face renewed violence amid worsening hunger crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168495",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T22:04:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-10T09:49:59+00:00",
+ "updated_at": "2026-10-10T17:29:52+00:00",
  "sources_ok": "5/7"
 }
