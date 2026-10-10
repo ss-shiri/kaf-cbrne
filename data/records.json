@@ -1,7 +1,41 @@
 {
- "compiled": "2026-10-09",
+ "compiled": "2026-10-10",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-b4462f0b831b",
+   "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168564",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T00:38:53+00:00"
+  },
+  {
+   "id": "a-fb6043216881",
+   "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168567",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T00:38:52+00:00"
+  },
   {
    "id": "a-93db7cd79d49",
    "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
@@ -2013,40 +2047,6 @@
    "ingested_at": "2026-09-29T19:53:44+00:00"
   },
   {
-   "id": "a-86897798b34e",
-   "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168483",
-   "published_date": "2026-09-29",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with expected calls for greater safeguards.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T19:53:43+00:00"
-  },
-  {
-   "id": "a-b8bf1a374317",
-   "title": "How Nuclear Science Helps Tackle Food Waste",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/how-nuclear-science-helps-tackle-food-waste",
-   "published_date": "2026-09-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-29T12:30:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-09T18:24:10+00:00",
+ "updated_at": "2026-10-10T00:51:01+00:00",
  "sources_ok": "5/7"
 }
