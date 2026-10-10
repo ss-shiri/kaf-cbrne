@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-353309f6e28a",
+   "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T21:26:27+00:00"
+  },
+  {
+   "id": "a-ed9053310bd4",
+   "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T21:26:02+00:00"
+  },
+  {
+   "id": "a-d159238b105c",
+   "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T21:25:37+00:00"
+  },
+  {
    "id": "a-032183b193be",
    "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
    "source_name": "UN News",
@@ -188,6 +239,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-09T18:12:39+00:00"
+  },
+  {
+   "id": "a-a96a4774c6cf",
+   "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+   "published_date": "2026-10-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-10T21:26:52+00:00"
   },
   {
    "id": "a-5e3ae52549f6",
@@ -1979,74 +2047,6 @@
    "ingested_at": "2026-10-01T12:50:37+00:00"
   },
   {
-   "id": "a-2d4905b12e6d",
-   "title": "Homicides fall as organised crime grows more profitable – and networked",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168493",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T05:14:17+00:00"
-  },
-  {
-   "id": "a-82be59c8088b",
-   "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168498",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T05:14:16+00:00"
-  },
-  {
-   "id": "a-a3933092b0f1",
-   "title": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168489",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "What if the world tackled inequality with the same kind of scientific firepower it has brought to the climate crisis?",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-01T05:14:16+00:00"
-  },
-  {
-   "id": "a-e3ca9e33f7b2",
-   "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/09/1168496",
-   "published_date": "2026-09-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-09-30T22:04:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2230,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-10T17:29:52+00:00",
+ "updated_at": "2026-10-10T21:48:20+00:00",
  "sources_ok": "5/7"
 }
