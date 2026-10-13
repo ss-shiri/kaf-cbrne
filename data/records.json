@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9cafe28d508d",
+   "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168585",
+   "published_date": "2026-10-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-13T22:28:31+00:00"
+  },
+  {
+   "id": "a-6d5e9bc592ee",
+   "title": "OPCW Director-General visits Syria",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-visits-syria",
+   "published_date": "2026-10-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General visits Syria OPCW Director-General Sabrina Dallafior (left) during a meeting with Syrian Minister of Foreign Affairs Asaad al-Shaibani in Damascus, Syria. The Foreign Minister and the Director-General discussed progress in locating and destroying the remnants of the Assad-era ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-13T22:28:20+00:00"
+  },
+  {
    "id": "a-1e500e21c35f",
    "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-10-05T21:56:11+00:00"
   },
   {
-   "id": "a-734329fa1dd9",
-   "title": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168513",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The war in Ukraine is a human rights catastrophe that is “growing and intensifying by the week” and threatening an even greater disaster across the region, UN High Commissioner for Human Rights Volker Türk said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:56:00+00:00"
-  },
-  {
-   "id": "a-c38719c5f762",
-   "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:55:48+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-13T17:04:24+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-13T22:40:25+00:00",
+ "sources_ok": "5/7"
 }
