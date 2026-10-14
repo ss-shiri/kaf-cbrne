@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-80c9a384cb54",
+   "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168592",
+   "published_date": "2026-10-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-14T21:28:30+00:00"
+  },
+  {
+   "id": "a-8833344399f5",
+   "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168598",
+   "published_date": "2026-10-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-14T21:28:29+00:00"
+  },
+  {
+   "id": "a-6bb55f879035",
+   "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168596",
+   "published_date": "2026-10-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-14T21:28:29+00:00"
+  },
+  {
    "id": "a-a5daacc896b8",
    "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
    "source_name": "UN News",
@@ -1959,6 +2010,23 @@
    "ingested_at": "2026-10-05T21:55:16+00:00"
   },
   {
+   "id": "a-a4e687847f7d",
+   "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+   "published_date": "2026-10-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-14T21:29:52+00:00"
+  },
+  {
    "id": "a-395edaee0413",
    "title": "Update 369 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -1974,74 +2042,6 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-13T16:49:35+00:00"
-  },
-  {
-   "id": "a-683b9d951ae0",
-   "title": "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/iaea-medical-assistance-supports-ukraines-nuclear-workers",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T16:49:35+00:00"
-  },
-  {
-   "id": "a-5d68589261be",
-   "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:56:54+00:00"
-  },
-  {
-   "id": "a-a0c2c0193dab",
-   "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:56:44+00:00"
-  },
-  {
-   "id": "a-f9817bbb9184",
-   "title": "Escalating fighting in Yemen deepens food security crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168509",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:56:33+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-14T17:08:10+00:00",
+ "updated_at": "2026-10-14T21:40:32+00:00",
  "sources_ok": "5/7"
 }
