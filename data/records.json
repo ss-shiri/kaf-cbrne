@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-80794859dba8",
+   "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168603",
+   "published_date": "2026-10-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-15T21:09:45+00:00"
+  },
+  {
    "id": "a-440c4ccac144",
    "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
    "source_name": "UN News",
@@ -273,6 +290,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-12T21:07:55+00:00"
+  },
+  {
+   "id": "a-511132bdc7db",
+   "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
+   "published_date": "2026-10-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-15T21:09:59+00:00"
   },
   {
    "id": "a-3ea1244885c5",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-10-05T21:55:27+00:00"
   },
   {
-   "id": "a-417b94ac714d",
-   "title": "Rotting food waste emits 5 times more greenhouse gases than planes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168507",
-   "published_date": "2026-10-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Rotting food waste is causing up to 10 per cent of total global greenhouse gas emissions – five times more than the entire aviation sector, the UN’s environment agency warned this week.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:55:16+00:00"
-  },
-  {
-   "id": "a-a0c2c0193dab",
-   "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
-   "published_date": "2026-10-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-15T16:44:40+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-15T16:59:29+00:00",
+ "updated_at": "2026-10-15T21:28:30+00:00",
  "sources_ok": "5/7"
 }
