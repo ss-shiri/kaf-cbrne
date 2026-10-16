@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-7836f23383b6",
+   "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168611",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T16:24:53+00:00"
+  },
+  {
+   "id": "a-d73b33bce550",
+   "title": "From Farm to Fork: How Nuclear Science Helps Put Food on Our Tables",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/from-farm-to-fork-how-nuclear-science-helps-put-food-on-our-tables",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T16:24:21+00:00"
+  },
+  {
+   "id": "a-4cff5a6ab1c3",
+   "title": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-sabrina-dallafior-meets-polands-deputy-prime",
+   "published_date": "2026-10-16",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski OPCW Director-General Sabrina Dallafior met Poland’s Deputy Prime Minister/Minister of Foreign Affairs, Mr Radosław Sikorski, at OPCW Headquarters in The Hague on 16 October 2026. THE ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T16:24:21+00:00"
+  },
+  {
    "id": "a-5f90d0e10509",
    "title": "Update 371 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -18,6 +69,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-16T11:05:20+00:00"
+  },
+  {
+   "id": "a-31fc400278c9",
+   "title": "Burkina Faso Grows More Rice with Nuclear Science",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/burkina-faso-grows-more-rice-with-nuclear-science",
+   "published_date": "2026-10-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T16:24:21+00:00"
   },
   {
    "id": "a-80794859dba8",
@@ -171,6 +239,23 @@
    "summary": "OPCW Director-General visits Syria OPCW Director-General Sabrina Dallafior (left) during a meeting with Syrian Minister of Foreign Affairs Asaad al-Shaibani in Damascus, Syria. The Foreign Minister and the Director-General discussed progress in locating and destroying the remnants of the Assad-era ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-13T22:28:20+00:00"
+  },
+  {
+   "id": "a-b891d14efcf3",
+   "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+   "published_date": "2026-10-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met to debate Syria's thorny transition Monday as it faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T16:25:07+00:00"
   },
   {
    "id": "a-1e500e21c35f",
@@ -1959,91 +2044,6 @@
    "ingested_at": "2026-10-05T14:10:41+00:00"
   },
   {
-   "id": "a-55ad131f5dd4",
-   "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
-   "published_date": "2026-10-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe. Its most important journey, though, was the one back to the Mexico City canals where it was filmed.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T10:05:44+00:00"
-  },
-  {
-   "id": "a-fdc61cab52ea",
-   "title": "Beyond the Moon: Space Week around the world",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168517",
-   "published_date": "2026-10-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Right after the Soviet Union launched Sputnik in 1957, UNOOSA, the UN Office for Outer Space Affairs, was established and has since been monitoring developments across more than 77 successful lunar missions and other journeys while also taking a lead role in the annual World Space Week, which runs ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T10:05:33+00:00"
-  },
-  {
-   "id": "a-84c225df8baa",
-   "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168492",
-   "published_date": "2026-10-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe. Its most important journey, though, was the one back to the Mexico City canals where it was filmed.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:55:16+00:00"
-  },
-  {
-   "id": "a-099d9f79264c",
-   "title": "Beyond the Moon: Space Week around the world",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168517",
-   "published_date": "2026-10-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Right after the Soviet Union launched Sputnik in 1957, UNOOSA, the UN Office for Outer Space Affairs, was established and has since been monitoring developments across more than 77 successful lunar missions and other journeys while also taking a lead role in the annual World Space Week, which runs ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:55:15+00:00"
-  },
-  {
-   "id": "a-7196ecae35b5",
-   "title": "Rotting food waste emits 5 times more greenhouse gases than planes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168507",
-   "published_date": "2026-10-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Rotting food waste is causing up to 10 per cent of total global greenhouse gas emissions – five times more than the entire aviation sector, the UN’s environment agency warned this week.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T10:05:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-16T11:20:27+00:00",
+ "updated_at": "2026-10-16T16:43:27+00:00",
  "sources_ok": "5/7"
 }
