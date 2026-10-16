@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9bc612dcf912",
+   "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168614",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Civilian casualties in Ukraine remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T20:48:01+00:00"
+  },
+  {
+   "id": "a-cb4b52e09900",
+   "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168612",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T20:48:01+00:00"
+  },
+  {
    "id": "a-7836f23383b6",
    "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
    "source_name": "UN News",
@@ -173,6 +207,23 @@
    "ingested_at": "2026-10-14T21:28:29+00:00"
   },
   {
+   "id": "a-174455135866",
+   "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168585",
+   "published_date": "2026-10-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T20:48:14+00:00"
+  },
+  {
    "id": "a-a5daacc896b8",
    "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
    "source_name": "UN News",
@@ -239,6 +290,23 @@
    "summary": "OPCW Director-General visits Syria OPCW Director-General Sabrina Dallafior (left) during a meeting with Syrian Minister of Foreign Affairs Asaad al-Shaibani in Damascus, Syria. The Foreign Minister and the Director-General discussed progress in locating and destroying the remnants of the Assad-era ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-13T22:28:20+00:00"
+  },
+  {
+   "id": "a-b5135367a08c",
+   "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+   "published_date": "2026-10-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-16T20:48:26+00:00"
   },
   {
    "id": "a-b891d14efcf3",
@@ -1976,74 +2044,6 @@
    "ingested_at": "2026-10-05T21:55:13+00:00"
   },
   {
-   "id": "a-ae1629640a60",
-   "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168522",
-   "published_date": "2026-10-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T21:55:13+00:00"
-  },
-  {
-   "id": "a-5ff61df79c27",
-   "title": "OPCW Director-General Sabrina Dallafior meets with Panama’s Foreign Minister",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-sabrina-dallafior-meets-panamas-foreign-minister",
-   "published_date": "2026-10-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW Director-General Sabrina Dallafior meets with Panama’s Foreign Minister The Director-General of the Organisation for the Prohibition of Chemical Weapons (OPCW), Sabrina Dallafior, met with the Minister of Foreign Affairs of the Republic of Panama, H.E. Mr Javier Eduardo Martínez-Acha Vásquez, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T14:10:43+00:00"
-  },
-  {
-   "id": "a-29d05f747f4a",
-   "title": "IAEA Report Finds Japan's Monitoring of ALPS Treated Water Accurate and Reliable",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-finds-japans-monitoring-of-alps-treated-water-accurate-and-reliable",
-   "published_date": "2026-10-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T14:10:41+00:00"
-  },
-  {
-   "id": "a-8dccb6b75d2e",
-   "title": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-24th-batch-of-alps-treated-water-iaea-confirms",
-   "published_date": "2026-10-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-05T14:10:41+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-16T16:43:27+00:00",
+ "updated_at": "2026-10-16T21:03:53+00:00",
  "sources_ok": "5/7"
 }
