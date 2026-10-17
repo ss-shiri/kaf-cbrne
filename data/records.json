@@ -1,5 +1,5 @@
 {
- "compiled": "2026-10-16",
+ "compiled": "2026-10-17",
  "source": "curated + auto",
  "records": [
   {
@@ -1840,6 +1840,23 @@
    "ingested_at": "2026-10-06T13:07:10+00:00"
   },
   {
+   "id": "a-e99dd83ffbbf",
+   "title": "More than 184,000 displaced as fighting intensifies in Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168528",
+   "published_date": "2026-10-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-17T03:55:36+00:00"
+  },
+  {
    "id": "a-5ff61df79c27",
    "title": "OPCW Director-General Sabrina Dallafior meets with Panama’s Foreign Minister",
    "source_name": "OPCW",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-10-07T10:04:01+00:00"
   },
   {
-   "id": "a-634746cba8b5",
-   "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168530",
-   "published_date": "2026-10-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling for an end to the suffering of Israelis and Palestinians alike.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T10:03:50+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-16T23:35:02+00:00",
+ "updated_at": "2026-10-17T04:09:15+00:00",
  "sources_ok": "5/7"
 }
