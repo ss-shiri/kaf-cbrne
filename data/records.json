@@ -1,5 +1,5 @@
 {
- "compiled": "2026-10-17",
+ "compiled": "2026-10-18",
  "source": "curated + auto",
  "records": [
   {
@@ -972,6 +972,23 @@
    "ingested_at": "2026-10-12T21:08:09+00:00"
   },
   {
+   "id": "a-e1e636f83668",
+   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+   "source_name": "WHO Outbreak News",
+   "source_url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+   "published_date": "2026-10-10",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-19 pandemic has ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-18T03:58:02+00:00"
+  },
+  {
    "id": "a-e53ede4b88ae",
    "title": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
    "source_name": "UN News",
@@ -1924,6 +1941,24 @@
    "ingested_at": "2026-10-07T10:03:03+00:00"
   },
   {
+   "id": "a-634bde4b3c90",
+   "title": "Opening Statement by the Director-General to the 113th Session of the Executive Council",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opening-statement-director-general-113th-session-executive-council",
+   "published_date": "2026-10-06",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Statement by the Director-General to the 113th Session of the Executive Council OPCW Director-General Sabrina Dallafior delivers her opening remarks during the 113th Session of the Executive Council. (Photo: OPCW) THE HAGUE, Netherlands–6 October 2026 Excellencies, distinguished delegates, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-18T03:57:57+00:00"
+  },
+  {
    "id": "a-362b5cda173c",
    "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
    "source_name": "UN News",
@@ -2007,40 +2042,6 @@
    "summary": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
    "why_it_matters": "",
    "ingested_at": "2026-10-09T01:06:42+00:00"
-  },
-  {
-   "id": "a-e5fdaf2a63d7",
-   "title": "‘Rocket revolution’ opens access to space",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168538",
-   "published_date": "2026-10-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For a long time, launching something beyond Earth was reserved for a relatively small number of national space programmes. That is changing.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:06:30+00:00"
-  },
-  {
-   "id": "a-671cb73abb4b",
-   "title": "‘Ebola takes the people children depend on’: UNICEF",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168531",
-   "published_date": "2026-10-06",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves – the UN Children’s Fund (UNICEF) reported on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T18:43:48+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-17T23:19:09+00:00",
+ "updated_at": "2026-10-18T04:15:42+00:00",
  "sources_ok": "5/7"
 }
