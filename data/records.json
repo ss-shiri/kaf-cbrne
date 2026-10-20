@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d4b848a50778",
+   "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168630",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-20T23:43:11+00:00"
+  },
+  {
    "id": "a-4ddff29ee96e",
    "title": "Atoms4Food: Protecting Biodiversity",
    "source_name": "IAEA",
@@ -154,6 +171,23 @@
    "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
    "why_it_matters": "",
    "ingested_at": "2026-10-17T22:58:44+00:00"
+  },
+  {
+   "id": "a-e448a14ca40d",
+   "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-20T23:43:30+00:00"
   },
   {
    "id": "a-d059aa5a7880",
@@ -1805,6 +1839,23 @@
    "ingested_at": "2026-10-08T10:16:33+00:00"
   },
   {
+   "id": "a-0752fa756876",
+   "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+   "published_date": "2026-10-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-20T23:42:30+00:00"
+  },
+  {
    "id": "a-fe8552251f34",
    "title": "IAEA Helps Countries Mobilize Investment to Expand Radiotherapy Services",
    "source_name": "IAEA",
@@ -1992,57 +2043,6 @@
    "ingested_at": "2026-10-08T18:42:07+00:00"
   },
   {
-   "id": "a-0c4b2f02bcf4",
-   "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168542",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T18:43:45+00:00"
-  },
-  {
-   "id": "a-dce858716083",
-   "title": "Critical funding gap threatens health response in Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168541",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T18:43:45+00:00"
-  },
-  {
-   "id": "a-cbfcdecaebfb",
-   "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168540",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T18:43:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-20T19:22:51+00:00",
+ "updated_at": "2026-10-20T23:59:02+00:00",
  "sources_ok": "5/7"
 }
