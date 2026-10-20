@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-812fd34dfd82",
+   "title": "Yemen war continues to force families from homes amid hunger and disease",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168629",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-20T14:13:30+00:00"
+  },
+  {
+   "id": "a-4955924593a1",
+   "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-uae-response-to-barakah-nuclear-power-plant-event-in-may-2026-was-effective",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-20T14:12:36+00:00"
+  },
+  {
    "id": "a-0ce34ba609e9",
    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
    "source_name": "UN News",
@@ -2009,40 +2043,6 @@
    "ingested_at": "2026-10-07T10:03:03+00:00"
   },
   {
-   "id": "a-fe8552251f34",
-   "title": "IAEA Helps Countries Mobilize Investment to Expand Radiotherapy Services",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-helps-countries-mobilize-investment-to-expand-radiotherapy-services",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-07T10:03:03+00:00"
-  },
-  {
-   "id": "a-362b5cda173c",
-   "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
-   "published_date": "2026-10-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T08:25:01+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-20T08:35:51+00:00",
+ "updated_at": "2026-10-20T14:31:23+00:00",
  "sources_ok": "5/7"
 }
