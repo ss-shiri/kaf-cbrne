@@ -1,7 +1,24 @@
 {
- "compiled": "2026-10-20",
+ "compiled": "2026-10-21",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-af8d0cb6f749",
+   "title": "AI on track to ‘crowd out’ human decision-making in warfare",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168636",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T04:09:21+00:00"
+  },
   {
    "id": "a-d4b848a50778",
    "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
@@ -171,6 +188,23 @@
    "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
    "why_it_matters": "",
    "ingested_at": "2026-10-17T22:58:44+00:00"
+  },
+  {
+   "id": "a-d0ad74982394",
+   "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T04:09:34+00:00"
   },
   {
    "id": "a-e448a14ca40d",
@@ -2009,40 +2043,6 @@
    "ingested_at": "2026-10-09T01:05:32+00:00"
   },
   {
-   "id": "a-9b1f8036051f",
-   "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168546",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:32+00:00"
-  },
-  {
-   "id": "a-107345d9327a",
-   "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168548",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Humanitarian Coordinator for Ukraine on Wednesday called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-08T18:42:07+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-20T23:59:02+00:00",
+ "updated_at": "2026-10-21T04:25:38+00:00",
  "sources_ok": "5/7"
 }
