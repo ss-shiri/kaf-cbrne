@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-04f445e8ed8b",
+   "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168643",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) is scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T21:28:28+00:00"
+  },
+  {
+   "id": "a-b98e2b73c4a3",
+   "title": "Summit in Samarkand, a boon for child wellbeing and health",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168640",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T21:28:28+00:00"
+  },
+  {
    "id": "a-906a45529f22",
    "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
    "source_name": "UN News",
@@ -103,6 +137,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-20T14:12:36+00:00"
+  },
+  {
+   "id": "a-5a632fac773c",
+   "title": "Gaza: Funding cuts leave half a million without food assistance",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T21:28:54+00:00"
+  },
+  {
+   "id": "a-4776223ac90c",
+   "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-21T21:28:43+00:00"
   },
   {
    "id": "a-0ce34ba609e9",
@@ -1975,74 +2043,6 @@
    "ingested_at": "2026-10-10T09:38:32+00:00"
   },
   {
-   "id": "a-0ea7c34ae19e",
-   "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168548",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Humanitarian Coordinator for Ukraine on Wednesday called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:27+00:00"
-  },
-  {
-   "id": "a-c15f3d95fe65",
-   "title": "WHO releases first global guidelines on child obesity as cases surge",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:06:19+00:00"
-  },
-  {
-   "id": "a-f6f3a954448b",
-   "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168540",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:06:07+00:00"
-  },
-  {
-   "id": "a-c68672574dd6",
-   "title": "Critical funding gap threatens health response in Yemen",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-21T17:16:16+00:00",
+ "updated_at": "2026-10-21T21:46:19+00:00",
  "sources_ok": "5/7"
 }
