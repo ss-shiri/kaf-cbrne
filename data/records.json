@@ -3,6 +3,58 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c8ecb21d9367",
+   "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168646",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:57:32+00:00"
+  },
+  {
+   "id": "a-c1da8e9ed943",
+   "title": "OPCW Director-General on official visit to the United Kingdom",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-official-visit-united-kingdom",
+   "published_date": "2026-10-22",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General on official visit to the United Kingdom OPCW Director-General Sabrina Dallafior at the Royal Society of Chemistry in London, United Kingdom. (Photo: MOD) THE HAGUE, Netherlands—22 October 2026— The OPCW Director-General Sabrina Dallafior paid an official visit to the United ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:56:43+00:00"
+  },
+  {
+   "id": "a-154948e993a5",
+   "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Radiological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:56:42+00:00"
+  },
+  {
    "id": "a-97c9d4f5d46f",
    "title": "WHO supports Nigeria after first Ebola case confirmed",
    "source_name": "UN News",
@@ -1771,6 +1823,57 @@
    "ingested_at": "2026-10-12T21:08:10+00:00"
   },
   {
+   "id": "a-68a6f132dd91",
+   "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-09",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:56:43+00:00"
+  },
+  {
+   "id": "a-baaf4795e592",
+   "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+   "published_date": "2026-10-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:56:43+00:00"
+  },
+  {
+   "id": "a-c2786533d7d0",
+   "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
+   "published_date": "2026-10-09",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T16:56:43+00:00"
+  },
+  {
    "id": "a-ce662e647ae9",
    "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
    "source_name": "UN News",
@@ -1939,108 +2042,6 @@
    "summary": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
    "why_it_matters": "",
    "ingested_at": "2026-10-10T09:37:47+00:00"
-  },
-  {
-   "id": "a-ae3a5d0af4c1",
-   "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168562",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:37:47+00:00"
-  },
-  {
-   "id": "a-49c2c7e0abb8",
-   "title": "Amid heartache of Nepal flooding disaster, fear remains",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168561",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:37:47+00:00"
-  },
-  {
-   "id": "a-252c4459c068",
-   "title": "Global trade reaches record $35 trillion despite conflicts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168566",
-   "published_date": "2026-10-09",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:37:46+00:00"
-  },
-  {
-   "id": "a-b4462f0b831b",
-   "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168564",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T00:38:53+00:00"
-  },
-  {
-   "id": "a-fb6043216881",
-   "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168567",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T00:38:52+00:00"
-  },
-  {
-   "id": "a-93db7cd79d49",
-   "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168559",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T18:12:46+00:00"
   },
   {
    "id": "nuc-02",
@@ -2226,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-22T11:47:20+00:00",
+ "updated_at": "2026-10-22T17:13:57+00:00",
  "sources_ok": "5/7"
 }
