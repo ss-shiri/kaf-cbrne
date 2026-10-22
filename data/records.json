@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-97c9d4f5d46f",
+   "title": "WHO supports Nigeria after first Ebola case confirmed",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168637",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:29+00:00"
+  },
+  {
+   "id": "a-041d99162f6e",
+   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168634",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:29+00:00"
+  },
+  {
+   "id": "a-11c39909d8bf",
+   "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168639",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:28+00:00"
+  },
+  {
+   "id": "a-718a86f0213b",
+   "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168642",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:27+00:00"
+  },
+  {
+   "id": "a-e70e55434c68",
+   "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168645",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:26+00:00"
+  },
+  {
    "id": "a-1dabb115579f",
    "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
    "source_name": "UN News",
@@ -69,6 +154,91 @@
    "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
    "why_it_matters": "",
    "ingested_at": "2026-10-21T16:57:44+00:00"
+  },
+  {
+   "id": "a-6106297c8405",
+   "title": "Yemen war continues to force families from homes amid hunger and disease",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:25+00:00"
+  },
+  {
+   "id": "a-fbf5ad2cf31d",
+   "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:15+00:00"
+  },
+  {
+   "id": "a-0137ecbdcaae",
+   "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At 14, Bushra faced being married off – until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her will.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:03+00:00"
+  },
+  {
+   "id": "a-3b15fe4ac618",
+   "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168630",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:52+00:00"
+  },
+  {
+   "id": "a-77743d15ec64",
+   "title": "AI on track to ‘crowd out’ human decision-making in warfare",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168636",
+   "published_date": "2026-10-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:31:40+00:00"
   },
   {
    "id": "a-af8d0cb6f749",
@@ -154,6 +324,91 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-20T14:12:36+00:00"
+  },
+  {
+   "id": "a-143d2df1a212",
+   "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:33:43+00:00"
+  },
+  {
+   "id": "a-463ab0b373b0",
+   "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:33:10+00:00"
+  },
+  {
+   "id": "a-b19e8b0e6a21",
+   "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:59+00:00"
+  },
+  {
+   "id": "a-9b0a40e54b74",
+   "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker Türk said on Monday, blaming injustice and the denial of human rights for hunger in a world of plenty.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:47+00:00"
+  },
+  {
+   "id": "a-69e7a4cbe7da",
+   "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+   "published_date": "2026-10-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:32:36+00:00"
   },
   {
    "id": "a-5a632fac773c",
@@ -275,6 +530,57 @@
    "ingested_at": "2026-10-19T20:28:56+00:00"
   },
   {
+   "id": "a-226f25705df6",
+   "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
+   "published_date": "2026-10-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past. “I go back in time, and I grab elements, and I make them available for people today.”",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:33:55+00:00"
+  },
+  {
+   "id": "a-2639e0122254",
+   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+   "published_date": "2026-10-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:34:17+00:00"
+  },
+  {
+   "id": "a-2cc8b943a8e3",
+   "title": "COP17: The world has a plan to save nature. Is it working?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
+   "published_date": "2026-10-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:34:05+00:00"
+  },
+  {
    "id": "a-5623a9fd8e02",
    "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
    "source_name": "UN News",
@@ -290,6 +596,57 @@
    "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
    "why_it_matters": "",
    "ingested_at": "2026-10-17T22:58:44+00:00"
+  },
+  {
+   "id": "a-0f48f8d80b33",
+   "title": "Guterres urges faster action and financing to stop biodiversity loss",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations Secretary-General appealed on Friday for governments, businesses and communities to accelerate efforts to protect biodiversity for future generations and all life on Earth.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:35:25+00:00"
+  },
+  {
+   "id": "a-8481bf8f9960",
+   "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:34:51+00:00"
+  },
+  {
+   "id": "a-2000b4d46f5c",
+   "title": "As disasters mount, next UN climate summit faces a test of trust",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-22T11:34:28+00:00"
   },
   {
    "id": "a-89dbd5235794",
@@ -1686,363 +2043,6 @@
    "ingested_at": "2026-10-09T18:12:46+00:00"
   },
   {
-   "id": "a-68a6f132dd91",
-   "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-10-09",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T18:12:39+00:00"
-  },
-  {
-   "id": "a-baaf4795e592",
-   "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
-   "published_date": "2026-10-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T18:12:39+00:00"
-  },
-  {
-   "id": "a-c2786533d7d0",
-   "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
-   "published_date": "2026-10-09",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T18:12:39+00:00"
-  },
-  {
-   "id": "a-a96a4774c6cf",
-   "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T21:26:52+00:00"
-  },
-  {
-   "id": "a-5e3ae52549f6",
-   "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:22+00:00"
-  },
-  {
-   "id": "a-2b63046c9a65",
-   "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:17+00:00"
-  },
-  {
-   "id": "a-06455bba91db",
-   "title": "‘Age must never diminish rights,’ UN independent expert warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:11+00:00"
-  },
-  {
-   "id": "a-c8df6a0c1589",
-   "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:05+00:00"
-  },
-  {
-   "id": "a-109fce261790",
-   "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:00+00:00"
-  },
-  {
-   "id": "a-b35de875d0ad",
-   "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168556",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:37:54+00:00"
-  },
-  {
-   "id": "a-93fa9eb5a3db",
-   "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168551",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:31+00:00"
-  },
-  {
-   "id": "a-f1adb270b5c4",
-   "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168550",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:31+00:00"
-  },
-  {
-   "id": "a-56a9d2f02173",
-   "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168554",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:30+00:00"
-  },
-  {
-   "id": "a-8f5b0520f20d",
-   "title": "‘Age must never diminish rights,’ UN independent expert warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168553",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:30+00:00"
-  },
-  {
-   "id": "a-2c6d18c1b05c",
-   "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168555",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:29+00:00"
-  },
-  {
-   "id": "a-b4f90d280a69",
-   "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168557",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:28+00:00"
-  },
-  {
-   "id": "a-4dd3226321d6",
-   "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168556",
-   "published_date": "2026-10-08",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-09T01:05:28+00:00"
-  },
-  {
-   "id": "a-5f3fb05c4cf7",
-   "title": "Opening Statement by the Director-General to the 113th Session of the Executive Council",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/sites/default/files/documents/2026/10/ec113dg22%28e%29.pdf",
-   "published_date": "2026-10-08",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Opening Statement by the Director-General to the 113th Session of the Executive Council ppuhm Thu 08/10/2026 - 11:36 Tue 06/10/2026 - 12:00 Statement Director-General Opening Statement by the Director-General to the 113th Session of the Executive Council",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-08T10:16:33+00:00"
-  },
-  {
-   "id": "a-0752fa756876",
-   "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T23:42:30+00:00"
-  },
-  {
-   "id": "a-fe8552251f34",
-   "title": "IAEA Helps Countries Mobilize Investment to Expand Radiotherapy Services",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-helps-countries-mobilize-investment-to-expand-radiotherapy-services",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T19:05:17+00:00"
-  },
-  {
-   "id": "a-622e2f39fd70",
-   "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168546",
-   "published_date": "2026-10-07",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-10T09:38:38+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-22T04:26:57+00:00",
+ "updated_at": "2026-10-22T11:47:20+00:00",
  "sources_ok": "5/7"
 }
