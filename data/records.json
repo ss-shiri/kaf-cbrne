@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-e6f07c14f68a",
+   "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168661",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:14:44+00:00"
+  },
+  {
+   "id": "a-5fdb97649b75",
+   "title": "Soil mapping aims to boost agricultural production in Kenya",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168657",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:14:44+00:00"
+  },
+  {
+   "id": "a-4f4df091c466",
+   "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168660",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:14:43+00:00"
+  },
+  {
+   "id": "a-7f1865a28394",
+   "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-23",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:14:21+00:00"
+  },
+  {
    "id": "a-f225a3dbda6b",
    "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
    "source_name": "UN News",
@@ -52,6 +120,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-23T16:48:57+00:00"
+  },
+  {
+   "id": "a-ce60a328b1c5",
+   "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168646",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:15:19+00:00"
+  },
+  {
+   "id": "a-98abda942d1c",
+   "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+   "published_date": "2026-10-22",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:15:07+00:00"
+  },
+  {
+   "id": "a-4dd00d06c3b1",
+   "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168650",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, according to new UN data published on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:14:56+00:00"
   },
   {
    "id": "a-639866f8fbbe",
@@ -189,6 +308,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-22T16:56:42+00:00"
+  },
+  {
+   "id": "a-ded1cccd4039",
+   "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+   "published_date": "2026-10-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-23T21:15:30+00:00"
   },
   {
    "id": "a-e10d048ca808",
@@ -1908,142 +2044,6 @@
    "ingested_at": "2026-10-12T21:07:55+00:00"
   },
   {
-   "id": "a-511132bdc7db",
-   "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
-   "published_date": "2026-10-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-15T21:09:59+00:00"
-  },
-  {
-   "id": "a-3ea1244885c5",
-   "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168573",
-   "published_date": "2026-10-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 139 migrants have died after their boat capsized off Djibouti, with a further 84 people still missing, the UN migration agency (IOM) said on Sunday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:16+00:00"
-  },
-  {
-   "id": "a-f46edec2172e",
-   "title": "Sustaining livelihoods amid crisis in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168569",
-   "published_date": "2026-10-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:16+00:00"
-  },
-  {
-   "id": "a-84f7d5f6f6f8",
-   "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168572",
-   "published_date": "2026-10-11",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-12T21:08:09+00:00"
-  },
-  {
-   "id": "a-e1e636f83668",
-   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
-   "source_name": "WHO Outbreak News",
-   "source_url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
-   "published_date": "2026-10-10",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-19 pandemic has ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-18T03:58:02+00:00"
-  },
-  {
-   "id": "a-e53ede4b88ae",
-   "title": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168570",
-   "published_date": "2026-10-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres has called for an immediate end to the renewed fighting in northern Ethiopia, saying he is deeply worried by reports that Eritrean forces are present in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:22:01+00:00"
-  },
-  {
-   "id": "a-b22293f28762",
-   "title": "In the Mekong Delta, a push to grow food with saltwater",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168545",
-   "published_date": "2026-10-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:49+00:00"
-  },
-  {
-   "id": "a-59b7ce8ee7bb",
-   "title": "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168571",
-   "published_date": "2026-10-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:38+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-23T17:08:22+00:00",
+ "updated_at": "2026-10-23T21:33:00+00:00",
  "sources_ok": "5/7"
 }
