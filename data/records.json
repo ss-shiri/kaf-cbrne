@@ -1891,6 +1891,23 @@
    "ingested_at": "2026-10-13T22:28:20+00:00"
   },
   {
+   "id": "a-81626b62c87c",
+   "title": "Nuclear Technologies in Space: From Batteries to Future Rockets",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-technologies-in-space-from-batteries-to-future-rockets",
+   "published_date": "2026-10-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-24T10:39:42+00:00"
+  },
+  {
    "id": "a-b5135367a08c",
    "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
    "source_name": "UN News",
@@ -2023,23 +2040,6 @@
    "reliability": "B2",
    "needs_review": true,
    "summary": "The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:15+00:00"
-  },
-  {
-   "id": "a-710f1df7b803",
-   "title": "UN aid operation underway in Nepal following fresh floods",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168576",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.",
    "why_it_matters": "",
    "ingested_at": "2026-10-13T06:21:15+00:00"
   },
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-24T04:18:57+00:00",
+ "updated_at": "2026-10-24T10:59:20+00:00",
  "sources_ok": "5/7"
 }
