@@ -1,7 +1,24 @@
 {
- "compiled": "2026-10-23",
+ "compiled": "2026-10-24",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-f55efbc49c07",
+   "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168664",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-24T04:04:50+00:00"
+  },
   {
    "id": "a-e6f07c14f68a",
    "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-10-13T06:21:15+00:00"
   },
   {
-   "id": "a-81626b62c87c",
-   "title": "Nuclear Technologies in Space: From Batteries to Future Rockets",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/nuclear-technologies-in-space-from-batteries-to-future-rockets",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-12T21:07:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-23T21:33:00+00:00",
+ "updated_at": "2026-10-24T04:18:57+00:00",
  "sources_ok": "5/7"
 }
