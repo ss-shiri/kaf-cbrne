@@ -3,6 +3,58 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-dd60889a2135",
+   "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168670",
+   "published_date": "2026-10-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-26T20:23:15+00:00"
+  },
+  {
+   "id": "a-3d7a72ef8ce3",
+   "title": "In Egypt, Guterres warns against Iran-US escalation",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168669",
+   "published_date": "2026-10-26",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-26T20:23:15+00:00"
+  },
+  {
+   "id": "a-c3e30f097ba0",
+   "title": "Keynote Address by OPCW Deputy Director-General at the Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/10/keynote-address-opcw-deputy-director-general-annual-opcw",
+   "published_date": "2026-10-26",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Keynote Address by OPCW Deputy Director-General at the Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction kviray Mon 26/10/2026 - 14:41 Keynote Address by OPCW Deputy Director-General Mekondjo Kaapanda-Girnus at the Annual OPCW-Asser Training ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-26T20:22:40+00:00"
+  },
+  {
    "id": "a-f55efbc49c07",
    "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
    "source_name": "UN News",
@@ -1993,57 +2045,6 @@
    "ingested_at": "2026-10-13T06:21:15+00:00"
   },
   {
-   "id": "a-f409b80a7a59",
-   "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168580",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:15+00:00"
-  },
-  {
-   "id": "a-ac5e37bd9b36",
-   "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168578",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council is meeting on Syria as the country’s transition faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:15+00:00"
-  },
-  {
-   "id": "a-13d343a758e7",
-   "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168577",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:15+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-26T12:52:45+00:00",
+ "updated_at": "2026-10-26T20:41:50+00:00",
  "sources_ok": "5/7"
 }
