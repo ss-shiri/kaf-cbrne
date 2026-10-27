@@ -20,6 +20,23 @@
    "ingested_at": "2026-10-27T08:48:37+00:00"
   },
   {
+   "id": "a-2c27ed853a26",
+   "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168674",
+   "published_date": "2026-10-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T15:14:46+00:00"
+  },
+  {
    "id": "a-becf55e6f39f",
    "title": "Women and girls’ share of civilian war deaths doubles since 2021",
    "source_name": "UN News",
@@ -2028,23 +2045,6 @@
    "ingested_at": "2026-10-16T16:25:07+00:00"
   },
   {
-   "id": "a-1e500e21c35f",
-   "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168575",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T06:21:16+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-27T09:04:45+00:00",
+ "updated_at": "2026-10-27T15:31:59+00:00",
  "sources_ok": "5/7"
 }
