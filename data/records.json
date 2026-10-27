@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-e14db94048b2",
+   "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168677",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:45+00:00"
+  },
+  {
+   "id": "a-c8e14a1c8da3",
+   "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168676",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of a mandatory 21-day monitoring period.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:45+00:00"
+  },
+  {
+   "id": "a-867a2cb1b496",
+   "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "IAEA Director General Rafael Mariano Grossi called on countries to turn growing support for nuclear power into concrete results as the International Ministerial Conference on Nuclear Power opened in the Republic of Korea today, amid rising electricity demand and renewed efforts to strengthen ener",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:01+00:00"
+  },
+  {
    "id": "a-3779d709d4ab",
    "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
    "source_name": "IAEA",
@@ -18,6 +69,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-27T08:48:37+00:00"
+  },
+  {
+   "id": "a-2d17b1c9642d",
+   "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168667",
+   "published_date": "2026-10-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:48+00:00"
+  },
+  {
+   "id": "a-370c1293d4b6",
+   "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168672",
+   "published_date": "2026-10-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:46+00:00"
   },
   {
    "id": "a-2c27ed853a26",
@@ -104,6 +189,176 @@
    "summary": "Keynote Address by OPCW Deputy Director-General at the Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction kviray Mon 26/10/2026 - 14:41 Keynote Address by OPCW Deputy Director-General Mekondjo Kaapanda-Girnus at the Annual OPCW-Asser Training ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-26T20:22:40+00:00"
+  },
+  {
+   "id": "a-e1a7be4d45bc",
+   "title": "Why do planes keep circling before landing? UN has a plan to fix it",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168666",
+   "published_date": "2026-10-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:48+00:00"
+  },
+  {
+   "id": "a-3a4308c9a67e",
+   "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+   "published_date": "2026-10-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:00:58+00:00"
+  },
+  {
+   "id": "a-9576f45bb824",
+   "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:25+00:00"
+  },
+  {
+   "id": "a-d5c50ce176e2",
+   "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:15+00:00"
+  },
+  {
+   "id": "a-8fb739b36e4c",
+   "title": "Soil mapping aims to boost agricultural production in Kenya",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:04+00:00"
+  },
+  {
+   "id": "a-d489ba756c7f",
+   "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:01:53+00:00"
+  },
+  {
+   "id": "a-b6812b31de39",
+   "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:01:42+00:00"
+  },
+  {
+   "id": "a-062f585bf984",
+   "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:01:31+00:00"
+  },
+  {
+   "id": "a-1b74543b27d9",
+   "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:01:20+00:00"
+  },
+  {
+   "id": "a-29b403a6f4a3",
+   "title": "UN marks 81 years of global cooperation",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:01:10+00:00"
   },
   {
    "id": "a-f55efbc49c07",
@@ -240,6 +495,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-23T16:48:57+00:00"
+  },
+  {
+   "id": "a-8f44b2abc89a",
+   "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168651",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The deadly flash flood that tore through Nepal in August is a “defining moment” for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics in crisis zones.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:59+00:00"
+  },
+  {
+   "id": "a-41b07d226197",
+   "title": "First human case of Shamonda virus reported in France as patient dies",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168652",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:47+00:00"
+  },
+  {
+   "id": "a-b0ee4e8cf3cd",
+   "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-27T22:02:36+00:00"
   },
   {
    "id": "a-ce60a328b1c5",
@@ -1739,312 +2045,6 @@
    "ingested_at": "2026-10-16T23:23:18+00:00"
   },
   {
-   "id": "a-532063329e9e",
-   "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T23:23:12+00:00"
-  },
-  {
-   "id": "a-80c9a384cb54",
-   "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168592",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-14T21:28:30+00:00"
-  },
-  {
-   "id": "a-8833344399f5",
-   "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168598",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-14T21:28:29+00:00"
-  },
-  {
-   "id": "a-6bb55f879035",
-   "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168596",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-14T21:28:29+00:00"
-  },
-  {
-   "id": "a-1acbd57d13e8",
-   "title": "Global action to end violence against children is lagging behind risks: UN expert",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168582",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Special Representative on Violence Against Children has called for stronger global action to protect boys and girls caught up in a growing number of crises, as current efforts fall short.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:02:42+00:00"
-  },
-  {
-   "id": "a-26b302aa9240",
-   "title": "Disasters cost $228 billion in housing losses every year",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168583",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "$228 billion is a staggering amount of money to find, but that’s exactly what communities around the world are faced with every year, to rebuild housing after disaster strikes.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:02:30+00:00"
-  },
-  {
-   "id": "a-efc04c2c604c",
-   "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:02:08+00:00"
-  },
-  {
-   "id": "a-3f2e0c8304ea",
-   "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:01:57+00:00"
-  },
-  {
-   "id": "a-a8d129f06f2d",
-   "title": "800 million young people face a future without jobs",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168588",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Approximately 800 million young people entering the labour market in developing economies over the coming years will not find jobs unless countries act, the head of the UN Development Programme (UNDP) warned on Tuesday, as the agency launched two initiatives to boost investment and employment.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:01:45+00:00"
-  },
-  {
-   "id": "a-4bd401933bfe",
-   "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-   "published_date": "2026-10-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T23:23:29+00:00"
-  },
-  {
-   "id": "a-174455135866",
-   "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168585",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T20:48:14+00:00"
-  },
-  {
-   "id": "a-a5daacc896b8",
-   "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168589",
-   "published_date": "2026-10-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-14T16:55:03+00:00"
-  },
-  {
-   "id": "a-6c1e97352693",
-   "title": "IAEA Training Centre Builds Practical Skills for Nuclear Security",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/news/photoessay/iaea-training-centre-builds-practical-skills-for-nuclear-security",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "The IAEA’s Nuclear Security Training and Demonstration Centre, the world’s first international training centre dedicated to enhancing nuclear security, opened its doors in Seibersdorf, Austria, in October 2023.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-14T11:32:32+00:00"
-  },
-  {
-   "id": "a-9cafe28d508d",
-   "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168585",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T22:28:31+00:00"
-  },
-  {
-   "id": "a-6d5e9bc592ee",
-   "title": "OPCW Director-General visits Syria",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-visits-syria",
-   "published_date": "2026-10-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW Director-General visits Syria OPCW Director-General Sabrina Dallafior (left) during a meeting with Syrian Minister of Foreign Affairs Asaad al-Shaibani in Damascus, Syria. The Foreign Minister and the Director-General discussed progress in locating and destroying the remnants of the Assad-era ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-13T22:28:20+00:00"
-  },
-  {
-   "id": "a-81626b62c87c",
-   "title": "Nuclear Technologies in Space: From Batteries to Future Rockets",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/nuclear-technologies-in-space-from-batteries-to-future-rockets",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-24T10:39:42+00:00"
-  },
-  {
-   "id": "a-b5135367a08c",
-   "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T20:48:26+00:00"
-  },
-  {
-   "id": "a-b891d14efcf3",
-   "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-   "published_date": "2026-10-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met to debate Syria's thorny transition Monday as it faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T16:25:07+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-27T15:31:59+00:00",
+ "updated_at": "2026-10-27T22:19:27+00:00",
  "sources_ok": "5/7"
 }
