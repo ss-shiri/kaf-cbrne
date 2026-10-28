@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-880f27bde78a",
+   "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168691",
+   "published_date": "2026-10-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect those who document conflict.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T20:09:34+00:00"
+  },
+  {
+   "id": "a-bfd8b4acda0f",
+   "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
+   "published_date": "2026-10-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T20:09:22+00:00"
+  },
+  {
    "id": "a-d256d978eb43",
    "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
    "source_name": "UN News",
@@ -2011,40 +2045,6 @@
    "ingested_at": "2026-10-28T05:04:58+00:00"
   },
   {
-   "id": "a-864a99b823eb",
-   "title": "WHO calls for urgent health action across the Eastern Mediterranean",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:01:24+00:00"
-  },
-  {
-   "id": "a-c908b53be5d6",
-   "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:01:12+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-28T12:43:39+00:00",
+ "updated_at": "2026-10-28T20:21:28+00:00",
  "sources_ok": "5/7"
 }
