@@ -1,5 +1,5 @@
 {
- "compiled": "2026-10-27",
+ "compiled": "2026-10-28",
  "source": "curated + auto",
  "records": [
   {
@@ -1926,6 +1926,23 @@
    "ingested_at": "2026-10-15T16:41:50+00:00"
   },
   {
+   "id": "a-532063329e9e",
+   "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+   "published_date": "2026-10-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T05:04:58+00:00"
+  },
+  {
    "id": "a-864a99b823eb",
    "title": "WHO calls for urgent health action across the Eastern Mediterranean",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-16T23:23:24+00:00"
-  },
-  {
-   "id": "a-dcb27078c257",
-   "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T23:23:18+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-27T22:19:27+00:00",
+ "updated_at": "2026-10-28T05:18:09+00:00",
  "sources_ok": "5/7"
 }
