@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d256d978eb43",
+   "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168685",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T12:29:22+00:00"
+  },
+  {
+   "id": "a-7dfca9a142c5",
+   "title": "Security Council LIVE: Women and girls face greater dangers in war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168684",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T12:29:22+00:00"
+  },
+  {
+   "id": "a-2ddbaa972172",
+   "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168682",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T12:29:22+00:00"
+  },
+  {
+   "id": "a-950f8b6f9878",
+   "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168686",
+   "published_date": "2026-10-27",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-28T12:29:21+00:00"
+  },
+  {
    "id": "a-e14db94048b2",
    "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
    "source_name": "UN News",
@@ -1977,74 +2045,6 @@
    "ingested_at": "2026-10-17T23:01:12+00:00"
   },
   {
-   "id": "a-2a805700ac6e",
-   "title": "Health workers tackle taboos over drinking with new AI tool",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168594",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A new AI-powered hub for health professionals aims to help identify alcohol-related risks and launch discussions with patients, including the link between drinking and cancer, the World Health Organization (WHO) announced on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:00:50+00:00"
-  },
-  {
-   "id": "a-1fa60bc73f4e",
-   "title": "DR Congo: Cholera cases spike amid fight against Ebola",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168595",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:00:38+00:00"
-  },
-  {
-   "id": "a-2bf448ed6b7e",
-   "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168597",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN independent experts welcomed on Wednesday a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia’s Special Jurisdiction for Peace, calling for reparations for victims.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T23:00:16+00:00"
-  },
-  {
-   "id": "a-58fa1129f146",
-   "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168592",
-   "published_date": "2026-10-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T23:23:24+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-28T05:18:09+00:00",
+ "updated_at": "2026-10-28T12:43:39+00:00",
  "sources_ok": "5/7"
 }
