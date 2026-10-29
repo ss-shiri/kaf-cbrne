@@ -1943,6 +1943,23 @@
    "ingested_at": "2026-10-16T11:05:20+00:00"
   },
   {
+   "id": "a-31fc400278c9",
+   "title": "Burkina Faso Grows More Rice with Nuclear Science",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/burkina-faso-grows-more-rice-with-nuclear-science",
+   "published_date": "2026-10-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-29T18:18:05+00:00"
+  },
+  {
    "id": "a-bfa58818e399",
    "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
    "source_name": "UN News",
@@ -2026,23 +2043,6 @@
    "summary": "Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
    "why_it_matters": "",
    "ingested_at": "2026-10-17T22:58:58+00:00"
-  },
-  {
-   "id": "a-a80dc810db52",
-   "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168607",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:47+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-29T09:59:38+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-10-29T18:34:44+00:00",
+ "sources_ok": "4/7"
 }
