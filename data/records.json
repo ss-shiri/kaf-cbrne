@@ -3,6 +3,58 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-cf274565f86d",
+   "title": "Keynote Address by OPCW Deputy Director-General H.E. Mrs Mekondjo Kaapanda-Girnus at Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/10/keynote-address-opcw-deputy-director-general-he-mrs",
+   "published_date": "2026-10-30",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Keynote Address by OPCW Deputy Director-General H.E. Mrs Mekondjo Kaapanda-Girnus at Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction ppuhm Fri 30/10/2026 - 13:58 Good morning, everyone. It is my pleasure to open this annual training programme ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T17:53:22+00:00"
+  },
+  {
+   "id": "a-9ba72c1a64fa",
+   "title": "Update 373 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-30",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T17:53:21+00:00"
+  },
+  {
+   "id": "a-2ce65e8b6cb8",
+   "title": "How Nuclear Technology Is Helping Cities Become More Sustainable",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/how-nuclear-technology-is-helping-cities-become-more-sustainable",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T17:53:21+00:00"
+  },
+  {
    "id": "a-f6dea12bbdb9",
    "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
    "source_name": "UN News",
@@ -1824,6 +1876,40 @@
    "ingested_at": "2026-10-17T22:58:44+00:00"
   },
   {
+   "id": "a-4cff5a6ab1c3",
+   "title": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-sabrina-dallafior-meets-polands-deputy-prime",
+   "published_date": "2026-10-16",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski OPCW Director-General Sabrina Dallafior met Poland’s Deputy Prime Minister/Minister of Foreign Affairs, Mr Radosław Sikorski, at OPCW Headquarters in The Hague on 16 October 2026. THE ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T17:53:25+00:00"
+  },
+  {
+   "id": "a-5f90d0e10509",
+   "title": "Update 371 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-371-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-16",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T17:53:22+00:00"
+  },
+  {
    "id": "a-0f48f8d80b33",
    "title": "Guterres urges faster action and financing to stop biodiversity loss",
    "source_name": "UN News",
@@ -1958,91 +2044,6 @@
    "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
    "why_it_matters": "",
    "ingested_at": "2026-10-17T22:58:45+00:00"
-  },
-  {
-   "id": "a-2cc817422ad7",
-   "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168613",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:45+00:00"
-  },
-  {
-   "id": "a-9bc612dcf912",
-   "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168614",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Civilian casualties in Ukraine remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T20:48:01+00:00"
-  },
-  {
-   "id": "a-cb4b52e09900",
-   "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168612",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T20:48:01+00:00"
-  },
-  {
-   "id": "a-7836f23383b6",
-   "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168611",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T16:24:53+00:00"
-  },
-  {
-   "id": "a-d73b33bce550",
-   "title": "From Farm to Fork: How Nuclear Science Helps Put Food on Our Tables",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/from-farm-to-fork-how-nuclear-science-helps-put-food-on-our-tables",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T16:24:21+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-30T10:03:19+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-10-30T18:07:07+00:00",
+ "sources_ok": "4/7"
 }
