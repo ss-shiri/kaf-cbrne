@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-825b815c3250",
+   "title": "Yemen war makes reaching assistance too dangerous for many",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168706",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T22:07:44+00:00"
+  },
+  {
    "id": "a-cf274565f86d",
    "title": "Keynote Address by OPCW Deputy Director-General H.E. Mrs Mekondjo Kaapanda-Girnus at Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction",
    "source_name": "OPCW",
@@ -206,6 +223,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-28T20:09:22+00:00"
+  },
+  {
+   "id": "a-de1df18657be",
+   "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+   "published_date": "2026-10-27",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T22:07:58+00:00"
   },
   {
    "id": "a-496da81f19f1",
@@ -1876,6 +1910,23 @@
    "ingested_at": "2026-10-17T22:58:44+00:00"
   },
   {
+   "id": "a-d73b33bce550",
+   "title": "From Farm to Fork: How Nuclear Science Helps Put Food on Our Tables",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/from-farm-to-fork-how-nuclear-science-helps-put-food-on-our-tables",
+   "published_date": "2026-10-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T22:07:28+00:00"
+  },
+  {
    "id": "a-4cff5a6ab1c3",
    "title": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski",
    "source_name": "OPCW",
@@ -1993,57 +2044,6 @@
    "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-21T04:09:34+00:00"
-  },
-  {
-   "id": "a-e448a14ca40d",
-   "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T23:43:30+00:00"
-  },
-  {
-   "id": "a-d059aa5a7880",
-   "title": "Guterres urges faster action and financing to stop biodiversity loss",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168610",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations Secretary-General appealed on Friday for governments, businesses and communities to accelerate efforts to protect biodiversity for future generations and all life on Earth.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:46+00:00"
-  },
-  {
-   "id": "a-e16ee182dfae",
-   "title": "As disasters mount, next UN climate summit faces a test of trust",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168617",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:45+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-30T18:07:07+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-30T22:23:15+00:00",
+ "sources_ok": "5/7"
 }
