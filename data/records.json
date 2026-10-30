@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-f6dea12bbdb9",
+   "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168698",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:47:57+00:00"
+  },
+  {
+   "id": "a-cfc0e51db14c",
+   "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168705",
+   "published_date": "2026-10-29",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-faeacf89e805",
+   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168703",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-ea0421679e2e",
+   "title": "Russia drone strike on Ukrainian railway station kills 13",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168702",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
    "id": "a-feb8f2bd8552",
    "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
    "source_name": "UN News",
@@ -86,6 +154,57 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-28T20:09:22+00:00"
+  },
+  {
+   "id": "a-496da81f19f1",
+   "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:48:32+00:00"
+  },
+  {
+   "id": "a-29a58c045d25",
+   "title": "Security Council LIVE: Women and girls face greater dangers in war",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:48:21+00:00"
+  },
+  {
+   "id": "a-8f52edd8e7fb",
+   "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:48:09+00:00"
   },
   {
    "id": "a-d256d978eb43",
@@ -222,6 +341,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-27T08:48:37+00:00"
+  },
+  {
+   "id": "a-c3020060fb5c",
+   "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+   "published_date": "2026-10-26",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-30T09:48:43+00:00"
   },
   {
    "id": "a-1c1cf3c77b16",
@@ -1909,142 +2045,6 @@
    "ingested_at": "2026-10-16T16:24:21+00:00"
   },
   {
-   "id": "a-4cff5a6ab1c3",
-   "title": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-sabrina-dallafior-meets-polands-deputy-prime",
-   "published_date": "2026-10-16",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW Director-General Sabrina Dallafior meets Poland’s Deputy Prime Minister/Foreign Minister Radosław Sikorski OPCW Director-General Sabrina Dallafior met Poland’s Deputy Prime Minister/Minister of Foreign Affairs, Mr Radosław Sikorski, at OPCW Headquarters in The Hague on 16 October 2026. THE ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T16:24:21+00:00"
-  },
-  {
-   "id": "a-5f90d0e10509",
-   "title": "Update 371 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-371-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-10-16",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-16T11:05:20+00:00"
-  },
-  {
-   "id": "a-31fc400278c9",
-   "title": "Burkina Faso Grows More Rice with Nuclear Science",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/burkina-faso-grows-more-rice-with-nuclear-science",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T18:18:05+00:00"
-  },
-  {
-   "id": "a-bfa58818e399",
-   "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168600",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:59:54+00:00"
-  },
-  {
-   "id": "a-0f89131e370e",
-   "title": "WHO urges vigilance after Kenya confirms second Ebola case",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168602",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) continues to support Kenya’s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency’s representative in the country said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:59:33+00:00"
-  },
-  {
-   "id": "a-9a53ca5378ff",
-   "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168603",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:59:21+00:00"
-  },
-  {
-   "id": "a-3829edb6737c",
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:59:09+00:00"
-  },
-  {
-   "id": "a-ffa6b3d1f400",
-   "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168604",
-   "published_date": "2026-10-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:58+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-30T00:52:10+00:00",
- "sources_ok": "4/7"
+ "updated_at": "2026-10-30T10:03:19+00:00",
+ "sources_ok": "5/7"
 }
