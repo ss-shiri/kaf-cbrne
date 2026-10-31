@@ -1,7 +1,41 @@
 {
- "compiled": "2026-10-30",
+ "compiled": "2026-10-31",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-96f5223c02af",
+   "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168713",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T04:57:48+00:00"
+  },
+  {
+   "id": "a-51c44d0fda7d",
+   "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168712",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T04:57:48+00:00"
+  },
   {
    "id": "a-825b815c3250",
    "title": "Yemen war makes reaching assistance too dangerous for many",
@@ -138,6 +172,40 @@
    "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-a9acad5bfa77",
+   "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+   "published_date": "2026-10-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect those who document conflict.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T04:58:12+00:00"
+  },
+  {
+   "id": "a-cfd41990bd12",
+   "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+   "published_date": "2026-10-28",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T04:58:01+00:00"
   },
   {
    "id": "a-feb8f2bd8552",
@@ -1978,74 +2046,6 @@
    "ingested_at": "2026-10-22T11:35:25+00:00"
   },
   {
-   "id": "a-8481bf8f9960",
-   "title": "WHO scales up Ebola readiness in 22 countries across three continents",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:34:51+00:00"
-  },
-  {
-   "id": "a-2000b4d46f5c",
-   "title": "As disasters mount, next UN climate summit faces a test of trust",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168617",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three successive summit presidencies gathered to address a pressing question: How can the world restore trust in climate action when the consequences of a warming planet are already being felt?",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:34:28+00:00"
-  },
-  {
-   "id": "a-89dbd5235794",
-   "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168614",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Civilian casualties in Ukraine remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T16:57:59+00:00"
-  },
-  {
-   "id": "a-d0ad74982394",
-   "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T04:09:34+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-30T22:23:15+00:00",
+ "updated_at": "2026-10-31T05:15:20+00:00",
  "sources_ok": "5/7"
 }
