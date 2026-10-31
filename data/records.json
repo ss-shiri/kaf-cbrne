@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-76680235a6d9",
+   "title": "Somalia looks to the future as the UN's political mission closes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/10/1168714",
+   "published_date": "2026-10-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T17:05:49+00:00"
+  },
+  {
    "id": "a-96f5223c02af",
    "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
    "source_name": "UN News",
@@ -172,6 +189,23 @@
    "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-a3fbd3d9ad6f",
+   "title": "UN human rights chief urges better protection of civilians in conflicts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+   "published_date": "2026-10-28",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-10-31T17:06:03+00:00"
   },
   {
    "id": "a-a9acad5bfa77",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-10-30T17:53:25+00:00"
   },
   {
-   "id": "a-5f90d0e10509",
-   "title": "Update 371 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-371-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-10-16",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T17:53:22+00:00"
-  },
-  {
-   "id": "a-0f48f8d80b33",
-   "title": "Guterres urges faster action and financing to stop biodiversity loss",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
-   "published_date": "2026-10-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations Secretary-General appealed on Friday for governments, businesses and communities to accelerate efforts to protect biodiversity for future generations and all life on Earth.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:35:25+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-10-31T05:15:20+00:00",
+ "updated_at": "2026-10-31T17:23:07+00:00",
  "sources_ok": "5/7"
 }
