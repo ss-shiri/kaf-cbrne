@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-2e7edb4cf583",
+   "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168717",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-01T19:26:44+00:00"
+  },
+  {
    "id": "a-f998aaeeadf6",
    "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
    "source_name": "UN News",
@@ -138,6 +155,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T17:53:21+00:00"
+  },
+  {
+   "id": "a-e7faef58974c",
+   "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-01T19:26:58+00:00"
   },
   {
    "id": "a-f6dea12bbdb9",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-10-22T11:34:17+00:00"
   },
   {
-   "id": "a-2cc8b943a8e3",
-   "title": "COP17: The world has a plan to save nature. Is it working?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-   "published_date": "2026-10-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:34:05+00:00"
-  },
-  {
-   "id": "a-5623a9fd8e02",
-   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168619",
-   "published_date": "2026-10-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-17T22:58:44+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-01T13:14:39+00:00",
+ "updated_at": "2026-11-01T19:43:25+00:00",
  "sources_ok": "5/7"
 }
