@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-d2fec198c35f",
+   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168722",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-02T21:35:59+00:00"
+  },
+  {
    "id": "a-2e7edb4cf583",
    "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
    "source_name": "UN News",
@@ -52,6 +69,23 @@
    "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-31T17:05:49+00:00"
+  },
+  {
+   "id": "a-e8b3c43487d7",
+   "title": "Denmark provides more than EUR 800,000 in voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/denmark-provides-more-eur-800000-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Denmark provides more than EUR 800,000 in voluntary funding to enhance OPCW’s work H.E. Mr Ulf Melgaard, Permanent Representative of the Kingdom of Denmark to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Kingdom of Denmark has contributed more than EUR 800,000 to the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-02T21:35:45+00:00"
   },
   {
    "id": "a-96f5223c02af",
@@ -155,6 +189,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T17:53:21+00:00"
+  },
+  {
+   "id": "a-14524b2fb7b6",
+   "title": "Russia drone strike on Ukrainian railway station kills 13",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-02T21:36:13+00:00"
   },
   {
    "id": "a-e7faef58974c",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-10-19T20:28:57+00:00"
   },
   {
-   "id": "a-c4b072be0e1a",
-   "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168623",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-19T20:28:56+00:00"
-  },
-  {
-   "id": "a-226f25705df6",
-   "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
-   "published_date": "2026-10-18",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "“I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past. “I go back in time, and I grab elements, and I make them available for people today.”",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:33:55+00:00"
-  },
-  {
-   "id": "a-2639e0122254",
-   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-   "published_date": "2026-10-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:34:17+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-02T11:02:20+00:00",
+ "updated_at": "2026-11-02T21:54:11+00:00",
  "sources_ok": "5/7"
 }
