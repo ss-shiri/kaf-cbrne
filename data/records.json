@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-7c925c8d24c2",
+   "title": "Gender equality pays off for business – so why are companies pulling back?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168726",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:33+00:00"
+  },
+  {
+   "id": "a-8d6d0182a8a7",
+   "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168724",
+   "published_date": "2026-11-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:33+00:00"
+  },
+  {
    "id": "a-0c6e05fe5cfb",
    "title": "IAEA Launches Global Network to Help Countries Monitor and Protect the World’s Lakes",
    "source_name": "IAEA",
@@ -18,6 +52,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-03T14:00:21+00:00"
+  },
+  {
+   "id": "a-ef34a6ebd66b",
+   "title": "Six in seven journalist murders go unpunished, UNESCO reports",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168719",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:35+00:00"
+  },
+  {
+   "id": "a-ca918c172270",
+   "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168720",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:34+00:00"
   },
   {
    "id": "a-a4f3425c7f7d",
@@ -71,6 +139,40 @@
    "ingested_at": "2026-11-02T21:35:59+00:00"
   },
   {
+   "id": "a-75151d7b4b3a",
+   "title": "Breaking the silence in Mexico’s barracks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168715",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:35+00:00"
+  },
+  {
+   "id": "a-66fc41e792c0",
+   "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168718",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:35+00:00"
+  },
+  {
    "id": "a-74cce523b4c1",
    "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
    "source_name": "UN News",
@@ -103,6 +205,40 @@
    "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
    "why_it_matters": "",
    "ingested_at": "2026-11-01T19:26:44+00:00"
+  },
+  {
+   "id": "a-39436360eea6",
+   "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+   "published_date": "2026-10-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country’s history.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:52:09+00:00"
+  },
+  {
+   "id": "a-3eb3953ecd0d",
+   "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+   "published_date": "2026-10-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:51:57+00:00"
   },
   {
    "id": "a-78b3e5f40cfc",
@@ -171,6 +307,40 @@
    "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-31T17:05:49+00:00"
+  },
+  {
+   "id": "a-de1dd2f98a0c",
+   "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:53:05+00:00"
+  },
+  {
+   "id": "a-e83b4381c11e",
+   "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+   "published_date": "2026-10-30",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:52:54+00:00"
   },
   {
    "id": "a-e40e0cb63fdb",
@@ -344,6 +514,57 @@
    "ingested_at": "2026-10-30T17:53:21+00:00"
   },
   {
+   "id": "a-193a4962c93c",
+   "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Opium production in Afghanistan has risen fivefold in a year. According to a UN survey released on Thursday, it’s the first significant increase since the Taliban banned poppy cultivation in 2022.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:54:33+00:00"
+  },
+  {
+   "id": "a-b63b75452e6b",
+   "title": "Nature is making a comeback – now restoration funding must quadruple",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:54:11+00:00"
+  },
+  {
+   "id": "a-357deb23e3d3",
+   "title": "AI is changing the way we think. The question is whether we’ll notice in time",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds. For many people, it feels like a technological leap on par with the arrival of the internet itself.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:53:38+00:00"
+  },
+  {
    "id": "a-245f02a2574f",
    "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
    "source_name": "UN News",
@@ -478,6 +699,40 @@
    "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-5101701d00c2",
+   "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+   "published_date": "2026-10-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:55:29+00:00"
+  },
+  {
+   "id": "a-db37295de9dc",
+   "title": "Higher Ground: How New York is raising a park to hold back the sea",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+   "published_date": "2026-10-28",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "On 29 October 2012, Hurricane Sandy slammed into New York City, unleashing a devastating storm surge that flooded homes, subways and tunnels, knocked out power and sparked deadly fires.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T20:54:43+00:00"
   },
   {
    "id": "a-0f8ffd49886e",
@@ -1791,261 +2046,6 @@
    "ingested_at": "2026-10-22T11:31:27+00:00"
   },
   {
-   "id": "a-e70e55434c68",
-   "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168645",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:26+00:00"
-  },
-  {
-   "id": "a-1dabb115579f",
-   "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168644",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The use of live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T04:10:14+00:00"
-  },
-  {
-   "id": "a-04f445e8ed8b",
-   "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168643",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T21:28:28+00:00"
-  },
-  {
-   "id": "a-b98e2b73c4a3",
-   "title": "Summit in Samarkand, a boon for child wellbeing and health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168640",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T21:28:28+00:00"
-  },
-  {
-   "id": "a-906a45529f22",
-   "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168638",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T16:57:44+00:00"
-  },
-  {
-   "id": "a-6106297c8405",
-   "title": "Yemen war continues to force families from homes amid hunger and disease",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:25+00:00"
-  },
-  {
-   "id": "a-fbf5ad2cf31d",
-   "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:15+00:00"
-  },
-  {
-   "id": "a-0137ecbdcaae",
-   "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168632",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At 14, Bushra faced being married off – until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her will.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:03+00:00"
-  },
-  {
-   "id": "a-3b15fe4ac618",
-   "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168630",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:52+00:00"
-  },
-  {
-   "id": "a-77743d15ec64",
-   "title": "AI on track to ‘crowd out’ human decision-making in warfare",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168636",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:40+00:00"
-  },
-  {
-   "id": "a-af8d0cb6f749",
-   "title": "AI on track to ‘crowd out’ human decision-making in warfare",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168636",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T04:09:21+00:00"
-  },
-  {
-   "id": "a-d4b848a50778",
-   "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168630",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T23:43:11+00:00"
-  },
-  {
-   "id": "a-4ddff29ee96e",
-   "title": "Atoms4Food: Protecting Biodiversity",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/atoms4food-protecting-biodiversity",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T19:05:16+00:00"
-  },
-  {
-   "id": "a-812fd34dfd82",
-   "title": "Yemen war continues to force families from homes amid hunger and disease",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168629",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T14:13:30+00:00"
-  },
-  {
-   "id": "a-4955924593a1",
-   "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-uae-response-to-barakah-nuclear-power-plant-event-in-may-2026-was-effective",
-   "published_date": "2026-10-20",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T14:12:36+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-03T14:18:22+00:00",
+ "updated_at": "2026-11-03T21:07:48+00:00",
  "sources_ok": "5/7"
 }
