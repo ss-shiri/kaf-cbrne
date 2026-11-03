@@ -1,7 +1,41 @@
 {
- "compiled": "2026-11-02",
+ "compiled": "2026-11-03",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-a4f3425c7f7d",
+   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:05:18+00:00"
+  },
+  {
+   "id": "a-26e94bd4766b",
+   "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168723",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:05:06+00:00"
+  },
   {
    "id": "a-d2fec198c35f",
    "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
@@ -20,6 +54,23 @@
    "ingested_at": "2026-11-02T21:35:59+00:00"
   },
   {
+   "id": "a-74cce523b4c1",
+   "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:05:30+00:00"
+  },
+  {
    "id": "a-2e7edb4cf583",
    "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
    "source_name": "UN News",
@@ -35,6 +86,40 @@
    "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
    "why_it_matters": "",
    "ingested_at": "2026-11-01T19:26:44+00:00"
+  },
+  {
+   "id": "a-78b3e5f40cfc",
+   "title": "Somalia looks to the future as the UN's political mission closes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+   "published_date": "2026-10-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:05:52+00:00"
+  },
+  {
+   "id": "a-98ef9f8e6769",
+   "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+   "published_date": "2026-10-31",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:05:41+00:00"
   },
   {
    "id": "a-f998aaeeadf6",
@@ -69,6 +154,57 @@
    "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
    "why_it_matters": "",
    "ingested_at": "2026-10-31T17:05:49+00:00"
+  },
+  {
+   "id": "a-e40e0cb63fdb",
+   "title": "Yemen war makes reaching assistance too dangerous for many",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:06:26+00:00"
+  },
+  {
+   "id": "a-a9a4069731e8",
+   "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:06:14+00:00"
+  },
+  {
+   "id": "a-613586cbdc7f",
+   "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+   "published_date": "2026-10-30",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:06:03+00:00"
   },
   {
    "id": "a-e8b3c43487d7",
@@ -189,6 +325,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T17:53:21+00:00"
+  },
+  {
+   "id": "a-245f02a2574f",
+   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+   "published_date": "2026-10-29",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:06:49+00:00"
+  },
+  {
+   "id": "a-f83ec3a8cc33",
+   "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+   "published_date": "2026-10-29",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-03T06:06:37+00:00"
   },
   {
    "id": "a-14524b2fb7b6",
@@ -1876,176 +2046,6 @@
    "ingested_at": "2026-10-22T11:33:43+00:00"
   },
   {
-   "id": "a-463ab0b373b0",
-   "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:33:10+00:00"
-  },
-  {
-   "id": "a-b19e8b0e6a21",
-   "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:59+00:00"
-  },
-  {
-   "id": "a-9b0a40e54b74",
-   "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168627",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker Türk said on Monday, blaming injustice and the denial of human rights for hunger in a world of plenty.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:47+00:00"
-  },
-  {
-   "id": "a-69e7a4cbe7da",
-   "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:32:36+00:00"
-  },
-  {
-   "id": "a-5a632fac773c",
-   "title": "Gaza: Funding cuts leave half a million without food assistance",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T21:28:54+00:00"
-  },
-  {
-   "id": "a-4776223ac90c",
-   "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-21T21:28:43+00:00"
-  },
-  {
-   "id": "a-0ce34ba609e9",
-   "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168626",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T00:11:09+00:00"
-  },
-  {
-   "id": "a-098d9c1e0c78",
-   "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168625",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T00:11:09+00:00"
-  },
-  {
-   "id": "a-9b5286e1c57a",
-   "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168628",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-20T00:11:08+00:00"
-  },
-  {
-   "id": "a-f6b31e8472bb",
-   "title": "Gaza: Funding cuts leave half a million without food assistance",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168622",
-   "published_date": "2026-10-19",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-19T20:28:57+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-02T21:54:11+00:00",
+ "updated_at": "2026-11-03T06:22:13+00:00",
  "sources_ok": "5/7"
 }
