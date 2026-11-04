@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-19e85c28e99b",
+   "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168731",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T10:42:08+00:00"
+  },
+  {
    "id": "a-e1f80f58d8e0",
    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
    "source_name": "UN News",
@@ -2029,23 +2046,6 @@
    "ingested_at": "2026-10-23T16:49:28+00:00"
   },
   {
-   "id": "a-97c9d4f5d46f",
-   "title": "WHO supports Nigeria after first Ebola case confirmed",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168637",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:29+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-04T01:21:55+00:00",
+ "updated_at": "2026-11-04T10:59:08+00:00",
  "sources_ok": "5/7"
 }
