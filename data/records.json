@@ -1,7 +1,58 @@
 {
- "compiled": "2026-11-03",
+ "compiled": "2026-11-04",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-e1f80f58d8e0",
+   "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168729",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T01:08:27+00:00"
+  },
+  {
+   "id": "a-4906ca26a69b",
+   "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168730",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T01:08:27+00:00"
+  },
+  {
+   "id": "a-c79433217961",
+   "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168728",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its soldiers who went missing after a gang ambush.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T01:08:27+00:00"
+  },
   {
    "id": "a-7c925c8d24c2",
    "title": "Gender equality pays off for business – so why are companies pulling back?",
@@ -1995,57 +2046,6 @@
    "ingested_at": "2026-10-22T11:31:29+00:00"
   },
   {
-   "id": "a-041d99162f6e",
-   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168634",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:29+00:00"
-  },
-  {
-   "id": "a-11c39909d8bf",
-   "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168639",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:28+00:00"
-  },
-  {
-   "id": "a-718a86f0213b",
-   "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168642",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T11:31:27+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-03T21:07:48+00:00",
+ "updated_at": "2026-11-04T01:21:55+00:00",
  "sources_ok": "5/7"
 }
