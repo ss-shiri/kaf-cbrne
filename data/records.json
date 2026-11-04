@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-0d5b7ee4aac7",
+   "title": "IAEA Report Confirms Japanese Monitoring Data of ALPS-Treated Water Prior to Discharge under Additional Measures",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-confirms-japanese-monitoring-data-of-alps-treated-water-prior-to-discharge-under-additional-measures",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T19:36:02+00:00"
+  },
+  {
+   "id": "a-46c3de62114a",
+   "title": "The Lise Meitner Programme Explores the Nuclear Fuel Cycle in France and IAEA HQ",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/the-lise-meitner-programme-explores-the-nuclear-fuel-cycle-in-france-and-iaea-hq",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-04T19:36:02+00:00"
+  },
+  {
    "id": "a-19e85c28e99b",
    "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-10-23T16:49:50+00:00"
   },
   {
-   "id": "a-191e95b9bfcc",
-   "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168643",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:39+00:00"
-  },
-  {
-   "id": "a-6312bc6da4a7",
-   "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The use of live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:28+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-04T10:59:08+00:00",
+ "updated_at": "2026-11-04T19:54:30+00:00",
  "sources_ok": "5/7"
 }
