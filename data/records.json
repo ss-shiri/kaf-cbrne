@@ -1,7 +1,126 @@
 {
- "compiled": "2026-11-04",
+ "compiled": "2026-11-05",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-e4179c321e57",
+   "title": "Afghan children face narrowing path to education, UN agencies report",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168732",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:27+00:00"
+  },
+  {
+   "id": "a-77c0b7e8bb5e",
+   "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168725",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Although global warming is set to exceed 1.5°C, financing to help communities adapt to climate change falls far short of needs, the UN Environment Programme (UNEP) said in a report published on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:27+00:00"
+  },
+  {
+   "id": "a-a9770603da22",
+   "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168737",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:26+00:00"
+  },
+  {
+   "id": "a-5f8389ba1f42",
+   "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168736",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:26+00:00"
+  },
+  {
+   "id": "a-b332c19009ca",
+   "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168738",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:25+00:00"
+  },
+  {
+   "id": "a-6ffc7deaca40",
+   "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168741",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:23+00:00"
+  },
+  {
+   "id": "a-54cf1321b0e9",
+   "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168740",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:23+00:00"
+  },
   {
    "id": "a-0d5b7ee4aac7",
    "title": "IAEA Report Confirms Japanese Monitoring Data of ALPS-Treated Water Prior to Discharge under Additional Measures",
@@ -35,6 +154,74 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-04T19:36:02+00:00"
+  },
+  {
+   "id": "a-b784030bec54",
+   "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+   "published_date": "2026-11-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:25:12+00:00"
+  },
+  {
+   "id": "a-9ac291e730e1",
+   "title": "Gender equality pays off for business – so why are companies pulling back?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:25:01+00:00"
+  },
+  {
+   "id": "a-ef087554bb56",
+   "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its personnel who went missing after a gang ambush.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:50+00:00"
+  },
+  {
+   "id": "a-dd1944ccf611",
+   "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:24:38+00:00"
   },
   {
    "id": "a-19e85c28e99b",
@@ -156,6 +343,57 @@
    "ingested_at": "2026-11-03T14:00:21+00:00"
   },
   {
+   "id": "a-d08bedb696c4",
+   "title": "Six in seven journalist murders go unpunished, UNESCO reports",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168719",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:25:58+00:00"
+  },
+  {
+   "id": "a-51512bfc7096",
+   "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:25:46+00:00"
+  },
+  {
+   "id": "a-eedb66b32e87",
+   "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+   "published_date": "2026-11-02",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:25:23+00:00"
+  },
+  {
    "id": "a-ef34a6ebd66b",
    "title": "Six in seven journalist murders go unpunished, UNESCO reports",
    "source_name": "UN News",
@@ -239,6 +477,40 @@
    "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
    "why_it_matters": "",
    "ingested_at": "2026-11-02T21:35:59+00:00"
+  },
+  {
+   "id": "a-ca10307da42c",
+   "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:26:20+00:00"
+  },
+  {
+   "id": "a-2a57d8af7b3b",
+   "title": "Breaking the silence in Mexico’s barracks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+   "published_date": "2026-11-01",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T01:26:08+00:00"
   },
   {
    "id": "a-75151d7b4b3a",
@@ -1773,279 +2045,6 @@
    "ingested_at": "2026-10-23T21:15:07+00:00"
   },
   {
-   "id": "a-4dd00d06c3b1",
-   "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168650",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, according to new UN data published on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:14:56+00:00"
-  },
-  {
-   "id": "a-639866f8fbbe",
-   "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168647",
-   "published_date": "2026-10-22",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:16+00:00"
-  },
-  {
-   "id": "a-e5fafff8421e",
-   "title": "First human case of Shamonda virus reported in France as patient dies",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168652",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:15+00:00"
-  },
-  {
-   "id": "a-c63841147608",
-   "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168651",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The deadly flash flood that tore through Nepal in August is a “defining moment” for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics in crisis zones.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:15+00:00"
-  },
-  {
-   "id": "a-0767de44b995",
-   "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168650",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, according to new UN data published on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:15+00:00"
-  },
-  {
-   "id": "a-816f4d3a3b1c",
-   "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168648",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T11:20:36+00:00"
-  },
-  {
-   "id": "a-c8ecb21d9367",
-   "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168646",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T16:57:32+00:00"
-  },
-  {
-   "id": "a-c1da8e9ed943",
-   "title": "OPCW Director-General on official visit to the United Kingdom",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-official-visit-united-kingdom",
-   "published_date": "2026-10-22",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "OPCW Director-General on official visit to the United Kingdom OPCW Director-General Sabrina Dallafior at the Royal Society of Chemistry in London, United Kingdom. (Photo: MOD) THE HAGUE, Netherlands—22 October 2026— The OPCW Director-General Sabrina Dallafior paid an official visit to the United ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T16:56:43+00:00"
-  },
-  {
-   "id": "a-154948e993a5",
-   "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear",
-    "Radiological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-22T16:56:42+00:00"
-  },
-  {
-   "id": "a-ded1cccd4039",
-   "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168645",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:15:30+00:00"
-  },
-  {
-   "id": "a-e10d048ca808",
-   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168634",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:50:47+00:00"
-  },
-  {
-   "id": "a-9f810cf02281",
-   "title": "WHO supports Nigeria after first Ebola case confirmed",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:50:35+00:00"
-  },
-  {
-   "id": "a-e8049b523d1d",
-   "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:50:24+00:00"
-  },
-  {
-   "id": "a-7c852becf6b3",
-   "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168639",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:50:13+00:00"
-  },
-  {
-   "id": "a-2a526eca951e",
-   "title": "Summit in Samarkand, a boon for child wellbeing and health",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168640",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:50:01+00:00"
-  },
-  {
-   "id": "a-21bcd3be9a4c",
-   "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168642",
-   "published_date": "2026-10-21",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T16:49:50+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-04T19:54:30+00:00",
+ "updated_at": "2026-11-05T01:41:35+00:00",
  "sources_ok": "5/7"
 }
