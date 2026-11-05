@@ -1960,6 +1960,41 @@
    "ingested_at": "2026-10-23T16:48:57+00:00"
   },
   {
+   "id": "a-c1da8e9ed943",
+   "title": "OPCW Director-General on official visit to the United Kingdom",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-official-visit-united-kingdom",
+   "published_date": "2026-10-22",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW Director-General on official visit to the United Kingdom OPCW Director-General Sabrina Dallafior at the Royal Society of Chemistry in London, United Kingdom. (Photo: MOD) THE HAGUE, Netherlands—22 October 2026— The OPCW Director-General Sabrina Dallafior paid an official visit to the United ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T10:37:17+00:00"
+  },
+  {
+   "id": "a-154948e993a5",
+   "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+   "published_date": "2026-10-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Radiological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-05T10:37:15+00:00"
+  },
+  {
    "id": "a-8f44b2abc89a",
    "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
    "source_name": "UN News",
@@ -2009,40 +2044,6 @@
    "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
    "why_it_matters": "",
    "ingested_at": "2026-10-27T22:02:36+00:00"
-  },
-  {
-   "id": "a-ce60a328b1c5",
-   "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168646",
-   "published_date": "2026-10-22",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:15:19+00:00"
-  },
-  {
-   "id": "a-98abda942d1c",
-   "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168647",
-   "published_date": "2026-10-22",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:15:07+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-05T01:41:35+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-11-05T10:51:07+00:00",
+ "sources_ok": "4/7"
 }
