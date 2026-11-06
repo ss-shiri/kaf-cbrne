@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-fff56cd98578",
+   "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T10:38:03+00:00"
+  },
+  {
    "id": "a-7f7426a5e4f4",
    "title": "Two new Ebola vaccines to join DR Congo clinical trial",
    "source_name": "UN News",
@@ -1858,6 +1875,40 @@
    "ingested_at": "2026-10-27T22:00:58+00:00"
   },
   {
+   "id": "a-7f1865a28394",
+   "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-10-23",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T10:38:04+00:00"
+  },
+  {
+   "id": "a-24bbbb91bab1",
+   "title": "What is Nuclear Fuel?",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+   "published_date": "2026-10-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T10:38:04+00:00"
+  },
+  {
    "id": "a-9576f45bb824",
    "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
    "source_name": "UN News",
@@ -1992,57 +2043,6 @@
    "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
    "why_it_matters": "",
    "ingested_at": "2026-10-27T22:01:10+00:00"
-  },
-  {
-   "id": "a-f55efbc49c07",
-   "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168664",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-24T04:04:50+00:00"
-  },
-  {
-   "id": "a-e6f07c14f68a",
-   "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168661",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:14:44+00:00"
-  },
-  {
-   "id": "a-5fdb97649b75",
-   "title": "Soil mapping aims to boost agricultural production in Kenya",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168657",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-23T21:14:44+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-06T01:43:34+00:00",
+ "updated_at": "2026-11-06T10:53:10+00:00",
  "sources_ok": "5/7"
 }
