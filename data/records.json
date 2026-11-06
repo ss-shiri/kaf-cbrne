@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-43dc255e6121",
+   "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168753",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:08:50+00:00"
+  },
+  {
+   "id": "a-03d8d092e20f",
+   "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168752",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:08:50+00:00"
+  },
+  {
+   "id": "a-91074ab3ece0",
+   "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168751",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:08:49+00:00"
+  },
+  {
+   "id": "a-8d360b02bb30",
+   "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-374-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-11-06",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:08:36+00:00"
+  },
+  {
    "id": "a-fff56cd98578",
    "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
    "source_name": "IAEA",
@@ -103,6 +171,74 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-05T19:45:00+00:00"
+  },
+  {
+   "id": "a-d0fccca0e768",
+   "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168736",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:09:37+00:00"
+  },
+  {
+   "id": "a-7a2826a47745",
+   "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:09:27+00:00"
+  },
+  {
+   "id": "a-583d0c8849b9",
+   "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:09:15+00:00"
+  },
+  {
+   "id": "a-264576f3d2c1",
+   "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-06T19:09:04+00:00"
   },
   {
    "id": "a-1cd81742fe11",
@@ -1909,142 +2045,6 @@
    "ingested_at": "2026-11-06T10:38:04+00:00"
   },
   {
-   "id": "a-9576f45bb824",
-   "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:02:25+00:00"
-  },
-  {
-   "id": "a-d5c50ce176e2",
-   "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:02:15+00:00"
-  },
-  {
-   "id": "a-8fb739b36e4c",
-   "title": "Soil mapping aims to boost agricultural production in Kenya",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:02:04+00:00"
-  },
-  {
-   "id": "a-d489ba756c7f",
-   "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:01:53+00:00"
-  },
-  {
-   "id": "a-b6812b31de39",
-   "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:01:42+00:00"
-  },
-  {
-   "id": "a-062f585bf984",
-   "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:01:31+00:00"
-  },
-  {
-   "id": "a-1b74543b27d9",
-   "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:01:20+00:00"
-  },
-  {
-   "id": "a-29b403a6f4a3",
-   "title": "UN marks 81 years of global cooperation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:01:10+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-06T10:53:10+00:00",
+ "updated_at": "2026-11-06T19:25:08+00:00",
  "sources_ok": "5/7"
 }
