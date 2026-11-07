@@ -1,7 +1,41 @@
 {
- "compiled": "2026-11-06",
+ "compiled": "2026-11-07",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-5ffb2ba05a68",
+   "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168758",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-07T00:46:52+00:00"
+  },
+  {
+   "id": "a-e09a9ca936e4",
+   "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168757",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources cited by the UN aid coordination office (OCHA).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-07T00:46:52+00:00"
+  },
   {
    "id": "a-43dc255e6121",
    "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
@@ -2011,40 +2045,6 @@
    "ingested_at": "2026-10-27T22:00:58+00:00"
   },
   {
-   "id": "a-7f1865a28394",
-   "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-10-23",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T10:38:04+00:00"
-  },
-  {
-   "id": "a-24bbbb91bab1",
-   "title": "What is Nuclear Fuel?",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
-   "published_date": "2026-10-23",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T10:38:04+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-06T19:25:08+00:00",
+ "updated_at": "2026-11-07T00:58:15+00:00",
  "sources_ok": "5/7"
 }
