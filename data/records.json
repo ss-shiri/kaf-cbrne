@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-c30ff106d735",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "published_date": "2026-11-06",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:06+00:00"
+  },
+  {
    "id": "a-5ffb2ba05a68",
    "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
    "source_name": "UN News",
@@ -122,6 +139,40 @@
    "ingested_at": "2026-11-06T10:38:03+00:00"
   },
   {
+   "id": "a-dc0767fbda7e",
+   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+   "published_date": "2026-11-05",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:06+00:00"
+  },
+  {
+   "id": "a-65b402d7c247",
+   "title": "Post-Quantum Questions to Ask Your Vendors",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+   "published_date": "2026-11-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:06+00:00"
+  },
+  {
    "id": "a-7f7426a5e4f4",
    "title": "Two new Ebola vaccines to join DR Congo clinical trial",
    "source_name": "UN News",
@@ -205,6 +256,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-05T19:45:00+00:00"
+  },
+  {
+   "id": "a-813de4c5161e",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "published_date": "2026-11-04",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:06+00:00"
   },
   {
    "id": "a-d0fccca0e768",
@@ -477,6 +545,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-04T19:36:02+00:00"
+  },
+  {
+   "id": "a-9eeea507c578",
+   "title": "Subnet Solutions PowerSYSTEM Center",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+   "published_date": "2026-11-03",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x (CVE-2026-63017) ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:07+00:00"
+  },
+  {
+   "id": "a-11cc876a3d3c",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "published_date": "2026-11-03",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:06+00:00"
   },
   {
    "id": "a-00765cbbfac1",
@@ -1040,6 +1142,23 @@
    "ingested_at": "2026-10-31T17:05:49+00:00"
   },
   {
+   "id": "a-4558f14dadb7",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-10-30",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:07+00:00"
+  },
+  {
    "id": "a-de1dd2f98a0c",
    "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
    "source_name": "UN News",
@@ -1245,6 +1364,74 @@
    "ingested_at": "2026-10-30T17:53:21+00:00"
   },
   {
+   "id": "a-a74f30b27db9",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-10-29",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:08+00:00"
+  },
+  {
+   "id": "a-e1af92feb014",
+   "title": "Siemens Mendix SAML Module",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+   "published_date": "2026-10-29",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:08+00:00"
+  },
+  {
+   "id": "a-9960ec0bed57",
+   "title": "Hitachi Energy TRO600 series products",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+   "published_date": "2026-10-29",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:08+00:00"
+  },
+  {
+   "id": "a-9e1cb04af87b",
+   "title": "Hitachi Energy CoreTec Product",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+   "published_date": "2026-10-29",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:07+00:00"
+  },
+  {
    "id": "a-193a4962c93c",
    "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
    "source_name": "UN News",
@@ -1430,6 +1617,23 @@
    "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
    "why_it_matters": "",
    "ingested_at": "2026-10-30T09:47:56+00:00"
+  },
+  {
+   "id": "a-a21eeccb93bb",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-10-28",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:09+00:00"
   },
   {
    "id": "a-5101701d00c2",
@@ -1619,6 +1823,57 @@
    "ingested_at": "2026-10-28T20:09:22+00:00"
   },
   {
+   "id": "a-249b5ea48f7b",
+   "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+   "published_date": "2026-10-27",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:09+00:00"
+  },
+  {
+   "id": "a-95798b9ce354",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-10-27",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:09+00:00"
+  },
+  {
+   "id": "a-512680f6a104",
+   "title": "EPICS Base",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base release <=7.0.10 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-08T19:31:09+00:00"
+  },
+  {
    "id": "a-de1df18657be",
    "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
    "source_name": "UN News",
@@ -1787,262 +2042,6 @@
    "summary": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of a mandatory 21-day monitoring period.",
    "why_it_matters": "",
    "ingested_at": "2026-10-27T22:00:45+00:00"
-  },
-  {
-   "id": "a-867a2cb1b496",
-   "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "IAEA Director General Rafael Mariano Grossi called on countries to turn growing support for nuclear power into concrete results as the International Ministerial Conference on Nuclear Power opened in the Republic of Korea today, amid rising electricity demand and renewed efforts to strengthen ener",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:01+00:00"
-  },
-  {
-   "id": "a-3779d709d4ab",
-   "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T08:48:37+00:00"
-  },
-  {
-   "id": "a-c3020060fb5c",
-   "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:48:43+00:00"
-  },
-  {
-   "id": "a-1c1cf3c77b16",
-   "title": "In Egypt, Guterres warns against Iran-US escalation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-   "published_date": "2026-10-26",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T09:42:27+00:00"
-  },
-  {
-   "id": "a-41204b31234f",
-   "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T09:42:15+00:00"
-  },
-  {
-   "id": "a-0f508bbf45bf",
-   "title": "Women and girls’ share of civilian war deaths doubles since 2021",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168673",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T09:42:04+00:00"
-  },
-  {
-   "id": "a-2d17b1c9642d",
-   "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168667",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:48+00:00"
-  },
-  {
-   "id": "a-370c1293d4b6",
-   "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168672",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:46+00:00"
-  },
-  {
-   "id": "a-2c27ed853a26",
-   "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168674",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T15:14:46+00:00"
-  },
-  {
-   "id": "a-becf55e6f39f",
-   "title": "Women and girls’ share of civilian war deaths doubles since 2021",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168673",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T00:18:01+00:00"
-  },
-  {
-   "id": "a-dd60889a2135",
-   "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168670",
-   "published_date": "2026-10-26",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-26T20:23:15+00:00"
-  },
-  {
-   "id": "a-3d7a72ef8ce3",
-   "title": "In Egypt, Guterres warns against Iran-US escalation",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168669",
-   "published_date": "2026-10-26",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-26T20:23:15+00:00"
-  },
-  {
-   "id": "a-c3e30f097ba0",
-   "title": "Keynote Address by OPCW Deputy Director-General at the Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/10/keynote-address-opcw-deputy-director-general-annual-opcw",
-   "published_date": "2026-10-26",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Keynote Address by OPCW Deputy Director-General at the Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction kviray Mon 26/10/2026 - 14:41 Keynote Address by OPCW Deputy Director-General Mekondjo Kaapanda-Girnus at the Annual OPCW-Asser Training ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-26T20:22:40+00:00"
-  },
-  {
-   "id": "a-e1a7be4d45bc",
-   "title": "Why do planes keep circling before landing? UN has a plan to fix it",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168666",
-   "published_date": "2026-10-25",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:48+00:00"
-  },
-  {
-   "id": "a-3a4308c9a67e",
-   "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-   "published_date": "2026-10-24",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:58+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-08T13:19:53+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-11-08T19:43:37+00:00",
+ "sources_ok": "6/7"
 }
