@@ -3,6 +3,210 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9b5a867bbd19",
+   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-09",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:13:23+00:00"
+  },
+  {
+   "id": "a-32c884432307",
+   "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168760",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47℃.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:24+00:00"
+  },
+  {
+   "id": "a-bab7433ca784",
+   "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168763",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions. With a powerful El Niño threatening to worsen extreme weather, negotiators face difficult questions over climate finance, clean ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:23+00:00"
+  },
+  {
+   "id": "a-041ebfb92998",
+   "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168762",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia for the Moyale region in northern Kenya.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:23+00:00"
+  },
+  {
+   "id": "a-85367e33a699",
+   "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168761",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council is meeting in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:23+00:00"
+  },
+  {
+   "id": "a-154c52489f74",
+   "title": "Nuclear Safeguards in a Changing World – 15th Symposium on International Safeguards Opens in Vienna",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/nuclear-safeguards-in-a-changing-world-15th-symposium-on-international-safeguards-opens-in-vienna",
+   "published_date": "2026-11-09",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:10+00:00"
+  },
+  {
+   "id": "a-3d26599d339f",
+   "title": "Safeguards: Our Shared Responsibility",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/safeguards-our-shared-responsibility",
+   "published_date": "2026-11-09",
+   "doc_type": "safeguards report",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:10+00:00"
+  },
+  {
+   "id": "a-a0d5d2724873",
+   "title": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-slovakia-is-committed-to-strengthening-nuclear-and-radiation-safety-regulatory-framework",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:10+00:00"
+  },
+  {
+   "id": "a-fa17162ceecd",
+   "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168756",
+   "published_date": "2026-11-08",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his synagogue burn while firefighters and police officers stood by “rejoicing”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:24+00:00"
+  },
+  {
+   "id": "a-3988dd46adfe",
+   "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168759",
+   "published_date": "2026-11-07",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:24+00:00"
+  },
+  {
+   "id": "a-11e51e428e26",
+   "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:47+00:00"
+  },
+  {
+   "id": "a-1deaab3c6c61",
+   "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:36+00:00"
+  },
+  {
    "id": "a-c30ff106d735",
    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
    "source_name": "CISA Advisories",
@@ -139,6 +343,74 @@
    "ingested_at": "2026-11-06T10:38:03+00:00"
   },
   {
+   "id": "a-4b96b51a32fb",
+   "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+   "published_date": "2026-11-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:10:32+00:00"
+  },
+  {
+   "id": "a-841c9964b9b1",
+   "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+   "published_date": "2026-11-05",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:10:20+00:00"
+  },
+  {
+   "id": "a-9d9cf52b5c36",
+   "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+   "published_date": "2026-11-05",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:10:09+00:00"
+  },
+  {
+   "id": "a-692ff34928d4",
+   "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+   "published_date": "2026-11-05",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:09:59+00:00"
+  },
+  {
    "id": "a-dc0767fbda7e",
    "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
    "source_name": "CISA Advisories",
@@ -256,6 +528,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-05T19:45:00+00:00"
+  },
+  {
+   "id": "a-d46b4b4f6a83",
+   "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:10:53+00:00"
+  },
+  {
+   "id": "a-72601d3d511c",
+   "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+   "published_date": "2026-11-04",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T22:10:43+00:00"
   },
   {
    "id": "a-813de4c5161e",
@@ -1738,312 +2044,6 @@
    "ingested_at": "2026-10-31T04:58:01+00:00"
   },
   {
-   "id": "a-feb8f2bd8552",
-   "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168696",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T09:41:51+00:00"
-  },
-  {
-   "id": "a-135de968fd32",
-   "title": "UN human rights chief urges better protection of civilians in conflicts",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168695",
-   "published_date": "2026-10-28",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T09:41:51+00:00"
-  },
-  {
-   "id": "a-42d4b7bb06bb",
-   "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168694",
-   "published_date": "2026-10-28",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-29T00:41:53+00:00"
-  },
-  {
-   "id": "a-880f27bde78a",
-   "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168691",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect those who document conflict.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T20:09:34+00:00"
-  },
-  {
-   "id": "a-bfd8b4acda0f",
-   "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T20:09:22+00:00"
-  },
-  {
-   "id": "a-867a2cb1b496",
-   "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "IAEA Director General Rafael Mariano Grossi called on countries to turn growing support for nuclear power into concrete results as the International Ministerial Conference on Nuclear Power opened in the Republic of Korea today, amid rising electricity demand and renewed efforts to strengthen ener",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T00:40:08+00:00"
-  },
-  {
-   "id": "a-3779d709d4ab",
-   "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T00:40:08+00:00"
-  },
-  {
-   "id": "a-249b5ea48f7b",
-   "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-   "published_date": "2026-10-27",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:09+00:00"
-  },
-  {
-   "id": "a-95798b9ce354",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-10-27",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:09+00:00"
-  },
-  {
-   "id": "a-512680f6a104",
-   "title": "EPICS Base",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base release <=7.0.10 ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:09+00:00"
-  },
-  {
-   "id": "a-de1df18657be",
-   "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
-   "published_date": "2026-10-27",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T22:07:58+00:00"
-  },
-  {
-   "id": "a-496da81f19f1",
-   "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:48:32+00:00"
-  },
-  {
-   "id": "a-29a58c045d25",
-   "title": "Security Council LIVE: Women and girls face greater dangers in war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:48:21+00:00"
-  },
-  {
-   "id": "a-8f52edd8e7fb",
-   "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:48:09+00:00"
-  },
-  {
-   "id": "a-d256d978eb43",
-   "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168685",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T12:29:22+00:00"
-  },
-  {
-   "id": "a-7dfca9a142c5",
-   "title": "Security Council LIVE: Women and girls face greater dangers in war",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168684",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T12:29:22+00:00"
-  },
-  {
-   "id": "a-2ddbaa972172",
-   "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168682",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T12:29:22+00:00"
-  },
-  {
-   "id": "a-950f8b6f9878",
-   "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168686",
-   "published_date": "2026-10-27",
-   "doc_type": "policy",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-28T12:29:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-09T11:26:26+00:00",
+ "updated_at": "2026-11-09T22:28:25+00:00",
  "sources_ok": "6/7"
 }
