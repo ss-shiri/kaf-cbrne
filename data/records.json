@@ -1,5 +1,5 @@
 {
- "compiled": "2026-11-08",
+ "compiled": "2026-11-09",
  "source": "curated + auto",
  "records": [
   {
@@ -1823,6 +1823,40 @@
    "ingested_at": "2026-10-28T20:09:22+00:00"
   },
   {
+   "id": "a-867a2cb1b496",
+   "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "IAEA Director General Rafael Mariano Grossi called on countries to turn growing support for nuclear power into concrete results as the International Ministerial Conference on Nuclear Power opened in the Republic of Korea today, amid rising electricity demand and renewed efforts to strengthen ener",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T00:40:08+00:00"
+  },
+  {
+   "id": "a-3779d709d4ab",
+   "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
+   "published_date": "2026-10-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-09T00:40:08+00:00"
+  },
+  {
    "id": "a-249b5ea48f7b",
    "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
    "source_name": "CISA Advisories",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-10-28T12:29:21+00:00"
   },
   {
-   "id": "a-e14db94048b2",
-   "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168677",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:45+00:00"
-  },
-  {
-   "id": "a-c8e14a1c8da3",
-   "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168676",
-   "published_date": "2026-10-27",
-   "doc_type": "news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of a mandatory 21-day monitoring period.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-27T22:00:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-08T19:43:37+00:00",
+ "updated_at": "2026-11-09T00:52:03+00:00",
  "sources_ok": "6/7"
 }
