@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-7c144cb6ba2d",
+   "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-10",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T23:05:35+00:00"
+  },
+  {
+   "id": "a-b2e871f01bfa",
+   "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168778",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T23:03:32+00:00"
+  },
+  {
    "id": "a-79e528c62522",
    "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-10-30T09:47:56+00:00"
   },
   {
-   "id": "a-ea0421679e2e",
-   "title": "Russia drone strike on Ukrainian railway station kills 13",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168702",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:47:56+00:00"
-  },
-  {
-   "id": "a-bfd8b4acda0f",
-   "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-10T06:48:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-10T17:12:02+00:00",
+ "updated_at": "2026-11-10T23:21:45+00:00",
  "sources_ok": "6/7"
 }
