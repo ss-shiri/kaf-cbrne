@@ -3,6 +3,57 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-79e528c62522",
+   "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168774",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence. Ambassadors are expected to press for an inclusive process and credible polls, while civilians bear ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T16:54:36+00:00"
+  },
+  {
+   "id": "a-535d9cd3ede1",
+   "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168771",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF, said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T16:54:36+00:00"
+  },
+  {
+   "id": "a-2aa4b1dd8923",
+   "title": "IAEA at COP31: Nuclear for Energy Security",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-at-cop31-nuclear-for-energy-security",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T16:54:12+00:00"
+  },
+  {
    "id": "a-eef6cf871e9a",
    "title": "IAEA Mission says Jordan is Committed to Strengthening Radiation and Nuclear Safety Oversight",
    "source_name": "IAEA",
@@ -18,6 +69,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-10T06:48:55+00:00"
+  },
+  {
+   "id": "a-1248ae046766",
+   "title": "Seven Ways Nuclear Science Helps Protect the Environment",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/seven-ways-nuclear-science-helps-protect-the-environment",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "This week, global leaders, international organizations, scientists, business representatives and civil society are gathering in Antalya, Türkiye, for the 31st United Nations Climate Change Conference (COP31).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-10T16:54:12+00:00"
   },
   {
    "id": "a-e3860b002cf9",
@@ -1976,74 +2044,6 @@
    "ingested_at": "2026-11-10T06:48:55+00:00"
   },
   {
-   "id": "a-a21eeccb93bb",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-10-28",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:09+00:00"
-  },
-  {
-   "id": "a-5101701d00c2",
-   "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168693",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:55:29+00:00"
-  },
-  {
-   "id": "a-db37295de9dc",
-   "title": "Higher Ground: How New York is raising a park to hold back the sea",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "On 29 October 2012, Hurricane Sandy slammed into New York City, unleashing a devastating storm surge that flooded homes, subways and tunnels, knocked out power and sparked deadly fires.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:54:43+00:00"
-  },
-  {
-   "id": "a-0f8ffd49886e",
-   "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-   "published_date": "2026-10-28",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-01T12:59:22+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-10T07:07:31+00:00",
+ "updated_at": "2026-11-10T17:12:02+00:00",
  "sources_ok": "6/7"
 }
