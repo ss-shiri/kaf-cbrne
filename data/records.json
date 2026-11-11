@@ -105,6 +105,23 @@
    "ingested_at": "2026-11-10T06:48:55+00:00"
   },
   {
+   "id": "a-1a42a6d5e8c9",
+   "title": "Seven Ways Nuclear Science and Technology Help Protect the Environment",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/seven-ways-nuclear-science-and-technology-help-protect-the-environment",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "This week, global leaders, international organizations, scientists, business representatives and civil society are gathering in Antalya, Türkiye, for the 31st United Nations Climate Change Conference (COP31).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-11T13:54:14+00:00"
+  },
+  {
    "id": "a-1248ae046766",
    "title": "Seven Ways Nuclear Science Helps Protect the Environment",
    "source_name": "IAEA",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-10-30T09:47:56+00:00"
   },
   {
-   "id": "a-faeacf89e805",
-   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168703",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:47:56+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-11T05:53:50+00:00",
+ "updated_at": "2026-11-11T14:07:07+00:00",
  "sources_ok": "6/7"
 }
