@@ -3,6 +3,159 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9b0d92b5130f",
+   "title": "Siemens Industrial Edge Management",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:33:42+00:00"
+  },
+  {
+   "id": "a-6ddf4da7555e",
+   "title": "Siemens Desigo, Gridscale",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:33:41+00:00"
+  },
+  {
+   "id": "a-60a8530e1366",
+   "title": "Siemens RUGGEDCOM APE1808",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:33:41+00:00"
+  },
+  {
+   "id": "a-aaf02b53cbb8",
+   "title": "Siemens RUGGEDCOM APE1808",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:33:41+00:00"
+  },
+  {
+   "id": "a-af7da497986f",
+   "title": "Siemens Building Automation and Energy Products",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:33:41+00:00"
+  },
+  {
+   "id": "a-c989b3b40adb",
+   "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168789",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:29:13+00:00"
+  },
+  {
+   "id": "a-f4867c697824",
+   "title": "IAEA Sees Commitment to Operational Safety at Unit 2 of Kori Nuclear Power Plant in Republic of Korea",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-sees-commitment-to-operational-safety-at-unit-2-of-kori-nuclear-power-plant-in-republic-of-korea",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:28:20+00:00"
+  },
+  {
+   "id": "a-ef4806063320",
+   "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:28:20+00:00"
+  },
+  {
+   "id": "a-3fb0e81e16a4",
+   "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168784",
+   "published_date": "2026-11-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:29:14+00:00"
+  },
+  {
    "id": "a-7c144cb6ba2d",
    "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
    "source_name": "CISA Advisories",
@@ -103,6 +256,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-10T06:48:55+00:00"
+  },
+  {
+   "id": "a-c701cede1920",
+   "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met in New York on Ukraine Monday. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:29:28+00:00"
   },
   {
    "id": "a-1a42a6d5e8c9",
@@ -324,6 +494,23 @@
    "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.",
    "why_it_matters": "",
    "ingested_at": "2026-11-09T22:09:24+00:00"
+  },
+  {
+   "id": "a-6909591d28f3",
+   "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+   "published_date": "2026-11-06",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources cited by the UN aid coordination office (OCHA).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-12T17:29:41+00:00"
   },
   {
    "id": "a-11e51e428e26",
@@ -1857,193 +2044,6 @@
    "ingested_at": "2026-11-08T19:31:08+00:00"
   },
   {
-   "id": "a-9960ec0bed57",
-   "title": "Hitachi Energy TRO600 series products",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
-   "published_date": "2026-10-29",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:08+00:00"
-  },
-  {
-   "id": "a-9e1cb04af87b",
-   "title": "Hitachi Energy CoreTec Product",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-   "published_date": "2026-10-29",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:07+00:00"
-  },
-  {
-   "id": "a-193a4962c93c",
-   "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168697",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Opium production in Afghanistan has risen fivefold in a year. According to a UN survey released on Thursday, it’s the first significant increase since the Taliban banned poppy cultivation in 2022.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:54:33+00:00"
-  },
-  {
-   "id": "a-b63b75452e6b",
-   "title": "Nature is making a comeback – now restoration funding must quadruple",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:54:11+00:00"
-  },
-  {
-   "id": "a-357deb23e3d3",
-   "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds. For many people, it feels like a technological leap on par with the arrival of the internet itself.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:53:38+00:00"
-  },
-  {
-   "id": "a-245f02a2574f",
-   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:06:49+00:00"
-  },
-  {
-   "id": "a-f83ec3a8cc33",
-   "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-   "published_date": "2026-10-29",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:06:37+00:00"
-  },
-  {
-   "id": "a-14524b2fb7b6",
-   "title": "Russia drone strike on Ukrainian railway station kills 13",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-02T21:36:13+00:00"
-  },
-  {
-   "id": "a-e7faef58974c",
-   "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-01T19:26:58+00:00"
-  },
-  {
-   "id": "a-f6dea12bbdb9",
-   "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168698",
-   "published_date": "2026-10-29",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:47:57+00:00"
-  },
-  {
-   "id": "a-cfc0e51db14c",
-   "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168705",
-   "published_date": "2026-10-29",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T09:47:56+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-12T06:59:23+00:00",
+ "updated_at": "2026-11-12T17:49:25+00:00",
  "sources_ok": "6/7"
 }
