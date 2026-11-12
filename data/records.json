@@ -2010,38 +2010,38 @@
    "ingested_at": "2026-10-30T17:53:21+00:00"
   },
   {
-   "id": "a-a74f30b27db9",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "id": "a-9960ec0bed57",
+   "title": "Hitachi Energy TRO600 series products",
    "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
    "published_date": "2026-10-29",
    "doc_type": "advisory",
    "domain_tags": [
-    "Multi"
+    "Biological"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and ...",
+   "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to ...",
    "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:08+00:00"
+   "ingested_at": "2026-11-12T23:28:43+00:00"
   },
   {
-   "id": "a-e1af92feb014",
-   "title": "Siemens Mendix SAML Module",
+   "id": "a-9e1cb04af87b",
+   "title": "Hitachi Energy CoreTec Product",
    "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
    "published_date": "2026-10-29",
    "doc_type": "advisory",
    "domain_tags": [
-    "Multi"
+    "Biological"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products ...",
+   "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. ...",
    "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:08+00:00"
+   "ingested_at": "2026-11-12T23:28:43+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-12T17:49:25+00:00",
+ "updated_at": "2026-11-12T23:40:59+00:00",
  "sources_ok": "6/7"
 }
