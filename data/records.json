@@ -3,6 +3,40 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-950edb152ced",
+   "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168797",
+   "published_date": "2026-11-13",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T14:21:11+00:00"
+  },
+  {
+   "id": "a-063378382357",
+   "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168796",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T14:21:11+00:00"
+  },
+  {
    "id": "a-9b0d92b5130f",
    "title": "Siemens Industrial Edge Management",
    "source_name": "CISA Advisories",
@@ -2010,40 +2044,6 @@
    "ingested_at": "2026-10-30T17:53:21+00:00"
   },
   {
-   "id": "a-e1af92feb014",
-   "title": "Siemens Mendix SAML Module",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-   "published_date": "2026-10-29",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T05:59:32+00:00"
-  },
-  {
-   "id": "a-a74f30b27db9",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-10-29",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T05:59:31+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-13T06:11:34+00:00",
- "sources_ok": "5/7"
+ "updated_at": "2026-11-13T14:34:14+00:00",
+ "sources_ok": "6/7"
 }
