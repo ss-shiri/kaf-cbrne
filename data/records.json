@@ -3,6 +3,108 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-9e11664a2746",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-13",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:49+00:00"
+  },
+  {
+   "id": "a-a9d00a71a18c",
+   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168804",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:55+00:00"
+  },
+  {
+   "id": "a-a58c769369a8",
+   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168802",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:55+00:00"
+  },
+  {
+   "id": "a-f4d71bcbbb70",
+   "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168799",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:55+00:00"
+  },
+  {
+   "id": "a-f47f8d13f2c4",
+   "title": "COP31: New initiative targets AI and reliable climate change information",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168798",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:55+00:00"
+  },
+  {
+   "id": "a-b6420b47bca4",
+   "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-japans-mihama-nuclear-power-plant",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:38+00:00"
+  },
+  {
    "id": "a-950edb152ced",
    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
    "source_name": "UN News",
@@ -18,6 +120,74 @@
    "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
    "why_it_matters": "",
    "ingested_at": "2026-11-13T14:21:11+00:00"
+  },
+  {
+   "id": "a-dd6e1248a6cd",
+   "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168792",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:57+00:00"
+  },
+  {
+   "id": "a-742068532ea8",
+   "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168790",
+   "published_date": "2026-11-12",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:57+00:00"
+  },
+  {
+   "id": "a-b0b6338ea548",
+   "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168793",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:56+00:00"
+  },
+  {
+   "id": "a-89a27d53f5c0",
+   "title": "New platform aims to get money moving before disaster strikes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168794",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:19:56+00:00"
   },
   {
    "id": "a-063378382357",
@@ -173,6 +343,74 @@
    "ingested_at": "2026-11-12T17:28:20+00:00"
   },
   {
+   "id": "a-f3556494f441",
+   "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+   "published_date": "2026-11-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:19+00:00"
+  },
+  {
+   "id": "a-802391770f9a",
+   "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168787",
+   "published_date": "2026-11-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:13+00:00"
+  },
+  {
+   "id": "a-78b254a857df",
+   "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+   "published_date": "2026-11-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:08+00:00"
+  },
+  {
+   "id": "a-d5631993a8c9",
+   "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
+   "published_date": "2026-11-11",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitarian situation in Gaza, as UN member states and partners have been repeatedly delaying sending their support to the Strip.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:03+00:00"
+  },
+  {
    "id": "a-3fb0e81e16a4",
    "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
    "source_name": "UN News",
@@ -188,6 +426,159 @@
    "summary": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
    "why_it_matters": "",
    "ingested_at": "2026-11-12T17:29:14+00:00"
+  },
+  {
+   "id": "a-32adc05089ac",
+   "title": "Climate crisis could push 141 million more women into extreme poverty",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168770",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:11+00:00"
+  },
+  {
+   "id": "a-e72315386d7e",
+   "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF), said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:05+00:00"
+  },
+  {
+   "id": "a-b198a545939a",
+   "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168772",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Quality health data can help authorities to identify emerging threats and take lifesaving action, but a new report reveals critical gaps in Africa’s health information systems.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:59+00:00"
+  },
+  {
+   "id": "a-240484a34872",
+   "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence. Ambassadors are expected to press for an inclusive process and credible polls, while civilians bear ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:53+00:00"
+  },
+  {
+   "id": "a-fa4155f3e21e",
+   "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:48+00:00"
+  },
+  {
+   "id": "a-7f81610ca649",
+   "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168778",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:42+00:00"
+  },
+  {
+   "id": "a-87aafe9469fe",
+   "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168779",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:36+00:00"
+  },
+  {
+   "id": "a-36fdbcfb8efd",
+   "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168781",
+   "published_date": "2026-11-10",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the International Organization for Migration (IOM) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:31+00:00"
+  },
+  {
+   "id": "a-78ae27494cb0",
+   "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168782",
+   "published_date": "2026-11-10",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented with tools that already exist, the World Health Organization (WHO) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:20:25+00:00"
   },
   {
    "id": "a-7c144cb6ba2d",
@@ -290,6 +681,91 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-10T06:48:55+00:00"
+  },
+  {
+   "id": "a-3e9d0d7d5e13",
+   "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia for the Moyale region in northern Kenya.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:38+00:00"
+  },
+  {
+   "id": "a-408516b2a63e",
+   "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions. With a powerful El Niño threatening to worsen extreme weather, negotiators face difficult questions over climate finance, clean ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:33+00:00"
+  },
+  {
+   "id": "a-e4a0c05834f4",
+   "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168766",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "An infant reportedly drowned and five Gazans were killed – including three children – when a sand dune collapsed on their tents as the first heavy rains swept across the enclave at the weekend, according to the UN aid coordination office (OCHA).",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:27+00:00"
+  },
+  {
+   "id": "a-fe34be420e0a",
+   "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The El Niño extreme weather pattern could cost the global economy up to $11 trillion and seriously impact food security, said the UN agency tackling rural poverty in developing countries on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:22+00:00"
+  },
+  {
+   "id": "a-3c362caca056",
+   "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168769",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "At least 56 people died in a series of shipwrecks off Senegal and Greece over the weekend, the International Organization for Migration (IOM) said on Monday, calling it a stark reminder of the deadly risks they face on the Atlantic and Mediterranean.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-13T21:21:16+00:00"
   },
   {
    "id": "a-c701cede1920",
@@ -1567,483 +2043,6 @@
    "ingested_at": "2026-11-03T20:51:34+00:00"
   },
   {
-   "id": "a-a4f3425c7f7d",
-   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-   "published_date": "2026-11-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:05:18+00:00"
-  },
-  {
-   "id": "a-26e94bd4766b",
-   "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168723",
-   "published_date": "2026-11-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:05:06+00:00"
-  },
-  {
-   "id": "a-d2fec198c35f",
-   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168722",
-   "published_date": "2026-11-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-02T21:35:59+00:00"
-  },
-  {
-   "id": "a-ca10307da42c",
-   "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168718",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:26:20+00:00"
-  },
-  {
-   "id": "a-2a57d8af7b3b",
-   "title": "Breaking the silence in Mexico’s barracks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:26:08+00:00"
-  },
-  {
-   "id": "a-75151d7b4b3a",
-   "title": "Breaking the silence in Mexico’s barracks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168715",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:51:35+00:00"
-  },
-  {
-   "id": "a-66fc41e792c0",
-   "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168718",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:51:35+00:00"
-  },
-  {
-   "id": "a-74cce523b4c1",
-   "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:05:30+00:00"
-  },
-  {
-   "id": "a-2e7edb4cf583",
-   "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168717",
-   "published_date": "2026-11-01",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-01T19:26:44+00:00"
-  },
-  {
-   "id": "a-39436360eea6",
-   "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country’s history.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:52:09+00:00"
-  },
-  {
-   "id": "a-3eb3953ecd0d",
-   "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:51:57+00:00"
-  },
-  {
-   "id": "a-78b3e5f40cfc",
-   "title": "Somalia looks to the future as the UN's political mission closes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168714",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:05:52+00:00"
-  },
-  {
-   "id": "a-98ef9f8e6769",
-   "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:05:41+00:00"
-  },
-  {
-   "id": "a-f998aaeeadf6",
-   "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168716",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-01T05:27:21+00:00"
-  },
-  {
-   "id": "a-76680235a6d9",
-   "title": "Somalia looks to the future as the UN's political mission closes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168714",
-   "published_date": "2026-10-31",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,” Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa country comes to an end ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-31T17:05:49+00:00"
-  },
-  {
-   "id": "a-4558f14dadb7",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-10-30",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:07+00:00"
-  },
-  {
-   "id": "a-de1dd2f98a0c",
-   "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:53:05+00:00"
-  },
-  {
-   "id": "a-e83b4381c11e",
-   "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-   "published_date": "2026-10-30",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:52:54+00:00"
-  },
-  {
-   "id": "a-e40e0cb63fdb",
-   "title": "Yemen war makes reaching assistance too dangerous for many",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:06:26+00:00"
-  },
-  {
-   "id": "a-a9a4069731e8",
-   "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:06:14+00:00"
-  },
-  {
-   "id": "a-613586cbdc7f",
-   "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T06:06:03+00:00"
-  },
-  {
-   "id": "a-e8b3c43487d7",
-   "title": "Denmark provides more than EUR 800,000 in voluntary funding to enhance OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/11/denmark-provides-more-eur-800000-voluntary-funding-enhance-opcws-work",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Denmark provides more than EUR 800,000 in voluntary funding to enhance OPCW’s work H.E. Mr Ulf Melgaard, Permanent Representative of the Kingdom of Denmark to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Kingdom of Denmark has contributed more than EUR 800,000 to the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-02T21:35:45+00:00"
-  },
-  {
-   "id": "a-96f5223c02af",
-   "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168713",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-31T04:57:48+00:00"
-  },
-  {
-   "id": "a-51c44d0fda7d",
-   "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168712",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-31T04:57:48+00:00"
-  },
-  {
-   "id": "a-825b815c3250",
-   "title": "Yemen war makes reaching assistance too dangerous for many",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/10/1168706",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T22:07:44+00:00"
-  },
-  {
-   "id": "a-cf274565f86d",
-   "title": "Keynote Address by OPCW Deputy Director-General H.E. Mrs Mekondjo Kaapanda-Girnus at Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/10/keynote-address-opcw-deputy-director-general-he-mrs",
-   "published_date": "2026-10-30",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Keynote Address by OPCW Deputy Director-General H.E. Mrs Mekondjo Kaapanda-Girnus at Annual OPCW-Asser Training Programme on Disarmament and Non-Proliferation of Weapons of Mass Destruction ppuhm Fri 30/10/2026 - 13:58 Good morning, everyone. It is my pleasure to open this annual training programme ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T17:53:22+00:00"
-  },
-  {
-   "id": "a-9ba72c1a64fa",
-   "title": "Update 373 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-10-30",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T17:53:21+00:00"
-  },
-  {
-   "id": "a-2ce65e8b6cb8",
-   "title": "How Nuclear Technology Is Helping Cities Become More Sustainable",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/how-nuclear-technology-is-helping-cities-become-more-sustainable",
-   "published_date": "2026-10-30",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-10-30T17:53:21+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-13T14:34:14+00:00",
+ "updated_at": "2026-11-13T21:31:20+00:00",
  "sources_ok": "6/7"
 }
