@@ -3,6 +3,92 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-bba2bf8b25cb",
+   "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168814",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T21:51:29+00:00"
+  },
+  {
+   "id": "a-2eeeab6f7756",
+   "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168810",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T21:51:29+00:00"
+  },
+  {
+   "id": "a-7994c2a86d53",
+   "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168809",
+   "published_date": "2026-11-16",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T21:51:29+00:00"
+  },
+  {
+   "id": "a-f8696c27fcd7",
+   "title": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/finland-provides-eur-50000-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work H.E. Mr Mikael Antell, Permanent Representative of the Republic of Finland to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Republic of Finland contributed EUR 50,000 to the Trust Fund for the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T21:50:58+00:00"
+  },
+  {
+   "id": "a-58cd20f9edf7",
+   "title": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/11/closing-remarks-deputy-director-general-mekondjo-kaapanda",
+   "published_date": "2026-11-16",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW kviray Mon 16/11/2026 - 12:49 Closing remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Dear Excellencies, Distinguished delegates, It ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T21:50:58+00:00"
+  },
+  {
    "id": "a-b1e305dbfc9e",
    "title": "Spain provides EUR 350,000 in voluntary funding to support OPCW’s work",
    "source_name": "OPCW",
@@ -1958,91 +2044,6 @@
    "ingested_at": "2026-11-05T01:25:12+00:00"
   },
   {
-   "id": "a-9ac291e730e1",
-   "title": "Gender equality pays off for business – so why are companies pulling back?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168726",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:25:01+00:00"
-  },
-  {
-   "id": "a-ef087554bb56",
-   "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168728",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its personnel who went missing after a gang ambush.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:50+00:00"
-  },
-  {
-   "id": "a-dd1944ccf611",
-   "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:38+00:00"
-  },
-  {
-   "id": "a-19e85c28e99b",
-   "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168731",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-04T10:42:08+00:00"
-  },
-  {
-   "id": "a-e1f80f58d8e0",
-   "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168729",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-04T01:08:27+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-16T11:05:03+00:00",
+ "updated_at": "2026-11-16T22:07:59+00:00",
  "sources_ok": "6/7"
 }
