@@ -1,5 +1,5 @@
 {
- "compiled": "2026-11-15",
+ "compiled": "2026-11-16",
  "source": "curated + auto",
  "records": [
   {
@@ -20,6 +20,23 @@
    "ingested_at": "2026-11-15T18:41:27+00:00"
   },
   {
+   "id": "a-16a78eb8270a",
+   "title": "When the rains fail: Preparing for drought in Central America",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168776",
+   "published_date": "2026-11-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:53:24+00:00"
+  },
+  {
    "id": "a-ebfee1fa9e52",
    "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
    "source_name": "IAEA",
@@ -35,6 +52,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-14T13:16:36+00:00"
+  },
+  {
+   "id": "a-4aceda8a4188",
+   "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168803",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:53:24+00:00"
   },
   {
    "id": "a-9e11664a2746",
@@ -154,6 +188,74 @@
    "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
    "why_it_matters": "",
    "ingested_at": "2026-11-13T14:21:11+00:00"
+  },
+  {
+   "id": "a-200bd15f5286",
+   "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:54:13+00:00"
+  },
+  {
+   "id": "a-75ada87ae2a8",
+   "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
+   "published_date": "2026-11-12",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:54:02+00:00"
+  },
+  {
+   "id": "a-b058a4d31e2f",
+   "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168792",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:53:51+00:00"
+  },
+  {
+   "id": "a-8859da0295ee",
+   "title": "New platform aims to get money moving before disaster strikes",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-16T00:53:40+00:00"
   },
   {
    "id": "a-dd6e1248a6cd",
@@ -1941,108 +2043,6 @@
    "ingested_at": "2026-11-04T01:08:27+00:00"
   },
   {
-   "id": "a-c79433217961",
-   "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168728",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its soldiers who went missing after a gang ambush.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-04T01:08:27+00:00"
-  },
-  {
-   "id": "a-7c925c8d24c2",
-   "title": "Gender equality pays off for business – so why are companies pulling back?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168726",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:51:33+00:00"
-  },
-  {
-   "id": "a-8d6d0182a8a7",
-   "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168724",
-   "published_date": "2026-11-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T20:51:33+00:00"
-  },
-  {
-   "id": "a-0c6e05fe5cfb",
-   "title": "IAEA Launches Global Network to Help Countries Monitor and Protect the World’s Lakes",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-launches-global-network-to-help-countries-monitor-and-protect-the-worlds-lakes",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-03T14:00:21+00:00"
-  },
-  {
-   "id": "a-eedb66b32e87",
-   "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-   "published_date": "2026-11-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-15T10:37:03+00:00"
-  },
-  {
-   "id": "a-a4f3425c7f7d",
-   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-   "published_date": "2026-11-02",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-14T05:51:38+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2226,6 +2226,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-15T18:57:28+00:00",
+ "updated_at": "2026-11-16T01:11:03+00:00",
  "sources_ok": "6/7"
 }
