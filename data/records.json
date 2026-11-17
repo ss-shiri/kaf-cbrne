@@ -1,7 +1,109 @@
 {
- "compiled": "2026-11-16",
+ "compiled": "2026-11-17",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-82147ad70ca8",
+   "title": "AI gets climate science right – until users push back",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168817",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:27+00:00"
+  },
+  {
+   "id": "a-c3eb5fa716f7",
+   "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168812",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:27+00:00"
+  },
+  {
+   "id": "a-97345ae4dc3e",
+   "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168811",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:27+00:00"
+  },
+  {
+   "id": "a-13bf6e98dde8",
+   "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168820",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:26+00:00"
+  },
+  {
+   "id": "a-44c900177d40",
+   "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168819",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:26+00:00"
+  },
+  {
+   "id": "a-33adae2973de",
+   "title": "Lebanon leading the way in mental health support",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168818",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:26+00:00"
+  },
   {
    "id": "a-bba2bf8b25cb",
    "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
@@ -106,6 +208,57 @@
    "ingested_at": "2026-11-16T10:51:43+00:00"
   },
   {
+   "id": "a-3828e7d050ad",
+   "title": "Nadia Murad: ‘Day by day, I took my story back’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+   "published_date": "2026-11-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:50+00:00"
+  },
+  {
+   "id": "a-f28f518eaac5",
+   "title": "Empowering faith and Indigenous leaders to combat hate",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
+   "published_date": "2026-11-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:39+00:00"
+  },
+  {
+   "id": "a-07984c89ff95",
+   "title": "First Person: Managing risk on Ukraine’s frontline",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168807",
+   "published_date": "2026-11-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:26:28+00:00"
+  },
+  {
    "id": "a-4ebd5de96f3c",
    "title": "Nadia Murad: ‘Day by day, I took my story back’",
    "source_name": "UN News",
@@ -121,6 +274,23 @@
    "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
    "why_it_matters": "",
    "ingested_at": "2026-11-15T18:41:27+00:00"
+  },
+  {
+   "id": "a-e8e012057f40",
+   "title": "When the rains fail: Preparing for drought in Central America",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+   "published_date": "2026-11-14",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:01+00:00"
   },
   {
    "id": "a-16a78eb8270a",
@@ -155,6 +325,108 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-14T13:16:36+00:00"
+  },
+  {
+   "id": "a-b7001a125925",
+   "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+   "published_date": "2026-11-13",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:28:07+00:00"
+  },
+  {
+   "id": "a-98ef7356fa15",
+   "title": "COP31: New initiative targets AI and reliable climate change information",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:56+00:00"
+  },
+  {
+   "id": "a-c655b64f8185",
+   "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:45+00:00"
+  },
+  {
+   "id": "a-ad17e1fe8014",
+   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:34+00:00"
+  },
+  {
+   "id": "a-3bc0eeba00f6",
+   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:23+00:00"
+  },
+  {
+   "id": "a-44e83268578c",
+   "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:27:12+00:00"
   },
   {
    "id": "a-4aceda8a4188",
@@ -291,6 +563,40 @@
    "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
    "why_it_matters": "",
    "ingested_at": "2026-11-13T14:21:11+00:00"
+  },
+  {
+   "id": "a-93e006203a8b",
+   "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:28:29+00:00"
+  },
+  {
+   "id": "a-694d3d93d94b",
+   "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T07:28:18+00:00"
   },
   {
    "id": "a-200bd15f5286",
@@ -1738,312 +2044,6 @@
    "ingested_at": "2026-11-06T19:09:15+00:00"
   },
   {
-   "id": "a-264576f3d2c1",
-   "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:09:04+00:00"
-  },
-  {
-   "id": "a-1cd81742fe11",
-   "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168725",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Although global warming is set to exceed 1.5°C, financing to help communities adapt to climate change falls far short of needs, the UN Environment Programme (UNEP) said in a report published on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:55+00:00"
-  },
-  {
-   "id": "a-b50524f3b8f2",
-   "title": "Afghan children face narrowing path to education, UN agencies report",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:45+00:00"
-  },
-  {
-   "id": "a-8e890bfb3777",
-   "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168735",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:32+00:00"
-  },
-  {
-   "id": "a-e4179c321e57",
-   "title": "Afghan children face narrowing path to education, UN agencies report",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168732",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:27+00:00"
-  },
-  {
-   "id": "a-77c0b7e8bb5e",
-   "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168725",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Although global warming is set to exceed 1.5°C, financing to help communities adapt to climate change falls far short of needs, the UN Environment Programme (UNEP) said in a report published on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:27+00:00"
-  },
-  {
-   "id": "a-a9770603da22",
-   "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168737",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:26+00:00"
-  },
-  {
-   "id": "a-5f8389ba1f42",
-   "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168736",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:26+00:00"
-  },
-  {
-   "id": "a-b332c19009ca",
-   "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168738",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:25+00:00"
-  },
-  {
-   "id": "a-6ffc7deaca40",
-   "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168741",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:23+00:00"
-  },
-  {
-   "id": "a-54cf1321b0e9",
-   "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168740",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:24:23+00:00"
-  },
-  {
-   "id": "a-0d5b7ee4aac7",
-   "title": "IAEA Report Confirms Japanese Monitoring Data of ALPS-Treated Water Prior to Discharge under Additional Measures",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-confirms-japanese-monitoring-data-of-alps-treated-water-prior-to-discharge-under-additional-measures",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-04T19:36:02+00:00"
-  },
-  {
-   "id": "a-46c3de62114a",
-   "title": "The Lise Meitner Programme Explores the Nuclear Fuel Cycle in France and IAEA HQ",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/the-lise-meitner-programme-explores-the-nuclear-fuel-cycle-in-france-and-iaea-hq",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-04T19:36:02+00:00"
-  },
-  {
-   "id": "a-9eeea507c578",
-   "title": "Subnet Solutions PowerSYSTEM Center",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x (CVE-2026-63017) ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:07+00:00"
-  },
-  {
-   "id": "a-11cc876a3d3c",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "published_date": "2026-11-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:06+00:00"
-  },
-  {
-   "id": "a-00765cbbfac1",
-   "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:27:18+00:00"
-  },
-  {
-   "id": "a-b3eaf9fb6368",
-   "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168731",
-   "published_date": "2026-11-03",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:27:07+00:00"
-  },
-  {
-   "id": "a-b784030bec54",
-   "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-   "published_date": "2026-11-03",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T01:25:12+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-16T22:07:59+00:00",
+ "updated_at": "2026-11-17T07:39:01+00:00",
  "sources_ok": "6/7"
 }
