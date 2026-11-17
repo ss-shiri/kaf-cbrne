@@ -3,6 +3,346 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-b2ecc1b86565",
+   "title": "Joint Statement: Loss of U.S. Measles Elimination Status",
+   "source_name": "CDC Newsroom",
+   "source_url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html",
+   "published_date": "2026-11-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Learn how CDC and partners plan to stop measles outbreaks and restore U.S. elimination status.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:20+00:00"
+  },
+  {
+   "id": "a-ba91c40cff93",
+   "title": "Siemens Mendix Studio Pro",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-034dc02b18b8",
+   "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-e5044354e361",
+   "title": "Siemens meta-iot2050",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-08ce3d24a7fb",
+   "title": "Siemens SIMATIC WinCC",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-3dc2edce3d4e",
+   "title": "Siemens RUGGEDCOM APE1808",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-b19ddf5ee5a7",
+   "title": "Dorsett Controls InfoScan",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-61a245596238",
+   "title": "Siemens Industrial Software Products",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-9b206ba40190",
+   "title": "Siemens Industrial Automation Software Products",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-e06debcc5857",
+   "title": "Siemens SIMATIC",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-e72579b5cf5c",
+   "title": "Siemens ROS#",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-bbbe573e4f0d",
+   "title": "Siemens Simcenter Femap",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:22:18+00:00"
+  },
+  {
+   "id": "a-d84bc3523fc8",
+   "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168824",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday. Yet turning innovation into action remains a challenge, with funding gaps ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:24+00:00"
+  },
+  {
+   "id": "a-7e2deac6d3f8",
+   "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168823",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:24+00:00"
+  },
+  {
+   "id": "a-9508b75d3ff2",
+   "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168822",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:24+00:00"
+  },
+  {
+   "id": "a-f634b97f0b6e",
+   "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168821",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:24+00:00"
+  },
+  {
+   "id": "a-de50a91d5cd8",
+   "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-zambias-infrastructure-development-for-nuclear-power",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:07+00:00"
+  },
+  {
+   "id": "a-79000d2afbea",
+   "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+   "published_date": "2026-11-16",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:43+00:00"
+  },
+  {
+   "id": "a-27304eeb9f72",
+   "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:37+00:00"
+  },
+  {
+   "id": "a-bb7a262e7546",
+   "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:32+00:00"
+  },
+  {
    "id": "a-82147ad70ca8",
    "title": "AI gets climate science right – until users push back",
    "source_name": "UN News",
@@ -206,6 +546,23 @@
    "summary": "Spain provides EUR 350,000 in voluntary funding to support OPCW’s work H.E. Ms Cecilia Robles Cartes, Permanent Representative of the Kingdom of Spain to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Kingdom of Spain contributed EUR 350,000 to the Trust Fund for Syria ...",
    "why_it_matters": "",
    "ingested_at": "2026-11-16T10:51:43+00:00"
+  },
+  {
+   "id": "a-3887d1a4f238",
+   "title": "First Person: Managing risk on Ukraine’s frontline",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+   "published_date": "2026-11-15",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-17T18:20:48+00:00"
   },
   {
    "id": "a-3828e7d050ad",
@@ -1687,363 +2044,6 @@
    "ingested_at": "2026-11-06T19:08:50+00:00"
   },
   {
-   "id": "a-03d8d092e20f",
-   "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168752",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:08:50+00:00"
-  },
-  {
-   "id": "a-91074ab3ece0",
-   "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168751",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:08:49+00:00"
-  },
-  {
-   "id": "a-8d360b02bb30",
-   "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-374-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-11-06",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:08:36+00:00"
-  },
-  {
-   "id": "a-fff56cd98578",
-   "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T10:38:03+00:00"
-  },
-  {
-   "id": "a-4b96b51a32fb",
-   "title": "Two new Ebola vaccines to join DR Congo clinical trial",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168742",
-   "published_date": "2026-11-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:10:32+00:00"
-  },
-  {
-   "id": "a-841c9964b9b1",
-   "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
-   "published_date": "2026-11-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:10:20+00:00"
-  },
-  {
-   "id": "a-9d9cf52b5c36",
-   "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
-   "published_date": "2026-11-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:10:09+00:00"
-  },
-  {
-   "id": "a-692ff34928d4",
-   "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-   "published_date": "2026-11-05",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:09:59+00:00"
-  },
-  {
-   "id": "a-dc0767fbda7e",
-   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-   "published_date": "2026-11-05",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:06+00:00"
-  },
-  {
-   "id": "a-65b402d7c247",
-   "title": "Post-Quantum Questions to Ask Your Vendors",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-   "published_date": "2026-11-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:06+00:00"
-  },
-  {
-   "id": "a-7f7426a5e4f4",
-   "title": "Two new Ebola vaccines to join DR Congo clinical trial",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168742",
-   "published_date": "2026-11-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:31+00:00"
-  },
-  {
-   "id": "a-39f8d07d9441",
-   "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168750",
-   "published_date": "2026-11-05",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:30+00:00"
-  },
-  {
-   "id": "a-c58a74634a41",
-   "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168749",
-   "published_date": "2026-11-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T01:26:30+00:00"
-  },
-  {
-   "id": "a-ace994234122",
-   "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168743",
-   "published_date": "2026-11-05",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T19:45:27+00:00"
-  },
-  {
-   "id": "a-14a9c687ff9d",
-   "title": "Impact of Heatwaves on Nuclear Power Plants",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/impact-of-heatwaves-on-nuclear-power-plants",
-   "published_date": "2026-11-05",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-05T19:45:00+00:00"
-  },
-  {
-   "id": "a-d46b4b4f6a83",
-   "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:10:53+00:00"
-  },
-  {
-   "id": "a-72601d3d511c",
-   "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:10:43+00:00"
-  },
-  {
-   "id": "a-813de4c5161e",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "published_date": "2026-11-04",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:06+00:00"
-  },
-  {
-   "id": "a-d0fccca0e768",
-   "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168736",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:09:37+00:00"
-  },
-  {
-   "id": "a-7a2826a47745",
-   "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:09:27+00:00"
-  },
-  {
-   "id": "a-583d0c8849b9",
-   "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-   "published_date": "2026-11-04",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:09:15+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-17T07:39:01+00:00",
+ "updated_at": "2026-11-17T18:31:55+00:00",
  "sources_ok": "6/7"
 }
