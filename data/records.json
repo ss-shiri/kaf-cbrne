@@ -1,7 +1,75 @@
 {
- "compiled": "2026-11-17",
+ "compiled": "2026-11-18",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-9e1bb3c814f4",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:51:55+00:00"
+  },
+  {
+   "id": "a-1994ebbcd3b9",
+   "title": "Critical Java Vulnerability Requires Immediate Patching",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+   "published_date": "2026-11-17",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:51:54+00:00"
+  },
+  {
+   "id": "a-90ecfa37a86a",
+   "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168828",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:48:05+00:00"
+  },
+  {
+   "id": "a-5551a5e95648",
+   "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168827",
+   "published_date": "2026-11-17",
+   "doc_type": "outbreak news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:48:05+00:00"
+  },
   {
    "id": "a-b2ecc1b86565",
    "title": "Joint Statement: Loss of U.S. Measles Elimination Status",
@@ -290,6 +358,40 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-17T18:20:07+00:00"
+  },
+  {
+   "id": "a-47a501231b7f",
+   "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:48:31+00:00"
+  },
+  {
+   "id": "a-4ff6ac2199d2",
+   "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T02:48:19+00:00"
   },
   {
    "id": "a-79000d2afbea",
@@ -1908,140 +2010,38 @@
    "ingested_at": "2026-11-09T22:09:24+00:00"
   },
   {
-   "id": "a-1c3a7a52f641",
-   "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+   "id": "a-8d360b02bb30",
+   "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-374-iaea-director-general-statement-on-situation-in-ukraine",
    "published_date": "2026-11-06",
-   "doc_type": "news",
+   "doc_type": "statement",
    "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-15T00:55:18+00:00"
-  },
-  {
-   "id": "a-6909591d28f3",
-   "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources cited by the UN aid coordination office (OCHA).",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-12T17:29:41+00:00"
-  },
-  {
-   "id": "a-11e51e428e26",
-   "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:09:47+00:00"
-  },
-  {
-   "id": "a-1deaab3c6c61",
-   "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:09:36+00:00"
-  },
-  {
-   "id": "a-c30ff106d735",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "published_date": "2026-11-06",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ...",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-11-08T19:31:06+00:00"
+   "ingested_at": "2026-11-18T02:47:46+00:00"
   },
   {
-   "id": "a-5ffb2ba05a68",
-   "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168758",
+   "id": "a-fff56cd98578",
+   "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
    "published_date": "2026-11-06",
    "doc_type": "news",
    "domain_tags": [
-    "Multi"
+    "Nuclear"
    ],
    "topic_tags": [],
-   "reliability": "B2",
+   "reliability": "A2",
    "needs_review": true,
-   "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.",
+   "summary": "Open the source for details.",
    "why_it_matters": "",
-   "ingested_at": "2026-11-07T00:46:52+00:00"
-  },
-  {
-   "id": "a-e09a9ca936e4",
-   "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168757",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources cited by the UN aid coordination office (OCHA).",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-07T00:46:52+00:00"
-  },
-  {
-   "id": "a-43dc255e6121",
-   "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168753",
-   "published_date": "2026-11-06",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-06T19:08:50+00:00"
+   "ingested_at": "2026-11-18T02:47:46+00:00"
   },
   {
    "id": "nuc-02",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-17T18:31:55+00:00",
+ "updated_at": "2026-11-18T03:01:55+00:00",
  "sources_ok": "6/7"
 }
