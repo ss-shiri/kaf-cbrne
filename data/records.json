@@ -3,6 +3,23 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-8bfce6439441",
+   "title": "Dozens more children killed in Yemen amid escalating hostilities",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168830",
+   "published_date": "2026-11-18",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-18T20:15:53+00:00"
+  },
+  {
    "id": "a-bca3c94a4870",
    "title": "IAEA Director General's Introductory Statement to the Board of Governors",
    "source_name": "IAEA",
@@ -2027,23 +2044,6 @@
    "ingested_at": "2026-11-09T22:09:10+00:00"
   },
   {
-   "id": "a-3d26599d339f",
-   "title": "Safeguards: Our Shared Responsibility",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/safeguards-our-shared-responsibility",
-   "published_date": "2026-11-09",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-09T22:09:10+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2227,6 +2227,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-18T11:38:22+00:00",
- "sources_ok": "6/7"
+ "updated_at": "2026-11-18T20:33:04+00:00",
+ "sources_ok": "5/7"
 }
