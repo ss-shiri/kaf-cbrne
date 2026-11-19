@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-3d93398289d8",
+   "title": "Elecbrakes EB2, VM1, ELBC2000",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+   "published_date": "2026-11-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:21:39+00:00"
+  },
+  {
+   "id": "a-2ef55f052227",
+   "title": "libumqtt",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+   "published_date": "2026-11-19",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:21:39+00:00"
+  },
+  {
+   "id": "a-d33c201eee36",
+   "title": "Autonomy Logic OpenPLC Runtime",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+   "published_date": "2026-11-19",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:21:39+00:00"
+  },
+  {
+   "id": "a-aca0aadc75e0",
+   "title": "Update 376 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-376-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-11-19",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:19:19+00:00"
+  },
+  {
+   "id": "a-1883c35b3f82",
+   "title": "IAEA and Global Partnership of Nuclear Communities Strengthen Cooperation on Local Engagement",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-and-global-partnership-of-nuclear-communities-strengthen-cooperation-on-local-engagement",
+   "published_date": "2026-11-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:19:19+00:00"
+  },
+  {
    "id": "a-92e7ec2da3e7",
    "title": "OPCW fosters young scientists committed to chemical safety, security and the peaceful uses of chemistry",
    "source_name": "OPCW",
@@ -1909,140 +1994,55 @@
    "ingested_at": "2026-11-10T06:48:55+00:00"
   },
   {
-   "id": "a-154c52489f74",
-   "title": "Nuclear Safeguards in a Changing World – 15th Symposium on International Safeguards Opens in Vienna",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/nuclear-safeguards-in-a-changing-world-15th-symposium-on-international-safeguards-opens-in-vienna",
+   "id": "a-9b5a867bbd19",
+   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
    "published_date": "2026-11-09",
-   "doc_type": "safeguards report",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:21:40+00:00"
+  },
+  {
+   "id": "a-c701cede1920",
+   "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The Security Council met in New York on Ukraine Monday. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-19T20:20:40+00:00"
+  },
+  {
+   "id": "a-1a42a6d5e8c9",
+   "title": "Seven Ways Nuclear Science and Technology Help Protect the Environment",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/seven-ways-nuclear-science-and-technology-help-protect-the-environment",
+   "published_date": "2026-11-09",
+   "doc_type": "news",
    "domain_tags": [
     "Nuclear"
    ],
    "topic_tags": [],
    "reliability": "A2",
    "needs_review": true,
-   "summary": "Open the source for details.",
+   "summary": "This week, global leaders, international organizations, scientists, business representatives and civil society are gathering in Antalya, Türkiye, for the 31st United Nations Climate Change Conference (COP31).",
    "why_it_matters": "",
-   "ingested_at": "2026-11-19T11:21:38+00:00"
-  },
-  {
-   "id": "a-3d26599d339f",
-   "title": "Safeguards: Our Shared Responsibility",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/multimedia/videos/safeguards-our-shared-responsibility",
-   "published_date": "2026-11-09",
-   "doc_type": "safeguards report",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-19T11:21:38+00:00"
-  },
-  {
-   "id": "a-a0d5d2724873",
-   "title": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-slovakia-is-committed-to-strengthening-nuclear-and-radiation-safety-regulatory-framework",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-19T11:21:38+00:00"
-  },
-  {
-   "id": "a-3e9d0d7d5e13",
-   "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia for the Moyale region in northern Kenya.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:38+00:00"
-  },
-  {
-   "id": "a-408516b2a63e",
-   "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions. With a powerful El Niño threatening to worsen extreme weather, negotiators face difficult questions over climate finance, clean ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:33+00:00"
-  },
-  {
-   "id": "a-e4a0c05834f4",
-   "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168766",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "An infant reportedly drowned and five Gazans were killed – including three children – when a sand dune collapsed on their tents as the first heavy rains swept across the enclave at the weekend, according to the UN aid coordination office (OCHA).",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:27+00:00"
-  },
-  {
-   "id": "a-fe34be420e0a",
-   "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168768",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The El Niño extreme weather pattern could cost the global economy up to $11 trillion and seriously impact food security, said the UN agency tackling rural poverty in developing countries on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:22+00:00"
-  },
-  {
-   "id": "a-3c362caca056",
-   "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168769",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "At least 56 people died in a series of shipwrecks off Senegal and Greece over the weekend, the International Organization for Migration (IOM) said on Monday, calling it a stark reminder of the deadly risks they face on the Atlantic and Mediterranean.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:16+00:00"
+   "ingested_at": "2026-11-19T20:19:20+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-19T11:32:10+00:00",
+ "updated_at": "2026-11-19T20:30:05+00:00",
  "sources_ok": "6/7"
 }
