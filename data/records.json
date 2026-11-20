@@ -3,6 +3,74 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-cf640365a8b3",
+   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-20",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-20T19:55:03+00:00"
+  },
+  {
+   "id": "a-f881e0de7f4c",
+   "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168847",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-20T19:51:13+00:00"
+  },
+  {
+   "id": "a-a79d0482acb3",
+   "title": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at the Twenty-Eighth Annual Meeting of National Authorities",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/11/closing-remarks-deputy-director-general-mekondjo-0",
+   "published_date": "2026-11-20",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at the Twenty-Eighth Annual Meeting of National Authorities kviray Fri 20/11/2026 - 17:46 Closing remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Thank you, and good afternoon, everyone, It is a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-20T19:51:02+00:00"
+  },
+  {
+   "id": "a-a1415ae8086f",
+   "title": "Germany provides EUR 1.4 million in voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/germany-provides-eur-14-million-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Germany provides EUR 1.4 million in voluntary funding to enhance OPCW’s work The Federal Republic of Germany contributed EUR 1.4 million to the Trust Fund for Syria Missions. The contribution to the Trust Fund for Syria Missions will enable the OPCW to continue its independent technical work in ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-20T19:51:02+00:00"
+  },
+  {
    "id": "a-4a4411d29cde",
    "title": "Battle to control GPS and radio signals raises civilian safety concerns",
    "source_name": "UN News",
@@ -1977,74 +2045,6 @@
    "ingested_at": "2026-11-10T16:54:36+00:00"
   },
   {
-   "id": "a-535d9cd3ede1",
-   "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168771",
-   "published_date": "2026-11-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF, said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-10T16:54:36+00:00"
-  },
-  {
-   "id": "a-2aa4b1dd8923",
-   "title": "IAEA at COP31: Nuclear for Energy Security",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/iaea-at-cop31-nuclear-for-energy-security",
-   "published_date": "2026-11-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-10T16:54:12+00:00"
-  },
-  {
-   "id": "a-eef6cf871e9a",
-   "title": "IAEA Mission says Jordan is Committed to Strengthening Radiation and Nuclear Safety Oversight",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-jordan-is-committed-to-strengthening-radiation-and-nuclear-safety-oversight",
-   "published_date": "2026-11-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-10T06:48:55+00:00"
-  },
-  {
-   "id": "a-c701cede1920",
-   "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-   "published_date": "2026-11-09",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Security Council met in New York on Ukraine Monday. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-20T11:12:31+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-20T11:24:10+00:00",
+ "updated_at": "2026-11-20T20:08:35+00:00",
  "sources_ok": "6/7"
 }
