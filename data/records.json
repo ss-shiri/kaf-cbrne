@@ -1892,6 +1892,23 @@
    "ingested_at": "2026-11-12T17:29:14+00:00"
   },
   {
+   "id": "a-7c144cb6ba2d",
+   "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-10",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-21T10:51:00+00:00"
+  },
+  {
    "id": "a-2aa4b1dd8923",
    "title": "IAEA at COP31: Nuclear for Energy Security",
    "source_name": "IAEA",
@@ -2026,23 +2043,6 @@
    "summary": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.",
    "why_it_matters": "",
    "ingested_at": "2026-11-13T21:20:42+00:00"
-  },
-  {
-   "id": "a-87aafe9469fe",
-   "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-   "published_date": "2026-11-10",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:20:36+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-21T02:15:00+00:00",
+ "updated_at": "2026-11-21T11:00:19+00:00",
  "sources_ok": "6/7"
 }
