@@ -3,6 +3,91 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-50a9826a9e9c",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-23",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T23:47:52+00:00"
+  },
+  {
+   "id": "a-56c33df34c1e",
+   "title": "Libya: UN mission urges probe into Benghazi port attacks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168857",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Support Mission in Libya (UNSMIL) has called for an independent investigation into attacks carried out at Benghazi port and off the coast of the eastern city on Sunday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T23:45:58+00:00"
+  },
+  {
+   "id": "a-3c416c5b8cb4",
+   "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168859",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T23:45:57+00:00"
+  },
+  {
+   "id": "a-06661f71bfd4",
+   "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168858",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T23:45:57+00:00"
+  },
+  {
+   "id": "a-197c68c9b886",
+   "title": "Gaza war has undone 77 years of human development, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168862",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T23:45:56+00:00"
+  },
+  {
    "id": "a-65eae477ac96",
    "title": "Conference of the States Parties to the Chemical Weapons Convention opens",
    "source_name": "OPCW",
@@ -1960,91 +2045,6 @@
    "ingested_at": "2026-11-22T19:17:18+00:00"
   },
   {
-   "id": "a-ef4806063320",
-   "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-22T19:17:18+00:00"
-  },
-  {
-   "id": "a-93e006203a8b",
-   "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:28:29+00:00"
-  },
-  {
-   "id": "a-694d3d93d94b",
-   "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:28:18+00:00"
-  },
-  {
-   "id": "a-200bd15f5286",
-   "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T00:54:13+00:00"
-  },
-  {
-   "id": "a-75ada87ae2a8",
-   "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-   "published_date": "2026-11-12",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T00:54:02+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-23T12:20:26+00:00",
+ "updated_at": "2026-11-23T23:59:27+00:00",
  "sources_ok": "6/7"
 }
