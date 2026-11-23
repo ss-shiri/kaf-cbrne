@@ -1,7 +1,24 @@
 {
- "compiled": "2026-11-22",
+ "compiled": "2026-11-23",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-582f56c1e568",
+   "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168852",
+   "published_date": "2026-11-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T01:28:57+00:00"
+  },
   {
    "id": "a-3906e5070bc8",
    "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
@@ -1824,6 +1841,40 @@
    "ingested_at": "2026-11-13T14:21:11+00:00"
   },
   {
+   "id": "a-6ddf4da7555e",
+   "title": "Siemens Desigo, Gridscale",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T01:32:55+00:00"
+  },
+  {
+   "id": "a-9b0d92b5130f",
+   "title": "Siemens Industrial Edge Management",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+   "published_date": "2026-11-12",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Explosives"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-23T01:32:55+00:00"
+  },
+  {
    "id": "a-af7da497986f",
    "title": "Siemens Building Automation and Energy Products",
    "source_name": "CISA Advisories",
@@ -1992,57 +2043,6 @@
    "summary": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.",
    "why_it_matters": "",
    "ingested_at": "2026-11-16T00:53:51+00:00"
-  },
-  {
-   "id": "a-8859da0295ee",
-   "title": "New platform aims to get money moving before disaster strikes",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T00:53:40+00:00"
-  },
-  {
-   "id": "a-dd6e1248a6cd",
-   "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168792",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:57+00:00"
-  },
-  {
-   "id": "a-742068532ea8",
-   "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168790",
-   "published_date": "2026-11-12",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:57+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2228,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-22T19:35:29+00:00",
+ "updated_at": "2026-11-23T01:49:09+00:00",
  "sources_ok": "6/7"
 }
