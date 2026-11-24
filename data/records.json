@@ -1,7 +1,25 @@
 {
- "compiled": "2026-11-23",
+ "compiled": "2026-11-24",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-6180ec860e0a",
+   "title": "Opening Statement by the Director-General to the Thirty-First Session of the Conference of the States Parties",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/opening-statement-director-general-thirty-first-session-conference-states",
+   "published_date": "2026-11-24",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Opening Statement by the Director-General to the Thirty-First Session of the Conference of the States Parties Opening Statement by OPCW Director-General Sabrina Dallafior at the Thirty-First Session of the Conference of the States Parties. (Photo: OPCW) Excellencies, distinguished delegates, good ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T09:20:06+00:00"
+  },
   {
    "id": "a-50a9826a9e9c",
    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -1943,6 +1961,57 @@
    "ingested_at": "2026-11-13T14:21:11+00:00"
   },
   {
+   "id": "a-200bd15f5286",
+   "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T09:23:01+00:00"
+  },
+  {
+   "id": "a-694d3d93d94b",
+   "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T09:22:50+00:00"
+  },
+  {
+   "id": "a-ef4806063320",
+   "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
+   "published_date": "2026-11-12",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T09:20:06+00:00"
+  },
+  {
    "id": "a-6ddf4da7555e",
    "title": "Siemens Desigo, Gridscale",
    "source_name": "CISA Advisories",
@@ -1975,74 +2044,6 @@
    "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM ...",
    "why_it_matters": "",
    "ingested_at": "2026-11-23T01:32:55+00:00"
-  },
-  {
-   "id": "a-af7da497986f",
-   "title": "Siemens Building Automation and Energy Products",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-   "published_date": "2026-11-12",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-22T19:21:26+00:00"
-  },
-  {
-   "id": "a-60a8530e1366",
-   "title": "Siemens RUGGEDCOM APE1808",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-   "published_date": "2026-11-12",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-22T19:21:26+00:00"
-  },
-  {
-   "id": "a-aaf02b53cbb8",
-   "title": "Siemens RUGGEDCOM APE1808",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-   "published_date": "2026-11-12",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-22T19:21:26+00:00"
-  },
-  {
-   "id": "a-f4867c697824",
-   "title": "IAEA Sees Commitment to Operational Safety at Unit 2 of Kori Nuclear Power Plant in Republic of Korea",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-sees-commitment-to-operational-safety-at-unit-2-of-kori-nuclear-power-plant-in-republic-of-korea",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-22T19:17:18+00:00"
   },
   {
    "id": "nuc-02",
@@ -2228,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-23T23:59:27+00:00",
+ "updated_at": "2026-11-24T09:36:14+00:00",
  "sources_ok": "6/7"
 }
