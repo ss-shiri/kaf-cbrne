@@ -3,6 +3,125 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-af90782577e6",
+   "title": "AutomationDirect C-More EA9 Programming Software",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+   "published_date": "2026-11-24",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:15:17+00:00"
+  },
+  {
+   "id": "a-71ee4705aab4",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-24",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:15:16+00:00"
+  },
+  {
+   "id": "a-e9cdc69117c8",
+   "title": "Danfoss AK-SM 8xxA Series",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+   "published_date": "2026-11-24",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:15:16+00:00"
+  },
+  {
+   "id": "a-51ea70a4b640",
+   "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+   "published_date": "2026-11-24",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:15:16+00:00"
+  },
+  {
+   "id": "a-6bd87fb2d223",
+   "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168866",
+   "published_date": "2026-11-24",
+   "doc_type": "policy",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:10:55+00:00"
+  },
+  {
+   "id": "a-51eeb8b88a31",
+   "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168864",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:10:55+00:00"
+  },
+  {
+   "id": "a-803418bc069f",
+   "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168871",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:10:54+00:00"
+  },
+  {
    "id": "a-6180ec860e0a",
    "title": "Opening Statement by the Director-General to the Thirty-First Session of the Conference of the States Parties",
    "source_name": "OPCW",
@@ -19,6 +138,23 @@
    "summary": "Opening Statement by the Director-General to the Thirty-First Session of the Conference of the States Parties Opening Statement by OPCW Director-General Sabrina Dallafior at the Thirty-First Session of the Conference of the States Parties. (Photo: OPCW) Excellencies, distinguished delegates, good ...",
    "why_it_matters": "",
    "ingested_at": "2026-11-24T09:20:06+00:00"
+  },
+  {
+   "id": "a-e4bc9889ee47",
+   "title": "Supporting Children's Health Using Nuclear Techniques",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/supporting-childrens-health-using-nuclear-techniques",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "From understanding malnutrition to strengthening medical imaging services, nuclear science and technology contribute to improving the health and well-being of children around the world.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:10:39+00:00"
   },
   {
    "id": "a-50a9826a9e9c",
@@ -123,6 +259,23 @@
    "ingested_at": "2026-11-23T12:03:26+00:00"
   },
   {
+   "id": "a-af30ac53e989",
+   "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+   "published_date": "2026-11-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:11:07+00:00"
+  },
+  {
    "id": "a-582f56c1e568",
    "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
    "source_name": "UN News",
@@ -138,6 +291,40 @@
    "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
    "why_it_matters": "",
    "ingested_at": "2026-11-23T01:28:57+00:00"
+  },
+  {
+   "id": "a-1a4453e940af",
+   "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+   "published_date": "2026-11-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:11:30+00:00"
+  },
+  {
+   "id": "a-ab135166e6bb",
+   "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+   "published_date": "2026-11-21",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:11:19+00:00"
   },
   {
    "id": "a-3906e5070bc8",
@@ -172,6 +359,40 @@
    "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
    "why_it_matters": "",
    "ingested_at": "2026-11-22T01:05:27+00:00"
+  },
+  {
+   "id": "a-28d237598225",
+   "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:11:52+00:00"
+  },
+  {
+   "id": "a-28246f6175c5",
+   "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:11:42+00:00"
   },
   {
    "id": "a-9c58036b027b",
@@ -342,6 +563,23 @@
    "summary": "Germany provides EUR 1.4 million in voluntary funding to enhance OPCW’s work The Federal Republic of Germany contributed EUR 1.4 million to the Trust Fund for Syria Missions. The contribution to the Trust Fund for Syria Missions will enable the OPCW to continue its independent technical work in ...",
    "why_it_matters": "",
    "ingested_at": "2026-11-20T19:51:02+00:00"
+  },
+  {
+   "id": "a-148b104b6084",
+   "title": "Battle to control GPS and radio signals raises civilian safety concerns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+   "published_date": "2026-11-19",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions. But these signals are increasingly being blocked or faked – and civilians are paying the price.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-24T22:12:04+00:00"
   },
   {
    "id": "a-69b8d0f52129",
@@ -1808,244 +2046,6 @@
    "ingested_at": "2026-11-17T07:27:23+00:00"
   },
   {
-   "id": "a-44e83268578c",
-   "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:12+00:00"
-  },
-  {
-   "id": "a-4aceda8a4188",
-   "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168803",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T00:53:24+00:00"
-  },
-  {
-   "id": "a-9e11664a2746",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-11-13",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:21:49+00:00"
-  },
-  {
-   "id": "a-a9d00a71a18c",
-   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168804",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:55+00:00"
-  },
-  {
-   "id": "a-a58c769369a8",
-   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168802",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:55+00:00"
-  },
-  {
-   "id": "a-f4d71bcbbb70",
-   "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168799",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:55+00:00"
-  },
-  {
-   "id": "a-f47f8d13f2c4",
-   "title": "COP31: New initiative targets AI and reliable climate change information",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168798",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:55+00:00"
-  },
-  {
-   "id": "a-b6420b47bca4",
-   "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-japans-mihama-nuclear-power-plant",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T21:19:38+00:00"
-  },
-  {
-   "id": "a-950edb152ced",
-   "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168797",
-   "published_date": "2026-11-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-13T14:21:11+00:00"
-  },
-  {
-   "id": "a-200bd15f5286",
-   "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-24T09:23:01+00:00"
-  },
-  {
-   "id": "a-694d3d93d94b",
-   "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-24T09:22:50+00:00"
-  },
-  {
-   "id": "a-ef4806063320",
-   "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
-   "published_date": "2026-11-12",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-24T09:20:06+00:00"
-  },
-  {
-   "id": "a-6ddf4da7555e",
-   "title": "Siemens Desigo, Gridscale",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-   "published_date": "2026-11-12",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-23T01:32:55+00:00"
-  },
-  {
-   "id": "a-9b0d92b5130f",
-   "title": "Siemens Industrial Edge Management",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-   "published_date": "2026-11-12",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Explosives"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-23T01:32:55+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-24T09:36:14+00:00",
+ "updated_at": "2026-11-24T22:27:42+00:00",
  "sources_ok": "6/7"
 }
