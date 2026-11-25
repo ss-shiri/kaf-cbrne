@@ -1,5 +1,5 @@
 {
- "compiled": "2026-11-24",
+ "compiled": "2026-11-25",
  "source": "curated + auto",
  "records": [
   {
@@ -1961,6 +1961,40 @@
    "ingested_at": "2026-11-14T13:16:36+00:00"
   },
   {
+   "id": "a-9e11664a2746",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-13",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T07:58:10+00:00"
+  },
+  {
+   "id": "a-b6420b47bca4",
+   "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-japans-mihama-nuclear-power-plant",
+   "published_date": "2026-11-13",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T07:53:49+00:00"
+  },
+  {
    "id": "a-b7001a125925",
    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
    "source_name": "UN News",
@@ -2010,40 +2044,6 @@
    "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
    "why_it_matters": "",
    "ingested_at": "2026-11-17T07:27:45+00:00"
-  },
-  {
-   "id": "a-ad17e1fe8014",
-   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:34+00:00"
-  },
-  {
-   "id": "a-3bc0eeba00f6",
-   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:23+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-24T22:27:42+00:00",
+ "updated_at": "2026-11-25T08:12:22+00:00",
  "sources_ok": "6/7"
 }
