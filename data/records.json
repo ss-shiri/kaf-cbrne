@@ -3,6 +3,211 @@
  "source": "curated + auto",
  "records": [
   {
+   "id": "a-a3ade54216c8",
+   "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168872",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:42+00:00"
+  },
+  {
+   "id": "a-e0f875281a36",
+   "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168875",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:41+00:00"
+  },
+  {
+   "id": "a-fbf2dcaa8b34",
+   "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168876",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:41+00:00"
+  },
+  {
+   "id": "a-68ff840ca6cc",
+   "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168874",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:41+00:00"
+  },
+  {
+   "id": "a-2f514ee2dcae",
+   "title": "OPCW takes key step towards designation of laboratories for biotoxin analysis",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/opcw-takes-key-step-towards-designation-laboratories-biotoxin-analysis",
+   "published_date": "2026-11-25",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW takes key step towards designation of laboratories for biotoxin analysis The OPCW Conference of the States Parties adopted a decision on the designation of laboratories capable of analysing authentic samples for the presence of biotoxins, as well as guidelines for conducting the relevant ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:19+00:00"
+  },
+  {
+   "id": "a-4410cccf779d",
+   "title": "OPCW honours victims of chemical weapons at Conference of the States Parties",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/opcw-honours-victims-chemical-weapons-conference-states-parties",
+   "published_date": "2026-11-25",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "OPCW honours victims of chemical weapons at Conference of the States Parties A wreath-laying ceremony and a minute of silence invited participants to reflect on those who have lost their lives or continue to suffer the consequences of chemical weapons use. (Photo: OPCW) THE HAGUE, Netherlands, 25 ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:19+00:00"
+  },
+  {
+   "id": "a-b0a1fab058a4",
+   "title": "IAEA Publications: Nuclear Knowledge at Your Fingertips",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/news/iaea-publications-nuclear-knowledge-at-your-fingertips",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:18+00:00"
+  },
+  {
+   "id": "a-15880efa0cf2",
+   "title": "Five women killed every hour by partners or family members",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Some 47,000 women and girls were killed by intimate partners or family members in 2025 – five every hour – according to new UN figures published on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:04:06+00:00"
+  },
+  {
+   "id": "a-93099e40c736",
+   "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:54+00:00"
+  },
+  {
+   "id": "a-a97489c318f8",
+   "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168868",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:43+00:00"
+  },
+  {
+   "id": "a-00f0b08fe3fa",
+   "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168865",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:43+00:00"
+  },
+  {
+   "id": "a-1447efc81e2a",
+   "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168869",
+   "published_date": "2026-11-24",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency devoted to ending the pandemic warned Tuesday in a new report.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:03:42+00:00"
+  },
+  {
    "id": "a-af90782577e6",
    "title": "AutomationDirect C-More EA9 Programming Software",
    "source_name": "CISA Advisories",
@@ -140,6 +345,91 @@
    "ingested_at": "2026-11-24T09:20:06+00:00"
   },
   {
+   "id": "a-560d17104495",
+   "title": "Libya: UN mission urges probe into Benghazi port attacks",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN Support Mission in Libya (UNSMIL) has called for an independent investigation into attacks carried out at Benghazi port and off the coast of the eastern city on Sunday.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:05:02+00:00"
+  },
+  {
+   "id": "a-adad04398c7c",
+   "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Biological"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:04:51+00:00"
+  },
+  {
+   "id": "a-105d9547df21",
+   "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:04:39+00:00"
+  },
+  {
+   "id": "a-594602aa3d2e",
+   "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:04:28+00:00"
+  },
+  {
+   "id": "a-d8c6218cc64c",
+   "title": "Gaza war has undone 77 years of human development, UN warns",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+   "published_date": "2026-11-23",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:04:17+00:00"
+  },
+  {
    "id": "a-e4bc9889ee47",
    "title": "Supporting Children's Health Using Nuclear Techniques",
    "source_name": "IAEA",
@@ -259,6 +549,40 @@
    "ingested_at": "2026-11-23T12:03:26+00:00"
   },
   {
+   "id": "a-5dca06411abc",
+   "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+   "published_date": "2026-11-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:05:36+00:00"
+  },
+  {
+   "id": "a-062b99630225",
+   "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+   "published_date": "2026-11-22",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:05:14+00:00"
+  },
+  {
    "id": "a-af30ac53e989",
    "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
    "source_name": "UN News",
@@ -359,6 +683,91 @@
    "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
    "why_it_matters": "",
    "ingested_at": "2026-11-22T01:05:27+00:00"
+  },
+  {
+   "id": "a-4ca5f0408ad5",
+   "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Aid and development agencies in Afghanistan warned on Friday of an escalating “assault” on the rights and freedoms of women and girls that is preventing growing numbers from accessing vital medical care.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:07:15+00:00"
+  },
+  {
+   "id": "a-ab65e8131104",
+   "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:07:04+00:00"
+  },
+  {
+   "id": "a-d1cb7a23f097",
+   "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and another global food crisis looms.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:06:53+00:00"
+  },
+  {
+   "id": "a-4c264f3d3537",
+   "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:06:20+00:00"
+  },
+  {
+   "id": "a-8badd65ca927",
+   "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+   "published_date": "2026-11-20",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-25T19:06:08+00:00"
   },
   {
    "id": "a-28d237598225",
@@ -1637,415 +2046,6 @@
    "ingested_at": "2026-11-17T07:26:27+00:00"
   },
   {
-   "id": "a-c3eb5fa716f7",
-   "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168812",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:27+00:00"
-  },
-  {
-   "id": "a-97345ae4dc3e",
-   "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168811",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:27+00:00"
-  },
-  {
-   "id": "a-13bf6e98dde8",
-   "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168820",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:26+00:00"
-  },
-  {
-   "id": "a-44c900177d40",
-   "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168819",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:26+00:00"
-  },
-  {
-   "id": "a-33adae2973de",
-   "title": "Lebanon leading the way in mental health support",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168818",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:26+00:00"
-  },
-  {
-   "id": "a-bba2bf8b25cb",
-   "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168814",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Explosives"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T21:51:29+00:00"
-  },
-  {
-   "id": "a-2eeeab6f7756",
-   "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168810",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T21:51:29+00:00"
-  },
-  {
-   "id": "a-7994c2a86d53",
-   "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168809",
-   "published_date": "2026-11-16",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T21:51:29+00:00"
-  },
-  {
-   "id": "a-f8696c27fcd7",
-   "title": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/11/finland-provides-eur-50000-voluntary-funding-enhance-opcws-work",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear",
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work H.E. Mr Mikael Antell, Permanent Representative of the Republic of Finland to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Republic of Finland contributed EUR 50,000 to the Trust Fund for the ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T21:50:58+00:00"
-  },
-  {
-   "id": "a-58cd20f9edf7",
-   "title": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/11/closing-remarks-deputy-director-general-mekondjo-kaapanda",
-   "published_date": "2026-11-16",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW kviray Mon 16/11/2026 - 12:49 Closing remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Dear Excellencies, Distinguished delegates, It ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T21:50:58+00:00"
-  },
-  {
-   "id": "a-b1e305dbfc9e",
-   "title": "Spain provides EUR 350,000 in voluntary funding to support OPCW’s work",
-   "source_name": "OPCW",
-   "source_url": "https://www.opcw.org/media-centre/news/2026/11/spain-provides-eur-350000-voluntary-funding-support-opcws-work",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Chemical"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Spain provides EUR 350,000 in voluntary funding to support OPCW’s work H.E. Ms Cecilia Robles Cartes, Permanent Representative of the Kingdom of Spain to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Kingdom of Spain contributed EUR 350,000 to the Trust Fund for Syria ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T10:51:43+00:00"
-  },
-  {
-   "id": "a-3887d1a4f238",
-   "title": "First Person: Managing risk on Ukraine’s frontline",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
-   "published_date": "2026-11-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:48+00:00"
-  },
-  {
-   "id": "a-3828e7d050ad",
-   "title": "Nadia Murad: ‘Day by day, I took my story back’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
-   "published_date": "2026-11-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:50+00:00"
-  },
-  {
-   "id": "a-f28f518eaac5",
-   "title": "Empowering faith and Indigenous leaders to combat hate",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
-   "published_date": "2026-11-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:39+00:00"
-  },
-  {
-   "id": "a-07984c89ff95",
-   "title": "First Person: Managing risk on Ukraine’s frontline",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168807",
-   "published_date": "2026-11-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:28+00:00"
-  },
-  {
-   "id": "a-4ebd5de96f3c",
-   "title": "Nadia Murad: ‘Day by day, I took my story back’",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168801",
-   "published_date": "2026-11-15",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-15T18:41:27+00:00"
-  },
-  {
-   "id": "a-e8e012057f40",
-   "title": "When the rains fail: Preparing for drought in Central America",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
-   "published_date": "2026-11-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:01+00:00"
-  },
-  {
-   "id": "a-16a78eb8270a",
-   "title": "When the rains fail: Preparing for drought in Central America",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168776",
-   "published_date": "2026-11-14",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-16T00:53:24+00:00"
-  },
-  {
-   "id": "a-ebfee1fa9e52",
-   "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-375-iaea-director-general-statement-on-situation-in-ukraine",
-   "published_date": "2026-11-14",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-14T13:16:36+00:00"
-  },
-  {
-   "id": "a-9e11664a2746",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "published_date": "2026-11-13",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-25T07:58:10+00:00"
-  },
-  {
-   "id": "a-b6420b47bca4",
-   "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
-   "source_name": "IAEA",
-   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-japans-mihama-nuclear-power-plant",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Nuclear"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "Open the source for details.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-25T07:53:49+00:00"
-  },
-  {
-   "id": "a-b7001a125925",
-   "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-   "published_date": "2026-11-13",
-   "doc_type": "outbreak news",
-   "domain_tags": [
-    "Biological"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:28:07+00:00"
-  },
-  {
-   "id": "a-98ef7356fa15",
-   "title": "COP31: New initiative targets AI and reliable climate change information",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:56+00:00"
-  },
-  {
-   "id": "a-c655b64f8185",
-   "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-   "published_date": "2026-11-13",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:27:45+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-25T08:12:22+00:00",
+ "updated_at": "2026-11-25T19:21:28+00:00",
  "sources_ok": "6/7"
 }
