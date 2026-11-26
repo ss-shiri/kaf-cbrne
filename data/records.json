@@ -1,7 +1,41 @@
 {
- "compiled": "2026-11-25",
+ "compiled": "2026-11-26",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-45543530ccf8",
+   "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-25",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-26T03:31:03+00:00"
+  },
+  {
+   "id": "a-e12c42aa9f05",
+   "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168879",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-26T03:27:11+00:00"
+  },
   {
    "id": "a-a3ade54216c8",
    "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
@@ -1876,6 +1910,41 @@
    "ingested_at": "2026-11-17T18:20:07+00:00"
   },
   {
+   "id": "a-f8696c27fcd7",
+   "title": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/news/2026/11/finland-provides-eur-50000-voluntary-funding-enhance-opcws-work",
+   "published_date": "2026-11-16",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear",
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Finland provides EUR 50,000 in voluntary funding to enhance OPCW’s work H.E. Mr Mikael Antell, Permanent Representative of the Republic of Finland to the OPCW, and Sabrina Dallafior, OPCW Director-General. (Photo: OPCW) The Republic of Finland contributed EUR 50,000 to the Trust Fund for the ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-26T03:26:30+00:00"
+  },
+  {
+   "id": "a-58cd20f9edf7",
+   "title": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW",
+   "source_name": "OPCW",
+   "source_url": "https://www.opcw.org/media-centre/speeches-statements/2026/11/closing-remarks-deputy-director-general-mekondjo-kaapanda",
+   "published_date": "2026-11-16",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Chemical"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Closing Remarks by Deputy Director-General Mekondjo Kaapanda-Girnus at Briefing for Non-Hague based Permanent Representations to the OPCW kviray Mon 16/11/2026 - 12:49 Closing remarks by the Deputy Director-General of the OPCW, Mekondjo Kaapanda-Girnus Dear Excellencies, Distinguished delegates, It ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-26T03:26:30+00:00"
+  },
+  {
    "id": "a-b05240851638",
    "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
    "source_name": "UN News",
@@ -1976,74 +2045,6 @@
    "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
    "why_it_matters": "",
    "ingested_at": "2026-11-18T02:48:19+00:00"
-  },
-  {
-   "id": "a-79000d2afbea",
-   "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
-   "published_date": "2026-11-16",
-   "doc_type": "statement",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:43+00:00"
-  },
-  {
-   "id": "a-27304eeb9f72",
-   "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:37+00:00"
-  },
-  {
-   "id": "a-bb7a262e7546",
-   "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:32+00:00"
-  },
-  {
-   "id": "a-82147ad70ca8",
-   "title": "AI gets climate science right – until users push back",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168817",
-   "published_date": "2026-11-16",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T07:26:27+00:00"
   },
   {
    "id": "nuc-02",
@@ -2229,6 +2230,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-25T19:21:28+00:00",
+ "updated_at": "2026-11-26T03:44:11+00:00",
  "sources_ok": "6/7"
 }
