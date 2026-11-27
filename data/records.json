@@ -1,7 +1,24 @@
 {
- "compiled": "2026-11-26",
+ "compiled": "2026-11-27",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-d546e750f724",
+   "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/update-377-iaea-director-general-statement-on-situation-in-ukraine",
+   "published_date": "2026-11-26",
+   "doc_type": "statement",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-27T01:36:00+00:00"
+  },
   {
    "id": "a-79aab2405404",
    "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
@@ -1604,6 +1621,23 @@
    "ingested_at": "2026-11-18T11:23:44+00:00"
   },
   {
+   "id": "a-de50a91d5cd8",
+   "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+   "source_name": "IAEA",
+   "source_url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-zambias-infrastructure-development-for-nuclear-power",
+   "published_date": "2026-11-17",
+   "doc_type": "news",
+   "domain_tags": [
+    "Nuclear"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "Open the source for details.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-27T01:36:00+00:00"
+  },
+  {
    "id": "a-ee51aa7bd2ca",
    "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
    "source_name": "UN News",
@@ -2012,40 +2046,6 @@
    "ingested_at": "2026-11-17T18:20:24+00:00"
   },
   {
-   "id": "a-7e2deac6d3f8",
-   "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168823",
-   "published_date": "2026-11-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:24+00:00"
-  },
-  {
-   "id": "a-9508b75d3ff2",
-   "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168822",
-   "published_date": "2026-11-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:24+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-26T16:58:38+00:00",
+ "updated_at": "2026-11-27T01:57:39+00:00",
  "sources_ok": "6/7"
 }
