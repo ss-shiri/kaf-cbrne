@@ -1,7 +1,58 @@
 {
- "compiled": "2026-11-27",
+ "compiled": "2026-11-28",
  "source": "curated + auto",
  "records": [
+  {
+   "id": "a-d54bdc7db7f4",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "source_name": "CISA Advisories",
+   "source_url": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "published_date": "2026-11-27",
+   "doc_type": "advisory",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "A2",
+   "needs_review": true,
+   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability CVE-2026-136716 Drupal Core ...",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-28T03:14:52+00:00"
+  },
+  {
+   "id": "a-c646a3236061",
+   "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168888",
+   "published_date": "2026-11-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-28T03:11:05+00:00"
+  },
+  {
+   "id": "a-4f92f181444c",
+   "title": "Putting survivors at the centre of gender-based violence services",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/11/1168885",
+   "published_date": "2026-11-27",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-28T03:11:05+00:00"
+  },
   {
    "id": "a-d546e750f724",
    "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
@@ -86,6 +137,23 @@
    "summary": "Open the source for details.",
    "why_it_matters": "",
    "ingested_at": "2026-11-26T16:40:20+00:00"
+  },
+  {
+   "id": "a-88d8ae0747ac",
+   "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+   "published_date": "2026-11-25",
+   "doc_type": "news",
+   "domain_tags": [
+    "Multi"
+   ],
+   "topic_tags": [],
+   "reliability": "B2",
+   "needs_review": true,
+   "summary": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
+   "why_it_matters": "",
+   "ingested_at": "2026-11-28T03:11:19+00:00"
   },
   {
    "id": "a-cdb41ff46fcf",
@@ -1978,74 +2046,6 @@
    "ingested_at": "2026-11-17T18:22:18+00:00"
   },
   {
-   "id": "a-e06debcc5857",
-   "title": "Siemens SIMATIC",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
-   "published_date": "2026-11-17",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:22:18+00:00"
-  },
-  {
-   "id": "a-e72579b5cf5c",
-   "title": "Siemens ROS#",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-   "published_date": "2026-11-17",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:22:18+00:00"
-  },
-  {
-   "id": "a-bbbe573e4f0d",
-   "title": "Siemens Simcenter Femap",
-   "source_name": "CISA Advisories",
-   "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-   "published_date": "2026-11-17",
-   "doc_type": "advisory",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "A2",
-   "needs_review": true,
-   "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:22:18+00:00"
-  },
-  {
-   "id": "a-d84bc3523fc8",
-   "title": "COP31: The push to protect warming oceans reaches the negotiating table",
-   "source_name": "UN News",
-   "source_url": "https://news.un.org/en/story/2026/11/1168824",
-   "published_date": "2026-11-17",
-   "doc_type": "news",
-   "domain_tags": [
-    "Multi"
-   ],
-   "topic_tags": [],
-   "reliability": "B2",
-   "needs_review": true,
-   "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday. Yet turning innovation into action remains a challenge, with funding gaps ...",
-   "why_it_matters": "",
-   "ingested_at": "2026-11-17T18:20:24+00:00"
-  },
-  {
    "id": "nuc-02",
    "title": "IAEA chief says interim understanding reopens a path for inspections",
    "source_name": "IAEA DG",
@@ -2229,6 +2229,6 @@
   }
  ],
  "schema_version": "2.0",
- "updated_at": "2026-11-27T12:08:57+00:00",
+ "updated_at": "2026-11-28T03:31:05+00:00",
  "sources_ok": "6/7"
 }
